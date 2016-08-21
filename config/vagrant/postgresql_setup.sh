@@ -3,11 +3,10 @@
 echo "=== Begin Vagrant Provisioning using 'config/vagrant/postgresql_setup.sh'"
 
 # Edit the following to change the name of the database user that will be created:
-APP_DB_USER=postgres_db
-APP_DB_PASS=$APP_DB_USER
+APP_DB_USER=vagrant
 
 # Edit the following to change the name of the database that is created (defaults to the user name)
-# APP_DB_NAME=${APP_DB_USER}_unused
+APP_DB_NAME=ramallama
 
 # Edit the following to change the version of PostgreSQL that is installed
 PG_VERSION=9.4
@@ -19,9 +18,8 @@ print_db_usage () {
   echo "Your PostgreSQL database has been setup and can be accessed on your local machine on the forwarded port (default: 15432)"
   echo "  Host: localhost"
   echo "  Port: 15432"
-  echo "  Database: <DATABASE_NAME>"
+  echo "  Database: $APP_DB_NAME"
   echo "  Username: $APP_DB_USER"
-  echo "  Password: $APP_DB_PASS"
   echo ""
   echo "Admin access to postgres user via VM:"
   echo "  vagrant ssh"
@@ -30,13 +28,13 @@ print_db_usage () {
   echo "psql access to app database user via VM:"
   echo "  vagrant ssh"
   echo "  sudo su - postgres"
-  echo "  PGUSER=$APP_DB_USER PGPASSWORD=$APP_DB_PASS psql -h localhost <DATABASE_NAME>"
+  echo "  PGUSER=$APP_DB_USER  psql -h localhost $APP_DB_NAME"
   echo ""
   echo "Env variable for application development:"
-  echo "  DATABASE_URL=postgresql://$APP_DB_USER:$APP_DB_PASS@localhost:15432/<DATABASE_NAME>"
+  echo "  DATABASE_URL=postgresql://$APP_DB_USER@localhost:15432/$APP_DB_NAME"
   echo ""
   echo "Local command to access the database via psql:"
-  echo "  PGUSER=$APP_DB_USER PGPASSWORD=$APP_DB_PASS psql -h localhost -p 15432 <DATABASE_NAME>"
+  echo "  PGUSER=$APP_DB_USER psql -h localhost -p 15432 $APP_DB_NAME"
 }
 
 export DEBIAN_FRONTEND=noninteractive
@@ -76,7 +74,7 @@ PG_DIR="/var/lib/postgresql/$PG_VERSION/main"
 sed -i "s/#listen_addresses = 'localhost'/listen_addresses = '*'/" "$PG_CONF"
 
 # Append to pg_hba.conf to add password auth:
-echo "host    all             all             all                     md5" >> "$PG_HBA"
+sed -i  "s/local   all             all                                     peer/local   all             all                                     trust/" "$PG_HBA"
 
 # Explicitly set default client_encoding
 echo "client_encoding = utf8" >> "$PG_CONF"
@@ -84,19 +82,20 @@ echo "client_encoding = utf8" >> "$PG_CONF"
 # Restart so that all new config is loaded:
 service postgresql restart
 
-cat << EOF | su - postgres -c psql
--- Create the database user:
-CREATE USER $APP_DB_USER PASSWORD '$APP_DB_PASS' CREATEDB;
+echo "su - postgres; createuser --createdb --login --no-password $APP_DB_USER"
+cat << EOF | su - postgres
+# Create the user:
+createuser --createdb --login --no-password $APP_DB_USER
 EOF
 
-# cat << EOF | su - postgres -c psql
-# -- Create the database:
-# CREATE DATABASE $APP_DB_NAME WITH OWNER=$APP_DB_USER
-#                                   LC_COLLATE='en_US.utf8'
-#                                   LC_CTYPE='en_US.utf8'
-#                                   ENCODING='UTF8'
-#                                   TEMPLATE=template0;
-# EOF
+cat << EOF | su - postgres -c psql
+-- Create the database:
+CREATE DATABASE $APP_DB_NAME WITH OWNER=$APP_DB_USER
+                                  LC_COLLATE='en_US.utf8'
+                                  LC_CTYPE='en_US.utf8'
+                                  ENCODING='UTF8'
+                                  TEMPLATE=template0;
+EOF
 
 # Tag the provision time:
 date > "$PROVISIONED_ON"
