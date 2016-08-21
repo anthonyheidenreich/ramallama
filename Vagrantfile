@@ -21,14 +21,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.vm.synced_folder(
     '.',
-    '/vagrant',
-    type: 'rsync',
-    rsync__exclude: [
-      '.git/',
-      '.vagrant/',
-      'log/*',
-      'tmp/'
-    ]
+    '/vagrant'
   )
 
   config.vm.provision :shell, path: 'config/vagrant/build_dependency_setup.sh'

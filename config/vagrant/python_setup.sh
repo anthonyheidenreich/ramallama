@@ -2,17 +2,20 @@
 
 echo "=== Begin Vagrant Provisioning using 'config/vagrant/python_setup.sh'"
 PYTHON_VERSION='3.5.2'
-apt-get -y update
-apt-get -y python3.5 python3-pip
+
+sudo add-apt-repository ppa:fkrull/deadsnakes
+sudo apt-get -y update
+sudo apt-get install -y python3.5 python3.5-dev python3-pip
 
 cd ~
 
 sudo pip3 install --upgrade pip
 sudo pip3 install virtualenv
 
-virtualenv venv
+
+virtualenv -p /usr/bin/python3.5 venv
 . venv/bin/activate
 
-pip3 install -r requirements.txt
+pip3 install -r /vagrant/requirements.txt
 
 deactivate
