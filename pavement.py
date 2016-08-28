@@ -20,7 +20,7 @@ def migrate():
 @task
 @virtualenv(dir=venv)
 def run():
-    sh('python ramallama/manage.py runserver')
+    sh('python ramallama/manage.py runserver 8000')
 
 
 @task

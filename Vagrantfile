@@ -25,6 +25,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   )
 
   config.vm.provision :shell, path: 'config/vagrant/build_dependency_setup.sh'
+  config.vm.provision :shell, path: 'config/vagrant/nginx_setup.sh'
   # config.vm.provision :shell, path: 'config/vagrant/imagemagick_setup.sh'
   config.vm.provision :shell, path: 'config/vagrant/git_setup.sh'
   # config.vm.provision :shell, path: 'config/vagrant/nodejs_setup.sh'
