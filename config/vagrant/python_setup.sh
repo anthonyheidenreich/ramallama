@@ -10,8 +10,9 @@ sudo apt-get install -y python3.5 python3.5-dev python3-pip
 cd ~
 
 sudo pip3 install --upgrade pip
-sudo pip3 install virtualenv
+sudo pip3 install virtualenv, paver
 
+echo "VENV=/home/vagrant/venv" >> ~/.pam_environment
 
 virtualenv -p /usr/bin/python3.5 venv
 . venv/bin/activate

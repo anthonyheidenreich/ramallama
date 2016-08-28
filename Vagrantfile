@@ -31,6 +31,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # config.vm.provision :shell, path: 'config/vagrant/phantomjs_setup.sh'
   config.vm.provision :shell, path: 'config/vagrant/postgresql_setup.sh'
   config.vm.provision :shell, path: 'config/vagrant/python_setup.sh', privileged: false
+
   # config.vm.provision :shell, path: 'config/vagrant/rbenv_setup.sh', privileged: false
 
   # PostgreSQL Server port forwarding

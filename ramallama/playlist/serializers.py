@@ -7,10 +7,12 @@ class PlaylistSerializer(serializers.ModelSerializer):
         model = Playlist
         fields = ('name', 'external_id', 'source', 'created_on', 'updated_on')
 
+
 class SongSerializer(serializers.ModelSerializer):
     class Meta:
         model = Song
         fields = ('title', 'artist', 'year', 'playlists', 'created_on', 'updated_on')
+
 
 class SongSourceSerializer(serializers.ModelSerializer):
     class Meta:
