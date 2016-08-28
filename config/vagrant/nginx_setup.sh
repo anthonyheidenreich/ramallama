@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-basedir = `dirname $0`
+basedir="$( cd "$( dirname "$0" )" && pwd )"
+
 echo "copy nginx config into place"
 echo "$basedir/nginx.conf /etc/nginx/sites-enabled/default"
 cp $basedir/nginx.conf /etc/nginx/sites-enabled/default
