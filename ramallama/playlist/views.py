@@ -1,12 +1,16 @@
-from django.shortcuts import render
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from playlist.models import Playlist
 from playlist.serializers import PlaylistSerializer
+<<<<<<< HEAD
+=======
+
+>>>>>>> 35ca81465c3be8d2371c87c45a432fa92cffe349
 
 class JSONResponse(HttpResponse):
+
     """
     An HttpResponse that renders its content into JSON.
     """
@@ -14,11 +18,12 @@ class JSONResponse(HttpResponse):
         """
         takes data as a dict
         converts from dict to json
-        returns an HTTP response 
+        returns an HTTP response
         """
         json = JSONRenderer().render(data)
         kwargs['content_type'] = 'application/json'
         super(JSONResponse, self).__init__(json, **kwargs)
+
 
 @csrf_exempt
 def playlist_list(request):
@@ -42,7 +47,7 @@ def playlist_list(request):
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
 
-    return JSONResponse({"msg":request.method}, status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
 
 @csrf_exempt
 def playlist_detail(request, primary_key):
@@ -73,8 +78,3 @@ def playlist_detail(request, primary_key):
         playlist.delete()
         # 204 no content!
         return HttpResponse(status=204)
-
-
-
-
-
