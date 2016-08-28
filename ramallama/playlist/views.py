@@ -4,7 +4,7 @@ from django.views.decorators.csrf import csrf_exempt
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from playlist.models import Playlist
-from playilst.serializers import PlaylistSerializer
+from playlist.serializers import PlaylistSerializer
 
 class JSONResponse(HttpResponse):
     """
@@ -30,7 +30,6 @@ def playlist_list(request):
         # retreive all playlists from database
         playlists = Playlist.objects.all()
         serializer = PlaylistSerializer(playlists, many=True)
-        # 
         return JSONResponse(serializer.data, status=200)
 
     # POST /playlists -> create a playlist
@@ -42,6 +41,8 @@ def playlist_list(request):
             # 201 created!
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
+
+    return JSONResponse({"msg":request.method}, status=204)
 
 @csrf_exempt
 def playlist_detail(request, primary_key):

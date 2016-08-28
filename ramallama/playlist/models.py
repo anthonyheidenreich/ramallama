@@ -21,6 +21,7 @@ class Playlist(models.Model):
 
 class Song(models.Model):
     title = models.CharField(max_length=200)
+    # optional
     year = models.CharField(max_length=10, blank=True)
     playlists = models.ManyToManyField(Playlist)
     created_on = models.DateTimeField(auto_now_add=True)
@@ -36,6 +37,7 @@ class Song(models.Model):
 class SongSource(models.Model):
     source = models.CharField(choices=SOURCE_CHOICES, max_length=20)
     external_id = models.CharField(max_length=100)
+    # optional
     preview_url = models.CharField(max_length=200, blank=True)
     created_on = models.DateTimeField(auto_now_add=True)
     updated_on = models.DateTimeField(auto_now=True)
