@@ -1,0 +1,629 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242558506/playlists/2gwA3NKcdV7w8v7RvuZ6vu/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5zeCSgiRyezbfLiGOpKAsR",
+            "artist_name": "Tyrone Wells",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/35de72a988fdc59d7e783db5d1b452e5542dcbc6",
+            "track_id": "0Dvbadi2mjJiIxtn0kyGuF",
+            "track_name": "O Come All Ye Faithful"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/020a72ba4632be13ac175f9c497a2d4e637fafb5",
+            "track_id": "5e85pW43RjMxgyaP8YyjOh",
+            "track_name": "O Come, O Come Emmanuel"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/ddc0b6f2e66dbc01c8f2bc0bd7e2c1a2c70ecc09",
+            "track_id": "1PzwL45QlQxe5gB53hxMt2",
+            "track_name": "God With Us"
+        },
+        {
+            "artist_id": "32WkQRZEVKSzVAAYqukAEA",
+            "artist_name": "Lady Antebellum",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/adccb10be59518359fd85492b34e1841a04ff12d",
+            "track_id": "4Lbcam6lYt4iMKZikfeIJZ",
+            "track_name": "The First Noel"
+        },
+        {
+            "artist_id": "32WkQRZEVKSzVAAYqukAEA",
+            "artist_name": "Lady Antebellum",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f81d29ec83c6f306e57454215d6f5039943b2df",
+            "track_id": "0QWQf7L1z9pUaaFXrKbkHT",
+            "track_name": "Silent Night (Lord Of My Life)"
+        },
+        {
+            "artist_id": "7uWXomGkKtIq9B4XgA3gch",
+            "artist_name": "Third Day",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/05cc5f441b9e7a872f98d85b364621c9ae42a871",
+            "track_id": "7stpQXxdxxrnA1X7dP1O9m",
+            "track_name": "Angels We Have Heard On High"
+        },
+        {
+            "artist_id": "7uWXomGkKtIq9B4XgA3gch",
+            "artist_name": "Third Day",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ae2d75e3b6a182f99604f970cfeffe760b1fbf4",
+            "track_id": "3fMwYhm0riw0TopzLPMUzK",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "6cXMpsP9x0SH4kFfMyVezF",
+            "artist_name": "Josh Groban",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/6473df8f6ea272387ead0e64d1455a6b32256865",
+            "track_id": "0Znrkkl2NYC2AEbgEbENSO",
+            "track_name": "Little Drummer Boy (feat. guitarist Andy McKee)"
+        },
+        {
+            "artist_id": "6cXMpsP9x0SH4kFfMyVezF",
+            "artist_name": "Josh Groban",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a99134d80f1f67c0c6e6dd092368ecfb5183088",
+            "track_id": "7grcyKyYbHzb81Y1dGkh8y",
+            "track_name": "Ave Maria"
+        },
+        {
+            "artist_id": "3trsSEaKM3UM2R9RBJwdtJ",
+            "artist_name": "Charles Brown",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/691e8c83ebe86e839ea4e926775ccf0e9abfcced",
+            "track_id": "4pHRyFLUtG3zt4J7sNqnuB",
+            "track_name": "Please Come Home For Christmas"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/714283d7fa2e2a05cbb2231ab11d92f7bd3bf5bc",
+            "track_id": "2OggiWqL8exckT6kOrcDuA",
+            "track_name": "Joy to the World"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/302bc8457316904034a6b8d8a869e82f8182869b",
+            "track_id": "74VQqRHWXDUyErPqwdeG5D",
+            "track_name": "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/100f0391780f92844f6f1a3260c7b4260b091912",
+            "track_id": "63zfmZPW9bkYK1fF4bZUTs",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/122c50fb99af75daaec22a213fa479473cc806c0",
+            "track_id": "2mTtNTa2fnj9m4uyBbKPDr",
+            "track_name": "Please Come Home for Christmas (Bells Will Be Ringing)"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9669f84f7a68a337108118e712948a8392576b6",
+            "track_id": "2hTgSVcdbDZoHrFL99sODv",
+            "track_name": "Blue Christmas"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b854371334393531952610ae17c4b3c1594ca1e",
+            "track_id": "1FkfPShKw6e2WHe3ZsYEbk",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/cefb87d8c02aaef1f313f3531502d9f4fa188334",
+            "track_id": "6jwuR8NmVaAAjwuJuKNjKr",
+            "track_name": "O Come O Come Emmanuel"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f597280b5dc652c145f9968cc4c21212a0a9388",
+            "track_id": "1EvxpgopEv2VHYLIQqvuOT",
+            "track_name": "Holy, Holy, Holy"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7273642bf1d6bc7769577eace5353e9e708e7d3",
+            "track_id": "1sFWEpf1aPYN576LS1aa4Y",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 90,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab4f06069148ef8510d8681164479601d4617bed",
+            "track_id": "0bYg9bo50gSsH3LtXe2SQn",
+            "track_name": "All I Want for Christmas Is You"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/72f7d4d69e91dcda15abfa08392dab06e5dfbee3",
+            "track_id": "3B7FO3kJ5kv3mX7yiaB7sT",
+            "track_name": "O Holy Night"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc867c88d6a28e686acb9c6735b73c6c6ee9f310",
+            "track_id": "3PIDciSFdrQxSQSihim3hN",
+            "track_name": "Christmas (Baby Please Come Home)"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/be8604ad7dd3b82d9aa692295d2d05fb5e572963",
+            "track_id": "1uQRAiaDstq15Vd52ryoI7",
+            "track_name": "Miss You Most (At Christmas Time)"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/714283d7fa2e2a05cbb2231ab11d92f7bd3bf5bc",
+            "track_id": "2OggiWqL8exckT6kOrcDuA",
+            "track_name": "Joy to the World"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2c68ba5cfef2ac47a5fac87bd765977b9667545f",
+            "track_id": "6AoXseJVabZFmKEYjQCXPS",
+            "track_name": "Jesus Born on This Day"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7053ea668cfbf6305b040b5875f84df8cb7016f",
+            "track_id": "1f2lkuLldqRzvaFjJdjGXX",
+            "track_name": "Santa Claus Is Comin' to Town"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/302bc8457316904034a6b8d8a869e82f8182869b",
+            "track_id": "74VQqRHWXDUyErPqwdeG5D",
+            "track_name": "Hark! The Herald Angels Sing / Gloria (In Excelsis Deo)"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee1496fa482e95f8bfb172964f1db9bab044a93c",
+            "track_id": "7zAoR3Od28Xj97fTLgnaGi",
+            "track_name": "Jesus Oh What a Wonderful Child"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b9528ef4a27f033cb6ce9786ecaec7ba2719f08",
+            "track_id": "4Zeq5Hs8Ca3T1oI5YdYdmj",
+            "track_name": "Joy to the World"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/7fccdc11438fee5aa0779d0777c67dfef4a9a921",
+            "track_id": "3dl3UFo3qsPFCYkTgxINTy",
+            "track_name": "Jingle Bell Rock"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f863f87f79ccdbae19f585ebe6aaf465a9d67de",
+            "track_id": "4z5AMDqutywmw4A6NhWMYc",
+            "track_name": "Hark! The Herald Angels Sing"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b9528ef4a27f033cb6ce9786ecaec7ba2719f08",
+            "track_id": "4Zeq5Hs8Ca3T1oI5YdYdmj",
+            "track_name": "Joy to the World"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/2df422eeef87b4f09b02b40aceecf6181c7329b0",
+            "track_id": "3LnLawOEp9637f6Mst9sci",
+            "track_name": "O Little Town of Bethlehem"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/e4b745a58babbf314fe6690be49e07247efbe44f",
+            "track_id": "5kj9ioRz6vV0XqM1ZltCjn",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/55cd4a2e16d9be3b514ba7c60796bce2a1553d1d",
+            "track_id": "28Pc3sdnlbiFcEDOr4ARCK",
+            "track_name": "Let It Snow"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/a95d94d895076956f339ff1b5ea81bd0ff0769be",
+            "track_id": "5qQDpomLNq1cj2l5wtXMZW",
+            "track_name": "Mary Did You Know"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/ddc0b6f2e66dbc01c8f2bc0bd7e2c1a2c70ecc09",
+            "track_id": "1PzwL45QlQxe5gB53hxMt2",
+            "track_name": "God With Us"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/020a72ba4632be13ac175f9c497a2d4e637fafb5",
+            "track_id": "5e85pW43RjMxgyaP8YyjOh",
+            "track_name": "O Come, O Come Emmanuel"
+        },
+        {
+            "artist_id": "5wpEBloInversG3zp3CVAk",
+            "artist_name": "Jeremy Camp",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3d6e293169585677d86eb4df9fb45d02283c959",
+            "track_id": "3creCngRWKNewCnnCLYTxe",
+            "track_name": "Away in a Manger"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/981360335316cee23d696312a6baac53c15b9cd8",
+            "track_id": "5to9CYyGabIrAURT2ESPt4",
+            "track_name": "O, Holy Night"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/599e4e626ab1084fff0ccd55d8393a2e041c9019",
+            "track_id": "3udCQtMku7u8rxTthVuKbP",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/47e25a6cfe5fa430861691f21c2ef3df644d8bcc",
+            "track_id": "6iQsTFllSHiH5tFxHtsVqR",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/89565b87628a8fe2b04e6773a51539904b6a351c",
+            "track_id": "1QQ8HuR86qd0gzbKcn699W",
+            "track_name": "Hark The Herald Angels Sing/O Come All Ye Faithful"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/91ec0dad2f1369e10eb255b3a79628c26bbf4a52",
+            "track_id": "4WZSvpGZkFWG0pB4YxUYvZ",
+            "track_name": "Have Yourself A Merry LIttle Christmas"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/464ece8495f9308f57732102431c469b579f088a",
+            "track_id": "77uejhrKYgGNoMGKWOssPG",
+            "track_name": "Mary, Did You Know"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/9189ae8826ff8833f3ea1160b46a7de6ba69a814",
+            "track_id": "6xg98rPNK7UFLTI7JRvZXC",
+            "track_name": "Joy to the World"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/25c3e07bec39483bed23d24808dcb918a632f718",
+            "track_id": "6kKumtY3MGcDUYZzR6OcWa",
+            "track_name": "The Christmas Song (Chestnuts Roasting On An Open Fire)"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/96b2c9aa7b9fe585cbc5eaabe7a09ee1a5ae1a0f",
+            "track_id": "7DAfpB3HL0sZeg5aLh0fL4",
+            "track_name": "Don't Save It All For Christmas Day"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/619b799dffacdd095496bc53ee6f21696a1df3a0",
+            "track_id": "05miuks7iLPsRYbb7Y8a5z",
+            "track_name": "Merry Christmas With Love"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bc8c8c951efc438053b4308697839184ce7ac49",
+            "track_id": "691jM7owgsKQbIk9XJBStA",
+            "track_name": "Sleigh Ride"
+        },
+        {
+            "artist_id": "13aBWT8LN4oNWWGFOu96MA",
+            "artist_name": "Clay Aiken",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/56c8e1067d5261ad334ac8bd1edef03fb90cf821",
+            "track_id": "1Z7wi1cVOxMWe5vvcdrwU7",
+            "track_name": "What Are You Doing New Year's Eve?"
+        },
+        {
+            "artist_id": "1yQ8S4xdGOGbUcpaPR6hCM",
+            "artist_name": "Straight No Chaser",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/23b06dd49d0aedd56e9d67b08e61a274e71d57aa",
+            "track_id": "4MJ9OdEgljnKsYlQ1EQ3xJ",
+            "track_name": "Indiana Christmas"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "33N8LJWImCdqYq80B7xdh1",
+            "track_name": "Go Tell It On The Mountain"
+        },
+        {
+            "artist_id": "5OSQDUNmll299ldFIF1Dau",
+            "artist_name": "Trans-Siberian Orchestra",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/c40d0e00c16d15d86136250f9a4e5120288ff160",
+            "track_id": "6hgK1TToJFkI8rRGPcqHv5",
+            "track_name": "For The Sake Of Our Brother"
+        },
+        {
+            "artist_id": "26AHtbjWKiwYzsoGoUZq53",
+            "artist_name": "Pentatonix",
+            "popularity": 51,
+            "preview_url": null,
+            "track_id": "6PfQuBnKZPjt7cB7fRUuLi",
+            "track_name": "Mary, Did You Know?"
+        },
+        {
+            "artist_id": "26AHtbjWKiwYzsoGoUZq53",
+            "artist_name": "Pentatonix",
+            "popularity": 53,
+            "preview_url": null,
+            "track_id": "5o9JHeY8e47bXCjSZOnD7b",
+            "track_name": "Winter Wonderland / Don't Worry Be Happy"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10",
+            "track_id": "0xPaZrF25ltzvz1a2Pm5DQ",
+            "track_name": "All I Want For Christmas Is You"
+        },
+        {
+            "artist_id": "29ywwKkxfoH7iWwNY1UezA",
+            "artist_name": "Francesca Battistelli",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b662fe1a47ec64fe5636d9377af665930f8d13c",
+            "track_id": "3XCTNa3y71mNMlhNQq2YSs",
+            "track_name": "Heaven Everywhere"
+        },
+        {
+            "artist_id": "29ywwKkxfoH7iWwNY1UezA",
+            "artist_name": "Francesca Battistelli",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/497617e3b7d8011922b5ad4be4f5806b83a9f682",
+            "track_id": "4Jn8GP4MDnD34pClMoNz3w",
+            "track_name": "Go, Tell It On The Mountain"
+        },
+        {
+            "artist_id": "7DhP3bGT7dzr1dCkkH5mTS",
+            "artist_name": "David Crowder Band",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7f12ebf9dcd4769def6e9905841e7f27828b5f0",
+            "track_id": "0eOhwbBdUKvB5M8P3suoXW",
+            "track_name": "Go, Tell It On the Mountain"
+        },
+        {
+            "artist_id": "3CygdxquGHurS7f9LjNLkv",
+            "artist_name": "Little Big Town",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/51c8b186335c5794d72a22648321b0e84e9dc49f",
+            "track_id": "4EY70ZF9PzqnpkKOgqTyqw",
+            "track_name": "Go Tell It On The Mountain"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa9c2bffaaee251397f2bab5e07ac54fb35f2aa0",
+            "track_id": "6jSGVIEjnRhOl2c8JNx5cS",
+            "track_name": "Run Run Rudolph"
+        },
+        {
+            "artist_id": "7v35CkHBaT1SStgQHl95a0",
+            "artist_name": "Tenth Avenue North",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd6641e0584ebb044acc0d6089c9c52704c165f1",
+            "track_id": "0cvJyg1sNVNwZlSzV0NTd8",
+            "track_name": "Go Tell It On The Mountain"
+        },
+        {
+            "artist_id": "1yQ8S4xdGOGbUcpaPR6hCM",
+            "artist_name": "Straight No Chaser",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1a722b03478dc53a454c1d4d8475c24af5e2fc2",
+            "track_id": "2NLvQVsvGekodHfJsGkjgD",
+            "track_name": "Every Day Is Christmas (feat. Colbie Caillat)"
+        },
+        {
+            "artist_id": "5nLYd9ST4Cnwy6NHaCxbj8",
+            "artist_name": "CeeLo Green",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/b725b48691df6c05c6ee7802fa9eab1c1f3fbc73",
+            "track_id": "45wLFTuez6aLdh3d2YT2Oj",
+            "track_name": "Merry Christmas, Baby - feat. Rod Stewart & Trombone Shorty"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/60b791e07c7079e97427eabea0ae90eb3fe209a1",
+            "track_id": "3O5zp6tOdGFWi0NdzC0frI",
+            "track_name": "Pray"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/b567005f7075c5ad311c4a6569c921cffef32dd7",
+            "track_id": "46CmteSSihy091RRaj7kmb",
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/54df4b5fb3145facf3f37353bd7fe678c498fc8d",
+            "track_id": "0Pd4lsvSDPkcNCxbcz0UeV",
+            "track_name": "Drummer Boy"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/2daf0b27e5abfa3806fd0a758f3827a681378ed6",
+            "track_id": "192yj763UcVbfyxFrVmIac",
+            "track_name": "Home This Christmas"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/58bef73fbb8ab03ba5459948a05615d3a8e546ef",
+            "track_id": "3YZE5qDV7u1ZD1gZc47ZeR",
+            "track_name": "Underneath the Tree"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/24ac356f3a04d2c3554e27026b36812e60dac1f8",
+            "track_id": "4v9WbaxW8HdjqfUiWYWsII",
+            "track_name": "Merry Christmas, Happy Holidays"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8ca3666e1af2b3b9fffe50d4f4900ae1d77c96d",
+            "track_id": "7JkCwoxICUtwg2PrvxBlJ5",
+            "track_name": "O Holy Night - A Cappella"
+        },
+        {
+            "artist_id": "26dSoYclwsYLMAKD3tpOr4",
+            "artist_name": "Britney Spears",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/5de8df23e807eb62be3718513c86f002312e2667",
+            "track_id": "2vVaKhH1Pah7Vyp0bJ3HDf",
+            "track_name": "My Only Wish (This Year)"
+        },
+        {
+            "artist_id": "3mmJ8ZhdfCauaUB0h8BXxV",
+            "artist_name": "Cloverton",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/b147e819d9937e697b4dc9bab38666fcf2278f5f",
+            "track_id": "4aopaHRdS0KdbRCDk1j2h0",
+            "track_name": "What Child Is This"
+        },
+        {
+            "artist_id": "3mmJ8ZhdfCauaUB0h8BXxV",
+            "artist_name": "Cloverton",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5b1fcad537e2b7c04b369e8b76a6ab4dcd6e76e",
+            "track_id": "5rRq0HhTe9thIVxEJEPqiK",
+            "track_name": "We Sing Joy (Joy to the World)"
+        },
+        {
+            "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+            "artist_name": "Stevie Wonder",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1d659ea97fdea2d4f7359c99cb887a6edbff4d5",
+            "track_id": "0Cm9tD9xlYNCgW3UeHioq2",
+            "track_name": "What Christmas Means To Me"
+        },
+        {
+            "artist_id": "0L4cGiVwtxNE29hzz5SPMY",
+            "artist_name": "Dionne Warwick & Stevie Wonder",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/87c8db493ac1ce1fe84a353a49bddb98b586a295",
+            "track_id": "3gtVyiDp54gr8YuBUfSVhX",
+            "track_name": "A Merry Christmas"
+        },
+        {
+            "artist_id": "5nLYd9ST4Cnwy6NHaCxbj8",
+            "artist_name": "CeeLo Green",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef0915e8a973fc09eadc129403734c543561c786",
+            "track_id": "2oTH6X8DjSwmTBoAolDou2",
+            "track_name": "What Christmas Means To Me"
+        }
+    ]
+}

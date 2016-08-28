@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1246917672/playlists/5ZhW94e3nHlIVE6PUfEV9B/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "11jOZfVtketvHlyEXCkCWC",
+            "artist_name": "Hungry Kids of Hungary",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2vb16RFyteOpxk6teiwoBb",
+            "track_name": "Sharp Shooter - Single Version"
+        },
+        {
+            "artist_id": "1zTAQ6zkGz2L2i6lfR30EX",
+            "artist_name": "The Presets",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/90049e8cbcebda67856523d4fed70d4416163fa2",
+            "track_id": "0yncQqIeceU7PkMmRjOl1E",
+            "track_name": "Ghosts - Hermitude Trapped In Heaven Remix"
+        },
+        {
+            "artist_id": "1gR0gsQYfi6joyO1dlp76N",
+            "artist_name": "Justice",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3935f2b27202979cfe68520238270bff29c1145",
+            "track_id": "4woQ1mc7PzrQ39j0asLJrf",
+            "track_name": "On'n'On"
+        },
+        {
+            "artist_id": "3iOvXCl6edW5Um0fXEBRXy",
+            "artist_name": "The xx",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/9864d09dd5f23c55501f8ad27229e2355500a7c6",
+            "track_id": "0s81xsu7KqFnKI73pCNqp9",
+            "track_name": "Angels"
+        },
+        {
+            "artist_id": "5gqoUf9vKKv96b1c0GBKwu",
+            "artist_name": "Dusky",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9b219adfa6b835413b404edf8d5607c8fc9d9c6",
+            "track_id": "35N6vLbB8EPnWrAXPXi3QT",
+            "track_name": "It's Not Enough"
+        },
+        {
+            "artist_id": "7y5xCKz1V2iSh1YsOLyOPH",
+            "artist_name": "Parachute Youth",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/4aa2adf9b222ce83422de92d08f8021d6f1d3f78",
+            "track_id": "7GRSlvWtAsYaiGtRJtMH0l",
+            "track_name": "Can\u2019t Get Better than this (Radio edit)"
+        },
+        {
+            "artist_id": "67tNmCzk9teeC1h8FgmqJA",
+            "artist_name": "Kyle Andrews",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1254d3edd167f029f5e737a8fe55756c56f99a9",
+            "track_id": "2kQ9mHVRCSNBjP9lNsAOLc",
+            "track_name": "You Always Make Me Smile"
+        }
+    ]
+}

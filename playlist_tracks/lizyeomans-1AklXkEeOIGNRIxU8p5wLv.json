@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/lizyeomans/playlists/1AklXkEeOIGNRIxU8p5wLv/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1slZr3FGlh153jH8xW6SNa",
+            "artist_name": "Woodlock",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/a32512a216717504dc71f9083868238054cb964d",
+            "track_id": "3gNKfAMkoNbGyRYEj2YpF7",
+            "track_name": "Lemons"
+        },
+        {
+            "artist_id": "5r5Va4lVQ1zjEfbJSrmCsS",
+            "artist_name": "Broods",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "2SVkJ8MLLn1o3P43fVPJNZ",
+            "track_name": "Bridges"
+        },
+        {
+            "artist_id": "1ZBR8sri8ddYowXDENBwKS",
+            "artist_name": "Hannah Georgas",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/adbfc078899c0d6968e1d4c182934767b3192c48",
+            "track_id": "63bL6bH5MzGzdUT2SzBbFg",
+            "track_name": "Somebody"
+        },
+        {
+            "artist_id": "13NBINjChpGTx6AXEZ73O7",
+            "artist_name": "Step Rockets",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/05abf6c69eccb171a925831fe77fecf967eac6fe",
+            "track_id": "419qOkEdlmbXS1GRJEMntC",
+            "track_name": "Kisser"
+        },
+        {
+            "artist_id": "2AsxNH9NM1r9U3Imb0nJS6",
+            "artist_name": "Gold & Youth",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/9bc801488aa41b0b83f5dcde1f810688708f69d1",
+            "track_id": "1NJS3jLm6QkXe6k3Cvvv3d",
+            "track_name": "Time to Kill"
+        },
+        {
+            "artist_id": "4eZebkMFU3xelF8mbZYXyl",
+            "artist_name": "Goldroom",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/a40dd390b17f7d1403c92a229a3da33210828408",
+            "track_id": "4PUAjhaBoC6yRSztUuRxsm",
+            "track_name": "Fifteen"
+        },
+        {
+            "artist_id": "4eZebkMFU3xelF8mbZYXyl",
+            "artist_name": "Goldroom",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "6G1xBCUqxa18lRgyCPmpW4",
+            "track_name": "Embrace"
+        },
+        {
+            "artist_id": "5ImPYAPDvZGDRzUMcw830W",
+            "artist_name": "Patterns",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6hbTUtIjN9z67o0WQRCttk",
+            "track_name": "Face Marks"
+        },
+        {
+            "artist_id": "0hK26QoGcuKV3lH0x9MvUU",
+            "artist_name": "The Colourist",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/427e0598f023d71dddf7d19f3fbbd448b4ea91ac",
+            "track_id": "3Z8qysUNh2Rkee72WCZlrR",
+            "track_name": "Little Games"
+        },
+        {
+            "artist_id": "0hK26QoGcuKV3lH0x9MvUU",
+            "artist_name": "The Colourist",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/84f2cf0bffff3f2bdb5c83055e01fbd5cf7e6c00",
+            "track_id": "0mJDqliT6vmi7i9kRoSAZ3",
+            "track_name": "We Won't Go Home"
+        },
+        {
+            "artist_id": "3NPpFNZtSTHheNBaWC82rB",
+            "artist_name": "X Ambassadors",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/6403e63d9b19206d95207d15490dfaab9b33d323",
+            "track_id": "0jpoRHaMiyKNnCectzcXTv",
+            "track_name": "Unconsolable"
+        },
+        {
+            "artist_id": "3NPpFNZtSTHheNBaWC82rB",
+            "artist_name": "X Ambassadors",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ce876deddaa159ff29a6aae05a612a41843eb16",
+            "track_id": "1kOIJXRPQA6SA0I86fE78P",
+            "track_name": "Litost"
+        },
+        {
+            "artist_id": "3NPpFNZtSTHheNBaWC82rB",
+            "artist_name": "X Ambassadors",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/49a03bd73316109841d48b0aef3b5f809cb073bd",
+            "track_id": "0FifUO9aaibYBaNDNo5rho",
+            "track_name": "Stranger"
+        },
+        {
+            "artist_id": "7h75beXetMCcYsECxpJbc9",
+            "artist_name": "Moke Hill",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/af5f42b6057a1df57986e94fd34a172ffdbad8b3",
+            "track_id": "1CsZd1oNutbNaMohi2xTKk",
+            "track_name": "Detroit"
+        },
+        {
+            "artist_id": "7h75beXetMCcYsECxpJbc9",
+            "artist_name": "Moke Hill",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/10f7a90e14660e47ec4af7d755fb9e3a15f3d007",
+            "track_id": "74j9qD8VssTEVJYkXk9HjT",
+            "track_name": "Gold Country"
+        },
+        {
+            "artist_id": "7h75beXetMCcYsECxpJbc9",
+            "artist_name": "Moke Hill",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/8df0b92a1278981d905c5b3c6a9c99bb28e46e10",
+            "track_id": "3phXaGsy7iQre20QzPRdaH",
+            "track_name": "California"
+        },
+        {
+            "artist_id": "0nJaMZM8paoA5HEUTUXPqi",
+            "artist_name": "Bear's Den",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "3CXbCY39d4K2qL8tTurrHR",
+            "track_name": "Sahara Pt. II"
+        },
+        {
+            "artist_id": "0nJaMZM8paoA5HEUTUXPqi",
+            "artist_name": "Bear's Den",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7neTkKmW63uuBUTffRN4Vh",
+            "track_name": "Writing on the Wall"
+        },
+        {
+            "artist_id": "0nJaMZM8paoA5HEUTUXPqi",
+            "artist_name": "Bear's Den",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "74hossxVr10f9IS3nAF3mI",
+            "track_name": "Agape"
+        },
+        {
+            "artist_id": "0TjAAwE04BeoSeOpJIakYH",
+            "artist_name": "Little May",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "3gwZn4upefqB6hyM2aTvnA",
+            "track_name": "Hide"
+        },
+        {
+            "artist_id": "1MNMJJ5gOHtCoKFrNxWBFp",
+            "artist_name": "Kafka Tamura",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7bqOEUZMZjNLygEM76WMWu",
+            "track_name": "Somewhere Else"
+        },
+        {
+            "artist_id": "7sjRnhONmeFL1tmlUvdq70",
+            "artist_name": "Fractures",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef68c5c0a124635e656275ff3c96dd86f598fc45",
+            "track_id": "3hfyGM0eCvhxyX19vFmPGm",
+            "track_name": "Cadence"
+        },
+        {
+            "artist_id": "5sfLdXmHEKWMVa1a018O3O",
+            "artist_name": "Sterling Silver",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/cce23b0b8e48a31534ad391361eeab3be0ced6dc",
+            "track_id": "0izKA2r0s9Yt46ziNqL4I2",
+            "track_name": "Sweet Talk"
+        },
+        {
+            "artist_id": "3uHiNgd4Vmf5q9XjsCsIsi",
+            "artist_name": "IYES",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2Ulb1hgwPe79Mu0xmjalhw",
+            "track_name": "'Til Infinity"
+        },
+        {
+            "artist_id": "6baWjwY7WiVPCZcW7pqqhz",
+            "artist_name": "Mapei",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "2iFI5EslxJFXqF8VdXklnu",
+            "track_name": "Don't Wait"
+        },
+        {
+            "artist_id": "4Bz5TfMslds0eViTxhE6gK",
+            "artist_name": "Olympic Ayres",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7ofE6CvTqPnhi9uaq8NHo8",
+            "track_name": "Lose You"
+        },
+        {
+            "artist_id": "4Bz5TfMslds0eViTxhE6gK",
+            "artist_name": "Olympic Ayres",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fc4a18a688543b2ba5fdd3c25974f3d6480481e",
+            "track_id": "0Z4DZo4wUFJhUjKjCtuXUf",
+            "track_name": "Magic"
+        },
+        {
+            "artist_id": "63aFY9yQyFDJtGkInMUris",
+            "artist_name": "Little Daylight",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "5JhuOsBXaN38oLBreZiR1u",
+            "track_name": "Overdose"
+        },
+        {
+            "artist_id": "63aFY9yQyFDJtGkInMUris",
+            "artist_name": "Little Daylight",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0Yob4nCIIVvavpwBSqi3It",
+            "track_name": "Glitter And Gold"
+        },
+        {
+            "artist_id": "63aFY9yQyFDJtGkInMUris",
+            "artist_name": "Little Daylight",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "699rBFyPhEIUzY0W9Py9UJ",
+            "track_name": "Restart"
+        },
+        {
+            "artist_id": "7LAucJAvbQa7ZIA0qP8YI2",
+            "artist_name": "The Royal Concept",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9c29c4517bdfa169bd89fd3999d55928716b2c3",
+            "track_id": "7zDfGITHuqU56P8lHqXgy5",
+            "track_name": "World On Fire"
+        },
+        {
+            "artist_id": "7LAucJAvbQa7ZIA0qP8YI2",
+            "artist_name": "The Royal Concept",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ce6081dd03e66ce7a2ec6cb893a63e04e0f43b3",
+            "track_id": "3DUBhiM44zetJNERX0n8Nk",
+            "track_name": "Gimme Twice"
+        },
+        {
+            "artist_id": "3f8b2H7fazJlShrwj38XiS",
+            "artist_name": "Deptford Goth",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/9382f7cbd13cb0f57a222f4f2aa5fbdbb4246148",
+            "track_id": "5Ko53VDNXjc7NeuTOMC443",
+            "track_name": "Feel Real"
+        },
+        {
+            "artist_id": "1niOQVlqnlW8hFqKSlbx7p",
+            "artist_name": "Royal Teeth",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "2F1Da8WqpBe5FGkRckppsC",
+            "track_name": "Wild"
+        },
+        {
+            "artist_id": "1niOQVlqnlW8hFqKSlbx7p",
+            "artist_name": "Royal Teeth",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "1Tj65JtBIQ7vGx6aP2gPHs",
+            "track_name": "Hold Me"
+        },
+        {
+            "artist_id": "195hFqaTDENqLCcG8uGtM7",
+            "artist_name": "Freedom Fry",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6f961bbe8badd0fbad56507ab40f5852330e5b0",
+            "track_id": "3lYx2so8QT8903J8xvwBHI",
+            "track_name": "Summer in the City"
+        },
+        {
+            "artist_id": "195hFqaTDENqLCcG8uGtM7",
+            "artist_name": "Freedom Fry",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d702cf5242fab33c2e470b17d5fd280343c506d9",
+            "track_id": "0J0tvkWS2hrIo0kjCOOVV4",
+            "track_name": "Friends and Enemies"
+        },
+        {
+            "artist_id": "2xe8IXgCTpwHE3eA9hTs4n",
+            "artist_name": "Banks",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2fc4cfc026028e9f246d8ed37af1d2519930376",
+            "track_id": "5ytd0G5I1FsPsmrdLxqKJt",
+            "track_name": "Warm Water"
+        },
+        {
+            "artist_id": "0TsIx49jtpokEoYyPIBHJL",
+            "artist_name": "Bear Mountain",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f45589efb32b3d122190bc304366ee279e1a634",
+            "track_id": "6wmtezDhKr47mnjoCsXDc0",
+            "track_name": "Congo"
+        },
+        {
+            "artist_id": "0TsIx49jtpokEoYyPIBHJL",
+            "artist_name": "Bear Mountain",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/646288bbdb2cb9483dd28b9469f2d1cb26c9841b",
+            "track_id": "32aNELWogDlowE77hoyctR",
+            "track_name": "Two Step"
+        },
+        {
+            "artist_id": "0TsIx49jtpokEoYyPIBHJL",
+            "artist_name": "Bear Mountain",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/07cd0eb8939147302cdb6d43620cc8b7a73cc804",
+            "track_id": "7rMQ3we4mijBXwU4jhr4Bw",
+            "track_name": "Faded"
+        },
+        {
+            "artist_id": "1537aTFUMhe8FsxySbUrQ2",
+            "artist_name": "Black Light Dinner Party",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb6692fbd997c2c62f88d4213dbaa45b590c5b19",
+            "track_id": "4AsZfIN2GmFsSszRxriLer",
+            "track_name": "We Are Golden"
+        },
+        {
+            "artist_id": "1537aTFUMhe8FsxySbUrQ2",
+            "artist_name": "Black Light Dinner Party",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fdde0a0cd22e9c0b39494921f37d5f7d87ef692",
+            "track_id": "3jzB37of1zG0Iuic8quN8p",
+            "track_name": "Sons and Lovers"
+        },
+        {
+            "artist_id": "3LedjkHgJTjLJfDTM5YgmD",
+            "artist_name": "Pacific Air",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/14febe87980c44b6f4b578716cb0edf4191ae3d0",
+            "track_id": "7AgrcfUInjAoHgzXYPWkYH",
+            "track_name": "Sunshine"
+        },
+        {
+            "artist_id": "3LedjkHgJTjLJfDTM5YgmD",
+            "artist_name": "Pacific Air",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/70a231c7880668424ab08a307ecf0ea4b0b1051c",
+            "track_id": "7E26JjSamIPCLHoCWhAtB7",
+            "track_name": "Float"
+        },
+        {
+            "artist_id": "4NHQUGzhtTLFvgF5SZesLK",
+            "artist_name": "Tove Lo",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "6EG6p1rfKycjJGX7CyAr7d",
+            "track_name": "Habits"
+        },
+        {
+            "artist_id": "5sH8YCqiyIUdmyqHHmFrln",
+            "artist_name": "Memoir",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f4305b94b7c71356265dc1320d4250f91884b45",
+            "track_id": "2dWdtx7R7bWJVcHpABIrSB",
+            "track_name": "Los Angeles"
+        },
+        {
+            "artist_id": "5sH8YCqiyIUdmyqHHmFrln",
+            "artist_name": "Memoir",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e10f28cda8b8e019940708e3f5e2c87c066b0cf",
+            "track_id": "2nm5Zg0qrvwKFsWU0ktoNu",
+            "track_name": "Never Good Enough"
+        },
+        {
+            "artist_id": "3W9UldYu0xJcaOAw2SUTDI",
+            "artist_name": "Panama",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/5fa10c2edee615b4bbc28bb945aaeb0874f83804",
+            "track_id": "2tYyyvbRngq9Z6LTTFko6Y",
+            "track_name": "It's Not Over"
+        },
+        {
+            "artist_id": "3W9UldYu0xJcaOAw2SUTDI",
+            "artist_name": "Panama",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/5fe705da9288ee5324e6ae665a16783fd42d6ea6",
+            "track_id": "2AibowzHMkcQunibSKyApw",
+            "track_name": "Always"
+        },
+        {
+            "artist_id": "3W9UldYu0xJcaOAw2SUTDI",
+            "artist_name": "Panama",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/75d1eb4d0504c796e313d0328e0af8763d3f59a9",
+            "track_id": "0SHyHUlk0BZkFiE1WpJtXZ",
+            "track_name": "How We Feel"
+        },
+        {
+            "artist_id": "64PJHZDQTPPVBCdwnv22Wz",
+            "artist_name": "Josef Salvat",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6d5cekjj3sPwfKfeHVdCp5",
+            "track_name": "Hustler - Radio Mix"
+        },
+        {
+            "artist_id": "0flVPOQPuTboUwEtzPk6vj",
+            "artist_name": "Say Lou Lou",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1LsxLhYpaJ0lM176KuJsZ2",
+            "track_name": "Julian - Monsieur Adi Remix"
+        },
+        {
+            "artist_id": "0flVPOQPuTboUwEtzPk6vj",
+            "artist_name": "Say Lou Lou",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "78xSfM4ONNoI7cij1eUFky",
+            "track_name": "Maybe You - Original"
+        },
+        {
+            "artist_id": "1Xqfa9sfJ094hHdEVS1C6t",
+            "artist_name": "Hunter Hunted",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "1HA2o8Tt1ZLfE6hN6lccug",
+            "track_name": "Operating"
+        },
+        {
+            "artist_id": "1Xqfa9sfJ094hHdEVS1C6t",
+            "artist_name": "Hunter Hunted",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "4w7AR9JcOsWuHilyvFsbQV",
+            "track_name": "Keep Together"
+        },
+        {
+            "artist_id": "6At5p4YNkt0nOq8vErCrJU",
+            "artist_name": "Last Lynx",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/e99f7b8e3b3d811dabf9dcb8599b6f16fd10a356",
+            "track_id": "5eQ8ndTAUKa0eTd83EEgvK",
+            "track_name": "Killing Switch"
+        },
+        {
+            "artist_id": "4Cjsh7anKDaMnQ3YHB1Xwq",
+            "artist_name": "Panama Wedding",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "3gJrKq99mtLtyZV88ZvBdE",
+            "track_name": "All of the People"
+        },
+        {
+            "artist_id": "4Cjsh7anKDaMnQ3YHB1Xwq",
+            "artist_name": "Panama Wedding",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/201a2a381ffa5dcf5547e15f37324a782a552700",
+            "track_id": "37XOspstV7PLZqMP1c4frp",
+            "track_name": "Uma"
+        },
+        {
+            "artist_id": "5c570XBYBetraAQaO1Xk2j",
+            "artist_name": "Buchanan",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/a99f7103101a9b3d7a5406494ec9da5523c0fbb5",
+            "track_id": "4h11gSJieOoGNpsejw04l4",
+            "track_name": "Run Faster"
+        },
+        {
+            "artist_id": "7uHOp2UvCRbPU1sNKk57hv",
+            "artist_name": "Jhameel",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d41a73f13888ccf15ab514880cf8c1c1ae9e9590",
+            "track_id": "4zNL8orPMoV98rybm6EdN1",
+            "track_name": "Waves"
+        },
+        {
+            "artist_id": "7uHOp2UvCRbPU1sNKk57hv",
+            "artist_name": "Jhameel",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "09X2E3nLgikhWRvOTq0Hb8",
+            "track_name": "A Maiden Calling"
+        },
+        {
+            "artist_id": "1gU3EQFvK6bQa8Cw1ZUi2o",
+            "artist_name": "Animal Heart",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/c909bfabbbf91749b3251648c705f2d35942079a",
+            "track_id": "2uUrGDmpcfKZvaejvAS1d1",
+            "track_name": "Unextraordinary Man"
+        },
+        {
+            "artist_id": "77kooGqWdROZHDLfhbe9NU",
+            "artist_name": "Athletes in Paris",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/73637ea6234bbcb029e6b2abb8958c75daf5fba5",
+            "track_id": "3XdfM7h547C2Rd4Ovhe1ov",
+            "track_name": "Borrowed Time"
+        },
+        {
+            "artist_id": "6PwZP9O9dvJCMALhgjygnh",
+            "artist_name": "FMLYBND",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6PL3Y49FebPeegNkbwQFzO",
+            "track_name": "Electricity"
+        },
+        {
+            "artist_id": "6PwZP9O9dvJCMALhgjygnh",
+            "artist_name": "FMLYBND",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2Vw4GFR7uTj55bdXUnVp1S",
+            "track_name": "Far Away"
+        },
+        {
+            "artist_id": "1WrqUPWlHN5FXCRcQgrkas",
+            "artist_name": "Lucius",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/749b7f4980f6ce412d1f63abcfa70c4c67a04328",
+            "track_id": "6urkBbuO8GrGhvo4Kky3DX",
+            "track_name": "Hey, Doreen"
+        },
+        {
+            "artist_id": "4fQHCuys7JZvaQzRvB1kPR",
+            "artist_name": "Ghost Loft",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "2OteNxrcPHNKhtohrV2VXN",
+            "track_name": "Seconds"
+        },
+        {
+            "artist_id": "4fQHCuys7JZvaQzRvB1kPR",
+            "artist_name": "Ghost Loft",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d709bf05e984b0b86193597987d42fb68844c8e",
+            "track_id": "6UUOkhXDWTqVYjzqNJ1F0x",
+            "track_name": "So High"
+        },
+        {
+            "artist_id": "2jlNH853oZwGpnSyXLllvB",
+            "artist_name": "Fire In The Hamptons",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2b42a8b4882f2d0e08ffc59324c38d25840c6d1",
+            "track_id": "1gRStA2YVi3DJ0wxjcD9KE",
+            "track_name": "Crystalize"
+        },
+        {
+            "artist_id": "2jlNH853oZwGpnSyXLllvB",
+            "artist_name": "Fire In The Hamptons",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/586cfe6c74af0b112cdceb349cae350efaaea1b0",
+            "track_id": "6Vx1s8Wp05dvPpZ5v2iDki",
+            "track_name": "Glitter & Gold"
+        },
+        {
+            "artist_id": "2jlNH853oZwGpnSyXLllvB",
+            "artist_name": "Fire In The Hamptons",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/77ca9f509f53691a8e9ebe246ce9ca243279fd81",
+            "track_id": "1iRnccnSmI9EScyqTd5Pzq",
+            "track_name": "Humanimal"
+        },
+        {
+            "artist_id": "4uljsHYU6Jz6aXa6l51Ydw",
+            "artist_name": "Masters In France",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/f714aed758474d313e7d27a7563d829f95f301b3",
+            "track_id": "0IF6Dca9IsV5gMDiyu7796",
+            "track_name": "Playin' With My Friends"
+        },
+        {
+            "artist_id": "658dDaDXrpTYEzdAmHMqb6",
+            "artist_name": "I Am Animal",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/a10bcfc5dc252f195707d2ba73cf06c1e4d30876",
+            "track_id": "4kJx0mAOfIcdpwGWjGX2Oa",
+            "track_name": "Just You Wait"
+        },
+        {
+            "artist_id": "2tmWjaROlvLpahIZcvPLwi",
+            "artist_name": "Jez Dior",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/929fb0f09ddc5baa4f169e9fae8666985f22a856",
+            "track_id": "77koR0QXS3rDqmwmlFNsWC",
+            "track_name": "Love Me to Death"
+        },
+        {
+            "artist_id": "5cTn7jRVGqTdmgMW75FIal",
+            "artist_name": "Wild Cub",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "3gV24jTpNWyfPJICfhc7dS",
+            "track_name": "Thunder Clatter"
+        },
+        {
+            "artist_id": "5cTn7jRVGqTdmgMW75FIal",
+            "artist_name": "Wild Cub",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1C4ZSF3I14pn4StmNtxZon",
+            "track_name": "Colour"
+        },
+        {
+            "artist_id": "513t0jZUP0K98C4h7KHtEb",
+            "artist_name": "NONONO",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ede67ec47ad3e03b702af113b6fd8565e58f12d",
+            "track_id": "3dNcq4dzEtbFUM4PGeHHXp",
+            "track_name": "Pumpin Blood"
+        },
+        {
+            "artist_id": "0RSOEwcMBmhkXmriCCXIXz",
+            "artist_name": "Churchill",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/e09fb950ad365c4a2520ea812de29b672e0392e2",
+            "track_id": "6dLYmOLzjnxXY1ucAcIlH3",
+            "track_name": "The War Within"
+        },
+        {
+            "artist_id": "0RSOEwcMBmhkXmriCCXIXz",
+            "artist_name": "Churchill",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/499f6a036c8a1f4e83347e45c6361f6f97dbf09c",
+            "track_id": "331q5cdwo9aq7ih6bSpoOa",
+            "track_name": "Change"
+        },
+        {
+            "artist_id": "4IQ782VL9bK0q2Judy9mIF",
+            "artist_name": "Chateau Marmont",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/2df50071ecd229395f22cd5933c9289383368613",
+            "track_id": "5tNHLNmcg1pnJ6sdeaV5gN",
+            "track_name": "Wind Blows - Radio Edit"
+        },
+        {
+            "artist_id": "6puqyrpoPdFNxDJ8KPy2pE",
+            "artist_name": "Kate Boy",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "69812Wh9DbQWxaKvEAbJV1",
+            "track_name": "Northern Lights"
+        },
+        {
+            "artist_id": "6puqyrpoPdFNxDJ8KPy2pE",
+            "artist_name": "Kate Boy",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1PqKQreq4UdnemEHuYhM2g",
+            "track_name": "In Your Eyes"
+        },
+        {
+            "artist_id": "5ypIMlORxA9iDgQdJXi0ZO",
+            "artist_name": "New Navy",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd0c6645803bea61689013775ac15e9192996cbb",
+            "track_id": "5monMYHlHj6MvX3tsfXup0",
+            "track_name": "Zimbabwe"
+        },
+        {
+            "artist_id": "3BpiD33EPJLTi4RgMe5gE4",
+            "artist_name": "Air Review",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/d1f91821d9700583cc53a4f478eb42a97259ee01",
+            "track_id": "3SUnB496wZdR3cpSoI9KK0",
+            "track_name": "Young"
+        },
+        {
+            "artist_id": "3kJeINOSExu0ctySTaMu6Q",
+            "artist_name": "Gold Fields",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/63c57c8a76b71b167569495fa8de3c6e38ea1945",
+            "track_id": "6Y0hydJe6ILZTkkDqg5K1P",
+            "track_name": "Dark Again"
+        },
+        {
+            "artist_id": "6SzmRtk9EnP5q1rqfqbfSW",
+            "artist_name": "The Leisure Society",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/5de9c820f62d344525831c6e1caacf7f6337bb0d",
+            "track_id": "6gFdTjFX74UcADR5YvurRT",
+            "track_name": "Fight for Everyone"
+        },
+        {
+            "artist_id": "1buzCmyYZE4kcdLRudsb8V",
+            "artist_name": "Mikky Ekko",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/e033d101524d8fd85165cd01c7ce770339eab47b",
+            "track_id": "0FVPq7QbvLI8a6mixwQaqI",
+            "track_name": "Pull Me Down"
+        },
+        {
+            "artist_id": "1buzCmyYZE4kcdLRudsb8V",
+            "artist_name": "Mikky Ekko",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9b4255df154943b3b8757ef627bc294e2e8b17e",
+            "track_id": "3g9DZ7nXZJAIBKRvoXR2ZY",
+            "track_name": "Kids"
+        },
+        {
+            "artist_id": "2XddLUPFBmTonCFy8uB3uc",
+            "artist_name": "Swim Deep",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/3005d46cdc4fdbb28b7a2b204bd6e41a709cda09",
+            "track_id": "3q8h28WsxkdRKAtkHNa6zR",
+            "track_name": "She Changes the Weather"
+        },
+        {
+            "artist_id": "3D6cosC5ZOLCpRxt6T3XS7",
+            "artist_name": "The Kite String Tangle",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "4vZEMpNTGu9geEUfR4S5wi",
+            "track_name": "Given The Chance"
+        },
+        {
+            "artist_id": "5hd20uYrvlg3dxQlBVczu6",
+            "artist_name": "The Coopers",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cdfc139cc3566d6f604f057e6e8de95296a9ba3",
+            "track_id": "1RfL2iAdUwOwrUCvIkKuds",
+            "track_name": "Autumn"
+        },
+        {
+            "artist_id": "2SlMPjZm02pC12ODpApdhB",
+            "artist_name": "Young Summer",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/e52592b6ca6733f1c4ea89f2691187fcde92775f",
+            "track_id": "7t6Pjh2mbYNzLrPcMppkb5",
+            "track_name": "Waves That Rolled You Under"
+        },
+        {
+            "artist_id": "0hlAL5tDBFxXK4dzMt87qD",
+            "artist_name": "The Soldier Thread",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c65b5ca2aa15c2db7b8ddddc3540140db3ac123b",
+            "track_id": "7GZCVAuGZpb5QNN0iinnSy",
+            "track_name": "Anybody (feat. Zeale)"
+        },
+        {
+            "artist_id": "422RLznpwUa5FsQgnTlgUH",
+            "artist_name": "Great Good Fine Ok",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "3HuSvV7kQJmHyyEawKipiD",
+            "track_name": "You're the One for Me"
+        },
+        {
+            "artist_id": "7r8xR0LmnaAM623MmRDn1V",
+            "artist_name": "Max Frost",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/316c3e9fa14637c549766a9cc893a61b3f547aaa",
+            "track_id": "6dg4jncA9hbthBGFVo2djw",
+            "track_name": "White Lies"
+        },
+        {
+            "artist_id": "1Psm8hJWxg0ROd7p2tdPcq",
+            "artist_name": "Forrest Day",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/74e046614a7189053bdab0cdbfddebc4ba09edcb",
+            "track_id": "14VyhSW3AMLvqe4pmemGgP",
+            "track_name": "About Time"
+        },
+        {
+            "artist_id": "1Psm8hJWxg0ROd7p2tdPcq",
+            "artist_name": "Forrest Day",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/4668d2aff809024c3fe0508aeb3bc9b7d579328e",
+            "track_id": "4BaVA30B06XPmNiIx1B7SA",
+            "track_name": "Voices"
+        },
+        {
+            "artist_id": "0CjWKoS55T7DOt0HJuwF1H",
+            "artist_name": "Bipolar Sunshine",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7fXnl462vxwrnSBO2BA7IX",
+            "track_name": "Rivers"
+        },
+        {
+            "artist_id": "1Hv1EPuWXNVIQP4QVad7wH",
+            "artist_name": "Ace Reporter",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2oV6YAwxorifq902KpQPR3",
+            "track_name": "Untouched and Arrived"
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+{
+    "href": "https://api.spotify.com/v1/users/123879796/playlists/1Bxiyp6TW9aAkpFwPGm4NR/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "5YVxDOpo3E7uyZbQDIPb2O",
+            "track_name": "Bright Lights"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/4eb05bc4b135279b8cd439744ebaa25bb1bc95d5",
+            "track_id": "2mFnxVS2wZpqntPzZB17O1",
+            "track_name": "Psychotic Girl"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/64e8a8dcd51941d56e054400bf2bafc94777c2b9",
+            "track_id": "6vB49BJ70zBpDrrAPwdaB8",
+            "track_name": "Drive Slow"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a8e2330f0928b8e8f475cf1adad3c91e1dede8f",
+            "track_id": "0RRS27vZj5U0N2eIBctL4K",
+            "track_name": "Oceans & Streams"
+        },
+        {
+            "artist_id": "6YWdHD3R863Apw1hkx3BwC",
+            "artist_name": "Dan Auerbach",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/e77e46953ecb73b7406f89941bbb4cb825410b9e",
+            "track_id": "2ckCEdqefxdVVw3T7tPHoo",
+            "track_name": "Keep It Hid"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "A$AP Rocky",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Trilla Prod. By Beautiful Lou (Feat. A$AP Twelvy & A$AP Nast)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eminem",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Infinite"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "5kkn6S8BzFaT1q3RKa5SpL",
+            "track_name": "Sacrilegious"
+        },
+        {
+            "artist_id": "30fiiwr2EeZp1tAhzYCmyM",
+            "artist_name": "Big L",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "0nuQEcGQkqauPekSfJgoPu",
+            "track_name": "The Enemy"
+        },
+        {
+            "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+            "artist_name": "Arctic Monkeys",
+            "popularity": 80,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae9cfce1f3fae26c3730299b729fa7c9bfff410d",
+            "track_id": "3jfr0TF6DQcOLat8gGn7E2",
+            "track_name": "Do I Wanna Know?"
+        },
+        {
+            "artist_id": "6YWdHD3R863Apw1hkx3BwC",
+            "artist_name": "Dan Auerbach",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/af26b47bb11b725fc4beea860e2d639cec4e9a1e",
+            "track_id": "23BOkRURifSCnAytd48S6l",
+            "track_name": "I Want Some More"
+        },
+        {
+            "artist_id": "3AA28KZvwAUcZuOKwyblJQ",
+            "artist_name": "Gorillaz",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/20e27bbc6c7dd769fc5245d2ef6da78e2ad99549",
+            "track_id": "7yMiX7n9SBvadzox8T5jzT",
+            "track_name": "Clint Eastwood"
+        },
+        {
+            "artist_id": "3iOvXCl6edW5Um0fXEBRXy",
+            "artist_name": "The xx",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e4a05674ddbe7f080fefbbc3741aaa4a4065610",
+            "track_id": "1nmCmB3qdXrzxFhvLJuhuB",
+            "track_name": "Crystalised"
+        },
+        {
+            "artist_id": "5xpkLC1MxiPRiIJUDEzuVm",
+            "artist_name": "Odd Future",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/bed4960fd82723ca584e093519373dd8d1c873e1",
+            "track_id": "53dkS3h9uTNsWYZTPacnpx",
+            "track_name": "Oldie"
+        },
+        {
+            "artist_id": "3A5tHz1SfngyOZM2gItYKu",
+            "artist_name": "Earl Sweatshirt",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/d56f7f805aa9eb9e72693f81f6d3b43accd310be",
+            "track_id": "6JKoTnberZoBgUuxa6l4Kh",
+            "track_name": "Hive"
+        },
+        {
+            "artist_id": "2TgTMg8jrIQjJ3uWkLw93J",
+            "artist_name": "The Steepwater Band",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f75c4dee52a424085884d29edab21e624e26b81",
+            "track_id": "59n8RDNnJn29BTFaPTIRZy",
+            "track_name": "Remember the Taker"
+        },
+        {
+            "artist_id": "4F84IBURUo98rz4r61KF70",
+            "artist_name": "The White Stripes",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/4df08f0d534d2bcbf31c90f2d62ee8e794bec747",
+            "track_id": "3IJSHoTkoZQLPRdCXpX0ec",
+            "track_name": "Cash Grab Complications On The Matter - Non-Album Track"
+        },
+        {
+            "artist_id": "2qk9voo8llSGYcZ6xrBzKx",
+            "artist_name": "Kings of Leon",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc3b1aed1764e2b3c1841fbdf6de4bab00a25e28",
+            "track_id": "0eQjA54TJkwTHDJKG8OkRg",
+            "track_name": "Be Somebody"
+        },
+        {
+            "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+            "artist_name": "Arctic Monkeys",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/c82fac14cd921b1f173b722daaf2499b70a23da3",
+            "track_id": "5SdAdDrzHessrGtIx0QFgt",
+            "track_name": "Dance Little Liar"
+        },
+        {
+            "artist_id": "6YWdHD3R863Apw1hkx3BwC",
+            "artist_name": "Dan Auerbach",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/0f8f7c7b05e835b2f97554b2f311c1c99a85e7e5",
+            "track_id": "6KmSpuVSuYBvut7zb1e0ys",
+            "track_name": "The Prowl"
+        },
+        {
+            "artist_id": "4yvcSjfu4PC0CYQyLy4wSq",
+            "artist_name": "Glass Animals",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc08167bee1cd9089eb69839f690f9745f4c1494",
+            "track_id": "754wVXWrtf1X3ZHQOFFsnR",
+            "track_name": "Toes"
+        },
+        {
+            "artist_id": "7t51dSX8ZkKC7VoKRd0lME",
+            "artist_name": "Asaf Avidan",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/74cd3323fcc7548abf2dbfe3bd10a08a2bf0a6fd",
+            "track_id": "7wFBxQ36EFwLaQCtOF80aI",
+            "track_name": "Love It or Leave It"
+        },
+        {
+            "artist_id": "77SW9BnxLY8rJ0RciFqkHh",
+            "artist_name": "The Neighbourhood",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff64df97746e9b97673169f97e0eb5045c552278",
+            "track_id": "4pGqFOfzvfe6avb9kbZicC",
+            "track_name": "Sweater Weather"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba1982e11361b9ccd8025c82c8fddf5a9b400026",
+            "track_id": "4URU1lRXhWwZIXuxKI1SuH",
+            "track_name": "No Diggity"
+        },
+        {
+            "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+            "artist_name": "Arctic Monkeys",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/971776090b85e536f69e19a80598bdaa29d14a88",
+            "track_id": "58ge6dfP91o9oXMzq3XkIS",
+            "track_name": "505"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e21fb03d13ba0a0e3320bec1d8291a3182c1e7d",
+            "track_id": "1g7zNtcGrWt8gcBRwDQEkf",
+            "track_name": "Gold"
+        },
+        {
+            "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+            "artist_name": "Flume",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/1435f370549ec17cbb771dacf198ba7c80f77072",
+            "track_id": "4KtrE35pTuqwNc22QP58RT",
+            "track_name": "Drop the Game"
+        },
+        {
+            "artist_id": "4kI8Ie27vjvonwaB2ePh8T",
+            "artist_name": "Portugal. The Man",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/f097712fb41b6e5ae5fa18ca0a40d2271b2d55eb",
+            "track_id": "1l5lKWHRfyY7Y3FvDBXlvJ",
+            "track_name": "Sleep Forever"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/5869217c9faf2744fcd12a3e1191eeb079cb10fc",
+            "track_id": "2gKZXeCTkQjblUQgnKF7Ow",
+            "track_name": "Obvious Bicycle"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e86e542b5be6a22a549b4579ae8920224745cba7",
+            "track_id": "7fUC5ML18aWQpU88jSofQu",
+            "track_name": "Lies"
+        },
+        {
+            "artist_id": "69GGBxA162lTqCwzJG5jLp",
+            "artist_name": "The Chainsmokers",
+            "popularity": 92,
+            "preview_url": "https://p.scdn.co/mp3-preview/551ca104a8e572832a6873d5d6b205c430e291fd",
+            "track_id": "3vv9phIu6Y1vX3jcqaGz5Z",
+            "track_name": "Roses"
+        }
+    ]
+}

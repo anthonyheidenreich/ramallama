@@ -1,0 +1,333 @@
+{
+    "href": "https://api.spotify.com/v1/users/hpatel13/playlists/4TbwQrLcejc2PTIGN2kPqv/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a724c82dff51e31e55ab935d00f009d8141e935",
+            "track_id": "1QoObh1rgS8WInyyY5fje2",
+            "track_name": "Sitting, Waiting, Wishing"
+        },
+        {
+            "artist_id": "5nGIFgo0shDenQYSE0Sn7c",
+            "artist_name": "Evanescence",
+            "popularity": 22,
+            "preview_url": null,
+            "track_id": "72iNjNcripCtyG8AZEPVBo",
+            "track_name": "My Immortal"
+        },
+        {
+            "artist_id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "artist_name": "Weezer",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/917c8004b63d09a26021d0d7d9c3db1601be858d",
+            "track_id": "2MLHyLy5z5l5YRp7momlgw",
+            "track_name": "Island In The Sun"
+        },
+        {
+            "artist_id": "6XyY86QOPPrYVGvF9ch6wz",
+            "artist_name": "Linkin Park",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/23552502ef8477c882d6f2ae07e7579f38b8a92d",
+            "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+            "track_name": "In The End"
+        },
+        {
+            "artist_id": "3Ngh2zDBRPEriyxQDAMKd1",
+            "artist_name": "Matchbox Twenty",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/3849123347067581d321d21fa6598310603d33a5",
+            "track_id": "2f5N826udWfjT9iomeaBJt",
+            "track_name": "If You're Gone"
+        },
+        {
+            "artist_id": "43sZBwHjahUvgbx1WNIkIz",
+            "artist_name": "Creed",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "1e5grnGb7YIcX9EuJM1mtB",
+            "track_name": "Higher"
+        },
+        {
+            "artist_id": "6kXp61QMZFPcKMcRPqoiVj",
+            "artist_name": "Gin Blossoms",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/904179f75cbb3ca8fc3b6e3bb3fa6371075de27d",
+            "track_id": "1ZoHRnS5U4m7V5pgvFiK1N",
+            "track_name": "Hey Jealousy"
+        },
+        {
+            "artist_id": "3YcBF2ttyueytpXtEzn1Za",
+            "artist_name": "Incubus",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/529519c74312d9a940114264e608f8cbf779628a",
+            "track_id": "7nnWIPM5hwE3DaUBkvOIpy",
+            "track_name": "Drive"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/b0de7a508b75428a3032d349c855d36a7abccc7e",
+            "track_id": "5FPnjikbwlDMULCCCa6ZCJ",
+            "track_name": "Daughters"
+        },
+        {
+            "artist_id": "1TqQi97nqeiuOJrIFv5Sw0",
+            "artist_name": "Semisonic",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0546529dce174aee787a5aa1d096b5b0fb67258",
+            "track_id": "1A5V1sxyCLpKJezp75tUXn",
+            "track_name": "Closing Time"
+        },
+        {
+            "artist_id": "3FUY2gzHeIiaesXtOAdB7A",
+            "artist_name": "Train",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/53dfd4a4e515975dcfc00ce37e0838cf3b7d247a",
+            "track_id": "0E29BKKGCJHcb7b9oIWgGB",
+            "track_name": "Calling All Angels"
+        },
+        {
+            "artist_id": "61YE3whKiuRr83j1yOm5M7",
+            "artist_name": "Augustana",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/204531ccab6950fdffe4554cd1fde65738c07c0a",
+            "track_id": "07baEmGLjBpkRIQWgg7dus",
+            "track_name": "Boston"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/56204bcc1fb923c6d2c578ee3c3160a6d21bd241",
+            "track_id": "4h8VwCb1MTGoLKueQ1WgbD",
+            "track_name": "Wake Me Up"
+        },
+        {
+            "artist_id": "7FgMLbnZVrEnir95O0YujA",
+            "artist_name": "Five For Fighting",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa2fb88c3bbd59074a851f609683b1f3cf6e6172",
+            "track_id": "5OVofGV3opkR1hq0C9RSCu",
+            "track_name": "100 Years"
+        },
+        {
+            "artist_id": "5ILrArfIV0tMURcHJN8Q07",
+            "artist_name": "Vanessa Carlton",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/95c69fd7c94a896d913ccd332208d2de81641ac6",
+            "track_id": "4w1lzcaoZ1IC2K5TwjalRP",
+            "track_name": "A Thousand Miles"
+        },
+        {
+            "artist_id": "6sFIWsNpZYqfjUpaCgueju",
+            "artist_name": "Carly Rae Jepsen",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e00c551bf032195d93c04e712e093f1f300b766",
+            "track_id": "6ol4ZSifr7r3Lb2a9L5ZAB",
+            "track_name": "Call Me Maybe"
+        },
+        {
+            "artist_id": "5nCi3BB41mBaMH9gfr6Su0",
+            "artist_name": "fun.",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/af96d9b11588ea7d7754ccf2a8cefa7ead23a7d6",
+            "track_id": "7a86XRg84qjasly9f6bPSD",
+            "track_name": "We Are Young (feat. Janelle Mon\u00e1e) - feat. Janelle Monae"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "68l6YZZ8TlcWVq98l5eW6l",
+            "track_name": "Viva La Vida"
+        },
+        {
+            "artist_id": "4gwpcMTbLWtBUlOijbVpuu",
+            "artist_name": "Capital Cities",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/25948839d060cd138c4a5fa0d30c9d32ccfecce3",
+            "track_id": "2Oj5BXOY01EDuJhVYNlEoq",
+            "track_name": "Safe And Sound"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d0f610c854617098d1fadef34b398360b702434",
+            "track_id": "0VIiyb6ebpMipzEGMbjqKG",
+            "track_name": "Haven't Met You Yet"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f826380a449ec9a8bae45967d908fffd7ff5222",
+            "track_id": "3bidbhpOYeV4knp8AIu8Xn",
+            "track_name": "Can't Hold Us - feat. Ray Dalton"
+        },
+        {
+            "artist_id": "31TPClRtHm23RisEBtV3X7",
+            "artist_name": "Justin Timberlake",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/0665851630d864ff5ab0ada9b7f8ee2587471a90",
+            "track_id": "03gqZZavMKhWbSjdQvpF6O",
+            "track_name": "Mirrors"
+        },
+        {
+            "artist_id": "6GI52t8N5F02MxU0g5U69P",
+            "artist_name": "Santana",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "3kenIsD2tMzxb8XtJlxi5J",
+            "track_name": "Smooth"
+        },
+        {
+            "artist_id": "3FUY2gzHeIiaesXtOAdB7A",
+            "artist_name": "Train",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6393162ba6857ed9954230a0f2a2f1c3cab0883",
+            "track_id": "0KpfYajJVVGgQ32Dby7e9i",
+            "track_name": "Hey, Soul Sister"
+        },
+        {
+            "artist_id": "0du5cEVh5yTK9QJze8zA0C",
+            "artist_name": "Bruno Mars",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6fc23418ef4a090922decfe6a47c7bc87c1d762",
+            "track_id": "2tJulUYLDKOg9XrtVkMgcJ",
+            "track_name": "Grenade"
+        },
+        {
+            "artist_id": "163tK9Wjr9P9DmM0AVK7lm",
+            "artist_name": "Lorde",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc4e8f47f5aa5b0b9a4fe1a25dfbd3b688bbfec5",
+            "track_id": "2dLLR6qlu5UJ5gk0dKz0h3",
+            "track_name": "Royals"
+        },
+        {
+            "artist_id": "4dpARuHxo51G3z768sgnrY",
+            "artist_name": "Adele",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/b2ba47ab9af2b4cd08a04e45b94803bd076c209d",
+            "track_id": "5xPazRvyrkVootu8pM9vUG",
+            "track_name": "Rolling in the Deep"
+        },
+        {
+            "artist_id": "5y2Xq6xcjJb2jVM54GHK3t",
+            "artist_name": "John Legend",
+            "popularity": 85,
+            "preview_url": "https://p.scdn.co/mp3-preview/488c53471e56ff9f629652691444438951e880bb",
+            "track_id": "3U4isOIWM3VvDubwSI3y7a",
+            "track_name": "All of Me"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d741d740ea0e449057d326439a47e974447e86d",
+            "track_id": "2lwwrWVKdf3LR9lbbhnr6R",
+            "track_name": "Float On"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/24c7fe858b234e3cb21872cd03ab44b669163fbb",
+            "track_id": "0BCPKOYdS2jbQ8iyB56Zns",
+            "track_name": "Clocks"
+        },
+        {
+            "artist_id": "3rIZMv9rysU7JkLzEaC5Jp",
+            "artist_name": "Snow Patrol",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/2af2fa8929acd01b7e09984714e85e8c0d753af4",
+            "track_id": "11bD1JtSjlIgKgZG2134DZ",
+            "track_name": "Chasing Cars"
+        },
+        {
+            "artist_id": "3hozsZ9hqNq7CoBGYNlFTz",
+            "artist_name": "OK Go",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/7327e3ac55e460208a753ce81872321dc06b7603",
+            "track_id": "1pHP4JeQV9wDx87D6qH9hD",
+            "track_name": "Here It Goes Again"
+        },
+        {
+            "artist_id": "53XhwfbYqKCa1cC15pYq2q",
+            "artist_name": "Imagine Dragons",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/dacdf4edb5a64943dbeef11a1d19ae62c9686208",
+            "track_id": "4G8gkOterJn0Ywt6uhqbhp",
+            "track_name": "Radioactive"
+        },
+        {
+            "artist_id": "0id62QV2SZZfvBn9xpmuCl",
+            "artist_name": "Aloe Blacc",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f8f533f9b84dd9c5c8c44928ad70b36041c777a",
+            "track_id": "2stPxcgjdSImK7Gizl8ZUN",
+            "track_name": "The Man"
+        },
+        {
+            "artist_id": "7gP3bB2nilZXLfPHJhMdvc",
+            "artist_name": "Foster The People",
+            "popularity": 80,
+            "preview_url": "https://p.scdn.co/mp3-preview/db83e69f4ef8a49f5b77e367f7031cc3bcc41b1a",
+            "track_id": "7w87IxuO7BDcJ3YUqCyMTT",
+            "track_name": "Pumped up Kicks"
+        },
+        {
+            "artist_id": "4F84IBURUo98rz4r61KF70",
+            "artist_name": "The White Stripes",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/af40a44e722afc21571f3f666656eafb630326d9",
+            "track_id": "1jNOi6m3Hn8nLEeHCp5Msr",
+            "track_name": "Seven Nation Army"
+        },
+        {
+            "artist_id": "2mxe0TnaNL039ysAj51xPQ",
+            "artist_name": "R. Kelly",
+            "popularity": 71,
+            "preview_url": null,
+            "track_id": "0nmxH6IsSQVT1YEsCB9UMi",
+            "track_name": "Ignition (Remix)"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/175ce440229d2fb5361756f3e68c9647b86a8eee",
+            "track_id": "34KTEhpPjq6IAgQg2yzJAL",
+            "track_name": "Californication"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c00b56145c850917cfc404eb3dd42a87283eb43",
+            "track_id": "6HFbq7cewJ7rPiffV0ciil",
+            "track_name": "A Sky Full of Stars"
+        },
+        {
+            "artist_id": "2vm8GdHyrJh2O2MfbQFYG0",
+            "artist_name": "Ingrid Michaelson",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/50d55b59038581ae2ad9d8f6b8e5ba37045ba8e5",
+            "track_id": "3pfdwzqLYcN20GvoYno1Oz",
+            "track_name": "Girls Chase Boys"
+        },
+        {
+            "artist_id": "2mxe0TnaNL039ysAj51xPQ",
+            "artist_name": "R. Kelly",
+            "popularity": 56,
+            "preview_url": null,
+            "track_id": "0AIfr4oi192dWLRJZrRz1O",
+            "track_name": "I Believe I Can Fly"
+        }
+    ]
+}

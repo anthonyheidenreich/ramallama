@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/wayspurrchen/playlists/1U1R1Ud8hVaQDuwxQDpCob/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3mvkWMe6swnknwscwvGCHO",
+            "artist_name": "Amon Tobin",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/b2e1810a8d4560400dc0f78a311905731ba40d03",
+            "track_id": "6zkoNK818U1mHoqe48r8rA",
+            "track_name": "Surge - 16Bit Remix"
+        },
+        {
+            "artist_id": "2AminfyJLRagEeHO6H6bCS",
+            "artist_name": "Two Fingers",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d74a17746c6ba0ee4d5ffa6cf66f2a4ad20d81b",
+            "track_id": "3cVB8NNPB1lKPwEKTZDAdH",
+            "track_name": "Stripe Rhythm"
+        }
+    ]
+}

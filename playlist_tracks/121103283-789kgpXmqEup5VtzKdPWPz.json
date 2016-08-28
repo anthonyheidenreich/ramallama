@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/121103283/playlists/789kgpXmqEup5VtzKdPWPz/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+            "artist_name": "Lissie",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/7dac7e6b1ecdc9499b1db37603bdd9c59ce42fa1",
+            "track_id": "32YkNqpt6XHjd9Cmo5632K",
+            "track_name": "Pursuit Of Happiness"
+        },
+        {
+            "artist_id": "2L3kwZFd16zjHz9a5kEPAm",
+            "artist_name": "Ane Brun",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d0a5fb161bbfee4e98123a7b9c1636dd2d13d6d",
+            "track_id": "6bRgyHxbPkvrHiQFSWxo1B",
+            "track_name": "Halo"
+        },
+        {
+            "artist_id": "4vkp0Xrh0KIQ5f9D5IlMDm",
+            "artist_name": "Gil Scott-Heron & Jamie xx",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/cddb59436cd5b4ac87ecd0ee5dbdff63edfa0acc",
+            "track_id": "1YrDXC5z5rbJnbzCQOjOgQ",
+            "track_name": "I\u2019ll Take Care Of U"
+        },
+        {
+            "artist_id": "1Zz6NBe8UIZjm88TvehFtx",
+            "artist_name": "LE YOUTH",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/49e70f48c693f0671616ad61d647d5c22a2b9a34",
+            "track_id": "4L0HMiE70JyFSfOsnoHGbj",
+            "track_name": "C O O L"
+        },
+        {
+            "artist_id": "3GJhraAgCA8s8XHENnDsXq",
+            "artist_name": "ASTR",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/f00861e67170602bd69211bd178ab35c12aac0dc",
+            "track_id": "2SAhbZ5QqI5Tof5DeBjGyF",
+            "track_name": "Hold On We're Going Home"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbc04767449ffacfdbedaf7bc410103111603295",
+            "track_id": "7cpCU3Denug5NGZsSpQl8v",
+            "track_name": "XO"
+        }
+    ]
+}

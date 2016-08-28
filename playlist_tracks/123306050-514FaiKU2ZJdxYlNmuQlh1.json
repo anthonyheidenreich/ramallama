@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/514FaiKU2ZJdxYlNmuQlh1/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4LLpKhyESsyAXpc4laK94U",
+            "artist_name": "Mac Miller",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/638db8b8d4db52308ba53f7658ba18a77f93808a",
+            "track_id": "5aQmsZCESbhasWW5VARdS8",
+            "track_name": "Loud"
+        },
+        {
+            "artist_id": "1YXGHQqcA8fph4ovRYXQLB",
+            "artist_name": "Starting Six",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/08b5dfe6cb96f87b27bb560e77edda288c450c00",
+            "track_id": "12Nd9XldCCFrvReRZSW21k",
+            "track_name": "This Ain't Water - Explicit"
+        },
+        {
+            "artist_id": "63MQldklfxkjYDoUE4Tppz",
+            "artist_name": "M83",
+            "popularity": 32,
+            "preview_url": null,
+            "track_id": "36lqt57OHqk48BVFzPDEKt",
+            "track_name": "Midnight City"
+        },
+        {
+            "artist_id": "5YGY8feqx7naU7z4HrwZM6",
+            "artist_name": "Miley Cyrus",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/aecde65a56a36be26c6f35984c73fb778099238f",
+            "track_id": "5ve0BYRZZ2aoHFqZMxqYgt",
+            "track_name": "We Can't Stop"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f826380a449ec9a8bae45967d908fffd7ff5222",
+            "track_id": "3bidbhpOYeV4knp8AIu8Xn",
+            "track_name": "Can't Hold Us - feat. Ray Dalton"
+        },
+        {
+            "artist_id": "7CajNmpbOovFoOoasH2HaY",
+            "artist_name": "Calvin Harris",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/40c1150a43b8c93b53e8873207b64368c8b36eac",
+            "track_id": "05SBRd4fXgn8FX7bf8BCAE",
+            "track_name": "I Need Your Love"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/c097c94f0ee1ce704062d1814b6786f131eb65ab",
+            "track_id": "6PUIzlqotEmPuBfjbwYWOB",
+            "track_name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix"
+        },
+        {
+            "artist_id": "26dSoYclwsYLMAKD3tpOr4",
+            "artist_name": "Britney Spears",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0DUdGD90ULidlTGfeORIdv",
+            "track_name": "Womanizer"
+        },
+        {
+            "artist_id": "0z4gvV4rjIZ9wHck67ucSV",
+            "artist_name": "Akon",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "78rOpvRMgbnJHmpIBCoTaZ",
+            "track_name": "Right Now (Na Na Na)"
+        },
+        {
+            "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "artist_name": "David Guetta",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "2cPyUCLEKaIU0P8sAL8MJf",
+            "track_name": "Memories (feat. Kid Cudi)"
+        }
+    ]
+}

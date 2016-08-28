@@ -1,0 +1,445 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruecritchfield/playlists/6qb4ODUXmET1DppxUZpiwV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/36d69a9c5b7a78b378f349e319ca49075993717b",
+            "track_id": "7MRyJPksH3G2cXHN8UKYzP",
+            "track_name": "American Girl"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/08227d819166979e7d2b294061e21c9b78432dd5",
+            "track_id": "5tVA6TkbaAH9QMITTQRrNv",
+            "track_name": "Free Fallin'"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/31a421dbb57b7e189dfa99a0205d05bac3f96d67",
+            "track_id": "5eYwDBLucWfWI5KsV7oYX2",
+            "track_name": "Mary Jane's Last Dance"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/f86e333f10221b6b3f7f0a2ebdc6a7871402785c",
+            "track_id": "5x53pbGk6sbl1BGom19QQ5",
+            "track_name": "Breakdown"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/920e1367344e020100e499744890d45f0f8729ce",
+            "track_id": "7MooGz4ZPE4bNxjFegR6Jx",
+            "track_name": "You Don't Know How It Feels"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f8fc91bd4a98e7c27863b08aa24a57ffaf654c1",
+            "track_id": "2Pr1nZpt8A8WP7QYpyq6L3",
+            "track_name": "Wildflowers"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/073044a1802d956d324245bc878de134c87df0ba",
+            "track_id": "72HUyOvpvwX2Z2o2R3cf4X",
+            "track_name": "Refugee"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "6XDdmCAuodZfXtEgJcxpS2",
+            "track_name": "Heart Of Gold"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "4M13hC6sdFmvKCJ2MhKEbi",
+            "track_name": "Old Man"
+        },
+        {
+            "artist_id": "1jVuLlkfKibBT0hXDnzQjp",
+            "artist_name": "Neil Young & Crazy Horse",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "4DFMZUoz6TBh8JVqmw6Drv",
+            "track_name": "My My, Hey Hey (Out Of The Blue)"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "5l9c6bJmzvftumhz4TMPgk",
+            "track_name": "Harvest Moon"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "4Y7fEQ4PAzhlLnLviRw2P4",
+            "track_name": "Rockin' In The Free World"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "3eKXd8eSlzMbvg94EPVmQE",
+            "track_name": "The Needle And The Damage Done"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "0vJcPfC5wHCul3w5ozg5nx",
+            "track_name": "Cinnamon Girl"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "0uPBPvGoNFm8V7zB0QwywJ",
+            "track_name": "Down By The River"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "2qv8lTxX94sX0Cg8NEVgDG",
+            "track_name": "Ohio"
+        },
+        {
+            "artist_id": "6v8FB84lnmJs434UJf2Mrm",
+            "artist_name": "Neil Young",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "30WhBB9dgQINH3vP70fADc",
+            "track_name": "Southern Man"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/c56d88a6ec25caad667dd259a0760fe8f7d19a84",
+            "track_id": "3LcYYV9ozePfgYYmXv0P3r",
+            "track_name": "Fire And Rain"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6eea219885cf66f108395cd51031d0a928b381d",
+            "track_id": "2Fv3LSqbgv5lrdClrc6XKc",
+            "track_name": "Carolina In My Mind"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f742ae6c72a4b68fc9cf3e50d7d868155559368",
+            "track_id": "6sMFBGi63uil2HDqUEpCq3",
+            "track_name": "Sweet Baby James"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cfbac44834ce0e74f6cb42a2239cedae9b1f2ed",
+            "track_id": "69l8nFPu0LWmnoJX7YSVYc",
+            "track_name": "You've Got A Friend"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/c10379684941c153ae2fb6dff7d9f76706eb655b",
+            "track_id": "3GuCDFyTO1FDhWgbhCkg0A",
+            "track_name": "Copperline"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2c518566d9f4feab08836b76e48848e751e7aee9",
+            "track_id": "4nXkbcTj3nyww1cHkw5RAP",
+            "track_name": "Long Train Runnin'"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f838f890ecf95233a84b14a639d1ab1c6aba908",
+            "track_id": "3x1v32I3SZNvC7q7bDhcGm",
+            "track_name": "Black Water (45 Version)"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/38dcede79a2e68d904f1729f2342c24e206a759a",
+            "track_id": "2yBVeksU2EtrPJbTu4ZslK",
+            "track_name": "What A Fool Believes"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/6883c94b0f878e24b17c17e55129615f270460f3",
+            "track_id": "72sHB1oKxtDxoRwmwyI3A8",
+            "track_name": "Listen To The Music (45 Version)"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/9846bb7fc9860d2eb2d117046c8e6d0a05ae541c",
+            "track_id": "7cy1bEJV6FCtDaYpsk8aG6",
+            "track_name": "China Grove"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f05f133e4e6398cd1fac9566a3bff381b9f01ea",
+            "track_id": "2fja4gHzPsIXiK4bMeU0hN",
+            "track_name": "Listen To The Music"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/668345e931a55d63780f8c030ada8889c242c833",
+            "track_id": "27YtiJUAxOWlc4BossxNea",
+            "track_name": "Long Train Runnin' - 2006 Remastered Version"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2296a3b2a2f2e8fbb9097845851136b815f38781",
+            "track_id": "4feNlb6HlpBrW36SsXoUfh",
+            "track_name": "Listen To The Music - 2006 Remastered Version Single Version"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a1f09acc86c8f8076187df4e302290ac27352d0",
+            "track_id": "1UBxiGQ2blRKft3csoK9H8",
+            "track_name": "Takin' It To The Streets"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/281d9732adbd8a5b5e818f6a1a06fc0741975006",
+            "track_id": "3voA7jcES21idqh8dflNim",
+            "track_name": "Jesus Is Just Alright With Me"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f5c821de4d47066ac5e68d58fd180975c86530d",
+            "track_id": "5ihS6UUlyQAfmp48eSkxuQ",
+            "track_name": "Landslide"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f8554c322c7b953428c4aeda982dc1b90b5b85",
+            "track_id": "15rjQH7nTcTomKwfVMd4xl",
+            "track_name": "Go Your Own Way"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/10b5068313e5ee282e3fd335e87349c2580a2011",
+            "track_id": "1lbXEepatjRVjoG8pZMtdp",
+            "track_name": "Dreams"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/bbe6f2993487401609cb53dcfcd74ac2b17a472d",
+            "track_id": "5TWPfkeN07aERO0Yn2D2t2",
+            "track_name": "Rhiannon"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/afada93be0c928ee81a5730bf75dff949502be13",
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/fe6cad3dd8ccd78bcdc8ee53be411b34d91dcd35",
+            "track_id": "2TJqhMuTx2eMun7MMQVIFy",
+            "track_name": "Never Going Back Again"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/df6c9d016d3600bf7253454437d7f9c76e02686e",
+            "track_id": "7Dm3dV3WPNdTgxoNY7YFnc",
+            "track_name": "The Chain"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/033608df64b9aa908dd5466ec97185e817f143e3",
+            "track_id": "76TweiQmmIfRpGVZUMNZbT",
+            "track_name": "Seven Wonders"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc26f396931abc91cd7530144a6a2d468a6d134c",
+            "track_id": "08o75xMKmGrKny6GsXrNJW",
+            "track_name": "Little Lies"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a09325cc96a189742c45fe40ed39d498fa19a45",
+            "track_id": "6i8ecOsx4J2Px1maiqzqoG",
+            "track_name": "Everywhere"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/4bd53ed55517fc2a529757c0c33fc9a78acc525d",
+            "track_id": "1MIDCw2NTW3Dtn9c6ohSC8",
+            "track_name": "Lenny"
+        },
+        {
+            "artist_id": "4N8BwYTEC6XqykGvXXlmfv",
+            "artist_name": "George Benson",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/c30d903a8505dcb4c028aa22d795cc6a9aa80815",
+            "track_id": "1m3BAsNsQAaSNMD2M6vlKY",
+            "track_name": "Breezin' - Remastered"
+        },
+        {
+            "artist_id": "4N8BwYTEC6XqykGvXXlmfv",
+            "artist_name": "George Benson",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d1a092bfef7f4cdcc81319a62a63c5db1a51da7",
+            "track_id": "7uhOlFq30tYkUZ70JwbRre",
+            "track_name": "This Masquerade - Remastered Version"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/597fcda5a350030e70119da04d6a57de6c44a02b",
+            "track_id": "4OT8GH9u9Gx7ydJ49ULunN",
+            "track_name": "Slow Dancing in a Burning Room - Live at the Nokia Theatre"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c5f1db37dc1c023cb08c70c8d454a9afe65bc85",
+            "track_id": "79H87DHga7uOxkvFRGa4a8",
+            "track_name": "I Don't Trust Myself (With Loving You) - Live at the Nokia Theatre"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e856bb702abb7f3e44757a18d7aa5a658a33f2e",
+            "track_id": "2vFYhHS8ycUITvZYownH5K",
+            "track_name": "Belief - Live at the Nokia Theatre"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbf0e39ed7adbcf62854de23afccd7ed530fd792",
+            "track_id": "3R02xeYlAT16k4GSL0fRQE",
+            "track_name": "Steamroller"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4eb7e90f46ea5984c68354631cd82f563767e5c",
+            "track_id": "5XNpdKmlLJPUbwKQceX2tW",
+            "track_name": "Little Wing"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/da44b52235e69c044aa8ea220e0dd07377392f73",
+            "track_id": "6MvGg9X7lIt64WW28Nxfxo",
+            "track_name": "Texas Flood"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/05232294a4ee6ae627b1b721da0a56c558991409",
+            "track_id": "5w8Ti9LEgtN2wXnJ4W4qpI",
+            "track_name": "Lenny - Live at The Spectrum, Montreal; Augusy 17 1984 (Late Show)"
+        },
+        {
+            "artist_id": "0AD4odMWVQ2wUSlgxOB5Rl",
+            "artist_name": "Jeff Beck",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/65232294713eb3d89abe0cd677f9f206db4c063a",
+            "track_id": "3Be7vJDOFNOVv3iYQgIQpu",
+            "track_name": "I Put A Spell On You [feat. Joss Stone]"
+        },
+        {
+            "artist_id": "1aTDTChWWyiJH3SEnYrdVp",
+            "artist_name": "Taj Mahal",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/a09aaac22fb0d65e3b2f6071a6d4c174cd0d1426",
+            "track_id": "29yCqXXDp6PE6nq59Ke0I8",
+            "track_name": "Lovin' in My Baby's Eyes"
+        },
+        {
+            "artist_id": "06nsZ3qSOYZ2hPVIMcr1IN",
+            "artist_name": "J.J. Cale",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/78cf17f46a7351704d746e482bdf188998d071ad",
+            "track_id": "6G3NoUqDpqD3Rgfel2pD6s",
+            "track_name": "Cocaine"
+        }
+    ]
+}

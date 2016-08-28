@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/dboyd435/playlists/4oeiuKUJlITNcgLIz9SWyP/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "3HL9dtbUo5mJwXQyaEUESR",
+            "track_name": "Ants Marching"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/b0a18dc1dde545c541b8505fe373329824468e04",
+            "track_id": "6XwfD9lOLt0llDj2y69WHT",
+            "track_name": "Ants Marching - Live from Busch Stadium"
+        }
+    ]
+}

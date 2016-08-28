@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/122815469/playlists/4kGiivRy7DchBD2z1xv93h/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4frXpPxQQZwbCu3eTGnZEw",
+            "artist_name": "Thundercat",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/17c1041986b25f3c00966c9d9c91c296772e6503",
+            "track_id": "7hmiDaBxoyLW094H8vup2S",
+            "track_name": "Them Changes (feat. Flying Lotus & Kamasi Washington)"
+        },
+        {
+            "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "artist_name": "The Weeknd",
+            "popularity": 97,
+            "preview_url": "https://p.scdn.co/mp3-preview/bcf7760f45c81ec90b1fe7ebf9bc3809cc459b17",
+            "track_id": "6RsWqX8zABZLhZydXxEFOm",
+            "track_name": "Can't Feel My Face"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/cefdd4787a79b7ada9d14a58907567b3404bc456",
+            "track_id": "2dxjKgT0li4qBI3QwuN9Ih",
+            "track_name": "Touch The Sky"
+        },
+        {
+            "artist_id": "3tx8fyu3c4OBP5nejYtUOb",
+            "artist_name": "Average White Band",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4fda755cd6f467fd20143b610bf931516724e89",
+            "track_id": "2x1LQq8lsUzAA2wNj8yjC9",
+            "track_name": "Pick Up The Pieces"
+        },
+        {
+            "artist_id": "31TPClRtHm23RisEBtV3X7",
+            "artist_name": "Justin Timberlake",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/c316af6ec2d0780590fb160137c81bf2a152e03e",
+            "track_id": "3UNM3ckb1Qxh4ZDNem6gko",
+            "track_name": "Strawberry Bubblegum"
+        },
+        {
+            "artist_id": "0pCNk4D3E2xtszsm6hMsWr",
+            "artist_name": "K.Flay",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/24655b255979c1c4f3590105961d9aac52f5576c",
+            "track_id": "4KAhc69yQjKk9cZUMxZ3n9",
+            "track_name": "Make Me Fade"
+        }
+    ]
+}

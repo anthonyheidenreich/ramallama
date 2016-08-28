@@ -1,0 +1,413 @@
+{
+    "href": "https://api.spotify.com/v1/users/lizyeomans/playlists/2kVmZGZ4yZfdIDNsL8tZib/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b854371334393531952610ae17c4b3c1594ca1e",
+            "track_id": "1FkfPShKw6e2WHe3ZsYEbk",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "4LG4Bs1Gadht7TCrMytQUO",
+            "artist_name": "The Shins",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9759b21a41ef97005e0fdaf1f91facc7a15a824",
+            "track_id": "3OnZDfpaIbb2dBCCHtoYSX",
+            "track_name": "Wonderful Christmastime"
+        },
+        {
+            "artist_id": "1rAv1GhTQ2rmG94p9lU3rB",
+            "artist_name": "Julian Casablancas",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/e68abec5ab9867dee253e93468d93c82c1f6ad1d",
+            "track_id": "1rpBhDKKyeyog3m1AQIxrJ",
+            "track_name": "Christmas Treat"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "41xHdj20b01SVrV9oDWgc7",
+            "track_name": "Winter Winds"
+        },
+        {
+            "artist_id": "3JVgWZxQa78cVa2cUuAUQ4",
+            "artist_name": "Matt Pond PA",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/720a7fcb426d7b0ee6f489133e7177ce6f68e317",
+            "track_id": "3XZMIVgiRCwnKfce1osBYl",
+            "track_name": "Holiday Road"
+        },
+        {
+            "artist_id": "4AcHt3JxKy59IX7JNNlZn4",
+            "artist_name": "Fitz and The Tantrums",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "2ljA3Uswys7dz650wprQxO",
+            "track_name": "Santa Stole My Lady"
+        },
+        {
+            "artist_id": "65XA3lk0aG9XejO8y37jjD",
+            "artist_name": "the bird and the bee",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/326cf38e971aa8df14dd95a3c596f1927609444f",
+            "track_id": "1Tog7z9obwbdD2iBj1Ik0i",
+            "track_name": "Carol Of The Bells"
+        },
+        {
+            "artist_id": "7sgWBYtJpblXpJl2lU5WVs",
+            "artist_name": "Electric Guest",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d6ed19b056b1c58938f08f1220ca17781a3c580",
+            "track_id": "1T5wCJezAoB2NTsP4CzGZ5",
+            "track_name": "Holiday"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The xx",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Last Christmas (Live on Radio 1's Live Lounge)"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/76b319fedcf474e869f5c8b162516cd91128ba42",
+            "track_id": "0SZim5k1ypcgRsWmFcrGfs",
+            "track_name": "What Are You Doing New Year\u2019s Eve?"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/daf6082bb17bbe34d83f0c1611951b37d3703f8c",
+            "track_id": "3ciC6GP8rOPxlkCYQIQ3jW",
+            "track_name": "Holiday"
+        },
+        {
+            "artist_id": "2EO56JK4txid1Pss9GVbOL",
+            "artist_name": "Stars",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/d465055f36e46f5379964551ad19bb48af0aefa7",
+            "track_id": "2Ua2oF9reZW6TpAejWjATP",
+            "track_name": "Christmas Song"
+        },
+        {
+            "artist_id": "4srikj7R58tanh2S0FpoVw",
+            "artist_name": "Alice Smith",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ed780f81b54f19ce126ce5bacba9d318681c6ec",
+            "track_id": "4xAZBgTfVeV7EMevMwWYA6",
+            "track_name": "Silver Bells"
+        },
+        {
+            "artist_id": "6J7rw7NELJUCThPbAfyLIE",
+            "artist_name": "The Civil Wars",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8439e123f97fd297dc2b85891729c4e29694cacf",
+            "track_id": "1qSBHo7rjtqYdd0XJB8ngq",
+            "track_name": "I Heard The Bells On Christmas Day"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/c78cc3c67382f00f3584acae533a1d89b3b93655",
+            "track_id": "2wIcC00knzyI889QUMQy4D",
+            "track_name": "Joy To The World"
+        },
+        {
+            "artist_id": "0OdUWJ0sBjDrqHygGUXeCF",
+            "artist_name": "Band of Horses",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/97fd6c6993c01be6225d05f9274558fe42fe3486",
+            "track_id": "4R3micyhxAUdfjPDkZ5oDE",
+            "track_name": "The First Song"
+        },
+        {
+            "artist_id": "5lpH0xAS4fVfLkACg9DAuM",
+            "artist_name": "Wham!",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/62297cf02190f588bbd1c24010e1288258c1bde8",
+            "track_id": "5Nor0KqgxK7zcCwJBiyyLD",
+            "track_name": "Last Christmas - Single Version"
+        },
+        {
+            "artist_id": "43O3c6wewpzPKwVaGEEtBM",
+            "artist_name": "My Morning Jacket",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd267a12aa6d65beed16c6e9e4702f3b77269a7a",
+            "track_id": "32le5VSoeqPmuVYZGE6b6a",
+            "track_name": "Xmas Curtain"
+        },
+        {
+            "artist_id": "7D3IiPrIsSWfMFHEqEOCUB",
+            "artist_name": "Whitney Duncan",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/18e9fdcc712fb4162fde30a6ce8433fbf6103740",
+            "track_id": "0EVVUSgiXvwiLY0hHXG7GG",
+            "track_name": "All I Want For Christmas Is You"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d05e2036ce0769c964f55a3f4da1570e65d64e1",
+            "track_id": "1ZvYWgKUR1y9nbO8s34oSM",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+            "artist_name": "Willie Nelson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/c162ae584a4144c0abb0abd7c04ebb70c0ad3141",
+            "track_id": "5RpBRqmnGIdQJ63U15J1Ld",
+            "track_name": "Baby It's Cold Outside - feat. Norah Jones"
+        },
+        {
+            "artist_id": "1OmdWpAh1pucAuZPzJaxIJ",
+            "artist_name": "Calexico",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/174bce76658895dfef3a9c1def44c8a27fe0db71",
+            "track_id": "5P0cZ3i8YB7DFbVLXuuPeL",
+            "track_name": "Green Grows The Holly"
+        },
+        {
+            "artist_id": "34XlPCFfB4vT7P1ekWq9Jc",
+            "artist_name": "Guster",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/8cdab3084e3fed9e7cf89f8478659c84547ad819",
+            "track_id": "2rWxgm8YFPULQSgVNihzS1",
+            "track_name": "Mamacita, Donde Esta Santa Claus? - Non-Album Track"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 37,
+            "preview_url": null,
+            "track_id": "2cXuRiwMjKQ5ny7cW4Awls",
+            "track_name": "Christmas Song"
+        },
+        {
+            "artist_id": "2buJppisWV2GWWBWgkK074",
+            "artist_name": "The Swell Season",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "18YH3E7x91v6AC3lhGiolf",
+            "track_name": "Star Star (Live)"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b12ef7263c58b235f1ea7fff97ded64a82a0b46",
+            "track_id": "27xdZ9J1uQPIOWR2yNe8Ey",
+            "track_name": "Angels We Have Heard On High"
+        },
+        {
+            "artist_id": "361HqUPgdXJQNI6CHsJMgY",
+            "artist_name": "Meiko",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/26accc9adfd67682eb8ef5aba43f86572aea3a1b",
+            "track_id": "0FClkWwFaJ0L4JasrgFLEu",
+            "track_name": "Maybe Next Year (X-Mas Song)"
+        },
+        {
+            "artist_id": "4C50EbCS11M0VbGyH3OfLt",
+            "artist_name": "Bahamas",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd4e4b117e571edbf440255d795d316f5b5460f0",
+            "track_id": "5HGeTJqFRlhY3VYC9phKw6",
+            "track_name": "Christmas Must Be Tonight"
+        },
+        {
+            "artist_id": "6zGcYBjlNOMSVVrl7ZoGsH",
+            "artist_name": "Zee Avi",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/af224acfdb216a2ecbb8be1014bbddd004a8139d",
+            "track_id": "7vPz1tQDvIMWmUMLrTRZQ4",
+            "track_name": "Frosty The Snowman"
+        },
+        {
+            "artist_id": "3DozezNrsIE37kJJfHhS9M",
+            "artist_name": "Ages and Ages",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b330967aad27fe181fa1b9fbe5b9457271a601b",
+            "track_id": "3C50CYQ2uFnDCF0h1t2xc5",
+            "track_name": "We Need A Little Christmas"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Florence + the Machine",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Last Christmas"
+        },
+        {
+            "artist_id": "4STHEaNw4mPZ2tzheohgXB",
+            "artist_name": "Paul McCartney",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/f3f536d48bcf79b0b0444134c5321988d72f9633",
+            "track_id": "6NBEjaO6uf9ZCxjylkazqh",
+            "track_name": "The Christmas Song (Chestnuts Roasting On An Open Fire)"
+        },
+        {
+            "artist_id": "5g3uG8zZZANGT6YOssgjfC",
+            "artist_name": "Lenka",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/03a1c14252f37dcc0ec8a4e8247f036d14421c53",
+            "track_id": "4WrP4tyHau0Rq1RyHJZxqZ",
+            "track_name": "All My Bells Are Ringing"
+        },
+        {
+            "artist_id": "7oGeuL6HCm7ZmHXJDmMeWQ",
+            "artist_name": "Holly Conlan",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/4255c158b48e76ee64e62372cbea933062fa0432",
+            "track_id": "1ZSg91Jv1sA3D6H2a9Pc9k",
+            "track_name": "I'll Be Home for Christmas (If Only In My Dreams) (Remastered)"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 86,
+            "preview_url": "https://p.scdn.co/mp3-preview/83bc99b80b9bd0115cbd1ff6447152f60f8c4386",
+            "track_id": "4fzyvSu73BhGvi96p2zwjL",
+            "track_name": "Christmas Lights"
+        },
+        {
+            "artist_id": "0KaOODqnbHxMIZ3qUH5F5n",
+            "artist_name": "Leigh Nash",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4zDiP5zETJpiPPZjkaDtFf",
+            "track_name": "The First Noel"
+        },
+        {
+            "artist_id": "4ylR3zwA0zaapAu94fktwa",
+            "artist_name": "Macy Gray",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fa9a5ef9eb298ab88f95ee3f4d5bab082e4096a",
+            "track_id": "3LeNO9pTNdYhmx52DAzMXn",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "2JSc53B5cQ31m0xTB7JFpG",
+            "artist_name": "Rogue Wave",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/2165f05ba4097baabc4538c4c7708e41b2073394",
+            "track_id": "5cIQbhF2uB0zJHmvynMIav",
+            "track_name": "Jingle Bell Rock"
+        },
+        {
+            "artist_id": "4GLJPBj5Cdr9AgLKvLWM4n",
+            "artist_name": "Dragonette",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb4ad8e29d2ff874f83fdf7247eecc76d06061f9",
+            "track_id": "7ccep0sOiDLclkvEXyfOET",
+            "track_name": "Merry Xmas (Says Your Text Message)"
+        },
+        {
+            "artist_id": "6zGcYBjlNOMSVVrl7ZoGsH",
+            "artist_name": "Zee Avi",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/b2f5e4156a055a5c6957d8cd7e8272aedd4631d8",
+            "track_id": "7sqgTU6on3tAJ9dtBKSGEY",
+            "track_name": "No Christmas For Me"
+        },
+        {
+            "artist_id": "5nCi3BB41mBaMH9gfr6Su0",
+            "artist_name": "fun.",
+            "popularity": 37,
+            "preview_url": null,
+            "track_id": "0kIVSKPygLNAEBi7EVeeJn",
+            "track_name": "Sleigh Ride"
+        },
+        {
+            "artist_id": "2JSc53B5cQ31m0xTB7JFpG",
+            "artist_name": "Rogue Wave",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a3e2fc5fdc6dfb086c5c952474732899cdc356d",
+            "track_id": "7oVctxa79jqB5HH8qOWZ0b",
+            "track_name": "Christmas"
+        },
+        {
+            "artist_id": "4EVpmkEwrLYEg6jIsiPMIb",
+            "artist_name": "Fleet Foxes",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/2451c6ca4ad5edc0002c847c61af69ced4dfce53",
+            "track_id": "1Er5JMNcguoBMFXxwZ7BWH",
+            "track_name": "White Winter Hymnal"
+        },
+        {
+            "artist_id": "2EO56JK4txid1Pss9GVbOL",
+            "artist_name": "Stars",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/2416955415c181d13d7838e9bbd623034679a1cd",
+            "track_id": "2A0uaqm0eJ5mACVlx2rvmH",
+            "track_name": "Fairytale of New York"
+        },
+        {
+            "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+            "artist_name": "R.E.M.",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca46e590530d8eb94427f55e9b3e3a6e5f6defaa",
+            "track_id": "3zJgkL8v0UNVdyKTGc8wzk",
+            "track_name": "Deck The Halls"
+        },
+        {
+            "artist_id": "0X0TajZO1RmY3D8u1JymYq",
+            "artist_name": "Au Revoir Simone",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d22027d76277439059f4fe5a7e8bed08fa2e9dc",
+            "track_id": "06eLSwUFhd9Gufpx7IC8ja",
+            "track_name": "Fallen Snow"
+        },
+        {
+            "artist_id": "3rIZMv9rysU7JkLzEaC5Jp",
+            "artist_name": "Snow Patrol",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/2fa972ad49f99844520cf1e6bc1f93a19cd55600",
+            "track_id": "3KyVary6bJfAK5cZCWgW1j",
+            "track_name": "When I Get Home for Christmas"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfcdac5008db5d57c57541176ea65174919cfbd4",
+            "track_id": "0nNSe20usqaijlOpIhmwzt",
+            "track_name": "New Year's Day"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/593db199a7ec110273bca0eb216775dce8b99d18",
+            "track_id": "6ShAxK5egTFaalJMty15Si",
+            "track_name": "Someday At Christmas"
+        },
+        {
+            "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+            "artist_name": "The Killers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a78d310354bc1c1d1963c54051a84a4fc862185",
+            "track_id": "1fd9aHKnvhot60b0V0Kokr",
+            "track_name": "Boots"
+        },
+        {
+            "artist_id": "2Mf99N2VcDEcVuocyBLhyC",
+            "artist_name": "Greg Laswell",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/7fd73877ad4baace569a9cfa4cb19e3a327c0e7f",
+            "track_id": "4W5s6JawwLZrlrk9JdHH5Q",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1220992694/playlists/7xe66xV02dwOPa8kwdCx5L/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/a252b3d4b3ff8c057fae446072227848346a2012",
+            "track_id": "0iOYN5nonDl78vcELvwQpD",
+            "track_name": "Voodoo Child (Slight Return) - Live at Montreux, 1985"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "14WPluxa6FpmMH49jkb7UK",
+            "track_name": "Cradle Rock"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4lokEqSI5xHOVT4pnmqWeN",
+            "track_name": "Wild About You Baby"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffde378d8bb901424bda273731380d6ce36a7e59",
+            "track_id": "0MzV5eVsGs4TW9kz5gXIGd",
+            "track_name": "Love Struck Baby - Live at Carnegie Hall, 1984"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/29a92e00f06370056b24ea9cd1a56d1bbdcfc926",
+            "track_id": "5VQsBG2jnfeETC15EHcxAO",
+            "track_name": "Pride and Joy - Live at Carnegie Hall, 1984"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4eb7e90f46ea5984c68354631cd82f563767e5c",
+            "track_id": "5XNpdKmlLJPUbwKQceX2tW",
+            "track_name": "Little Wing"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/edff53a06a106c2b5375778d39c6cfcbd4ed68bf",
+            "track_id": "7aO35V27YDi4hKOL9odSya",
+            "track_name": "Bright Lights"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/d49ca0424f5b6e88b0bf377ed0d11bd97b36f493",
+            "track_id": "2mdxGlwrhtkuxgzbH7LOIh",
+            "track_name": "When My Train Pulls In"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/983b6e095f980209faeb88e26467abe4a585c9d1",
+            "track_id": "4YDGmc8R9FT7xyk4a4y5OB",
+            "track_name": "Glitter Ain't Gold (Jumpin' For Nothin')"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/968b574a9c93d165bb4dfb7a57eb99a2dc724231",
+            "track_id": "2AknZixHH262yq00xcHXKa",
+            "track_name": "Travis County"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/094df1ceb43e3cb2a1ea50a88965734de2b06c20",
+            "track_id": "5kZryYy6brZyySavzuli6a",
+            "track_name": "Please Come Home"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/379be9dc33785979a178bbe31284d48db2ca7861",
+            "track_id": "6B7aI3crr9n5B2bXkrAfVN",
+            "track_name": "Third Stone From The Sun/If You Love Me Like You Say"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/f86958f8faa24e990ba674df5ac78af1c85119d1",
+            "track_id": "0cJh6Ghx9Hy5nw9Cvo3ytn",
+            "track_name": "Next Door Neighbor Blues"
+        },
+        {
+            "artist_id": "01aC2ikO4Xgb2LUpf9JfKp",
+            "artist_name": "Gary Clark Jr.",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/50353d4d69db2c626b6fc518175bbcc0e8d7c069",
+            "track_id": "4iu49FeQQGiUh2Dn1A8qCl",
+            "track_name": "Don't Owe You A Thang"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "2ViHQX4FXuNEMpyRhb3Wno",
+            "track_name": "I'd Rather Go Blind"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5YHRlq38pIAY1Mh2p2vAza",
+            "track_name": "Something's Got A Hold On Me"
+        },
+        {
+            "artist_id": "1tpXaFf2F55E7kVJON4j4G",
+            "artist_name": "Black Rebel Motorcycle Club",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/308bcc54247010e0d354c9e2fde8ecb4a447f260",
+            "track_id": "57XbiF3mXSAXDntyEw57lW",
+            "track_name": "Ain't No Easy Way"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/05741c31a83387d1414f6ca2ad7d05ee6f4cf3b7",
+            "track_id": "1vm3dobPEhe6ZVhhbtiaWO",
+            "track_name": "A New Day Yesterday"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/483088fe4e2b107c273621f0412baec9f51a8128",
+            "track_id": "3jSj1k7V0y3JmahnH8YM4m",
+            "track_name": "Ball Peen Hammer"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4hnNfPMdDWH8GnMNXWav5B",
+            "track_name": "Bridge To Better Days"
+        },
+        {
+            "artist_id": "1YwfENKEZrowcmtR1nALZn",
+            "artist_name": "The Derek Trucks Band",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b906cd19e172c78a4d8c12f8efdc070dcfdee22",
+            "track_id": "2b0ObO7Xk3qzJdMOhJc5c3",
+            "track_name": "Crow Jane"
+        },
+        {
+            "artist_id": "1YwfENKEZrowcmtR1nALZn",
+            "artist_name": "The Derek Trucks Band",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab4b9f574e43665d6efea5e752edfb3e848da8ae",
+            "track_id": "2pwZrMxpvA8o5MKc1U4RHq",
+            "track_name": "Younk Funk"
+        },
+        {
+            "artist_id": "5T6YKEZhM6rVwCEm5PLKL8",
+            "artist_name": "Jason Bonham",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "1Cpyaoi72SY1Z1JHj8bUiF",
+            "track_name": "Song Of Yesterday"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3o5cnHKJHxrCHGNP64NQ4U",
+            "track_name": "Stop!"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2dV3nQdbJ69ha8ESqU2YbA",
+            "track_name": "Last Kiss"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5U1jfqz94TFz6zrBvAdFIh",
+            "track_name": "Black Lung Heartache"
+        },
+        {
+            "artist_id": "1YwfENKEZrowcmtR1nALZn",
+            "artist_name": "The Derek Trucks Band",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/f22a63374545273125f87d4273f95edabe2cd0ab",
+            "track_id": "0mrz0n03TSrVkJ5RMbIpAi",
+            "track_name": "All I Do - Live"
+        },
+        {
+            "artist_id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "artist_name": "ZZ Top",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2sXoGewNkEp1LCze9c8hA4",
+            "track_name": "Just Got Paid"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e6f6c9f81666d50df80171ffbfdf8f31e7084af",
+            "track_id": "4TSnmIHMAddoile3ZusYMc",
+            "track_name": "Cold Shot"
+        },
+        {
+            "artist_id": "1riHqX633Kup3mJAw8WR8p",
+            "artist_name": "Kenny Wayne Shepherd",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e47ae4ab11009cb7c7beb414f1f4c6622c94bdfe",
+            "track_id": "7GRq9NUgqhxPGUUksX02fk",
+            "track_name": "Blue On Black"
+        },
+        {
+            "artist_id": "5zoKOcTDI9EMOhGNaxL708",
+            "artist_name": "Gov't Mule",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/3951af6413f062c3a3abc10d8d48330e84078ca9",
+            "track_id": "65sypo3jg7ISLnXJxErPFE",
+            "track_name": "Gonna Send You Back To Georgia"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c01e1644c8e7fb9a1bc2f9e6c2bb9d7679cbbc5",
+            "track_id": "1GVh1rCVs0N8HQxcejntLx",
+            "track_name": "Still Got The Blues"
+        },
+        {
+            "artist_id": "4pejUc4iciQfgdX6OKulQn",
+            "artist_name": "Queens of the Stone Age",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1ms5piI0990KxIJgQw9l9O",
+            "track_name": "Outlaw Blues"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae2165bcd277f0936c9bfd3a62873be0fef6f88d",
+            "track_id": "2TxIuKRlieivncxx6t0U4M",
+            "track_name": "Walking by Myself"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/acc90dead38c041395e750b88cf42e60a008b0d3",
+            "track_id": "3VRdKpDdGrTentVXBE2YcV",
+            "track_name": "Stormy Monday"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e6f52dfe58fdb7e2e8ca593fa624b3a758d7bd5",
+            "track_id": "0HMUuJkQ2VmL7p1LZaEuWg",
+            "track_name": "Parisienne Walkways"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/affc33ca45589c9980b9401402439e288611a2bc",
+            "track_id": "7nzNwGO2G1wbvXE1sK7PKz",
+            "track_name": "Too Tired"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c02521b8407b5fddbcc1f570f005f88c2c9385f",
+            "track_id": "2qtfixoufPXbf8kEvFYbBR",
+            "track_name": "Oh Pretty Woman"
+        },
+        {
+            "artist_id": "23wr9RJZg0PmYvVFyNkQ4j",
+            "artist_name": "Gary Moore",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb50122578f2c90829145104e8816605f61f7cc7",
+            "track_id": "4Go2HActFW5RaA7CkC76q8",
+            "track_name": "Moving On"
+        },
+        {
+            "artist_id": "7by60V2ChbeiVhwXK5Jk6l",
+            "artist_name": "Black Country Communion",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9e94588d8f78b7ee3c0deceee1fe19851dd9fca",
+            "track_id": "39G3Gr9yS2McvuiNlI2slJ",
+            "track_name": "This Is Your Time"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/98a41a16fd5f86bb26596091a82b51b91339e69c",
+            "track_id": "5hob2jVM2gA74CyJ4G4bJZ",
+            "track_name": "Sloe Gin"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/893838f8ca77eae2116ddcf6aaeafe26d501911f",
+            "track_id": "4xnBJaAEMp0LUQz5vza2KE",
+            "track_name": "Tea For One"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/785652a197eabb405fa253c68c4b4b8142bc5c9b",
+            "track_id": "3lnavfgHUTrxdRqcPmhqUA",
+            "track_name": "Catfish Blues"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/1bbb1a009b959824d1475cdbff118e78da733cb5",
+            "track_id": "1ska3YnfMLiOJ6YH7EpZa9",
+            "track_name": "Red House"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/b2271b7dda186fe1334350723e368075fc5f76ef",
+            "track_id": "2z34AUAlDL5ZVjZpCNqwD1",
+            "track_name": "Voodoo Chile Blues"
+        },
+        {
+            "artist_id": "40N10exWtaCVUtBMftQn3t",
+            "artist_name": "The Stone Foxes",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/edb8446059de497f12f239202054c27f8c99d83c",
+            "track_id": "0TSS1Ru9owINDjqsqZZchG",
+            "track_name": "Everybody Knows"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/94042bd8e13a72fc0222ff08c0f3db7e974342a4",
+            "track_id": "3CObr9a0JWviHY7znjWS0D",
+            "track_name": "Livin' In The Jungle"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5efca63deb7878e5984ed59a583686c446aa3e3",
+            "track_id": "1CHappnL2D0xV6rNB2zJyC",
+            "track_name": "I'm Gonna Leave You"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d7d66258ba10187d4c892605484ab2d22759833",
+            "track_id": "0f6SrIFK5k9iST0dvxiuSV",
+            "track_name": "Booty City"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/bdf011b54dc1713cb3c25fafbb827f94e306c5c1",
+            "track_id": "2KSO6NxSjtP2fMDbHHpzwF",
+            "track_name": "Black Snake"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d4c4e2a0c5588362f49441df3c7eef4d4679d3c",
+            "track_id": "5YeRq4ATkkJONXVPKblRRs",
+            "track_name": "She's So Scandalous"
+        },
+        {
+            "artist_id": "4wPKtZH8mW0PdLeWPneweb",
+            "artist_name": "The Dirtbombs",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/18ee750cbc9d8c4a1a5610c97bfc9cad4341a2b5",
+            "track_id": "10CzIyOWd75NDoVfJ1myca",
+            "track_name": "Chains of Love"
+        },
+        {
+            "artist_id": "4wPKtZH8mW0PdLeWPneweb",
+            "artist_name": "The Dirtbombs",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/13608ff837d2af5270f2ca5beee63928a33995a6",
+            "track_id": "7vBJtmISAE54x2xmVFi12y",
+            "track_name": "Livin' for the City"
+        },
+        {
+            "artist_id": "4wPKtZH8mW0PdLeWPneweb",
+            "artist_name": "The Dirtbombs",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/d78ee918347dc9c4a122b0099cbd4915df6f4580",
+            "track_id": "6mSpP26evmBokQCgc5pQpP",
+            "track_name": "The Thing"
+        },
+        {
+            "artist_id": "4tWFXbJnjC9lM3UzmOpUiR",
+            "artist_name": "The Detroit Cobras",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/06df52f67a0f9ef3d1e840650768b3f99a1158c5",
+            "track_id": "2dhAJEZn8jpU5EeFaKEkDd",
+            "track_name": "Hey Sailor"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/31fed10a100d5c6c78373416445e6de1bfe530f3",
+            "track_id": "7LBXVKs6C5z4LquGjPO8VK",
+            "track_name": "Mustang Ranch"
+        },
+        {
+            "artist_id": "0Nrwy16xCPXG8AwkMbcVvo",
+            "artist_name": "Black Pistol Fire",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "6gVtsx3F2xkfOAZDIM7rkt",
+            "track_name": "Suffocation Blues"
+        },
+        {
+            "artist_id": "6YWdHD3R863Apw1hkx3BwC",
+            "artist_name": "Dan Auerbach",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/47a7c5880a73563e3c45dd6690ec2aaa9b1df7e7",
+            "track_id": "2Bcu8cmU7qYu3qXLowHQie",
+            "track_name": "Heartbroken, In Disrepair"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/ecb79fcccbfaefc1a8ee7b6822a3f28f53d45776",
+            "track_id": "5ibR7sVsyIiPIlJZnPrKYV",
+            "track_name": "Them There Eyes"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/c32ab64e99fcceef06f12b03502ce39b554a7079",
+            "track_id": "40iOdBmx4qIZTA4C1SFjxK",
+            "track_name": "Nutbush City Limits"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e4726e959e84d37f1a558db0ae022618c522058",
+            "track_id": "2RlaQQvwjmi3iiQekDjWha",
+            "track_name": "I Love You More Than You'll Ever Know"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd5f2531a6d390e2fc602c11f01d130566d9d2e2",
+            "track_id": "4U7I0XyvwSmy2JQFWz04Z9",
+            "track_name": "Can't Let You Go"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/299afde1d818e051f756b64a61f2c4a694ddff76",
+            "track_id": "1Mvilr37gLYBkZ7RAgFE9j",
+            "track_name": "Miss Lady"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f6b319ace8dda73003c3c67a251a6a706e081ac",
+            "track_id": "1I32D5O8mjfQEglezN4bY0",
+            "track_name": "Slow Train"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/606be72daf537fcc52d31aed2dba2499c140d6a1",
+            "track_id": "1i7QbG73o4liXhmbtaT7Z3",
+            "track_name": "Dust Bowl"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/2bb081c3e1689c0fd8670854d923e4b39d83c1f2",
+            "track_id": "2w4LgJnepZnNvPzZ5r6ZID",
+            "track_name": "Young Man Blues"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7czHl4fmPBSHYmPutnaBLt",
+            "track_name": "Steal Your Heart Away"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b0481919e0e8bc05ee22b661cf8de749c8956ed",
+            "track_id": "4DmBVImaIhE3RyNvbtZTTz",
+            "track_name": "Hear My Train A Comin'"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3ac66aeb5366aac26750585e1e45948943e61d8",
+            "track_id": "5QytK3mFNMckdsgVdCv5Lf",
+            "track_name": "Bleeding Heart"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0ba3a6668f2085c602ad87138d452ad59e6709c",
+            "track_id": "4kETOLpw7MYYo37hZSDXLl",
+            "track_name": "Izabella"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/e67cf99c7fca72d50af12e8f10c61f69f9d03d59",
+            "track_id": "5zFh1aUayQRceYjhiKfzEn",
+            "track_name": "Stepping Stone"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/7defb93428c0ec12fc9722b3d47d8a9fab2c0f8c",
+            "track_id": "3S6wH6qdbX7hWGDyz8ec1k",
+            "track_name": "Tax Free"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ffc72a328f652d84f066ce294c54c1de4507d1f",
+            "track_id": "0Vck4lRQnl859KuSDrLczH",
+            "track_name": "Jam 292"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/589b7cff3779a8fa98e14b7b19a13c514002f471",
+            "track_id": "1HbOlAS9kF9d5j7WNQbin9",
+            "track_name": "Born Under a Bad Sign"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/71c10e5603ea787b559bf4304335da4944b094f7",
+            "track_id": "2gorgmkfR7Q5MwXUfYxyh9",
+            "track_name": "Lover Man (Live at the Electric Lady Studios, New York, NY, July 20, 1970)"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a7eda93b1e46b3a9f6135a71f5944dbb412b911",
+            "track_id": "3IDMfIvo82ygofutOdqgkv",
+            "track_name": "Hound Dog Blues - Anthology Version"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a9c905ab55ae559a4503501e995a08aee2eee5f",
+            "track_id": "2LtaRljWKja3dwenn9DTWH",
+            "track_name": "Gunpowder"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/598f2ba1ceaa1e8e37ff2acb9074804ee2317efe",
+            "track_id": "0KD5P1kWT1qXx5SNKcHf7w",
+            "track_name": "Sugarfoot"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/723f247a91e43a1728860a7ad2a4803115e25844",
+            "track_id": "0SQs0HOHIQpnYzqCN1PSrU",
+            "track_name": "I'm Broke"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/9617710524397c16829728b9675f15ade341200e",
+            "track_id": "1XYaZyT9cf7KasPVCMsCXP",
+            "track_name": "Big Booty Woman"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cb0d84af4f34179806b356d1e47ea8fecfdba41",
+            "track_id": "4CbXjpjjjVTVYU6s8NOGzs",
+            "track_name": "Boogie"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a9dafadfc979d5e0f5cdd25f553e7f346033f5a",
+            "track_id": "3QUG2aFOmRx48Zb2QChnoy",
+            "track_name": "Get Yo Shit"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f4684de90d226612e6f64b5f03e2798c044110b",
+            "track_id": "2Tox03JWasFCTwpDe5W60S",
+            "track_name": "Humpin'"
+        },
+        {
+            "artist_id": "6kbzJ40luXJ5IKnSpWr7SD",
+            "artist_name": "Black Joe Lewis & The Honeybears",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cdaa11ba9c54ee9d69f5135451fe67957c49725",
+            "track_id": "7bMa6DN0HLOex3LrT4RAGv",
+            "track_name": "Bobby Booshay"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4KpqlerORmYHZM7DGYI81a",
+            "track_name": "A New Day Yesterday"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "25PPnuNkPBGBMa1mztFYsq",
+            "track_name": "Miss You, Hate You"
+        },
+        {
+            "artist_id": "2gFsmDBM0hkoZPmrO5EdyO",
+            "artist_name": "Tedeschi Trucks Band",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/8dd3557a983dd48f10e517abd25eeeb17359f389",
+            "track_id": "6r1KtkskPUcNheQ7uBHwS2",
+            "track_name": "Made Up Mind"
+        },
+        {
+            "artist_id": "4hFguSNiDDWFzkdaxoBYF7",
+            "artist_name": "Black Joe Lewis",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/05badaa451fbe5707cc1e93f7f4a9281dd4a1cd8",
+            "track_id": "24Dzw1Thmf6zFh9EsLpM43",
+            "track_name": "Skulldiggin"
+        },
+        {
+            "artist_id": "4hFguSNiDDWFzkdaxoBYF7",
+            "artist_name": "Black Joe Lewis",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/21ab7f94cd75107e3c59374f82cc329538786bfd",
+            "track_id": "09tKrl1NN34Iv54j5Io7Dh",
+            "track_name": "Come to My Party"
+        },
+        {
+            "artist_id": "4hFguSNiDDWFzkdaxoBYF7",
+            "artist_name": "Black Joe Lewis",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/0bf8191d98f15fa7decdda6ce512fb76d9955c18",
+            "track_id": "5FSbKwZKj6E5H0wOBX3B6u",
+            "track_name": "The Hipster"
+        },
+        {
+            "artist_id": "2gCsNOpiBaMNh20jQ5prf0",
+            "artist_name": "Buddy Guy",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ef40dfd5037d72a6c5fac613066449eca7e87c6",
+            "track_id": "5fs3sNq3KK9jpbTNCf324m",
+            "track_name": "Blues Don't Care"
+        },
+        {
+            "artist_id": "6J3pUmw6KX1LqyLQkP0k9U",
+            "artist_name": "Booker T. Jones",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/e427ea02f8cda129a7777f247133731b7719874e",
+            "track_id": "64maYnHVWHjodZS9hO4a5i",
+            "track_name": "Austin City Blues"
+        },
+        {
+            "artist_id": "5zoKOcTDI9EMOhGNaxL708",
+            "artist_name": "Gov't Mule",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2b866a5ffbc83863368bc07366e29295dd9c111",
+            "track_id": "05aOVd8Y74MEaUP5aigsAo",
+            "track_name": "World Boss"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf98ecfda9cc80741d844c77869dc532e2beef77",
+            "track_id": "1QCCnFDq57wPmdcMneNDJ9",
+            "track_name": "Testify - Live at Carnegie Hall, 1984"
+        },
+        {
+            "artist_id": "03HEHGJoLPdARs4nrtUidr",
+            "artist_name": "Junior Kimbrough",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/22692ddabce26ec0f9011a5fcf0714213d840ead",
+            "track_id": "3iSihHxg9JzTaXcskFJ07w",
+            "track_name": "You Better Run"
+        },
+        {
+            "artist_id": "03HEHGJoLPdARs4nrtUidr",
+            "artist_name": "Junior Kimbrough",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/996d164af664b9ad3ca817f84f5b488a37d9a125",
+            "track_id": "7dSms9kkYxLxsh5dPPQaKe",
+            "track_name": "Release Me"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c5fe76661ce2e6b09f461b07f6198d3268cf4e4",
+            "track_id": "7aAholeRCIGZD1QhHYKDDq",
+            "track_name": "Earth Blues"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/550664849eb6f7e64f83b64f1ddbb3593f21cd4d",
+            "track_id": "4L1MrFFkGrs5Mxkj7Xamti",
+            "track_name": "Let Me Move You"
+        },
+        {
+            "artist_id": "4hFguSNiDDWFzkdaxoBYF7",
+            "artist_name": "Black Joe Lewis",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2bc4526992d740d29ab8bd314a781b0083069b7",
+            "track_id": "0h1YuFygLk1tg1F7nvWzSy",
+            "track_name": "Young Girls"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3f2ad523335631db98b5f987d586c1e3f962dff",
+            "track_id": "1nAuXxGguNT6ZGdd2A4Lh6",
+            "track_name": "I Don't Live Today"
+        }
+    ]
+}

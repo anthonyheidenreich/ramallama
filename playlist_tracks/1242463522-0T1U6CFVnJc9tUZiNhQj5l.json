@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/0T1U6CFVnJc9tUZiNhQj5l/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "60df5JBRRPcnSpsIMxxwQm",
+            "artist_name": "Otis Redding",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae39316c20deb4d56c76bb72cbaab01f2678d9c0",
+            "track_id": "50uGbeaQIxKiSc7jvRTjWx",
+            "track_name": "(Sittin' On) The Dock Of The Bay"
+        },
+        {
+            "artist_id": "6hnWRPzGGKiapVX1UCdEAC",
+            "artist_name": "Sam Cooke",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d25756f98505b867a0fb6b18b4f8fdf560e116d",
+            "track_id": "0YfOnJWqmAKaUvEL1QcNop",
+            "track_name": "A Change Is Gonna Come"
+        },
+        {
+            "artist_id": "6ohvzFHYmLd05kyYhLui5K",
+            "artist_name": "Brenton Wood",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/d981c8f8fd3ef90ef85b4f1d85cbdc4b99231c99",
+            "track_id": "1tffppdVvHZzD0uRdYIxQ1",
+            "track_name": "The Oogum Boogum Song (Rerecorded)"
+        }
+    ]
+}

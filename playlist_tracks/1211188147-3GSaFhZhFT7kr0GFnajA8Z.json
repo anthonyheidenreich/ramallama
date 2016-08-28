@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1211188147/playlists/3GSaFhZhFT7kr0GFnajA8Z/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4Y7tXHSEejGu1vQ9bwDdXW",
+            "artist_name": "Fatboy Slim",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "2aN2OrAWq6IW0TDmN28Mgj",
+            "track_name": "The Rockafeller Skank"
+        },
+        {
+            "artist_id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "artist_name": "Daft Punk",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/009b72b43f6462c954d37501fe54439f37f2ef59",
+            "track_id": "36c4JohayB9qd64eidQMBi",
+            "track_name": "Doin' it Right"
+        }
+    ]
+}

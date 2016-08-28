@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/2Ww6FTjGICwYhFKtIUPWHZ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0kObWap02DEg9EAJ3PBxzf",
+            "artist_name": "Starship",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/021d3772b92fb0308c0b1852cf4aa444de3fdb81",
+            "track_id": "2vEQ9zBiwbAVXzS2SOxodY",
+            "track_name": "Nothing's Gonna Stop Us Now"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/3695e7f2b01c4b86143d938e54a4f08fdad09940",
+            "track_id": "0efT4YKQLQx2YHbp6vgRX8",
+            "track_name": "Someone New"
+        }
+    ]
+}

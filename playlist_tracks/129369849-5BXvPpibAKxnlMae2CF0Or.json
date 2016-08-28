@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/5BXvPpibAKxnlMae2CF0Or/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5tGF7OOmuznuZRU5cZqZet",
+            "artist_name": "The Feud",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa1702a3d2f3ac34164ede95cc505b8c8421b74c",
+            "track_id": "2CiaSMQ95NMXiW76DwNQzv",
+            "track_name": "This Is Love"
+        },
+        {
+            "artist_id": "5tGF7OOmuznuZRU5cZqZet",
+            "artist_name": "The Feud",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/138ac599836c093d14b880b12dcc7b140021c015",
+            "track_id": "5Wx5BHf0PMslyoo8Gr548w",
+            "track_name": "Rip It Up"
+        },
+        {
+            "artist_id": "5tGF7OOmuznuZRU5cZqZet",
+            "artist_name": "The Feud",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/67ff97f60a6591cbe05f6997e9976f45a2867d7f",
+            "track_id": "6AkGrwN9igfRcPw5PiKOWd",
+            "track_name": "It Ain't Right"
+        },
+        {
+            "artist_id": "5tGF7OOmuznuZRU5cZqZet",
+            "artist_name": "The Feud",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc76bf3a0792b4baa3cb64bed35476c61a828a27",
+            "track_id": "5lFUJKaZa1ZAObY97IviMo",
+            "track_name": "In Between The Lines"
+        }
+    ]
+}

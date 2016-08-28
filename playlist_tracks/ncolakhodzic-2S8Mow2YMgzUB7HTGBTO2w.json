@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/2S8Mow2YMgzUB7HTGBTO2w/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2FbZlUT418wQoIZ3IFTKeJ",
+            "artist_name": "Steve Anderson",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "0BeN6CA7RuwNdJa64NV1l0",
+            "track_name": "Suite Bergamasque, L. 75: III. Claire De Lune"
+        },
+        {
+            "artist_id": "6J7rw7NELJUCThPbAfyLIE",
+            "artist_name": "The Civil Wars",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a712d0b86b96b26aab312757d78487b02c8b084",
+            "track_id": "54gE3jT49FI5EN9sFkuK7d",
+            "track_name": "Poison & Wine"
+        },
+        {
+            "artist_id": "2P1puQXmG48EVLBrHbum1J",
+            "artist_name": "Melody Gardot",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/296121a3b83fa4dc55b79b59b06ba476c0883184",
+            "track_id": "6jRbg9jPZ8DTyC5E3J1xm2",
+            "track_name": "Love Me Like A River Does"
+        }
+    ]
+}

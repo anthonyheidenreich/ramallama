@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/121992691/playlists/2CSPj9ArWkmjAkm7cg7DUB/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2kucQ9jQwuD8jWdtR9Ef38",
+            "artist_name": "Sam Hunt",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/0709a3d124c4762dee3e86b6c98204dec07aa738",
+            "track_id": "2XxjRGbbwxCeSsSPZrbyoL",
+            "track_name": "Break Up In A Small Town"
+        },
+        {
+            "artist_id": "2kucQ9jQwuD8jWdtR9Ef38",
+            "artist_name": "Sam Hunt",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec9db4cb8ea1cff93cf49bd7d11b0e2336f13044",
+            "track_id": "7M4wvKVDluQDvZ6BncDe9c",
+            "track_name": "Ex To See"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/1adbe4ca6e3e95f60f05e80aa5116c0ea8685819",
+            "track_id": "4wFUdSCer8bdQsrp1M90sa",
+            "track_name": "Highway Don't Care"
+        },
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "72jCZdH0Lhg93z6Z4hBjgj",
+            "track_name": "I Knew You Were Trouble."
+        },
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1qLeEu4iXEclkLwoBlMiou",
+            "track_name": "Stay Stay Stay"
+        },
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3RBluWmSoG2pGA1OePzGJI",
+            "track_name": "The Story Of Us"
+        },
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "3GCL1PydwsLodcpv0Ll1ch",
+            "track_name": "You Belong With Me"
+        },
+        {
+            "artist_id": "6VDdCwrBM4qQaGxoAyxyJC",
+            "artist_name": "Cold War Kids",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/a77f44ffd2e01aecd9c900f7211fe6470d53c780",
+            "track_id": "0aGSUNleFqs5HNEJcwqvXJ",
+            "track_name": "First"
+        }
+    ]
+}

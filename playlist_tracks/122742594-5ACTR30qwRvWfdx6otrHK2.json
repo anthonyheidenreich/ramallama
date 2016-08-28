@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/122742594/playlists/5ACTR30qwRvWfdx6otrHK2/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0ybygzb2kSJT9TPleDu3Hx",
+            "artist_name": "Robb Kidd",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/aef1a1b95414471c1a58b85959e94593ddc0e327",
+            "track_id": "2QYrAFXOhAFFta3cC9PcIH",
+            "track_name": "Girls in Bossier City"
+        },
+        {
+            "artist_id": "3Zzs4IqjV4b0yEFWqRv1si",
+            "artist_name": "Ben Sollee",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "5ktplAwYsvhS42VqFlXmoH",
+            "track_name": "A Change is Gonna Come"
+        },
+        {
+            "artist_id": "4c4aEmXU6Hx95REbIZ3S82",
+            "artist_name": "Rozzi Crane",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/87a7ca4cf9ea7220c12f3f68bd748471db938f8d",
+            "track_id": "230TcPZOn20Y6adr0K2dGw",
+            "track_name": "Half The Man"
+        }
+    ]
+}

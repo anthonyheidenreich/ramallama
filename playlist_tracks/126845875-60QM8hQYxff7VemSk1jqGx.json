@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/126845875/playlists/60QM8hQYxff7VemSk1jqGx/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4n31svBA9GGIYxGxgrQaRK",
+            "artist_name": "George Thorogood & The Destroyers",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba74a22cc743a19ad06b7e110243d70baa57b702",
+            "track_id": "0uqcxmsLvN2yP4oJZn0dXW",
+            "track_name": "One Bourbon, One Scotch, One Beer - Live"
+        },
+        {
+            "artist_id": "2N2HyFpeF1gylFeHCOcSkn",
+            "artist_name": "Fauntleroy",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9157be2f89f0ea434a498f87a84d25d6b36385c",
+            "track_id": "2c8B99BMiO6LwHy336srK2",
+            "track_name": "Everything"
+        },
+        {
+            "artist_id": "2uwXUaoejy2Z8TpKVp5s9b",
+            "artist_name": "Aardy",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9e69f177de01ea6695111fac0abd6af84399d0d",
+            "track_id": "1OA9R0bfn8Ots2BctMf8MX",
+            "track_name": "Chasm - Original Mix"
+        },
+        {
+            "artist_id": "22nCgEikczPLtGfDdpRroh",
+            "artist_name": "Papadosio",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a8db97ccdde889e51f681b49792a85edf1c090f",
+            "track_id": "6FX4bnL4wZWheKbftUUFVz",
+            "track_name": "Find Your Cloud"
+        },
+        {
+            "artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+            "artist_name": "Sublime",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/c84f0c367567fc389e7689a1e552b2f9df0dc1c9",
+            "track_id": "3M7ooJlRuaJYwMY5qrwK4F",
+            "track_name": "Same In The End"
+        },
+        {
+            "artist_id": "0IPsENxttHn3ejcfAfx92H",
+            "artist_name": "O'Brother",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ec73c4f4e817fef07523fa040400f872e47251e",
+            "track_id": "1YeXB7mTuo1VKUHQpWREIp",
+            "track_name": "Sputnik"
+        },
+        {
+            "artist_id": "4O71i7ke5iIBX6RNSFoZbS",
+            "artist_name": "Trentem\u00f8ller",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/b78ff041a2b3581f7b4554ec4eb685dc5781a4c3",
+            "track_id": "6ZFgqpVOGCaj0UPIWqcq0x",
+            "track_name": "Always Something Better - Original Mix"
+        }
+    ]
+}

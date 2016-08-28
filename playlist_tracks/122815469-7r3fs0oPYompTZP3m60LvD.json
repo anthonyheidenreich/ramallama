@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/122815469/playlists/7r3fs0oPYompTZP3m60LvD/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0un6YenPxWZ2VW4aFGMupM",
+            "artist_name": "Floetry",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a98840f0eb77828e6a050d929e68e8b8f856a57",
+            "track_id": "0fzOmPoPhGCRYkhn4xEhob",
+            "track_name": "Hey You"
+        },
+        {
+            "artist_id": "0un6YenPxWZ2VW4aFGMupM",
+            "artist_name": "Floetry",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d635390773edb5935666b2ea50b4a813fa3ea4f",
+            "track_id": "2fE4MbwX3QGMzNaMjGVhtw",
+            "track_name": "Say Yes"
+        },
+        {
+            "artist_id": "0un6YenPxWZ2VW4aFGMupM",
+            "artist_name": "Floetry",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbe8b05f7a8769f375751bf313aeac5c1826daf6",
+            "track_id": "0khnsS3vcqT6qngEhZCk4c",
+            "track_name": "Getting Late"
+        },
+        {
+            "artist_id": "3wdXgSpjbbU3tX9KasdxMh",
+            "artist_name": "Sophia Black",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/15ea742eedb380540e9c8019c43f1756b75dad68",
+            "track_id": "0N3jMn0SnX7xxIP0mZCBDr",
+            "track_name": "k i s s i n g"
+        }
+    ]
+}

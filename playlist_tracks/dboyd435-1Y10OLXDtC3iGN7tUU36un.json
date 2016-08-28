@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/dboyd435/playlists/1Y10OLXDtC3iGN7tUU36un/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2ooIqOf4X2uz4mMptXCtie",
+            "artist_name": "Neutral Milk Hotel",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/23f5b39b7eb6b13081ec4a8705405e1c75fbd836",
+            "track_id": "4OciRObYGzPzlU40U7YRc8",
+            "track_name": "In the Aeroplane Over the Sea"
+        },
+        {
+            "artist_id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "artist_name": "Arcade Fire",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8bac7d48a707bce0aad113dbc7193b8a128de14",
+            "track_id": "2uljPrNySotVP1d42B30X2",
+            "track_name": "Wake Up"
+        }
+    ]
+}

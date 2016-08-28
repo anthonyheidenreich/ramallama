@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1218843405/playlists/3glRBWIK8gWTPSN1A8youC/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4uN3DsfENc7dp0OLO0FEIb",
+            "artist_name": "Sugar Ray",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f44a10c7b279459343b2709f609c17aa78b2c3b",
+            "track_id": "6Neq7tjnknt4URNI8txFL4",
+            "track_name": "Every Morning - Remastered"
+        },
+        {
+            "artist_id": "168dgYui7ExaU612eooDF1",
+            "artist_name": "Brand New",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e85e12f5b468b80cb8b3d85e0a4c47b72b647df9",
+            "track_id": "7p1OlHjFvGv9X9oMFkzroB",
+            "track_name": "Soco Amaretto Lime"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebeac342adc9cd18999ba581f38e3cba7c754ad1",
+            "track_id": "5glvnkBJ4sLrObTyprSsPg",
+            "track_name": "I Miss You"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/55dc86159bb5df24e72d69ec1d471dc1057f1015",
+            "track_id": "1fBO9S4vo5cfCfRK1Ofaxa",
+            "track_name": "The Good Times Are Killing Me"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/47dbf9514ca77c442914dbdad50dabc2d429213f",
+            "track_id": "5op53ANI4exiWqFHKuwWxd",
+            "track_name": "The World At Large"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6fa1791935eb60f1ada1356a86b5abbc2bff257",
+            "track_id": "6Lu2Eiaak23fVEWBAZ6qUn",
+            "track_name": "Online Songs"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/124477988/playlists/1zHW9rm1xB8iv7Acqy9KhV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6hk7Yq1DU9QcCCrz9uc0Ti",
+            "artist_name": "Kimbra",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/089c1a5c004a5f282bb06620c3ed1bbf8094c12f",
+            "track_id": "70uAmVZ6DCoZD5zSeREtzl",
+            "track_name": "Sally I Can See You"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/b22259087ac152ad50c2d3e54d5dc4a845e7a62f",
+            "track_id": "3vV6IX7lbyQFmOyAuQpdav",
+            "track_name": "Off To The Races"
+        },
+        {
+            "artist_id": "3Kji8hBU9Tqea6pAWRwagQ",
+            "artist_name": "Obadiah Parker",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "0ELVXVHz8aPgwLySfkDn8e",
+            "track_name": "Hey Ya"
+        },
+        {
+            "artist_id": "1ecdmsD235x2zHCKfdL3cF",
+            "artist_name": "Into It. Over It.",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c569f991bd3a49b8864a0801a62eb3c5c9bc174",
+            "track_id": "2hX1NCVdSL1GQmZUwlicDL",
+            "track_name": "The Shaking Of Leaves"
+        },
+        {
+            "artist_id": "28INUgyzTTRbvSphrJbgZ2",
+            "artist_name": "C2C",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/f09cf4b7f321759f59fb388072b3ecf3e3b52172",
+            "track_id": "1SayqEg8HKK2IeIEWjdYxY",
+            "track_name": "Down The Road"
+        },
+        {
+            "artist_id": "6ogn9necmbUdCppmNnGOdi",
+            "artist_name": "Alanis Morissette",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8c4b4ca294f9bddad5dd3557e0929bbf5d0f57a",
+            "track_id": "3CKTKuCbHz97i9vYyiP8gt",
+            "track_name": "All I Really Want"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/4taixOPdJsbiADmHBeggwS/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1eClJfHLoDI4rZe5HxzBFv",
+            "artist_name": "INXS",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/17a4b6be7977e9bb3700a7837f686dd1fc64c661",
+            "track_id": "1qQSRy9DjrGh3jtsSCU6B1",
+            "track_name": "Never Tear Us Apart"
+        },
+        {
+            "artist_id": "4bthk9UfsYUYdcFyqxmSUU",
+            "artist_name": "Tears For Fears",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ba691515e531e6f0632e0fb7cf28f1913377d3a",
+            "track_id": "0fFCTYF5QEU3K1R4HKfmiE",
+            "track_name": "Head Over Heels"
+        },
+        {
+            "artist_id": "2ZfogSsOWP4mVfEqfpLXCt",
+            "artist_name": "The Church",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c67199a820456dffacb2c8911cb51f054dcaab39",
+            "track_id": "1RCtHLyq1xIbgGMrYRrKJ2",
+            "track_name": "Under the Milky Way"
+        },
+        {
+            "artist_id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "artist_name": "Duran Duran",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e427126c02130b5565419c0d138b028f8b0370d4",
+            "track_id": "1stJclD9IGUbxtUnl8CzG3",
+            "track_name": "Notorious"
+        },
+        {
+            "artist_id": "5LXEAEGrpKQtpyCu2sZuWu",
+            "artist_name": "Oingo Boingo",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6a808bea65155e2ffe029239cd01894d972ca0e",
+            "track_id": "2xGKkcdKQUyqKKfOhd58gP",
+            "track_name": "Stay"
+        },
+        {
+            "artist_id": "432R46LaYsJZV2Gmc4jUV5",
+            "artist_name": "Joy Division",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/d83d18f2c3f8ba8fc2dfa78d60515b98c9bae76d",
+            "track_id": "4N42ow0h4JoK68OQwOzsQn",
+            "track_name": "Love Will Tear Us Apart - 2011 Total Version"
+        },
+        {
+            "artist_id": "0fgYKF9Avljex0L9Wt5b8Z",
+            "artist_name": "Echo & the Bunnymen",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/c96580f92d451567f2e856c9cce6f33c4a2ccdbf",
+            "track_id": "0cOf4csnt4DeXSkFmBjULw",
+            "track_name": "The Killing Moon"
+        },
+        {
+            "artist_id": "0RkqytrwoGyXGvDiZwT6i2",
+            "artist_name": "Michael Andrews",
+            "popularity": 22,
+            "preview_url": null,
+            "track_id": "6FvSJjsxM3o5ctpexdB31e",
+            "track_name": "Mad World"
+        }
+    ]
+}

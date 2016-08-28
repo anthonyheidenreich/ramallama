@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/matthewmaysonet/playlists/2WvHqwUWoUkJEbE8yJy5dI/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1peH5tSqnYm8W6Bo3I5egE",
+            "artist_name": "Kat Dahlia",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4954fa81fde64a49930280abc5d2a37cd0542cf",
+            "track_id": "3sxn38BaEHUKw6qgLY4k1R",
+            "track_name": "Gangsta"
+        },
+        {
+            "artist_id": "1peH5tSqnYm8W6Bo3I5egE",
+            "artist_name": "Kat Dahlia",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/d96d8fc0512ffe8ca6e71bfe4cbe25bda23e8edd",
+            "track_id": "6aFhVvLxfPDoqREX4BDQFI",
+            "track_name": "Mirror"
+        },
+        {
+            "artist_id": "1peH5tSqnYm8W6Bo3I5egE",
+            "artist_name": "Kat Dahlia",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/40da63dcff551c20359bc9008137a9906707bb9c",
+            "track_id": "5QWdUMyY68SVAWDr0d6Syb",
+            "track_name": "Money Party"
+        }
+    ]
+}

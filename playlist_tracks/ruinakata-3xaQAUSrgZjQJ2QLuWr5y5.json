@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruinakata/playlists/3xaQAUSrgZjQJ2QLuWr5y5/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4EzkuveR9pLvDVFNx6foYD",
+            "artist_name": "James Bay",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/67671d34ac3cf016fb3216ced515ca3b5be99703",
+            "track_id": "13HVjjWUZFaWilh2QUJKsP",
+            "track_name": "Let It Go"
+        },
+        {
+            "artist_id": "4dpARuHxo51G3z768sgnrY",
+            "artist_name": "Adele",
+            "popularity": 96,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4",
+            "track_id": "0ENSn4fwAbCGeFGVUbXEU3",
+            "track_name": "Hello"
+        },
+        {
+            "artist_id": "2txHhyCwHjUEpJjWrEyqyX",
+            "artist_name": "Tom Odell",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/6144964ace8869a421c6ccfa1e2adb1087d1606b",
+            "track_id": "2447kmmuvZ1GsqUczFZZoj",
+            "track_name": "I Know"
+        },
+        {
+            "artist_id": "22CmNMoTDKsN0VlybdPVTJ",
+            "artist_name": "Kingsfoil",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/b38ebdc2fc9a73f823337a0ead589f8b5b66aa0a",
+            "track_id": "0r2vPIbVws8qESpX99Ii4H",
+            "track_name": "Grapevine Valentine"
+        },
+        {
+            "artist_id": "7n2wHs1TKAczGzO7Dd2rGr",
+            "artist_name": "Shawn Mendes",
+            "popularity": 34,
+            "preview_url": null,
+            "track_id": "3oItS6DBV57fWiDExW2Mdv",
+            "track_name": "Stitches"
+        },
+        {
+            "artist_id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "artist_name": "The Weeknd",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/2214f0bbe1c0b384ec74b6e646f5e53e7af39973",
+            "track_id": "27NV2KxoQ8WuLMqlTDI61F",
+            "track_name": "Often - Kygo Remix"
+        },
+        {
+            "artist_id": "25tMQOrIU4LlUo6Sv8v5SE",
+            "artist_name": "Gavin James",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/87acd61c7d76e26c522242cbcc2ddd2d893db589",
+            "track_id": "4HcSK64Cy7JJ5gv1Txzhzo",
+            "track_name": "The Book of Love"
+        },
+        {
+            "artist_id": "4EzkuveR9pLvDVFNx6foYD",
+            "artist_name": "James Bay",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/66291f99f38b850e71c1d6181e745cf2d9557275",
+            "track_id": "0GDQXt7qRJIDDUmcufomrU",
+            "track_name": "Move Together"
+        }
+    ]
+}

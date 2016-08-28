@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/2pwOuGXxTJMl9gPVqzw5G0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5NFB7dL4b4ZtcMAk2wCOoi",
+            "artist_name": "Slaptop",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b58e14f7f5313823ab0a1e7c70656ea4914085d",
+            "track_id": "0n0p8VGjFfQSXnCKUMPCWU",
+            "track_name": "Sunrise"
+        },
+        {
+            "artist_id": "3nUbzTTtP2w4HqvT5y5vkV",
+            "artist_name": "The Griswolds",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "0zgCM3xWaSKm7EA6WsxvDj",
+            "track_name": "Beware the Dog"
+        },
+        {
+            "artist_id": "3XHO7cRUPCLOr6jwp8vsx5",
+            "artist_name": "alt-J",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/99b4aaddb6198c483b852d8d69f3ac545ea56675",
+            "track_id": "4NwJWJ7rIZBnv8TwNRhGG2",
+            "track_name": "Left Hand Free"
+        },
+        {
+            "artist_id": "4Cjsh7anKDaMnQ3YHB1Xwq",
+            "artist_name": "Panama Wedding",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/0ecb3e3ccfdf0b9ef18fa4e5711d6477ec79d5e3",
+            "track_id": "7zAHRvmVHI4Ji0X0KWxQkV",
+            "track_name": "All Of The People"
+        },
+        {
+            "artist_id": "7gP3bB2nilZXLfPHJhMdvc",
+            "artist_name": "Foster The People",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8b9588da8a652e234a2b3cf8d3566879677798c",
+            "track_id": "7tvOve5IkjYenvqScZ75iQ",
+            "track_name": "Best Friend"
+        },
+        {
+            "artist_id": "1hzfo8twXdOegF3xireCYs",
+            "artist_name": "Milky Chance",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/fbb38f55bae38493d5a74f51a69f297c2f8a7d10",
+            "track_id": "5tjrH5xrpkgKgYd8zQgU8X",
+            "track_name": "Stolen Dance"
+        },
+        {
+            "artist_id": "10exVja0key0uqUkk6LJRT",
+            "artist_name": "Vance Joy",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/0dd45171d094ca8d374219054879662fe7982462",
+            "track_id": "423RKXolCbgBbkF8WanOwA",
+            "track_name": "Riptide"
+        },
+        {
+            "artist_id": "2RdwBSPQiwcmiDo9kixcl8",
+            "artist_name": "Pharrell Williams",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/027e98e3b1f4120a3b2bf289f7c5eeb9293db9a1",
+            "track_id": "53ZnKUo3p9KfXh2ahkdYhS",
+            "track_name": "Hunter"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/127486916/playlists/7gFPazyLe3jhvajHQ3Q0rt/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7bb106b997c2838f4723abf2abf511fa34ebcaa",
+            "track_id": "4mH5oNojEmOswUGgCizDeb",
+            "track_name": "Lovely Day - Studio Rio Version"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/c794b0fdcfdbc9a4ee7fd8481aed3a13a5e2e984",
+            "track_id": "16aVOG9YBesM18yE4ReEHo",
+            "track_name": "Sexual Healing - Studio Rio Version"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/751302a7631e7806a76cdf782adb436dcbfc2df3",
+            "track_id": "6au6zu7SJAbqf4a6RDqySc",
+            "track_name": "You've Changed - Studio Rio Version"
+        },
+        {
+            "artist_id": "4X8QFzZ1HqwPfwDfyjtwXC",
+            "artist_name": "Mel Torm\u00e9",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e9b2f3c9800769c280dd362a6205534e639a08d",
+            "track_id": "6cTHDAnKgDOMP1gL8irmHu",
+            "track_name": "I've Got You Under My Skin - Studio Rio Version"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/f947b8a1830a388800d7e401077ccf396cc8d147",
+            "track_id": "3k1t0MMGMXf0C3I5YSyMwu",
+            "track_name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version"
+        },
+        {
+            "artist_id": "6GB5ciGInIXxCbTrqdgz1W",
+            "artist_name": "Amazonics",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/87025fdab7e07d4780a75e731cee0c521c1e0234",
+            "track_id": "1NRs0B3MZyCGNsHbiPQHGz",
+            "track_name": "Redemption Song"
+        },
+        {
+            "artist_id": "5RQsY9jOzaNbsAwm09toU5",
+            "artist_name": "Urban Love Feat. Astrud C. & Moana",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/44760b8e4f040f916dccf1cb20db3b99b98fb65c",
+            "track_id": "501YlAetaUihOReeVjAJq1",
+            "track_name": "No Woman No Cry"
+        },
+        {
+            "artist_id": "4DZbgHrELQh93gt4AR58My",
+            "artist_name": "Sao Vicente Feat. Marlene",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d55af9f72b8ed41ff0dae24f10bcd92e7fcba3f",
+            "track_id": "1bDeKmqTaHzC75esGzrjYH",
+            "track_name": "I Shot The Sheriff"
+        },
+        {
+            "artist_id": "6UXpB10yFiXr9YJnwsjSaP",
+            "artist_name": "Perico Hernandez",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/7b8b9004737e0550bab836931c5a9bd50a221e28",
+            "track_id": "1jbxhGvXj19XJ2j7opwhD9",
+            "track_name": "Oye Como Va (Live at el Jefe)"
+        },
+        {
+            "artist_id": "5NEQi6yhTT2JtGWwxuD5td",
+            "artist_name": "Quantic & Nickodemus",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/4cef5dcf3de5b3c5560192aafb23bc04241626c8",
+            "track_id": "1gpKdyTPLCSYd9ZSstdVQP",
+            "track_name": "Mi Swing Es Tropical (feat. Tempo & The Candela Allstars)"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1283658077/playlists/6QRPdCZK3sHFuN3thyhycf/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5cIc3SBFuBLVxJz58W2tU9",
+            "artist_name": "Oh Wonder",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/303324cc18ca33527b5f60e05f47ba902e2ee99a",
+            "track_id": "5LQr9f7n1fxB5QF9fHOa9N",
+            "track_name": "Livewire"
+        },
+        {
+            "artist_id": "69GGBxA162lTqCwzJG5jLp",
+            "artist_name": "The Chainsmokers",
+            "popularity": 92,
+            "preview_url": "https://p.scdn.co/mp3-preview/551ca104a8e572832a6873d5d6b205c430e291fd",
+            "track_id": "3vv9phIu6Y1vX3jcqaGz5Z",
+            "track_name": "Roses"
+        },
+        {
+            "artist_id": "6xqCsyI2eEPEyAYMZbhAC1",
+            "artist_name": "Yuma X",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/d17851748ba7ec441b85afbd4209b82aa0dbcabf",
+            "track_id": "5jFRqVW2ZeukiivXUIZX2O",
+            "track_name": "Matchstick"
+        },
+        {
+            "artist_id": "6FQqZYVfTNQ1pCqfkwVFEa",
+            "artist_name": "Foals",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/03bae94223aa1af6b7d60dd321d8006e7ca1af15",
+            "track_id": "55H7cdGXn6670EiHiTuOtU",
+            "track_name": "London Thunder"
+        },
+        {
+            "artist_id": "3NPpFNZtSTHheNBaWC82rB",
+            "artist_name": "X Ambassadors",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0bdbca1d9eb3e7f231e76155c8ceb9983cccadf",
+            "track_id": "46GGxd8TVRt6FjUBfCavVT",
+            "track_name": "Renegades"
+        },
+        {
+            "artist_id": "6FQqZYVfTNQ1pCqfkwVFEa",
+            "artist_name": "Foals",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/75d32af506df2354251f80726ab3e0656fa8e8f7",
+            "track_id": "4i3txPQIUV4eC9g9FBpi9I",
+            "track_name": "Spanish Sahara"
+        }
+    ]
+}

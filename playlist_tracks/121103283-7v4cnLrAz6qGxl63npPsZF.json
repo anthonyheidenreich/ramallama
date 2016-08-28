@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/121103283/playlists/7v4cnLrAz6qGxl63npPsZF/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 48,
+            "preview_url": null,
+            "track_id": "5KdPyhcsQ5PvkvPBq6lLti",
+            "track_name": "All I Want For Christmas Is You - Original Version"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec0c716e7c24d4da42f8487d4ff43b9c2d8dea91",
+            "track_id": "2gbCG4Rt9984UZ7Tc0dIFd",
+            "track_name": "White Christmas (Duet With Shania Twain)"
+        },
+        {
+            "artist_id": "391oLRVmoTkumiN79HkTWu",
+            "artist_name": "Darlene Love",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/40b029bd38a6d71cbbfe2aed1178c01e2ab14ce5",
+            "track_id": "46pF1zFimM582ss1PrMy68",
+            "track_name": "Christmas (Baby Please Come Home)"
+        },
+        {
+            "artist_id": "26AHtbjWKiwYzsoGoUZq53",
+            "artist_name": "Pentatonix",
+            "popularity": 36,
+            "preview_url": null,
+            "track_id": "0eiFwEYsRxsNzPBHLwAMaJ",
+            "track_name": "Little Drummer Boy"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/24ac356f3a04d2c3554e27026b36812e60dac1f8",
+            "track_id": "4v9WbaxW8HdjqfUiWYWsII",
+            "track_name": "Merry Christmas, Happy Holidays"
+        },
+        {
+            "artist_id": "1AwO9pWEBSBoWdEZu28XDC",
+            "artist_name": "Eartha Kitt",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "23WDDzSnvNvwPmdZ1YFXUM",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "5OSQDUNmll299ldFIF1Dau",
+            "artist_name": "Trans-Siberian Orchestra",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/01a01c544f02b0017ed8abe38cb2af4f3e277304",
+            "track_id": "0O4vuJynWVVdyvoHvZtnk3",
+            "track_name": "Christmas Canon"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8ca3666e1af2b3b9fffe50d4f4900ae1d77c96d",
+            "track_id": "7JkCwoxICUtwg2PrvxBlJ5",
+            "track_name": "O Holy Night - A Cappella"
+        },
+        {
+            "artist_id": "5TzSUelHY0wl9WbEXMVv1Q",
+            "artist_name": "Ella Fitzgerald and Louis Jordan",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1cad9c8d18cdad8452880f8c673b7a8cd7f244c",
+            "track_id": "7mj4Jy5M8bjZvBOf2KkCkT",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/dc576f457addeefddc613c722cedc13fcb242c17",
+            "track_id": "4qBejt9FeqLI9blHI1Nq1x",
+            "track_name": "Jingle Bells (feat. The Puppini Sisters)"
+        },
+        {
+            "artist_id": "7v4imS0moSyGdXyLgVTIV7",
+            "artist_name": "Nat King Cole",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/b5ebbceac27fbe2a74b159b88bf26c757e939d78",
+            "track_id": "6NMz3Cjvod2qnJjakiRDA8",
+            "track_name": "The Christmas Song (Merry Christmas To You)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7962fe13e7e25fcc1963373acf61d289bbcdf6d",
+            "track_id": "6tjituizSxwSmBB5vtgHZE",
+            "track_name": "Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f7ac508c5847ec1950aee132059cd1caf513d93",
+            "track_id": "3cNhneDghtV9yHK2KeF0Es",
+            "track_name": "Home For Christmas"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "4krvNvBAvI5EgfT5e3l0DY",
+            "track_name": "Silver Bells"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d05e2036ce0769c964f55a3f4da1570e65d64e1",
+            "track_id": "1ZvYWgKUR1y9nbO8s34oSM",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "6cXMpsP9x0SH4kFfMyVezF",
+            "artist_name": "Josh Groban",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/374f06bf2a4995ce197d0db68091ae1ea6741ffb",
+            "track_id": "2YwlxStGGlywnQiM5Z0I4y",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "60df5JBRRPcnSpsIMxxwQm",
+            "artist_name": "Otis Redding",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/30fbbb47eef510d1560fe1976929b2bc0630f973",
+            "track_id": "2dbfjsBbi3nt0a173iUumA",
+            "track_name": "Merry Christmas Baby"
+        },
+        {
+            "artist_id": "32zXZpxwb2bq7oGzAhe1Ii",
+            "artist_name": "Irving Berlin",
+            "popularity": 42,
+            "preview_url": null,
+            "track_id": "3g1zzHEMoOyRSCKx41IwQm",
+            "track_name": "White Christmas"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The Beach Boys",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Little Saint Nick"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10",
+            "track_id": "0xPaZrF25ltzvz1a2Pm5DQ",
+            "track_name": "All I Want For Christmas Is You"
+        },
+        {
+            "artist_id": "21LGsW7bziR4Ledx7WZ1Wf",
+            "artist_name": "Johnny Mathis",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/aba1df6d6bad469204394cc106971b03bf11c7f8",
+            "track_id": "2osywe1cJ8mwmAYa25wN7X",
+            "track_name": "It's Beginning to Look a Lot Like Christmas"
+        },
+        {
+            "artist_id": "19y5MFBH7gohEdGwKM7QsP",
+            "artist_name": "Luther Vandross",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/4514201088207ba268cd70bafd2e6b38a3a244cf",
+            "track_id": "4UhitiM5qTYK5m7zqcFQrb",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+            "artist_name": "Stevie Wonder",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "3h1EREJfCwyv6cG7CGak5d",
+            "track_name": "What Christmas Means To Me"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8db453fcf66e10ee854b75d78694614379f5c72c",
+            "track_id": "0di0zKKJ7ZdYcsjeYfAVyR",
+            "track_name": "The Christmas Waltz"
+        },
+        {
+            "artist_id": "6MERXsiRbur2oJZFgYRDKz",
+            "artist_name": "Vitamin String Quartet",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/14f4906b8f86d8abb769d28be3fdc112b526c070",
+            "track_id": "2JH2rayOoiZ0hOhzG6p1z3",
+            "track_name": "Happy Xmas (War Is Over)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbcc9b91380a590c5ed25c230c1ab7e57f45c09c",
+            "track_id": "4FPrAERfkPKOBKrRoyuxLu",
+            "track_name": "Cold December Night"
+        },
+        {
+            "artist_id": "0SCbttzoZTnLFebDYmAWCm",
+            "artist_name": "Glee Cast",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/0760d723ac914cfbc812f3e1238c2f6d65f45f0f",
+            "track_id": "5buxE0y6zJRJnxpkDExJ4U",
+            "track_name": "Santa Baby (Glee Cast Version)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/48bbe8ea219868fdc6d5d957bc2394a1ec26a747",
+            "track_id": "6Lh85Pe18pqvNdDoWgTVUC",
+            "track_name": "Blue Christmas"
+        },
+        {
+            "artist_id": "3FUY2gzHeIiaesXtOAdB7A",
+            "artist_name": "Train",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5b797bcd957d2a82a6c04ffdc7823bcbd88f172",
+            "track_id": "3MhfDX0UaeJQ2vOhv9J8RC",
+            "track_name": "Shake Up Christmas - Coke Xmas Anthem"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/01f58340abc6996bbb634f97c85855c789770633",
+            "track_id": "28AvvdmV8bFzpYVBHbrNZE",
+            "track_name": "Christmas Wish"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "4ymVMnhjbImQjjCq4petB2",
+            "track_name": "Christmas (Baby Please Come Home)"
+        },
+        {
+            "artist_id": "43ZHCT0cAZBISjO8DG9PnE",
+            "artist_name": "Elvis Presley",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "6maZAED9TAn7U8NDEo9dlt",
+            "track_name": "White Christmas"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/452a771e67fa1ee8c222a376cfd0152ffb136f8b",
+            "track_id": "42ahZK39o2uryeHVJbjqc0",
+            "track_name": "All I Want Is You (This Christmas)"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b854371334393531952610ae17c4b3c1594ca1e",
+            "track_id": "1FkfPShKw6e2WHe3ZsYEbk",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "6J7rw7NELJUCThPbAfyLIE",
+            "artist_name": "The Civil Wars",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f101add5a10fedc79d4b3ffeab358a0a45000f33",
+            "track_id": "4YIoQTJDBXAc7r8rDxUi50",
+            "track_name": "O Come O Come Emmanuel"
+        },
+        {
+            "artist_id": "0SCbttzoZTnLFebDYmAWCm",
+            "artist_name": "Glee Cast",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/e88d7b4e71d3a0a3f6e64ad927850e174618070b",
+            "track_id": "1yROtdS69Gv2B9Yqiwr6h0",
+            "track_name": "Let It Snow (Glee Cast Version)"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/db1d133b3234aa7f088bf87d51a03d3a9d66afaa",
+            "track_id": "6R1L7XoVK27F0heZe1yvfO",
+            "track_name": "Happy Christmas (War Is Over)"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "1XsIV2BwrQ8xqQwP4Vvxwx",
+            "track_name": "It's Beginning to Look Like Christmas"
+        },
+        {
+            "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+            "artist_name": "Chris Brown",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ad47b9341bc3845060f94f514493ab49610f4d9",
+            "track_id": "3W6PmtGTyLwWBWUYplSWHT",
+            "track_name": "This Christmas"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/c54c7fe48bf69b8a25523520214489eb7efe35b2",
+            "track_id": "2069EXDY1YWB1NJ4BWuimG",
+            "track_name": "Sleigh Ride"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "4EUKThOTPBkrAH0gggkMn4",
+            "track_name": "All I Want For Christmas Is You (SuperFestive!) Duet with Mariah Carey"
+        },
+        {
+            "artist_id": "1yQ8S4xdGOGbUcpaPR6hCM",
+            "artist_name": "Straight No Chaser",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/59a3ec24702ff013f22e72149cb4c396d5ba2021",
+            "track_id": "2L0KL66EuxLHiJZX7Uj6I3",
+            "track_name": "Christmastime Is Here"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/5462f1a625b7357af46c9a90f3692d0a6449b94a",
+            "track_id": "1FduC6uCkVl3ixBo2eh8GA",
+            "track_name": "Have Yourself a Merry Little Christmas - 2006 - Remaster"
+        },
+        {
+            "artist_id": "4cPHsZM98sKzmV26wlwD2W",
+            "artist_name": "Brenda Lee",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "1IBsC41Xht33IEBlKsPpjr",
+            "track_name": "Rocking Around The Christmas Tree"
+        },
+        {
+            "artist_id": "3eqjTLE0HfPfh78zjh6TqT",
+            "artist_name": "Bruce Springsteen",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4f45a86728792e459c033483463db14fe6da71c",
+            "track_id": "0lHCPIozN8ufLAtWuZwgx8",
+            "track_name": "Merry Christmas Baby"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/97dede78bd541d8dab69b47d96956dda3ed5c5ba",
+            "track_id": "4kBHkMR1QpPeSgreGYNLr1",
+            "track_name": "Rudolph The Red-Nosed Reindeer"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3128c7fb09f2ec4337f9d9bb51ace0c69ee0227",
+            "track_id": "5yltN9z9qOBkKSjQ0IhGxg",
+            "track_name": "Silver Bells"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6ac8778d4bfffb200dfa243fdf5237a9154fb54",
+            "track_id": "3tAg5SGPaQmXuLdYlsp7QI",
+            "track_name": "Ave Maria"
+        },
+        {
+            "artist_id": "6Ff53KvcvAj5U7Z1vojB5o",
+            "artist_name": "*NSYNC",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/7dfaac4f35799519c48a0c1e9ccba57c4f01c29e",
+            "track_id": "07iHbbigSDl7kcWjKaiM3g",
+            "track_name": "The First Noel"
+        },
+        {
+            "artist_id": "19y5MFBH7gohEdGwKM7QsP",
+            "artist_name": "Luther Vandross",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/2073f1ed6523fb167689f49b47c7a5c869749d4e",
+            "track_id": "5kgHRlOytrk9mNVV95Dtgm",
+            "track_name": "O' Come All Ye Faithful"
+        },
+        {
+            "artist_id": "5OSQDUNmll299ldFIF1Dau",
+            "artist_name": "Trans-Siberian Orchestra",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/359f1262bdd0a0f83e94e03952c4de9cead96f81",
+            "track_id": "3sBnSBnzpEYKpJYGsAIbup",
+            "track_name": "Christmas Eve/ Sarajevo"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0afd2c2af0b54f5531b947208ce2042f06fc91e",
+            "track_id": "3Qbw53vz47w66gcdlsIZcD",
+            "track_name": "Rockin' Around the Christmas Tree"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/239c2eb433aaecb8821d72d74dc8d0a54eae4ca4",
+            "track_id": "2IuUMx3uxxJAHcH41aYtn0",
+            "track_name": "Winter Wonderland - 2006 - Remaster"
+        },
+        {
+            "artist_id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+            "artist_name": "Willie Nelson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/c162ae584a4144c0abb0abd7c04ebb70c0ad3141",
+            "track_id": "5RpBRqmnGIdQJ63U15J1Ld",
+            "track_name": "Baby It's Cold Outside - feat. Norah Jones"
+        },
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/e22937cd3d20b57a3cfe1099715ac6ea32e2238d",
+            "track_id": "6QjOlkobyT3SGsqGAZX70s",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "43ZHCT0cAZBISjO8DG9PnE",
+            "artist_name": "Elvis Presley",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "2TDXqPyMqUtcYHP4WZ2DeT",
+            "track_name": "Santa Claus Is Back In Town"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 22,
+            "preview_url": null,
+            "track_id": "5E386nBkbjpzPXbQwzHdFO",
+            "track_name": "Joy To The World"
+        },
+        {
+            "artist_id": "5iA5RZI1NApzshkyUEUnaa",
+            "artist_name": "Peter J. Wilhousky",
+            "popularity": 43,
+            "preview_url": null,
+            "track_id": "7a8FwfEPX4fPZjB8JytSWG",
+            "track_name": "Carol of the Bells - Voice"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e307b912990b313ad8c9d404ee7e4bd50ac3fd4",
+            "track_id": "7v0i62sfmZxXLxFSAlm1d8",
+            "track_name": "The Christmas Song"
+        },
+        {
+            "artist_id": "6MERXsiRbur2oJZFgYRDKz",
+            "artist_name": "Vitamin String Quartet",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/cd1f69f85e6376ade4de00812e88cd5de28f1e9f",
+            "track_id": "3sqlQ1jTSFaH2LhLgXkELT",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "3blAR8McMKSmiWGN9mV1WT",
+            "track_name": "Hark! The Herald Angels Sing/Gloria (In Excelsis Deo)"
+        },
+        {
+            "artist_id": "0SCbttzoZTnLFebDYmAWCm",
+            "artist_name": "Glee Cast",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c12d5fa8307391d763af4d9b07700da2a2c1ef6",
+            "track_id": "2aJptNMgqqTv5COxa6KFRs",
+            "track_name": "Christmas Wrapping (Glee Cast Version)"
+        },
+        {
+            "artist_id": "19eLuQmk9aCobbVDHc6eek",
+            "artist_name": "Louis Armstrong",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "6rG9boNOylbWLnRKI5KhH0",
+            "track_name": "Cool Yule"
+        },
+        {
+            "artist_id": "0VzXJshkWVl8r3YILtquwT",
+            "artist_name": "James Taylor feat. Natalie Cole",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "100AUFXVM44jEfpyLDp5Sr",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "0hYxQe3AK5jBPCr5MumLHD",
+            "artist_name": "Sugarland",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/d35a7639fb06cdf88fb4e0e4338ae60eebf5d371",
+            "track_id": "3XJflZGWaEZ4ucF1KC6oXr",
+            "track_name": "Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "6MERXsiRbur2oJZFgYRDKz",
+            "artist_name": "Vitamin String Quartet",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/35fc894821873e559850db9b6ef5868430327b31",
+            "track_id": "6hmOznHhwXKjNjqEkpjvq9",
+            "track_name": "O Holy Night"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 32,
+            "preview_url": null,
+            "track_id": "4Pz6cdihrKr8QKpTB9GFso",
+            "track_name": "Have Yourself A Merry Little Christmas - 1999 - Remaster"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/df3b01cb683ceded8e5bdb8ef42bed033fb3900a",
+            "track_id": "3cpgv1mms03fvxa5jz1rGB",
+            "track_name": "Medley: We Three Kings Of Orient Are/O Little Town Of Bethlehem"
+        },
+        {
+            "artist_id": "0SCbttzoZTnLFebDYmAWCm",
+            "artist_name": "Glee Cast",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/3860c1a3c9fa8386d35e0c52eb4eddefe976f763",
+            "track_id": "7hp1ZcWKfCjl0rfybGmIcX",
+            "track_name": "Santa Claus Is Coming to Town (Glee Cast Version)"
+        },
+        {
+            "artist_id": "1sZwQg2rvSlGhkG218SouM",
+            "artist_name": "The Moonglows",
+            "popularity": 35,
+            "preview_url": null,
+            "track_id": "46wESodHGmisZNyZex0KNZ",
+            "track_name": "Hey Santa Claus"
+        },
+        {
+            "artist_id": "5v8jlSmAQfrkTjAlpUfWtu",
+            "artist_name": "Perry Como",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e73538830c948d99b5515a9c2c93eddd061e219",
+            "track_id": "6en6jyI8PQ5wdosq1jXgEt",
+            "track_name": "(There's No Place Like) Home for the Holidays - 1954 Version"
+        },
+        {
+            "artist_id": "4sj6D0zlMOl25nprDJBiU9",
+            "artist_name": "Andy Williams",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/761ed11088f91812264c5745c3a34042db89c544",
+            "track_id": "2GT0m2rWbW9S8A8zAte9mA",
+            "track_name": "Do You Hear What I Hear?"
+        },
+        {
+            "artist_id": "5ixB75BQR3ADoWQkcHQJTs",
+            "artist_name": "Gene Autry",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d831c750896cc8703fab774b72298e0acd5e1cea",
+            "track_id": "5b5lXF7rWN2hpkuGgY3VaE",
+            "track_name": "Here Comes Santa Claus"
+        },
+        {
+            "artist_id": "0MHgLfmQdutffmvWe5XBTN",
+            "artist_name": "Burl Ives",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/00ff2d4934755bc1b5e705757b0b620e6e79ea26",
+            "track_id": "5NJ8M8qilAzKVNOcjXfTJb",
+            "track_name": "A Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "3jdODvx7rIdq0UGU7BOVR3",
+            "artist_name": "George Winston",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/a95f1c8d0a4dbb860b8aa244f37f5666fb5470bd",
+            "track_id": "0d24dDIL5CYs6FEL01bCC6",
+            "track_name": "Carol of the Bells"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad53b8a56274fc29088f63c62a44a9f1e71f4ee7",
+            "track_id": "77zO5KtthH1WtWddsz4bXe",
+            "track_name": "Skating"
+        },
+        {
+            "artist_id": "2mt36QEsqXc9y8yBxe3FwR",
+            "artist_name": "James Taylor feat. Chris Botti on trumpet",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "1yXXZ9yTPNfZoxMF4eRy1F",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "1vbwZV29xQJGD3ujP49IQG",
+            "track_name": "Frosty the Snow Man"
+        },
+        {
+            "artist_id": "5v8jlSmAQfrkTjAlpUfWtu",
+            "artist_name": "Perry Como",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/75ffb167d4597378e9218acffe97d42130c3ea25",
+            "track_id": "3exJtV8C0GtDjDRnVSjM2C",
+            "track_name": "It's Beginning To Look Like Christmas (with The Fontaine Sisters)"
+        },
+        {
+            "artist_id": "1PbBg2aYjWLKRk84zJK15x",
+            "artist_name": "Echosmith",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/6260ac99f99382eb1be5d8a948db0df8daa8927e",
+            "track_id": "6ppdPveJCdq0YTSJzkGUAT",
+            "track_name": "I Heard The Bells On Christmas Day"
+        },
+        {
+            "artist_id": "2Mf99N2VcDEcVuocyBLhyC",
+            "artist_name": "Greg Laswell",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f2adada7f7e68ea6da6bd15c3ea429f48aacf02",
+            "track_id": "4B5YIQrT9UMPE9qNCpDvbq",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "4C50EbCS11M0VbGyH3OfLt",
+            "artist_name": "Bahamas",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/28d1f3f82e770c72a4ff1cb6fb2161250ede49e0",
+            "track_id": "4oTvofluzKOEfYRpus5wwm",
+            "track_name": "Christmas Must Be Tonight"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/edade13575cf82f83782d677398d2b5b7cf0bd29",
+            "track_id": "0wxBDNVB4gz7GlDvfkVi3G",
+            "track_name": "Christmas Day"
+        },
+        {
+            "artist_id": "1Y8cdNmUJH7yBTd9yOvr5i",
+            "artist_name": "Destiny's Child",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ba769c02c74e5b11c9352b92a8c5183034e3bdd",
+            "track_id": "3dlQvwebW9lJQy5mYy1T5Y",
+            "track_name": "Carol of the Bells a.k.a Opera of the Bells"
+        },
+        {
+            "artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+            "artist_name": "Daryl Hall & John Oates",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/f54a5c61edd0d91a74d3cfdc835f5453c7653d61",
+            "track_id": "0JoLc8rgQBJhDMolSCuRuw",
+            "track_name": "Jingle Bell Rock"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 86,
+            "preview_url": "https://p.scdn.co/mp3-preview/83bc99b80b9bd0115cbd1ff6447152f60f8c4386",
+            "track_id": "4fzyvSu73BhGvi96p2zwjL",
+            "track_name": "Christmas Lights"
+        },
+        {
+            "artist_id": "4phGZZrJZRo4ElhRtViYdl",
+            "artist_name": "Jason Mraz",
+            "popularity": 42,
+            "preview_url": null,
+            "track_id": "0zXjeGMMe7esPTvqJCN5d8",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 37,
+            "preview_url": null,
+            "track_id": "2cXuRiwMjKQ5ny7cW4Awls",
+            "track_name": "Christmas Song"
+        },
+        {
+            "artist_id": "6KWcxMWVNVIYbdOQyJtsSy",
+            "artist_name": "The Platters",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c188ab716a33d589e5b9744890d73b54512acab",
+            "track_id": "7vV5HlEnvnx3BuD8QK9Z0k",
+            "track_name": "Christmas Time"
+        },
+        {
+            "artist_id": "5v8jlSmAQfrkTjAlpUfWtu",
+            "artist_name": "Perry Como",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a741fd56a61d408d5d151b53501a365e6b94e15",
+            "track_id": "5D30yNI3b0HAuaBWAGOImI",
+            "track_name": "Medley: Caroling, Caroling / The First Noel / Hark! The Herald Angels Sing / Silent Night"
+        },
+        {
+            "artist_id": "2lolQgalUvZDfp5vvVtTYV",
+            "artist_name": "Tony Bennett",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/15a3814a8a5f49b20e3c3ce403e0c0b99df749dd",
+            "track_id": "2VsCE6ui7N4IRzGIGT7Di8",
+            "track_name": "O Christmas Tree"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/14316d09378367988e2166262fe0bbaa715bf09f",
+            "track_id": "6OJdXv1Q5OdLgYolFEunJ4",
+            "track_name": "What Child Is This?/The Holly and the Ivy (Medley) - 2006 - Remaster"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/b35decd2e4a8c980a5dc7ec02c8e42bf1cf64447",
+            "track_id": "01i3BDtgXG4mXQ3lXIWfqj",
+            "track_name": "My Favorite Things"
+        },
+        {
+            "artist_id": "2UPnuV7os71xTZTyyEgj1B",
+            "artist_name": "Steve Tyrell",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/20cc6ed62151814717ebf44ff6e5b998d8dd7deb",
+            "track_id": "1CG49v5WCl8Oc20TSTMDUQ",
+            "track_name": "Merry Christmas Baby"
+        },
+        {
+            "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ",
+            "artist_name": "Dexter Gordon",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/21f2165006bcdc0e010e857863078f8827f0b8ee",
+            "track_id": "791MjbEuQw27gkeyFHcBZg",
+            "track_name": "The Christmas Song"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/758f32f0d351bda7a262fff301af3c6d369b8612",
+            "track_id": "0bjYzTbNdJyLlaG1nzoaMj",
+            "track_name": "O 'Tannenbaum"
+        },
+        {
+            "artist_id": "73Np75Wv2tju61Eo9Zw4IR",
+            "artist_name": "Idina Menzel",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/910681d905ad71b3356c7896fafe0d65d7011a88",
+            "track_id": "0Ie5uiv54KgCr7P4sYDTHl",
+            "track_name": "Baby It's Cold Outside (duet with Michael Bubl\u00e9)"
+        },
+        {
+            "artist_id": "6MERXsiRbur2oJZFgYRDKz",
+            "artist_name": "Vitamin String Quartet",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d82e85987537b4fe0acfa2aa1dc2748596534e0e",
+            "track_id": "7DcCdgkMmUfggTb1U1yOUT",
+            "track_name": "The Chipmunk Song (Christmas Don't Be Late)"
+        },
+        {
+            "artist_id": "1yQ8S4xdGOGbUcpaPR6hCM",
+            "artist_name": "Straight No Chaser",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/aaaf2ed59b6fd448ae923fbd190751746a155b4b",
+            "track_id": "40KECtzuA3VgFkNHJd6TGI",
+            "track_name": "O Holy Night"
+        },
+        {
+            "artist_id": "5OSQDUNmll299ldFIF1Dau",
+            "artist_name": "Trans-Siberian Orchestra",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/f93f67fd592b7e9a5b8f8eefa990d3a02978e458",
+            "track_id": "1hqUVmQzRrGWQorxgIMUcJ",
+            "track_name": "Midnight Clear"
+        }
+    ]
+}

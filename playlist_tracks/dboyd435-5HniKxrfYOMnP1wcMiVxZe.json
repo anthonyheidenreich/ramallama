@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/dboyd435/playlists/5HniKxrfYOMnP1wcMiVxZe/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6ltzsmQQbmdoHHbLZ4ZN25",
+            "artist_name": "Lord Huron",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "33onVefa4PMs8b705pKRGz",
+            "track_name": "Ends of the Earth"
+        },
+        {
+            "artist_id": "1WrqUPWlHN5FXCRcQgrkas",
+            "artist_name": "Lucius",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/3956fd6cb597e71ff994de3826d27ae33474410a",
+            "track_id": "25FoplCa9QqSc8ohE6gzAs",
+            "track_name": "Two of Us on the Run"
+        },
+        {
+            "artist_id": "0MeLMJJcouYXCymQSHPn8g",
+            "artist_name": "Sleeping At Last",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/a444aae159315b372b6e98b35adb08c7f71fba55",
+            "track_id": "46csQvpdnlRxWHGm2ICY16",
+            "track_name": "Thrives"
+        },
+        {
+            "artist_id": "0MeLMJJcouYXCymQSHPn8g",
+            "artist_name": "Sleeping At Last",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c492ef70aeba4b22d798994d1ab05a499af4adc",
+            "track_id": "6A6TfgCFu9I151Xt3TC4LR",
+            "track_name": "Parallels"
+        },
+        {
+            "artist_id": "0MeLMJJcouYXCymQSHPn8g",
+            "artist_name": "Sleeping At Last",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/966f216e8f1e0d658c7210dbed27baa37843982c",
+            "track_id": "7hWw7LtJOKcBVrjXszOE8s",
+            "track_name": "Households"
+        },
+        {
+            "artist_id": "0MG4LXIw7n4x0wjDc6WYXk",
+            "artist_name": "This Will Destroy You",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/42533af311eeb5dbb09e48a7651b5a6c5dd5d0f1",
+            "track_id": "3NWIXwTwj5U05tDs55cQvq",
+            "track_name": "Killed the Lord, Left for the New World"
+        },
+        {
+            "artist_id": "0ojcq9LJQWMawQdFDw3M0L",
+            "artist_name": "Donnie Trumpet & The Social Experiment",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a220904987dd27ba92af25d4446c629824a2b00",
+            "track_id": "3w04cXVTLNvkl6foI4K1ze",
+            "track_name": "Pass the Vibes"
+        }
+    ]
+}

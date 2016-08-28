@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/121992691/playlists/44iQFtoFg2vRCZPbK0tbHi/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6VxCmtR7S3yz4vnzsJqhSV",
+            "artist_name": "Sheppard",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/96abb43632fcbd23e42e1c1622f930050e99b15d",
+            "track_id": "21Go4aMyLGP40ANI3TU0Fn",
+            "track_name": "Geronimo"
+        },
+        {
+            "artist_id": "6vjCIhbLklvyaDBgCcpH57",
+            "artist_name": "Fences",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/c25015b6061c51437bd37498c512c4948a61e678",
+            "track_id": "2GPaAr882x4ZteZnxywolL",
+            "track_name": "Arrows (feat. Macklemore & Ryan Lewis)"
+        },
+        {
+            "artist_id": "3mIj9lX2MWuHmhNCA7LSCW",
+            "artist_name": "The 1975",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a5eb00d6e8130a757f98c17a9d0a62e0e4eb0ef",
+            "track_id": "2zyz614fJRrqQXW1q0sY1c",
+            "track_name": "Girls"
+        },
+        {
+            "artist_id": "3vbKDsSS70ZX9D2OcvbZmS",
+            "artist_name": "Beck",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/e25bbee1dcf7dccc682264d184c3dc281c683906",
+            "track_id": "6Tdf6ngDboRqCwsew2zqyT",
+            "track_name": "Turn Away"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 45,
+            "preview_url": null,
+            "track_id": "4E8KoNTXZnWDE3cCjjw8FU",
+            "track_name": "Break Free"
+        },
+        {
+            "artist_id": "0hCNtLu0JehylgoiP8L4Gh",
+            "artist_name": "Nicki Minaj",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "5051g33Kqwf5IuVTjb2nMh",
+            "track_name": "Fly"
+        },
+        {
+            "artist_id": "7H55rcKCfwqkyDFH9wpKM6",
+            "artist_name": "Christina Perri",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/2284b742d065f32a4a4577c8c1defb642b47ce61",
+            "track_id": "0n450TgdXT9BLURLyUV0qt",
+            "track_name": "burning gold"
+        }
+    ]
+}

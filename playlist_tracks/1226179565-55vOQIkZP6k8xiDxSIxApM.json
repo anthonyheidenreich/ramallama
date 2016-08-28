@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/55vOQIkZP6k8xiDxSIxApM/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/17a32044a1b431a252b5e9a04ddf86e7887ec37d",
+            "track_id": "1FCQEg7wOK9IIBuxx63krr",
+            "track_name": "And We Danced (feat. Ziggy Stardust)"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/bde4658f7d27a910a773e3180fc9632920db4043",
+            "track_id": "78wkOLqITJnDlAhvAclsb1",
+            "track_name": "The Town"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/20812fd499bb28395930d4a5a6be76a17ec9e9ba",
+            "track_id": "3ra1jLBrMWFtvt0tFdfyyE",
+            "track_name": "Church (feat. Geo of Blue Scholars)"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/af3b01bac7199f3df83a685cec350cd1b7f5e53b",
+            "track_id": "7nCYx2tac5Jl4GUhbleKNI",
+            "track_name": "Fallin"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/e7ce82e1d171a6d78bdaceda40eb0bea87b41bcd",
+            "track_id": "5m4X2HQ0eiviwuKPoREanT",
+            "track_name": "American"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/26cdc03872031160b4ec74e8b2bd21ae7359c46d",
+            "track_id": "1CmUZGtH29Kx36C1Hleqlz",
+            "track_name": "Thrift Shop - feat. Wanz"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0rf8whOpWQjuBqQwPbtLma",
+            "track_name": "Wings"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/521ac988eb8e3d24b953ca05bdc21acb04892e2e",
+            "track_id": "3JIqogHHQIQW1uJ5Yivb88",
+            "track_name": "Otherside (feat. Fences) [Ryan Lewis Remix]"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/2db07bf6066bc091da6b5d971f3a6e75a61239bb",
+            "track_id": "1TJBqS7OM2xB15CX859MI7",
+            "track_name": "Vipassana (Ryan Lewis Remix)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/334922a509ebb9352e09b57e459ecda181efabbd",
+            "track_id": "14lkom0xjCyp4H7CAOU7pI",
+            "track_name": "Irish Celebration (P Smoov Remix)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c154a7a1cac08d821e6efd2ec60541968ffec6c",
+            "track_id": "1Z8R8oDtsEHFtos7qc6dtO",
+            "track_name": "My Oh My"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb882b01d4b66051936a6bb2b9b2676465943e88",
+            "track_id": "0dlxqODS4xOn7pwjKXZZuc",
+            "track_name": "Ten Thousand Hours"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f826380a449ec9a8bae45967d908fffd7ff5222",
+            "track_id": "3bidbhpOYeV4knp8AIu8Xn",
+            "track_name": "Can't Hold Us - feat. Ray Dalton"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/7c26553a16062f975327b056173c97c2aa006106",
+            "track_id": "7kugTkQLsvtjM7esCEI8Ee",
+            "track_name": "Thin Line (feat. Buffalo Madonna)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/01be36372701737beaf638b8af25b03694ca5c5d",
+            "track_id": "01uqI4H13Gsd8Lyl1EYd8H",
+            "track_name": "Same Love - feat. Mary Lambert"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/7047161ee664a5b208267cdcabd3bacfbf86c274",
+            "track_id": "7g3bGUwZaMp0Wve2wSp50F",
+            "track_name": "Make The Money"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0bf5a1ff23dc33123f5526b05ea7346b7a9bbdb",
+            "track_id": "7uJYgdaNAwztJ1dCybVpAV",
+            "track_name": "Neon Cathedral - feat. Allen Stone"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc62d95577ffec42d0893b2260b6f72206278f8a",
+            "track_id": "4K6sLiYChcQz1NXtQ4eHml",
+            "track_name": "BomBom - feat. The Teaching"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/7aa8f01d48cb610474437b5a4da5f619bb0af060",
+            "track_id": "5l5IjBzuVWog64CYMmGqzu",
+            "track_name": "White Walls (feat. ScHoolboy Q & Hollis)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/7dbd489f9302015ae43c68923df817d67f5077d4",
+            "track_id": "2eYd0mEJAmw4zBKWMb7PaT",
+            "track_name": "Jimmy Iovine (feat. Ab-Soul)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2129072c73695e1af0f001292b1a9162b4a5560f",
+            "track_id": "5n5uyFpfopa4mNdSN0gTaH",
+            "track_name": "Wing$"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb387918a51a8ee171aa004e5d7fa778be15e66b",
+            "track_id": "3vtD6jSo7t3tdz7E30kJoN",
+            "track_name": "A Wake (feat. Evan Roman)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/27f5865e3f4af197cd7ccd96ddf33493d596797b",
+            "track_id": "051urfGQsQOQXSbjIumG9v",
+            "track_name": "Gold - feat. Eighty4 Fly"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/37f51c12f956548f1992490a37e5155d677764c6",
+            "track_id": "1PnAMNvmdDxGqSeY7sNqRr",
+            "track_name": "Starting Over (feat. Ben Bridwell of Band of Horses)"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/41e9e9665703eb9399b8dd3cf900f726918ed6cc",
+            "track_id": "0lH2JOmVFlrClxbNQxCgyr",
+            "track_name": "Cowboy Boots"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c154a7a1cac08d821e6efd2ec60541968ffec6c",
+            "track_id": "1Z8R8oDtsEHFtos7qc6dtO",
+            "track_name": "My Oh My"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Big Sean - Too Fake feat Chiddy Bang"
+        },
+        {
+            "artist_id": "40giwFcTQtv9ezxW8yqxJU",
+            "artist_name": "Chiddy Bang",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/04cbe4d1dd5849285d01ffd6af0ca86fd7c2d685",
+            "track_id": "7Fk94wDxTAQVUQw4dUpRyK",
+            "track_name": "Ray Charles"
+        },
+        {
+            "artist_id": "40giwFcTQtv9ezxW8yqxJU",
+            "artist_name": "Chiddy Bang",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/db62331daecedb66d55015e1a5c1718bf5137f87",
+            "track_id": "0M9uKADrm8Qel0B6wWTh53",
+            "track_name": "Handclaps & Guitars"
+        },
+        {
+            "artist_id": "40giwFcTQtv9ezxW8yqxJU",
+            "artist_name": "Chiddy Bang",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a1be2506dc6c5b6449bb20ecba8220594768fbc",
+            "track_id": "3TqKcIZMZ26qYmzr2HsNxb",
+            "track_name": "All Things Go"
+        },
+        {
+            "artist_id": "40giwFcTQtv9ezxW8yqxJU",
+            "artist_name": "Chiddy Bang",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/86dae06714ef3d205be5c8564061042a0b2f4a44",
+            "track_id": "0woMUHJ26QW9n35GWyUBpG",
+            "track_name": "Old Ways"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "7fJR8EppWza1akfpznsKmJ",
+            "track_name": "Doses & Mimosas"
+        },
+        {
+            "artist_id": "7enBrBojgBJuPPdqTq4Z5F",
+            "artist_name": "Citizen Cope",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/6375e686935a1a4828b4427860c65bcd3a0494fd",
+            "track_id": "4Nrg8EG7wWTiTOumtpw8gk",
+            "track_name": "Let The Drummer Kick"
+        },
+        {
+            "artist_id": "7enBrBojgBJuPPdqTq4Z5F",
+            "artist_name": "Citizen Cope",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ead9a33b8c05819d2c26cf262f3391bdd1306af",
+            "track_id": "1D8aDjEF8ouEBxbSoClLx2",
+            "track_name": "Sideways"
+        },
+        {
+            "artist_id": "7enBrBojgBJuPPdqTq4Z5F",
+            "artist_name": "Citizen Cope",
+            "popularity": 42,
+            "preview_url": null,
+            "track_id": "0NkCx4pvkAEWYD9xviIXMk",
+            "track_name": "Son's Gonna Rise"
+        },
+        {
+            "artist_id": "7enBrBojgBJuPPdqTq4Z5F",
+            "artist_name": "Citizen Cope",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f534eb0c2524093c811f711eda3cdb37f1a23fe",
+            "track_id": "3r7gP3kGBkldTrOO6ebMGy",
+            "track_name": "Bullet and a Target"
+        },
+        {
+            "artist_id": "7enBrBojgBJuPPdqTq4Z5F",
+            "artist_name": "Citizen Cope",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/4543c26e3dba393c0ac296fddd9634e811f50032",
+            "track_id": "2wSgjvKs4oLjFVmUA2gPVS",
+            "track_name": "One Lovely Day"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Logic",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "All I Do"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 36,
+            "preview_url": null,
+            "track_id": "5BSndweF91KDqyxANsZcQH",
+            "track_name": "Ho Hey"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "4BDpHt1JrVQzaU7E6RBbXh",
+            "track_name": "Flowers in Your Hair"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "3uJxOhwJjf8NTml3KHxQeQ",
+            "track_name": "Classy Girls"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b462b2d89ed30b669470c39c65b0f04d6ac740b",
+            "track_id": "3dOAXUx7I1qnzWzxdnsyB8",
+            "track_name": "Lonely Boy"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff2b18fdee4aa8f3945a03b6adcb2b67e04b9448",
+            "track_id": "46iI0binWzpkEJgIWTYUBR",
+            "track_name": "Gold On The Ceiling"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5c29239ea62843247c24be6008222c5e95d4332",
+            "track_id": "0grFc6klR3hxoHLcgCYsF4",
+            "track_name": "Howlin' For You"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f9e5423c0c3cfa5603248154296255d8f2c75af",
+            "track_id": "6dU5RxthbuaN31bRbEDlNw",
+            "track_name": "Everlasting Light"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/274a4c5e44179a6dad69d2ede7fcaa34a069fa7d",
+            "track_id": "2MVwrvjmcdt4MsYYLCYMt8",
+            "track_name": "Tighten Up"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f9e5423c0c3cfa5603248154296255d8f2c75af",
+            "track_id": "6dU5RxthbuaN31bRbEDlNw",
+            "track_name": "Everlasting Light"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5c29239ea62843247c24be6008222c5e95d4332",
+            "track_id": "0grFc6klR3hxoHLcgCYsF4",
+            "track_name": "Howlin' For You"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c37cbf5686a252267abf8261b87d1401e03e264",
+            "track_id": "4iBimfgpt6neMj67hZArcT",
+            "track_name": "Breaks"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "6gkD0tbTaBy9t6meSK4aIL",
+            "track_name": "Jumper"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 25,
+            "preview_url": null,
+            "track_id": "6luSHkUXVmx3DKGN4TuRqF",
+            "track_name": "Semi-Charmed Life"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/da6695279f59c190fd1ee02cb5729f6f56b8415f",
+            "track_id": "3Uvx1TO0Kg5HgGPk58lHXv",
+            "track_name": "How's It Going To Be"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "7mP4fGwTDxoTOfQtxeAiJS",
+            "track_name": "Never Let You Go"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b605247c19d8b797f4ea53fad924a7229aa6e44",
+            "track_id": "4OtTVS1297d8h56MAX4Wpy",
+            "track_name": "Losing A Whole Year - 2006 Remastered Version"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c96ead12ba3f0c140f0c04fb79555efa1e4fdba",
+            "track_id": "0uESMJnrEKYnZoRbNTvmpB",
+            "track_name": "Crystal Baller - 2006 Remastered Version"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/21e935673a471572e1b551f1992862bab5a2a012",
+            "track_id": "3zmVTzD0nanRGyPTsaC4Hw",
+            "track_name": "Graduate - 2006 Remastered Version"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/4aa020a37257a9955662533711bcbdc2d45a4412",
+            "track_id": "4uKOflRwjX2ieoPgKFt9G2",
+            "track_name": "Motorcycle Drive By - 2006 Remastered Version"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "7HPLbSqmvqM9AZUJ4YQHwl",
+            "track_name": "Deep Inside Of You"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "7mP4fGwTDxoTOfQtxeAiJS",
+            "track_name": "Never Let You Go"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/acfc2f98be72398d9671c86651214c51bfb38bf3",
+            "track_id": "6pLko0BJo4OmvbmPbLURsl",
+            "track_name": "Graduate"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/a93f9a34aecd9316a3133a5d600ec52b3c89a56b",
+            "track_id": "6i8gUFwd6cFuC20Wz4wDPq",
+            "track_name": "Burning Man"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "3c5oaMUdglvVOMXqA5fs5s",
+            "track_name": "Sherane a.k.a Master Splinter\u2019s Daughter"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "6CwoD0C9LVWelhG52bbkdL",
+            "track_name": "Bitch, Don\u2019t Kill My Vibe"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "4j6eSWVi9o1zeol0DO4xxQ",
+            "track_name": "Backseat Freestyle"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "7mb1syxKK4wBwmL956jPot",
+            "track_name": "The Art of Peer Pressure"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "2zz8599zFWbCxlapmnWeAQ",
+            "track_name": "Money Trees"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "0qv4GLagrXhM0bAzCpuezH",
+            "track_name": "Poetic Justice"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4yQFG0pjY3UagWYkfIfWYg",
+            "track_name": "good kid"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "7FQQBmyJuIHLkkyw6J3vJD",
+            "track_name": "m.A.A.d city"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "41UYoaW5ErVF7bH4wuXwvo",
+            "track_name": "Swimming Pools (Drank) - Extended Version"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "2RVD9taXtOtcapahld30E2",
+            "track_name": "Sing About Me, I'm Dying Of Thirst"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "4TnfY6yuQiD0cjsU7lDjDm",
+            "track_name": "Real"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4fZXUJcKxTikN9MVw7cD8q",
+            "track_name": "Compton"
+        },
+        {
+            "artist_id": "20sxb77xiYeusSH8cVdatc",
+            "artist_name": "Meek Mill",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce8a534b824aa62887f22dc6b303468506622c07",
+            "track_id": "4fjsZYsmRqfiq6pMdoFa8I",
+            "track_name": "Amen (feat. Drake)"
+        },
+        {
+            "artist_id": "20sxb77xiYeusSH8cVdatc",
+            "artist_name": "Meek Mill",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed23ae2879ff9d17037a26715e255f2d34a00f6b",
+            "track_id": "79EbOCvUFGeK4iOYQi5fNG",
+            "track_name": "House Party (feat. Young Chris)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Zion I & K. Flay",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Coastin'"
+        },
+        {
+            "artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "artist_name": "Dr. Dre",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/d13701c108a95e18f2503fd53211690b4088e871",
+            "track_id": "4LwU4Vp6od3Sb08CsP99GC",
+            "track_name": "The Next Episode"
+        },
+        {
+            "artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+            "artist_name": "Snoop Dogg",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ff21eea6953672509302bbc2bf5b5965568830c",
+            "track_id": "4675yUu8AUbE72T94BkLCD",
+            "track_name": "Beautiful - Feat. Pharrell, Uncle Charlie Wilson"
+        },
+        {
+            "artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+            "artist_name": "Snoop Dogg",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/455bcb0bc929961e4ec8f79c3e7cef62f3481f96",
+            "track_id": "3BxwPsZI8t3OArt0Yzh8rZ",
+            "track_name": "I Wanna Rock - Edited"
+        },
+        {
+            "artist_id": "1sBkRIssrMs1AbVkOJbc7a",
+            "artist_name": "Rick Ross",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/25df19d076da109cb9a76903c0b7b802d39b01d7",
+            "track_id": "27mF2eUbhExYWiOT0y9cuc",
+            "track_name": "Diced Pineapples"
+        },
+        {
+            "artist_id": "5lK7A5YhRsCAOBAsPlNMs7",
+            "artist_name": "Black Sheep",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "6281LdA2cVFwVM0xC5cqA8",
+            "track_name": "The Choice Is Yours"
+        },
+        {
+            "artist_id": "3pQP2A3t6tST0LC2RUMsA6",
+            "artist_name": "Action Bronson Feat. Riff Raff",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7iiCht4n73LHeVmRTK3KRv",
+            "track_name": "Bird On A Wire (Dirty)"
+        },
+        {
+            "artist_id": "4j56EQDQu5XnL7R3E9iFJT",
+            "artist_name": "Young the Giant",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/31e43726efe8863ef14d54cdbab67715e200669e",
+            "track_id": "165lX6DbMhTzqODVZKLmkm",
+            "track_name": "Apartment"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "7rxBt1PLjWPQdhuXKacZEF",
+            "track_name": "Bloody Mary (Nerve Endings)"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 26,
+            "preview_url": null,
+            "track_id": "3RsjkOS5Dou8j3AM9ssgpy",
+            "track_name": "Lazy Eye"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed0c4a831d9c9d3d89608bf63db3146e0861b952",
+            "track_id": "5ic68M3jaJTEUcEIh5PcqX",
+            "track_name": "Grown Up"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "7gSXAVW4zOlWnO4Y3QX7vz",
+            "track_name": "There He Go"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "ASAP Rocky",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "ASAP Rocky-Trilla Feat ASAP Twelvy ASAP Nast Prod By Beautiful Lou"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed0c4a831d9c9d3d89608bf63db3146e0861b952",
+            "track_id": "5ic68M3jaJTEUcEIh5PcqX",
+            "track_name": "Grown Up"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f2234e4b049ca08837246f171e05932e71149b0",
+            "track_id": "22LoY7zNZWb7Acob4cvCwn",
+            "track_name": "Monopoly"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7y1GB13kJnitvpFbJct3hn",
+            "track_name": "Blessed (feat. Kendrick Lamar)"
+        },
+        {
+            "artist_id": "0g9vAlRPK9Gt3FKCekk4TW",
+            "artist_name": "Ab-Soul",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f39927091908c9631214e759c7efdb7e6310d1b",
+            "track_id": "7c96ddcW9lnRf2BOcmNUEA",
+            "track_name": "Hell Yeah"
+        },
+        {
+            "artist_id": "0av074qUwLn5eyzwqoq3xh",
+            "artist_name": "People Under The Stairs",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/530253b09e94ed8fb5cb1be48119e68ba5993b1e",
+            "track_id": "0msneWUDfYKAGrifwEDhtl",
+            "track_name": "San Francisco Knights"
+        },
+        {
+            "artist_id": "6ZhjJOJXXwnPS8PrXdmjLw",
+            "artist_name": "UGK",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/304330defb1140357c1945310b6c38f88093344c",
+            "track_id": "0WANZVN6yCkSn1TZ1kDglP",
+            "track_name": "Int'l Players Anthem (I Choose You) - Main Version - Clean"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Mac Miller",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Thoughts From A Balcony (prod. Sap)"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1fNZCn2DllOIdyruD2VIhX",
+            "track_name": "The Sunset Sleeps"
+        },
+        {
+            "artist_id": "5gCRApTajqwbnHHPbr2Fpi",
+            "artist_name": "Juicy J",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/96144e7f9e56802c67a261bc1477c0b29ff24a0e",
+            "track_id": "0CpLNO56aPUBQ8roB4ufSa",
+            "track_name": "Bandz A Make Her Dance"
+        },
+        {
+            "artist_id": "5yasS4jdaKSbf1PoWowK9p",
+            "artist_name": "George Washburne",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/6e9fe111f7481f4591aa4bf9ace15ae84395f683",
+            "track_id": "2SmtWKcja87lFQ3DFQviij",
+            "track_name": "Why Can't It Be Easy"
+        },
+        {
+            "artist_id": "59pWgeY26Q6yJy37QvJflh",
+            "artist_name": "Sleigh Bells",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/2339aaf765cf5a9a413cff382ed4b40260f88d21",
+            "track_id": "1iw4yy8dDH9TcSEcOEWVnO",
+            "track_name": "Rill Rill"
+        },
+        {
+            "artist_id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "artist_name": "Pusha T",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/91fae19b152e321da99dcdb427c44ec8243c25b3",
+            "track_id": "6Cr4GuonfqCCFIqSSOGTBG",
+            "track_name": "Trouble On My Mind"
+        }
+    ]
+}

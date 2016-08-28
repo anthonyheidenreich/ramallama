@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/derk924/playlists/5wQatWe8TLKGfyHfd4Wpem/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5YGY8feqx7naU7z4HrwZM6",
+            "artist_name": "Miley Cyrus",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/17510ecd6951bd3aa9c24d7c7fa3d694995a25be",
+            "track_id": "5Q0Nhxo0l2bP3pNjpGJwV1",
+            "track_name": "Party In The U.S.A."
+        },
+        {
+            "artist_id": "6sFIWsNpZYqfjUpaCgueju",
+            "artist_name": "Carly Rae Jepsen",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e00c551bf032195d93c04e712e093f1f300b766",
+            "track_id": "6ol4ZSifr7r3Lb2a9L5ZAB",
+            "track_name": "Call Me Maybe"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/26cdc03872031160b4ec74e8b2bd21ae7359c46d",
+            "track_id": "1CmUZGtH29Kx36C1Hleqlz",
+            "track_name": "Thrift Shop - feat. Wanz"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/b200c889c3a54697737e1327d5b2ab5eddef6987",
+            "track_id": "2Zb7wnGUnNPCas2E0wWSQ5",
+            "track_name": "Ni**as In Paris"
+        },
+        {
+            "artist_id": "1A92IAcd7A6npCA33oGM5i",
+            "artist_name": "The Proclaimers",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f7ef43d9281e32a16391c00874fca84501362b4",
+            "track_id": "67iAlVNDDdddxqSD2EZhFs",
+            "track_name": "I'm Gonna Be (500 Miles)"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/1oSsi71Y2zXYuGjGuq1Nr7/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "602DnpaSXJB4b9DZrvxbDc",
+            "artist_name": "Peggy Lee",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2608eef47637531bf16b02c9072ca01272f4bdc",
+            "track_id": "7CWXt5dUsezai8RD1PIx7e",
+            "track_name": "Bye Bye Blackbird"
+        },
+        {
+            "artist_id": "6bOYtKnpLPQSfMpS2ilotK",
+            "artist_name": "Bobby Vinton",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/f496e87c98e86d54cec541e41b537bb1e90cb50f",
+            "track_id": "4YNKYvRIvrIqcrJNv1u4v0",
+            "track_name": "Please Love Me Forever"
+        },
+        {
+            "artist_id": "1gRNBaI4yn6wCCTvRhGWh8",
+            "artist_name": "Don McLean",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/57d8eb826392685f9961621bd0e299e05ae7fcec",
+            "track_id": "4GLX0kGODwKhFnFps21zx6",
+            "track_name": "Till Tomorrow"
+        },
+        {
+            "artist_id": "3RTzAwFprBqiskp550eSJX",
+            "artist_name": "Harry Nilsson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/572136e4cdb9270a974d9caf792f46501cf75c0c",
+            "track_id": "7vqubB6rY1NpGVGpHYobbQ",
+            "track_name": "Without You"
+        }
+    ]
+}

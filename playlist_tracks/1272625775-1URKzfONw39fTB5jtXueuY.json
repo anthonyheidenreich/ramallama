@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1272625775/playlists/1URKzfONw39fTB5jtXueuY/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0GG7ei637NDIN2w11TWtLC",
+            "track_name": "Shake It Off"
+        },
+        {
+            "artist_id": "1hzfo8twXdOegF3xireCYs",
+            "artist_name": "Milky Chance",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/fbb38f55bae38493d5a74f51a69f297c2f8a7d10",
+            "track_id": "5tjrH5xrpkgKgYd8zQgU8X",
+            "track_name": "Stolen Dance"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/1327de3b1e0880a61875472b4049fd544f3a8eb7",
+            "track_id": "4th1RQAelzqgY7wL53UGQt",
+            "track_name": "The Days"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/ecb1639c58ceb6311919373fe56399e3ec242045",
+            "track_id": "1zHlj4dQ8ZAtrayhuDDmkY",
+            "track_name": "Timber"
+        }
+    ]
+}

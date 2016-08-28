@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/2HrZ8e4KcbipwJkP7m6Xx6/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "75fIuwXxhZ1atNzWLMrgF0",
+            "artist_name": "Tyler Bates",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a5ed7e95de3cd821cf954e9477f25eff498164e",
+            "track_id": "0oBppfYyqqbZ5xssTCPPLb",
+            "track_name": "I Love You"
+        },
+        {
+            "artist_id": "0oXeIbxeFdqMtDYxcwwUTN",
+            "artist_name": "East River Pipe",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2b20f5397d806ea03b8e5e4a5e6dc5dd30b8b44",
+            "track_id": "3Fk5LNoGYf42XjpWv8RdkW",
+            "track_name": "Make a Deal With the City"
+        }
+    ]
+}

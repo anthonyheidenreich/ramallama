@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/122815469/playlists/7FMGRoUnmYb4hxbRCK12OU/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4XqfpACObRB5AsBcUYjL8X",
+            "artist_name": "MC Eiht",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/0ecb0602cf1e935d2e0468223445048751064325",
+            "track_id": "2S3y1O4064v8FJy8kKvVbm",
+            "track_name": "Thuggin It Up"
+        },
+        {
+            "artist_id": "0NnCgUxhtWt1yBtpDyvFQf",
+            "artist_name": "Black Sheep",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/b64ec851a3d5b9347d47f74f291804697325e947",
+            "track_id": "0cbodmgjBx4IVPOIyl3F4b",
+            "track_name": "The Choice Is Yours (Revisited)"
+        },
+        {
+            "artist_id": "3BeQqzKdlARoOd6y30kCO2",
+            "artist_name": "Pete Rock",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/54b27b065576dec33431d43d6f49899dc21caaa4",
+            "track_id": "0tTr0Q7eDyoKviyGNoIFE9",
+            "track_name": "They Reminisce Over You (T.R.O.Y.)"
+        },
+        {
+            "artist_id": "5ABjqwkg5LEPICnTeoeXKf",
+            "artist_name": "Cru",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/5449d7820a110910293baa58aa5eceacbb6a50b3",
+            "track_id": "60KWmDnLE9jB9dHVkhlu3P",
+            "track_name": "Just Another Case"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9f58a84d94d1b8df047223153f8c95f6f827690",
+            "track_id": "3mnVgyzn5HC7Sqkn3B5zHs",
+            "track_name": "I Wanna Be Where You Are"
+        }
+    ]
+}

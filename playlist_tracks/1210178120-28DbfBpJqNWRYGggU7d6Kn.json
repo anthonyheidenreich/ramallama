@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1210178120/playlists/28DbfBpJqNWRYGggU7d6Kn/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6pRi6EIPXz4QJEOEsBaA0m",
+            "artist_name": "Chris Tomlin",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c3682d481ec909d620991e68ef903accb8c35d9",
+            "track_id": "5W9Al2ewPfzbWHOV2BAtBR",
+            "track_name": "Amazing Grace (My Chains Are Gone)"
+        },
+        {
+            "artist_id": "5XlSS9O4eHRiJ0hKzbaFQ2",
+            "artist_name": "Kari Jobe",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/7eb10bd684bd91d27ab5c2011eb9ea3b7237b836",
+            "track_id": "1CYhHYsrUWov6TuA2UL6L6",
+            "track_name": "We Are"
+        },
+        {
+            "artist_id": "1SbnQl7KrIVnXhYcQcMjL2",
+            "artist_name": "Josh Wilson",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c443a587cac74c7bcd21f6230ac71bfdfd00787",
+            "track_id": "3duZUGjIEhWTcVPkp1tXLG",
+            "track_name": "I Refuse"
+        },
+        {
+            "artist_id": "3vcFXwLEUdfWMu7gTQKyot",
+            "artist_name": "Steven Curtis Chapman",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/79fb7bc1ff74be6a9673ebf23f540ef172929bbe",
+            "track_id": "0pmYwPU2PFS3ORKBEQzyKG",
+            "track_name": "Do Everything"
+        },
+        {
+            "artist_id": "0bz9hDpUbAw5JElgEiuIYZ",
+            "artist_name": "Matt Redman",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "65TVrWOg1OwA48J3ubBxKN",
+            "track_name": "We Are the Free"
+        },
+        {
+            "artist_id": "5Ol7umn34fqXApfugYcl9Q",
+            "artist_name": "Flo",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/818212be89db149fc0af3eb5d96bfff9fbf6f91c",
+            "track_id": "2gnRguIiYdwYNFdUBWnMyn",
+            "track_name": "Yaweh (feat. Gameman)"
+        },
+        {
+            "artist_id": "5VX8hxrcfJWwaTLiqGUHG3",
+            "artist_name": "tobyMac",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/8df31aa44b099e5d1a9e80de72f63a8e70e6850f",
+            "track_id": "2lWAP3l4ILsjy11jsX49Ys",
+            "track_name": "Made To Love"
+        },
+        {
+            "artist_id": "29ywwKkxfoH7iWwNY1UezA",
+            "artist_name": "Francesca Battistelli",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/7533a4b66658b1e1031acfc229d3fe9d6f7ca695",
+            "track_id": "7KJaotqTt7k1jCxh1ddBGa",
+            "track_name": "I'm Letting Go"
+        }
+    ]
+}

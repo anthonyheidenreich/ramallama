@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/123481630/playlists/4BjeEP3krcv0615vb9TqKH/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3CjlHNtplJyTf9npxaPl5w",
+            "artist_name": "CHVRCHES",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d8c6e8fc17fca77e8ce8163d0714f3d0da8c8ef",
+            "track_id": "3PvzvltQZLIKk9YgoMP3Yq",
+            "track_name": "The Mother We Share"
+        },
+        {
+            "artist_id": "3CjlHNtplJyTf9npxaPl5w",
+            "artist_name": "CHVRCHES",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/38b97cbf72c46b2b5cb6c2b8935729ae017f6885",
+            "track_id": "4QQg6DXsx6G3lv3W4A15CZ",
+            "track_name": "Recover"
+        },
+        {
+            "artist_id": "5WId4o5jdGVhptNU0uqKxu",
+            "artist_name": "St. Lucia",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/983050532cbf1fb32bae3023cb3811e08dd1e06d",
+            "track_id": "5BxVRqpZi6tIhAap1ZjzVD",
+            "track_name": "Elevate"
+        },
+        {
+            "artist_id": "5WId4o5jdGVhptNU0uqKxu",
+            "artist_name": "St. Lucia",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/96dab7f4ae0aeb5bfa06b9234afed8595bb47f26",
+            "track_id": "1KtZXvkDXe4u9YDrTWh4mY",
+            "track_name": "Closer Than This"
+        },
+        {
+            "artist_id": "5WId4o5jdGVhptNU0uqKxu",
+            "artist_name": "St. Lucia",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/e83344c9aab4db361060a7867ab017b8bf11f296",
+            "track_id": "5u4q8PgOpFOa5tG4yrFAzw",
+            "track_name": "September"
+        },
+        {
+            "artist_id": "7K3zpFXBvPcvzhj7zlGJdO",
+            "artist_name": "Crystal Castles",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ea47c75e1e1850a568529fad11956fcc8d94b80",
+            "track_id": "46Xnj8vZFwOZCE4aZNXlTf",
+            "track_name": "Not In Love"
+        },
+        {
+            "artist_id": "7K3zpFXBvPcvzhj7zlGJdO",
+            "artist_name": "Crystal Castles",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4c85160275ca77ec4d6f17b9c0edd6b0dfe0cd2",
+            "track_id": "0sQkaT8KRwCYRB4JgJKkxT",
+            "track_name": "Crimewave"
+        },
+        {
+            "artist_id": "7K3zpFXBvPcvzhj7zlGJdO",
+            "artist_name": "Crystal Castles",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/475dc40ac6ff507e87d2a4ad5697937ffc7a785d",
+            "track_id": "10SYLtqP6Z9RG5otWbz4HK",
+            "track_name": "Untrust Us"
+        },
+        {
+            "artist_id": "7K3zpFXBvPcvzhj7zlGJdO",
+            "artist_name": "Crystal Castles",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/33a5c7554cc6d4e5b7e368c11442df3e5632de9d",
+            "track_id": "0AEB5IhgCxr4Nt8L5CrRBX",
+            "track_name": "Vanished"
+        }
+    ]
+}

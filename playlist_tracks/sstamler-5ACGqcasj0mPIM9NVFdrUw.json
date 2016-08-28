@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/5ACGqcasj0mPIM9NVFdrUw/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": null,
+            "artist_name": "Nero",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Essential Mix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Justice",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Essential Mix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Skrillex",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Essential Mix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Wolfgang Gartner",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Essential Mix"
+        },
+        {
+            "artist_id": "4YrKBkKSVeqDamzBPWVnSJ",
+            "artist_name": "Basement Jaxx",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/b000667ea2d2fc34d85de9b131e785a68929d748",
+            "track_id": "4tkEcLSIzcoRT5n7UY0qMB",
+            "track_name": "Where's Your Head At (Radio Edit)"
+        }
+    ]
+}

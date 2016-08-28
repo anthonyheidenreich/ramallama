@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/122742594/playlists/6jtawYbGdPJ0fjp4lM36Xc/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1bgyxtWjZwA5PQlDsvs9b8",
+            "artist_name": "Sarah Vaughan",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "3nbQQArk0Gqs6G7A1pyv0J",
+            "track_name": "Black Coffee"
+        },
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/54e67458cf777a1a2b5b826c49424189de3c62a8",
+            "track_id": "5MdgpYBBvqHK8Dh6zVKXzb",
+            "track_name": "There Is an Answer"
+        }
+    ]
+}

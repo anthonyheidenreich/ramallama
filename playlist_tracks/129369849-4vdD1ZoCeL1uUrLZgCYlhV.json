@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/4vdD1ZoCeL1uUrLZgCYlhV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2DuJi13MWHjRHrqRUwk8vH",
+            "artist_name": "Knife Party",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ea3742f2fac20876836885acdbe238dcf2ad61c",
+            "track_id": "5qFL2uwfnGU8FccwLMgPNQ",
+            "track_name": "Internet Friends"
+        },
+        {
+            "artist_id": "0p4nmQO2msCgU4IF37Wi3j",
+            "artist_name": "Avril Lavigne",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/394595709a16dc7d2f11a6c38b1e11a6b945cf54",
+            "track_id": "40NOI5V57KUAxMhGxXFNXH",
+            "track_name": "Hello Kitty"
+        },
+        {
+            "artist_id": "5wPoxI5si3eJsYYwyXV4Wi",
+            "artist_name": "N.E.R.D.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/f62f968049ad5779b131e8d4c9f84f574e8ccc26",
+            "track_id": "2mwQngo1HlX5mftxYcM48a",
+            "track_name": "Rock Star - Jason Nevins Remix Edit"
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "href": "https://api.spotify.com/v1/users/121672770/playlists/6Y5Ib5XbPXZdFAD6FKky2z/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6668e71999f3b077f19325868d476c371f387bf",
+            "track_id": "5z7mYFfhw6N6f23VwrokJD",
+            "track_name": "The Way You Move - Club Mix"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "2zz8599zFWbCxlapmnWeAQ",
+            "track_name": "Money Trees"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2da4bf1ccba826b5a417276f413946923e838c58",
+            "track_id": "3PBC860LAeS4utDAqlqIe2",
+            "track_name": "F*ckwithmeyouknowigotit"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/314a1790070376a3a1db859e2dbe31d74c82e799",
+            "track_id": "1PNGJBI1Lx0h8QCpkHKZLU",
+            "track_name": "Tom Ford"
+        },
+        {
+            "artist_id": "35sCXuy5gN6Or69rZ9vqBs",
+            "artist_name": "Birdman",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/9179c0e0d0a6f671a56e229632d910eb838403e9",
+            "track_id": "2QUVk7QscEdZiHi7zs4ycM",
+            "track_name": "Leather So Soft"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4743ebf596337b690c53e05588da410fc7dba0f9",
+            "track_id": "4fVqQKbROkz8Z9FFJS7vls",
+            "track_name": "HiiiPower"
+        },
+        {
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "artist_name": "Lil Wayne",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/7043ba4b98fdb95516ffda895793dd862b447f93",
+            "track_id": "4svCVV4VHEL3Z4efES868h",
+            "track_name": "Go DJ"
+        },
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/c2f045c24a821db809a5de08875831b3c3e5986b",
+            "track_id": "2XDdHuoRmBeOaBIOSclj2k",
+            "track_name": "Started From The Bottom"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/4442556dd10e5b4a6c3dc9533f739fcb4b91050a",
+            "track_id": "6xMRTippHBo7DI7CcnAoTK",
+            "track_name": "Too Much"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "7gSXAVW4zOlWnO4Y3QX7vz",
+            "track_name": "There He Go"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d2b4231cd252b7e4ae57db7f4b807419168cddc",
+            "track_id": "7EgXrWgq40By4CUyzSxBI5",
+            "track_name": "Ali Bomaye"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc693a3b0ac7de13bdc4f640dc0e4233f7533d88",
+            "track_id": "5WBnKCEsPwsvWHUZmLjS3s",
+            "track_name": "Alive"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5a587a1ac351a6a1b732b323e6022d0d53c0cef",
+            "track_id": "3bMaMEsH0TY9ATIv9SeDnA",
+            "track_name": "Old Flavours"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/d114cd73f06f8031b585757802d5e969b577135c",
+            "track_id": "5iSNUQ7cnFTZXi6vpe5eBA",
+            "track_name": "Celebrate"
+        },
+        {
+            "artist_id": "1JPy5PsJtkhftfdr6saN2i",
+            "artist_name": "Bassnectar",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/81edf7d2a6f7c68922b90b341b4ddb42856fb50d",
+            "track_id": "19MbwSLaYgAtyicNUMYYgl",
+            "track_name": "Empathy"
+        },
+        {
+            "artist_id": "37uLId6Z5ZXCx19vuruvv5",
+            "artist_name": "Hot Chip",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/56cba5b518f0649b39e688bc6971110140e69200",
+            "track_id": "2hr1W8ebRsjge1NVBbb8QH",
+            "track_name": "Look At Where We Are - Major Lazer remix"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab0909f2f07868b156e175a0686548c270b1ee31",
+            "track_id": "6glsMWIMIxQ4BedzLqGVi4",
+            "track_name": "So Fresh, So Clean"
+        },
+        {
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "artist_name": "Lil Wayne",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/b337aa3f75ccec164ae76f93cfb67c0720288694",
+            "track_id": "7HaggpJGAfEgH8wyMLOIPl",
+            "track_name": "John"
+        },
+        {
+            "artist_id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "artist_name": "Timbaland",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/5bbdd77bbe97b3524466159df408126549c63c4f",
+            "track_id": "5RM4iGrNOyeKLTcMv2FPc9",
+            "track_name": "The Way I Are"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/36ade9974fa85079e996dd9aca93af62c4e88711",
+            "track_id": "0I3q5fE6wg7LIfHGngUTnV",
+            "track_name": "Ms. Jackson"
+        },
+        {
+            "artist_id": "2iojnBLj0qIMiKPvVhLnsH",
+            "artist_name": "Trey Songz",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6b4df9b6f6a23840b3074b96c462b1eb0823298",
+            "track_id": "4zVl2Hv9qesl5GkdaThyKl",
+            "track_name": "Say Aah - feat. Fabolous"
+        },
+        {
+            "artist_id": "6vXTefBL93Dj5IqAWq6OTv",
+            "artist_name": "French Montana",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/e5a70d2aeba4cc9c9cba7b63b32ca7d7b1488204",
+            "track_id": "53A20GH734aXpOF4cNakr4",
+            "track_name": "Pop That"
+        },
+        {
+            "artist_id": "23zg3TcAtWQy7J6upgbUnj",
+            "artist_name": "Usher",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a5e4f8dce6b1a957e235185a4677841fcaafe90",
+            "track_id": "5rb9QrpfcKFHM1EUbSIurX",
+            "track_name": "Yeah!"
+        },
+        {
+            "artist_id": "2kzHE6VuSE8S4PTIjBQfM5",
+            "artist_name": "Lazy Rich",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/9273a17f8580ab6c26a0388a5b77b3b9f2bab0cb",
+            "track_id": "4nbYCeCXmnxWKCrhmoMA13",
+            "track_name": "Better Wipe That Up - Revolvr Remix"
+        },
+        {
+            "artist_id": "0jnsk9HBra6NMjO2oANoPY",
+            "artist_name": "Flo Rida",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/09abe5f4a6cee34e9e8479708d94dd822f1cf3bc",
+            "track_id": "0xcl9XT60Siji6CSG4y6nb",
+            "track_name": "Club Can't Handle Me - feat. David Guetta"
+        },
+        {
+            "artist_id": "2mxe0TnaNL039ysAj51xPQ",
+            "artist_name": "R. Kelly",
+            "popularity": 71,
+            "preview_url": null,
+            "track_id": "0nmxH6IsSQVT1YEsCB9UMi",
+            "track_name": "Ignition (Remix)"
+        },
+        {
+            "artist_id": "41qil2VaGbD194gaEcmmyx",
+            "artist_name": "Will Smith",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/46576be464f8b45bf713700b0fc72de76ee74f9c",
+            "track_id": "0weAUscowxeqDtpCgtbpgp",
+            "track_name": "Gettin' Jiggy Wit It"
+        },
+        {
+            "artist_id": "1IELhvOMg5VQlU7syRm6CS",
+            "artist_name": "CAZZETTE",
+            "popularity": 26,
+            "preview_url": null,
+            "track_id": "3tBHQJmuE0BOKR7l4Anap5",
+            "track_name": "Beam Me Up (Kill Mode) (Radio Edit)"
+        },
+        {
+            "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "artist_name": "David Guetta",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/899fa4f44a122951373944ef55e04740ddb735be",
+            "track_id": "47Z5890IcjSed81ldeLgqc",
+            "track_name": "Titanium (feat. Sia)"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/406c96692d6f572b07901641c6ef857cc32c328d",
+            "track_id": "2cZrrQMjB63c0iIugYH9zS",
+            "track_name": "Rain Over Me"
+        },
+        {
+            "artist_id": "1pbHrVayIcVpHI9z97u4bK",
+            "artist_name": "Bingo Players",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "4ZyC1LAmnvjmaV3azqoS2o",
+            "track_name": "Rattle - Original Mix"
+        },
+        {
+            "artist_id": "7dc6hUwyuIhrZdh80eaCEE",
+            "artist_name": "Fedde Le Grand",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1nfe8aAQwHmPOVesNef4q4",
+            "track_name": "So Much Love - Radio Edit"
+        },
+        {
+            "artist_id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "artist_name": "Daft Punk",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/c27897e8eb4c0910e052c9beb6711432f3630879",
+            "track_id": "0DiWol3AO6WpXZgp0goxAV",
+            "track_name": "One More Time"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa5570819613579b9d9bd5fe91ea136e096dd62e",
+            "track_id": "4Ew4HyNmZkSH91EPzjuTu4",
+            "track_name": "Party Up"
+        },
+        {
+            "artist_id": "4XjrbNiApX2natAmjJgHOc",
+            "artist_name": "Ivan Gough & Feenixpawl feat. Georgi Kay",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "4jZ2w9kgCqpRbj1rzXuBrk",
+            "track_name": "In My Mind (Axwell Radio Edit)"
+        },
+        {
+            "artist_id": "6hyMWrxGBsOx6sWcVj1DqP",
+            "artist_name": "Sebastian Ingrosso",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/38fb243755d51b2ca1b39a3962338dc9300fcd4d",
+            "track_id": "5Sey3HgGa6KB46mlOyCClZ",
+            "track_name": "Calling (Lose My Mind) - Radio Edit"
+        },
+        {
+            "artist_id": "1moxjboGR7GNWYIMWsRjgG",
+            "artist_name": "Florence + The Machine",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/6288f1474445ff6b9b46f7f34131424417a39dec",
+            "track_id": "1ztbs9oxLOfYcDr5xL8loQ",
+            "track_name": "Spectrum (Say My Name) - Calvin Harris Remix Radio Edit"
+        },
+        {
+            "artist_id": "2SY9g7aXy1016VaXs8AEz6",
+            "artist_name": "Chrizz Luvly",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/08ce1b07f100dcca324ae58192139bcec506f43d",
+            "track_id": "4cvw7PdYpfAKtGu9yllDQC",
+            "track_name": "Better Wipe That Up - Chrizz Luvly Remix"
+        },
+        {
+            "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+            "artist_name": "Chris Brown",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d3488b4f439926983ee8e30949a4822833bfff0",
+            "track_id": "2D8Tz3wxGXXzT0yK0psI6v",
+            "track_name": "Beautiful People - Ultimate High Radio Remix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Wiz Khalifa - The Thrill-1"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/f19200dd49836502b43d6f692a41c4b70302d0c6",
+            "track_id": "5QjJgPU8AJeickx34f7on6",
+            "track_name": "Levels - Radio Edit"
+        },
+        {
+            "artist_id": "0fA0VVWsXO9YnASrzqfmYu",
+            "artist_name": "Kid Cudi",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3a51e78186fa7bf972222a3bf6fec8dd1367818",
+            "track_id": "03MWa1FMygR3RrQoQytsjS",
+            "track_name": "Cudi Zone"
+        },
+        {
+            "artist_id": "137W8MRPWKqSmrBGDBFSop",
+            "artist_name": "Wiz Khalifa",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/535d0004ccadf6d5170244a00374591af4b50d2e",
+            "track_id": "1q8kj0fpTfdGYgjuJd2UTM",
+            "track_name": "Bluffin - feat. Berner"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "6lIqLWGRpM1ExD5ADrCdBR",
+            "track_name": "Druggys Wit Hoes Again (feat. Ab Soul)"
+        },
+        {
+            "artist_id": "5504Qqp7s40bqBqzWMEByl",
+            "artist_name": "Pac Div",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/66c21426beeea8033cabede16e5421d2425aec33",
+            "track_id": "1JV3G6ffweIkmxNma2yMaR",
+            "track_name": "Top Down Feat. Casey Veggies & Skeme"
+        },
+        {
+            "artist_id": "0I5HubncQ8E1MFZOlPDY4J",
+            "artist_name": "Trinidad James",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/17d51216699727f61d0ae19d6fea71819d378941",
+            "track_id": "0vB2Rfcz6xC5FsCpBqrZZI",
+            "track_name": "Female$ Welcomed"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac9b1a7db435c7610d5d5bc718501f2dcdcc21d5",
+            "track_id": "5A0NEY8GOCB3ErRSRPpY72",
+            "track_name": "Chaining Day"
+        },
+        {
+            "artist_id": "5R3Hr2cnCCjt220Jmt2xLf",
+            "artist_name": "Dillon Francis",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/0413fe9b0aee647f847be8de2ce53aefe756d97d",
+            "track_id": "7FwsJLYnRNboaN7suQQePz",
+            "track_name": "I.D.G.A.F.O.S."
+        },
+        {
+            "artist_id": "4Js9eYwAf9rypNtV8pNSw9",
+            "artist_name": "Petey Pablo",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/fbdf8a5d728f3b93c64dd29bd962ddca6c2ff6f2",
+            "track_id": "4MeDnO5yA2Zi6IMlVApRci",
+            "track_name": "Freek-A-Leek - Dirty Version"
+        },
+        {
+            "artist_id": "2ht3wxeT69CzyKFChNnNAB",
+            "artist_name": "Big Boi",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d05d12e0adfd05cbdd4031c8d23cab32ca6ef068",
+            "track_id": "635fKC4m9edjSdOYJ9pwyb",
+            "track_name": "Shutterbugg"
+        },
+        {
+            "artist_id": "5EvFsr3kj42KNv97ZEnqij",
+            "artist_name": "Shaggy",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3e433aefb4d7d74fab9ed6d2cf9f2b6209db311",
+            "track_id": "0OaunKfsxkgBvPv68jBbmm",
+            "track_name": "It Wasn't Me"
+        },
+        {
+            "artist_id": "36UmdNa0vW2Sf00fjHWx9Y",
+            "artist_name": "Chris Shiva",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "4wmUci1aI7uJm2SeKNy4DU",
+            "track_name": "Children of the Time - Indigo Remix"
+        },
+        {
+            "artist_id": "5R3Hr2cnCCjt220Jmt2xLf",
+            "artist_name": "Dillon Francis",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "1g3N5uE9VqYz0iHwjqdv0t",
+            "track_name": "Falling Up"
+        },
+        {
+            "artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "artist_name": "Dr. Dre",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc25fd87255e2311fcd5b2b435e966bb046b435d",
+            "track_id": "503OTo2dSqe7qk76rgsbep",
+            "track_name": "Still D.R.E."
+        },
+        {
+            "artist_id": "6f4XkbvYlXMH0QgVRzW0sM",
+            "artist_name": "Waka Flocka Flame",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/7044f512de750a05dbc7f3224a2450bc94d21a9b",
+            "track_id": "69yBUy50NgpaYZYoiwDDhL",
+            "track_name": "Karma - feat. YG Hootie, Popa Smurf & Slim Dunkin [Explicit Album Version]"
+        },
+        {
+            "artist_id": "1sBkRIssrMs1AbVkOJbc7a",
+            "artist_name": "Rick Ross",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/305fb417dc93a2561bcdc6d2f0abfb4c0fd8f5d1",
+            "track_id": "2rz6VejmNOpW1alXsDERp1",
+            "track_name": "Magnificent"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed0c4a831d9c9d3d89608bf63db3146e0861b952",
+            "track_id": "5ic68M3jaJTEUcEIh5PcqX",
+            "track_name": "Grown Up"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/1033bb89854c226b37f33fbd1bb8a302a6fc7fe6",
+            "track_id": "0fGh0trRN1xz3s41r7V5ce",
+            "track_name": "Shake That"
+        },
+        {
+            "artist_id": "3EtuDyQhDQYISGg1DU5qZj",
+            "artist_name": "Mr. Collipark",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ad519cdef8ebb36c552e282754a377b42986099",
+            "track_id": "7mG7uFv8SQ3CPuHQvHax5q",
+            "track_name": "Ms. New Booty"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The Hood Internet",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Suit And Commercial (Justin Timberlake vs Daft Punk)"
+        }
+    ]
+}

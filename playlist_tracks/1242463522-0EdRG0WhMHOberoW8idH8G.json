@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/0EdRG0WhMHOberoW8idH8G/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6qiGjRyN7TJ1GA2nXF68Hi",
+            "artist_name": "Blind Pilot",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/48a2305b681815cf8075447743f8df9c2b7d99cb",
+            "track_id": "0u6kgF2eAYwA1H2WLMZAU6",
+            "track_name": "One Red Thread"
+        },
+        {
+            "artist_id": "5sXaGoRLSpd7VeyZrLkKwt",
+            "artist_name": "Gregory Alan Isakov",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/960d79488c14b3372b6a2b2b56e8e282e1af7bc0",
+            "track_id": "3G9ETaH55bMQx8hwNhAgbU",
+            "track_name": "The Stable Song"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b31226a20f3c31a69f0293e2fcaaa32a4d805f7",
+            "track_id": "45Yx7t5XLJhR39P0DncD3W",
+            "track_name": "The Lengths"
+        },
+        {
+            "artist_id": "196lKsA13K3keVXMDFK66q",
+            "artist_name": "The Avett Brothers",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0fb66c0c04c7c0d984aa251f5b05a1032e739eb",
+            "track_id": "7CEV9VwA8XO9wwxTXgYKvY",
+            "track_name": "I And Love And You"
+        },
+        {
+            "artist_id": "6xrCU6zdcSTsG2hLrojpmI",
+            "artist_name": "Jos\u00e9 Gonz\u00e1lez",
+            "popularity": 42,
+            "preview_url": null,
+            "track_id": "7BzhqmRj3iOZXqMHqiifHr",
+            "track_name": "Heartbeats"
+        },
+        {
+            "artist_id": "6qiGjRyN7TJ1GA2nXF68Hi",
+            "artist_name": "Blind Pilot",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/8203a716b4c218742fdec289f77afee0318ad868",
+            "track_id": "0A9y8sWqqKD6v2rj8rEFcn",
+            "track_name": "I Buried A Bone"
+        },
+        {
+            "artist_id": "6xrCU6zdcSTsG2hLrojpmI",
+            "artist_name": "Jos\u00e9 Gonz\u00e1lez",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "5gf6t8j49qayhwrnd05uLI",
+            "track_name": "Crosses"
+        },
+        {
+            "artist_id": "4M5nCE77Qaxayuhp3fVn4V",
+            "artist_name": "Iron & Wine",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/36f3210c4de2b98903f66926995b02b50d1bc3ea",
+            "track_id": "1KBUrBf50QNhi7mqmo6FjQ",
+            "track_name": "Sodom, South Georgia"
+        }
+    ]
+}

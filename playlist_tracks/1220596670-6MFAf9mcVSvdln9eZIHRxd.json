@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1220596670/playlists/6MFAf9mcVSvdln9eZIHRxd/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1hcdI2N1023RvSwLzTtdsp",
+            "artist_name": "Natalia Lafourcade",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/65806758e1ec05c0eddc96a04a27157768ccb405",
+            "track_id": "1jmDkMtuAQJgSiN9AulFcx",
+            "track_name": "La Fugitiva"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/87b5a463b8368b64a58368eab296bc25361cdf48",
+            "track_id": "5Kr0fdwhJncjhvmgsToqV0",
+            "track_name": "The Blacker The Berry"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242558506/playlists/6KlofHKiU0A5rEH78iR2py/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5rfQucYgrOXJ3aD5TuLdoK",
+            "artist_name": "Clark Beckham",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/c50b442e5921af9561043635d0e062d13b68199e",
+            "track_id": "2xlQVbsdfDfcW9GDNW9sW1",
+            "track_name": "Every Breath You Take"
+        },
+        {
+            "artist_id": "5rfQucYgrOXJ3aD5TuLdoK",
+            "artist_name": "Clark Beckham",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/af41b32c089e125acb130338b3a3fca31a75a1b9",
+            "track_id": "4NzflpEOdoYMI2GVj9WIRC",
+            "track_name": "Superstition"
+        },
+        {
+            "artist_id": "5rfQucYgrOXJ3aD5TuLdoK",
+            "artist_name": "Clark Beckham",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/5decec23e789e677e2bd22b25675213c1c61a696",
+            "track_id": "7xkMXVFPKvj70VAnEllKmL",
+            "track_name": "Make It Rain"
+        },
+        {
+            "artist_id": "5rfQucYgrOXJ3aD5TuLdoK",
+            "artist_name": "Clark Beckham",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2fd00171a6a5cc1464de2644a98d96387960057",
+            "track_id": "7Ephe7QgaoOxgc8Oar9EL6",
+            "track_name": "The Trouble With Love Is"
+        }
+    ]
+}

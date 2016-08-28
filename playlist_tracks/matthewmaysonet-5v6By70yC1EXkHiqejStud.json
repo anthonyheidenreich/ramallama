@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/matthewmaysonet/playlists/5v6By70yC1EXkHiqejStud/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "66lH4jAE7pqPlOlzUKbwA0",
+            "artist_name": "Miranda Lambert",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "6rzhEk5w6Np0FUSEtOusaB",
+            "track_name": "Oklahoma Sky"
+        },
+        {
+            "artist_id": "66lH4jAE7pqPlOlzUKbwA0",
+            "artist_name": "Miranda Lambert",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/fae3074a59e9879c2372dbe5c6d5b20da1abd1f1",
+            "track_id": "1R83BM4h81GMRDksPWn7QB",
+            "track_name": "The House That Built Me"
+        },
+        {
+            "artist_id": "66lH4jAE7pqPlOlzUKbwA0",
+            "artist_name": "Miranda Lambert",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "2uIvFbtMyxtcc8b9tKHbav",
+            "track_name": "Dear Diamond"
+        }
+    ]
+}

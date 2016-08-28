@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/derk924/playlists/2MU12jQYTbQFhJGiIVztq1/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6sFIWsNpZYqfjUpaCgueju",
+            "artist_name": "Carly Rae Jepsen",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e00c551bf032195d93c04e712e093f1f300b766",
+            "track_id": "6ol4ZSifr7r3Lb2a9L5ZAB",
+            "track_name": "Call Me Maybe"
+        },
+        {
+            "artist_id": "1A92IAcd7A6npCA33oGM5i",
+            "artist_name": "The Proclaimers",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f7ef43d9281e32a16391c00874fca84501362b4",
+            "track_id": "67iAlVNDDdddxqSD2EZhFs",
+            "track_name": "I'm Gonna Be (500 Miles)"
+        },
+        {
+            "artist_id": "2lEOFtf3cCyzomQcMHJGfZ",
+            "artist_name": "Ylvis",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f7a502c081b3737334f328a9481940971e13fb",
+            "track_id": "5HOpkTTVcmZHnthgyxrIL8",
+            "track_name": "The Fox (What Does The Fox Say?)"
+        }
+    ]
+}

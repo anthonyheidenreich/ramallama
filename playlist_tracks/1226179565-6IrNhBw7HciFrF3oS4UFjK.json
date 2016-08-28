@@ -1,0 +1,365 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/6IrNhBw7HciFrF3oS4UFjK/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4n31svBA9GGIYxGxgrQaRK",
+            "artist_name": "George Thorogood & The Destroyers",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/e71c7e0aa2de1a0baf8fca397a74ba43c2cfa928",
+            "track_id": "0u6Quwu7pe0lxJJPsRe4Mf",
+            "track_name": "One Bourbon, One Scotch, One Beer"
+        },
+        {
+            "artist_id": "5me0Irg2ANcsgc93uaYrpb",
+            "artist_name": "The Notorious B.I.G.",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7paFS4dSVezRULVsoSRH1H",
+            "track_name": "Machine Gun Funk (WoodysProduce Remix)"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/8637087fedfa6cb23025046d7ff1550ee3ce0aac",
+            "track_id": "1YzIe5I0UNPgPRPxYpe92f",
+            "track_name": "XOXO"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/b42e66786c7db52a11a80cd02259ae677cd5e723",
+            "track_id": "2JEJN5a9ZefMLlMSZma7Ab",
+            "track_name": "Jazzercise '95"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "5e6x5YRnMJIKvYpZxLqdpH",
+            "track_name": "Fortunate Son"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "08txZdx4SKvAnV1ib3k41y",
+            "track_name": "Up Around The Bend"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 48,
+            "preview_url": null,
+            "track_id": "5KdPyhcsQ5PvkvPBq6lLti",
+            "track_name": "All I Want For Christmas Is You - Original Version"
+        },
+        {
+            "artist_id": "2utNxkLhreF1oIfO8kQT3q",
+            "artist_name": "Manfred Mann's Earth Band",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9238c41d7d85fd8192ed5b116187eec7924bfde",
+            "track_id": "39OPZvxdhToddt29z55Ukv",
+            "track_name": "Blinded By The Light"
+        },
+        {
+            "artist_id": "1L9i6qZYIGQedgM9QLSyzb",
+            "artist_name": "Klingande",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "4zdPLFy9zM2MPnUAfEks5j",
+            "track_name": "Jubel"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "3aLCMI1ybjE4KWu9nkUBkx",
+            "track_name": "Submarines"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Bruce Springsteen",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a24e647e575fbd53b58ab8115a466ca5705051f",
+            "track_id": "3XSczvk4MRteOw4Yx3lqMU",
+            "track_name": "Roar"
+        },
+        {
+            "artist_id": "4Wjf8diP59VmPG7fi4y724",
+            "artist_name": "Cedric Gervais",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/748b02f286826fa0ed9ca8140e4359b4ebab4245",
+            "track_id": "4nBU1vERLrLINlOtAjZwhu",
+            "track_name": "Things Can Only Get Better - Radio Edit"
+        },
+        {
+            "artist_id": "07EafuRJGR8zatcaf132UV",
+            "artist_name": "Goodwill",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ac2b079385dec135fb5b14838955df000fb35d4",
+            "track_id": "2Zu7zUegjrsAaZ9dQYLaEN",
+            "track_name": "Take You Higher - Radio Edit"
+        },
+        {
+            "artist_id": "1LOB7jTeEV14pHai6EXSzF",
+            "artist_name": "Cash Cash",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c8ccb1187d4e2a601cccbc9621559baf52a1329",
+            "track_id": "7iT98FhZ7BAE8xdCxBlw55",
+            "track_name": "Take Me Home (feat. Bebe Rexha)"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/53de5f07fbcd09c2a14beb9cf8e5a15371078e98",
+            "track_id": "5jrdCoLpJSvHHorevXBATy",
+            "track_name": "Dark Horse"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/e9df7f2803cca76a5b4c4dc6d89dd1e7ecc18849",
+            "track_id": "5JLv62qFIS1DR3zGEcApRt",
+            "track_name": "Wide Awake"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dom Kennedy",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "On The Way Home"
+        },
+        {
+            "artist_id": "13saZpZnCDWOI9D4IJhp1f",
+            "artist_name": "Lily Allen",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/9bd303e32c66cb75c6e9a30dbdd67c9fd9fe31db",
+            "track_id": "5ZRKAeZJsZFsrDT7SwJfL4",
+            "track_name": "5 O'clock in the Morning (Who'd Have Known) Remix"
+        },
+        {
+            "artist_id": "4x7gxsrTH3gThvSKZPPwaQ",
+            "artist_name": "Chuckie",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/dce1d8b3437cbe0312ce90b68bc1c3bf8e9948e9",
+            "track_id": "3Ke5shf1xi31W7RCemIrzh",
+            "track_name": "What Happens In Vegas - feat. Gregor Salto [Club Mix]"
+        },
+        {
+            "artist_id": "1rSGNXhhYuWoq9BEz5DZGO",
+            "artist_name": "Arty",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a1a5a22c01f36300be54ef7949e12aa99db645d",
+            "track_id": "4ozIyPaX6GTHPinyqlL3Lh",
+            "track_name": "Together We Are (feat. Chris James)"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/707c8e3a16e48080a4b6a61ab86c3b3c95ed8a63",
+            "track_id": "1UGD3lW3tDmgZfAVDh6w7r",
+            "track_name": "Devil In A New Dress"
+        },
+        {
+            "artist_id": "7CajNmpbOovFoOoasH2HaY",
+            "artist_name": "Calvin Harris",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/83f79f4340d1feda6edabad6ffb72b1682d056dc",
+            "track_id": "3bP2xPaVWXlo9gQwRSLyor",
+            "track_name": "Feel so Close - Extended Mix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Noosa - Walk On By (Sound Remedy Remix)"
+        },
+        {
+            "artist_id": "0c173mlxpT3dSFRgMO8XPh",
+            "artist_name": "Big Sean",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/93a7bc25c470de5b96dffa9019a2d6d42ebc95e8",
+            "track_id": "1kTfThxeMMN01vZYhQc13Q",
+            "track_name": "Memories (Part II)"
+        },
+        {
+            "artist_id": "7CajNmpbOovFoOoasH2HaY",
+            "artist_name": "Calvin Harris",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/34ef2c315f140d2282f8c94a131cc2ebf63e5d60",
+            "track_id": "24LS4lQShWyixJ0ZrJXfJ5",
+            "track_name": "Sweet Nothing"
+        },
+        {
+            "artist_id": "6VDdCwrBM4qQaGxoAyxyJC",
+            "artist_name": "Cold War Kids",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/190bf7386df897f512475fda8bd42574d52da7ca",
+            "track_id": "13EtfwoaVNK8ja6KG05CFZ",
+            "track_name": "Miracle Mile"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/accc0cf3edbc6b654b469ccee846ec7da148f092",
+            "track_id": "7tqG3RAo8h9pHxCJFn7bZb",
+            "track_name": "Alive"
+        },
+        {
+            "artist_id": "0QaSiI5TLA4N7mcsdxShDO",
+            "artist_name": "Sub Focus",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/1161488682d24f832565fc41cb3e04e0e7cebdb7",
+            "track_id": "7pi9EIClTkt6TSqA7kNvI9",
+            "track_name": "Tidal Wave"
+        },
+        {
+            "artist_id": "4xnMDfgEmXZEEDdITKcGuE",
+            "artist_name": "Audien",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/1748ca9c03d1b630b56dcd524c93772cbb2f1672",
+            "track_id": "22qUyTlEvJf6DAlyQjMADe",
+            "track_name": "Leaving You - Radio Edit"
+        },
+        {
+            "artist_id": "1bj5GrcLom5gZFF5t949Xl",
+            "artist_name": "Martin Solveig",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a98cc6eabbbf52ee92c4858af69ac6bc5bbed47",
+            "track_id": "1TbENPXb4EoOT0NIYgtwjx",
+            "track_name": "The Night Out - Single Version"
+        },
+        {
+            "artist_id": "4UW65n6QZ8YmanLPuUXVui",
+            "artist_name": "Lovebirds",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0x4ec5QNC0WNkkxpMmu3NB",
+            "track_name": "Out Into The Night"
+        },
+        {
+            "artist_id": "2wkTcMEJKbkBFCInLoK7Ic",
+            "artist_name": "Milagres",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/76e8fa863a44a7c4f55b3b8368c43dcd14db1093",
+            "track_id": "0VaafEG6Ik1H5MUH8cxWnr",
+            "track_name": "Here to Stay"
+        },
+        {
+            "artist_id": "0QJIPDAEDILuo8AIq3pMuU",
+            "artist_name": "M.I.A.",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b0d0452180421807155d894d4f7319d59fa11c5",
+            "track_id": "1kusepF3AacIEtUTYrw4GV",
+            "track_name": "Paper Planes"
+        },
+        {
+            "artist_id": "59pWgeY26Q6yJy37QvJflh",
+            "artist_name": "Sleigh Bells",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/2339aaf765cf5a9a413cff382ed4b40260f88d21",
+            "track_id": "1iw4yy8dDH9TcSEcOEWVnO",
+            "track_name": "Rill Rill"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "7fJR8EppWza1akfpznsKmJ",
+            "track_name": "Doses & Mimosas"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/5dbfa371597735f887c7ec4d9d3d0e8841e77ca7",
+            "track_id": "4asjU3sDnn3002bTJIg2vZ",
+            "track_name": "Missed the Boat"
+        },
+        {
+            "artist_id": "360IAlyVv4PCEVjgyMZrxK",
+            "artist_name": "Miguel",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e9fb2a487b6e3ae090ffeab8039bf26a9ad9c0c",
+            "track_id": "4THgRPmLvhNmM9Lzj8qrvH",
+            "track_name": "Do You..."
+        },
+        {
+            "artist_id": "2Mu5NfyYm8n5iTomuKAEHl",
+            "artist_name": "Ms. Lauryn Hill",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/803dc0318a9413cdc5e28a4621bd772a080ddaaf",
+            "track_id": "41Vs28E6Es3QdxIRqDnBv1",
+            "track_name": "Doo Wop (That Thing)"
+        },
+        {
+            "artist_id": "6zvul52xwTWzilBZl6BUbT",
+            "artist_name": "Pixies",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/23ba420e4291900dfa956af91ebc27a28b1522fc",
+            "track_id": "5BP0oaQ1VhuaznT77CBXQp",
+            "track_name": "Where Is My Mind?"
+        },
+        {
+            "artist_id": "6zvul52xwTWzilBZl6BUbT",
+            "artist_name": "Pixies",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/23ba420e4291900dfa956af91ebc27a28b1522fc",
+            "track_id": "5BP0oaQ1VhuaznT77CBXQp",
+            "track_name": "Where Is My Mind?"
+        },
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/87a56b5b27354050fbd48e65b82a05cdc0b300e2",
+            "track_id": "14Rcq31SafFBHNEwXrtR2B",
+            "track_name": "Hold On, We're Going Home"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/d26c8392936843a07bb162853093de5bf2eb0011",
+            "track_id": "3cHyrEgdyYRjgJKSOiOtcS",
+            "track_name": "Timber"
+        },
+        {
+            "artist_id": "77SW9BnxLY8rJ0RciFqkHh",
+            "artist_name": "The Neighbourhood",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff64df97746e9b97673169f97e0eb5045c552278",
+            "track_id": "4pGqFOfzvfe6avb9kbZicC",
+            "track_name": "Sweater Weather"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a1304db962169023b1cccc50dbdc12e7ccd24b6",
+            "track_id": "3sNVsP50132BTNlImLx70i",
+            "track_name": "Bound 2"
+        }
+    ]
+}

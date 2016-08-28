@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1227405034/playlists/2Lm9OHTG8cMZgzSlp6xjKx/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5WUlDfRSoLAfcVSX1WnrxN",
+            "artist_name": "Sia",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/56269d51af59947eaba040a8bb3325d64bfc8eb7",
+            "track_id": "42PnVxGUSKziKSKXCNXoob",
+            "track_name": "Hostage"
+        },
+        {
+            "artist_id": "3r17AfJCCUqC9Lf0OAc73G",
+            "artist_name": "Fergie",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec0f998146a6189975aae8d9152546a7ffc9d335",
+            "track_id": "1mz9ZrRYu3EPVg9ZHFtjjf",
+            "track_name": "A Little Party Never Killed Nobody (All We Got)"
+        },
+        {
+            "artist_id": "6JL8zeS1NmiOftqZTRgdTz",
+            "artist_name": "Meghan Trainor",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/25128e3ab7e61b593d5f15ab601369bc83bd9c5e",
+            "track_id": "0ifSeVGUr7py5GggttDhXw",
+            "track_name": "All About That Bass"
+        },
+        {
+            "artist_id": "7sfgqEdoeBTjd8lQsPT3Cy",
+            "artist_name": "Emeli Sand\u00e9",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "5xxtmIcGkXQC6vDcsgK7Dm",
+            "track_name": "Crazy In Love - Kid Koala Version"
+        },
+        {
+            "artist_id": "6JL8zeS1NmiOftqZTRgdTz",
+            "artist_name": "Meghan Trainor",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "4vPELafS2vmGqOfaKNpzpn",
+            "track_name": "Title"
+        },
+        {
+            "artist_id": "4fwuXg6XQHfdlOdmw36OHa",
+            "artist_name": "Paloma Faith",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/76326130c3cc46184bacc3a01a04d959f036b66d",
+            "track_id": "7wTmnOSpVJcIzj5FIz2I04",
+            "track_name": "Upside Down"
+        },
+        {
+            "artist_id": "6vWDO969PvNqNYHIOW5v0m",
+            "artist_name": "Beyonc\u00e9",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/745648d9e9c143e6e8029291905ec78d62915542",
+            "track_id": "49sXkAcR5LvOrtq5Qcn5cf",
+            "track_name": "Superpower"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a19b2b0bd24cdfc9b030b93d1f641ccf399b1f69",
+            "track_id": "5yxghrFKJbU7pcaUFEv1Sg",
+            "track_name": "Tattooed Heart"
+        },
+        {
+            "artist_id": "6VuMaDnrHyPL1p4EHjYLi7",
+            "artist_name": "Charlie Puth",
+            "popularity": 91,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f04d3ac6d49dc38a1b28b1e6a17aa98d968372a",
+            "track_id": "6ukMqDxnOPOgoHdak7Kyp3",
+            "track_name": "Marvin Gaye (feat. Meghan Trainor)"
+        }
+    ]
+}

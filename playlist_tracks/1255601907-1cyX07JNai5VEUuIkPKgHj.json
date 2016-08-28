@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1255601907/playlists/1cyX07JNai5VEUuIkPKgHj/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f451d46def07f436729cd5b48d7d88a7d48dc4d",
+            "track_id": "4aVuWgvD0X63hcOCnZtNFA",
+            "track_name": "Hold the Line"
+        },
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd78dafe31bb98f230372c038a126b8808f9349b",
+            "track_id": "2374M0fQpWi3dLnB54qaLX",
+            "track_name": "Africa"
+        },
+        {
+            "artist_id": "34jw2BbxjoYalTp8cJFCPv",
+            "artist_name": "Heart",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/1953b76f0881e15e325519a5f0c475b21874bdce",
+            "track_id": "27BiHcQDEkxVn69zy1t3Es",
+            "track_name": "Barracuda"
+        },
+        {
+            "artist_id": "34jw2BbxjoYalTp8cJFCPv",
+            "artist_name": "Heart",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/63889f1635a5589b6d1d50b7b7dd90735c778afc",
+            "track_id": "5zH710lFSLtkHbMkslLDjR",
+            "track_name": "Crazy On You"
+        },
+        {
+            "artist_id": "4Tw2N3wdvJPGEU7JqMxFfE",
+            "artist_name": "Eddie Money",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d9b0ee0d6536e655c6a100006569ef988681754",
+            "track_id": "63diy8Bzm0pHMAU37By2Nh",
+            "track_name": "Take Me Home Tonight"
+        },
+        {
+            "artist_id": "3zXw2Eh96iTT51pytzHdZi",
+            "artist_name": "38 Special",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef1c35a5be618f58bf27f05f4f25469e34dbd5ac",
+            "track_id": "3jYRpwbctfqB77uU7T7K3U",
+            "track_name": "Caught Up In You"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/1958083a802470daee3a9a0ed171d6a0ee3d9bc6",
+            "track_id": "71SvEDmsOwIWw1IozsZoMA",
+            "track_name": "Any Way You Want It"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/21b9abd3cd2eea634e17a917196fdd5ba2e82670",
+            "track_id": "4bHsxqR3GMrXTxEPLuK5ue",
+            "track_name": "Don't Stop Believin'"
+        }
+    ]
+}

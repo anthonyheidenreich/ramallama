@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/3dMZZikVQGYrtHrBtqXHCa/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "30fXKjFrJ6I9tfwia1ZZMG",
+            "artist_name": "The Ghost of Paul Revere",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/32e8febc05d4f532f8f46946ce9f65ce9355ed51",
+            "track_id": "4yC4gZMGNeLSI7VDPH8EtC",
+            "track_name": "Baba O'Riley"
+        },
+        {
+            "artist_id": "6hV6oxGLeLFw17DGjIPkYD",
+            "artist_name": "Cosmo Sheldrake",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/efe0ddbaa804dd4795be6b739ffe4514c0091f68",
+            "track_id": "4jKSl2zp59HzK76UcuFtJs",
+            "track_name": "Rich"
+        },
+        {
+            "artist_id": "30fXKjFrJ6I9tfwia1ZZMG",
+            "artist_name": "The Ghost of Paul Revere",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ae5405315ddf769f953d39e2c3cd9a1bc723d28",
+            "track_id": "2l5zeirtwESfygzUXirOke",
+            "track_name": "Annabelle"
+        },
+        {
+            "artist_id": "4lujUKeO6nQAJXpq37Epn7",
+            "artist_name": "Son Little",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc0c3580f93e20362c620fd1b74c316970ce3f99",
+            "track_id": "3x8IsQzb1KhPPo6zNGzzL1",
+            "track_name": "Lay Down"
+        },
+        {
+            "artist_id": "2WQfUqU0HCYbiOA2w9zmBp",
+            "artist_name": "PAPA",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "6jOucCQn7gHHxm9Sx6ejru",
+            "track_name": "Ain't It So"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/57ea3ab60380b8ac263dadeb4d4e283a27616c0b",
+            "track_id": "13ka1RWXkwYzZ9Am32uGNN",
+            "track_name": "You're All I Need To Get By"
+        }
+    ]
+}

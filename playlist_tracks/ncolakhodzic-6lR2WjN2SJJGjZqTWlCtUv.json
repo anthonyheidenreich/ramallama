@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/6lR2WjN2SJJGjZqTWlCtUv/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/875b30e9c547c04ad2aae391022002be77db3c72",
+            "track_id": "7LBohG6plAhWaHjuzi4CpY",
+            "track_name": "Rack City"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/f6bdc3d7b323cba7aac0c81880763b64a7a255b8",
+            "track_id": "2DnIioEZLJyz3KnZWHEkbw",
+            "track_name": "Lost In The World"
+        },
+        {
+            "artist_id": "0fA0VVWsXO9YnASrzqfmYu",
+            "artist_name": "Kid Cudi",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a8dbf6893b8576b04a4086c1aae4c0fe76d95ac",
+            "track_id": "6XkuklKiHYVTlVvWlTgQYP",
+            "track_name": "Erase Me - Main"
+        },
+        {
+            "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+            "artist_name": "Chris Brown",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/2874e9fba698a48b37f6ff4900406012e4c16b49",
+            "track_id": "1yo95w2YXMl1GeQGarlqCW",
+            "track_name": "Deuces Remix - f/Drake, Kanye West & Andr\u00e9 3000 - Explicit Version"
+        },
+        {
+            "artist_id": "7vWBZm3sQ8yQvfV4nXxHXK",
+            "artist_name": "Cris Cab",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "3mukI602MtSb5YsEkql6cr",
+            "track_name": "Good Girls"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2c6dc3e97c8911df272367ff3ce5e1a3ae4319e",
+            "track_id": "1LomM3L6atrf79ZL7nHDp4",
+            "track_name": "Shake Senora"
+        }
+    ]
+}

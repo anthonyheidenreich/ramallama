@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/2w7hhmpTVNYaQ2BTZpPh1A/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4Wjf8diP59VmPG7fi4y724",
+            "artist_name": "Cedric Gervais",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/748b02f286826fa0ed9ca8140e4359b4ebab4245",
+            "track_id": "4nBU1vERLrLINlOtAjZwhu",
+            "track_name": "Things Can Only Get Better - Radio Edit"
+        },
+        {
+            "artist_id": "3kVUvbeRdcrqQ3oHk5hPdx",
+            "artist_name": "Grouplove",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce99b8ef9d6af27d36f6c8f2f10a8768412d7fa6",
+            "track_id": "57nNNkgk768QVXq3uHxu5e",
+            "track_name": "Ways To Go"
+        },
+        {
+            "artist_id": "2o5jDhtHVPhrJdv3cEQ99Z",
+            "artist_name": "Ti\u00ebsto",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/294704cfcf795a00ad7181631404d48d97edbfd0",
+            "track_id": "1SbTJy0WIlAifijEpGd7hw",
+            "track_name": "Love and Run"
+        },
+        {
+            "artist_id": "4d53BMrRlQkrQMz5d59f2O",
+            "artist_name": "Mayer Hawthorne",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/4500cf8cab317cbd1dab62842a706a10e9c7eed3",
+            "track_id": "34xSlAT7cOUZj5B6bdXgXQ",
+            "track_name": "Crime"
+        },
+        {
+            "artist_id": "2wkTcMEJKbkBFCInLoK7Ic",
+            "artist_name": "Milagres",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/dacaf596dac412da13bb602f2986a24aa2e61769",
+            "track_id": "5kqAwhv1tYph82ywEL0N2v",
+            "track_name": "Glowing Mouth"
+        },
+        {
+            "artist_id": "6fXEqmGQEt6ONuqVmwrN46",
+            "artist_name": "Bag Raiders",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "0iU4nb78DwWnBI9jGMoGqK",
+            "track_name": "Sunlight"
+        },
+        {
+            "artist_id": "6fXEqmGQEt6ONuqVmwrN46",
+            "artist_name": "Bag Raiders",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "6WO0P4F4t1wpPHAUd8pqBy",
+            "track_name": "Not Over"
+        },
+        {
+            "artist_id": "6fXEqmGQEt6ONuqVmwrN46",
+            "artist_name": "Bag Raiders",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "2LGhCHVXm99Flo0FT93o95",
+            "track_name": "Castles In the Air"
+        },
+        {
+            "artist_id": "02kJSzxNuaWGqwubyUba0Z",
+            "artist_name": "G-Eazy",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4cc6bc946acb3f738774c622a833403012e19f37",
+            "track_id": "1kntApJbCWNPajWjt23eEO",
+            "track_name": "Stay High (feat. Mod Sun)"
+        },
+        {
+            "artist_id": "02kJSzxNuaWGqwubyUba0Z",
+            "artist_name": "G-Eazy",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc10608d3117ecde20c06019a74e1e8bfdac8009",
+            "track_id": "4HnPZXkx15Y5hfBWh9vtQL",
+            "track_name": "Lady Killers (feat. Hoodie Allen)"
+        },
+        {
+            "artist_id": "7muzHifhMdnfN1xncRLOqk",
+            "artist_name": "Flux Pavilion",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/b65d264ce390ae5ec701cef719c922a9ccebab91",
+            "track_id": "2BTPW7osibjN9gFDRY4mYN",
+            "track_name": "Do Or Die - feat. Childish Gambino"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/70b6ac8e8a2694b1bfc0bc05c63726695e8c0c44",
+            "track_id": "07NI6CCv57IbIqzy10ddd7",
+            "track_name": "Nobody's Perfect"
+        },
+        {
+            "artist_id": "07EafuRJGR8zatcaf132UV",
+            "artist_name": "Goodwill",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ac2b079385dec135fb5b14838955df000fb35d4",
+            "track_id": "2Zu7zUegjrsAaZ9dQYLaEN",
+            "track_name": "Take You Higher - Radio Edit"
+        },
+        {
+            "artist_id": "07EafuRJGR8zatcaf132UV",
+            "artist_name": "Goodwill",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/30a1502c50021130ff978d2b1bf548e6ce3d5c7e",
+            "track_id": "1EUTR1TMw6lEBnUyLTj8iW",
+            "track_name": "Take You Higher - Club Mix"
+        },
+        {
+            "artist_id": "3RGLhK1IP9jnYFH4BRFJBS",
+            "artist_name": "The Clash",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/353c1acd28f5b674f8e4d23a0a1598ad039b33c1",
+            "track_id": "1PohsDevUY2TCKuwWknL29",
+            "track_name": "Train in Vain"
+        },
+        {
+            "artist_id": "7sgWBYtJpblXpJl2lU5WVs",
+            "artist_name": "Electric Guest",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "4ZN7DJGG48iP0Jllw0QYmO",
+            "track_name": "This Head I Hold"
+        },
+        {
+            "artist_id": "1LOB7jTeEV14pHai6EXSzF",
+            "artist_name": "Cash Cash",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c8ccb1187d4e2a601cccbc9621559baf52a1329",
+            "track_id": "7iT98FhZ7BAE8xdCxBlw55",
+            "track_name": "Take Me Home (feat. Bebe Rexha)"
+        },
+        {
+            "artist_id": "1pbHrVayIcVpHI9z97u4bK",
+            "artist_name": "Bingo Players",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d27427b005e2680c2d1e91d6a5ff5dd867a9f9b",
+            "track_id": "0F2TSMSBtgXmJtqfDFHxg4",
+            "track_name": "Out Of My Mind - Original Mix"
+        },
+        {
+            "artist_id": "1w5Kfo2jwwIPruYS2UWh56",
+            "artist_name": "Pearl Jam",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/acb2eaa894bf1817fe6a3d6b3ff34ca2f970a59a",
+            "track_id": "6bgmaAN6HbjhFrbJH598IZ",
+            "track_name": "Sirens"
+        },
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "1D7lBVK5BgwKMP0Ow6tHb0",
+            "track_name": "Fire Fly"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/886ca4a17cd47578f7d2138c59a5cb0b771fe43a",
+            "track_id": "4cvUik0BhfRXJyEGtTYuut",
+            "track_name": "Land of the Snakes"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Home Cooked Meal"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mood Ring"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mr. Positive (Skit)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Sinful Nature"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Caged Bird"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Feel Me Now"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "And The Beat Goes On"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "U.D.A."
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Crazy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cleopatra"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Breezy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Everyday"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Introspection (In The Key of G-Funk)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Brooklyn"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Home Cooked Meal"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Home Cooked Meal"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Home Cooked Meal"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mood Ring"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mr. Positive (Skit)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Sinful Nature"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Caged Bird"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Feel Me Now"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "And The Beat Goes On"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "U.D.A."
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Crazy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cleopatra"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Breezy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Everyday"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Introspection (In The Key of G-Funk)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Brooklyn"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "And The Beat Goes On"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Sinful Nature"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "U.D.A."
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mr. Positive (Skit)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cleopatra"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Crazy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Everyday"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Caged Bird"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Brooklyn"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Feel Me Now"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Introspection (In The Key of G-Funk)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Mood Ring"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Breezy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cullen Bonham",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Home Cooked Meal"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/389c1e7cf30e4668eeb950b6757e29e7efc0f433",
+            "track_id": "0aSXBXVQVh2b34jF3DYXAT",
+            "track_name": "You Make Me"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/7047161ee664a5b208267cdcabd3bacfbf86c274",
+            "track_id": "7g3bGUwZaMp0Wve2wSp50F",
+            "track_name": "Make The Money"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a24e647e575fbd53b58ab8115a466ca5705051f",
+            "track_id": "3XSczvk4MRteOw4Yx3lqMU",
+            "track_name": "Roar"
+        },
+        {
+            "artist_id": "50NoVNy9GU1lCrDV8iGpyu",
+            "artist_name": "Ol' Dirty Bastard",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a521f1dd1f7443257601abe1e0d5d962cc5b711",
+            "track_id": "4Az3a137YyUrAJD7JlzBCm",
+            "track_name": "Brooklyn Zoo"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "50 Cent",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Hustler's Ambition"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "5MiQly7cdHQiP6JBX1PSYG",
+            "track_name": "No Diggity"
+        },
+        {
+            "artist_id": "1L9i6qZYIGQedgM9QLSyzb",
+            "artist_name": "Klingande",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "4zdPLFy9zM2MPnUAfEks5j",
+            "track_name": "Jubel"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "3aLCMI1ybjE4KWu9nkUBkx",
+            "track_name": "Submarines"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Bruce Springsteen",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "3eqjTLE0HfPfh78zjh6TqT",
+            "artist_name": "Bruce Springsteen",
+            "popularity": 31,
+            "preview_url": null,
+            "track_id": "23DjJ1MQIoVTF5JYJiCq3R",
+            "track_name": "Glory Days"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 48,
+            "preview_url": null,
+            "track_id": "5KdPyhcsQ5PvkvPBq6lLti",
+            "track_name": "All I Want For Christmas Is You - Original Version"
+        },
+        {
+            "artist_id": "2utNxkLhreF1oIfO8kQT3q",
+            "artist_name": "Manfred Mann's Earth Band",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9238c41d7d85fd8192ed5b116187eec7924bfde",
+            "track_id": "39OPZvxdhToddt29z55Ukv",
+            "track_name": "Blinded By The Light"
+        },
+        {
+            "artist_id": "4FAEZeJcsYYBkNq2D3KGTV",
+            "artist_name": "Three Dog Night",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/aeeadb7efb4f0f555976cd59c4625f301833a30f",
+            "track_id": "4czsX9Yl9As2oC3pjRkARq",
+            "track_name": "Never Been To Spain"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/6faec321d771c39f44bc36becc69c636867b991d",
+            "track_id": "7tSt526i6jm3zmhUfbXZHX",
+            "track_name": "Saving Grace"
+        },
+        {
+            "artist_id": "57xdnSVt4ahJCIXYLieQ25",
+            "artist_name": "The Troggs",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "695D3IeuIXeUHX2RUlnfQp",
+            "track_name": "Wild Thing (Re-Recorded)"
+        },
+        {
+            "artist_id": "44NX2ffIYHr6D4n7RaZF7A",
+            "artist_name": "Van Morrison",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/dea0ee252b37c7add7d380bb10266cc8c4c988d6",
+            "track_id": "683b4ikwa62JevCjwrmfg6",
+            "track_name": "Moondance"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "5e6x5YRnMJIKvYpZxLqdpH",
+            "track_name": "Fortunate Son"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "08txZdx4SKvAnV1ib3k41y",
+            "track_name": "Up Around The Bend"
+        },
+        {
+            "artist_id": "1WRM9i067hd2ujxxi8FI3m",
+            "artist_name": "Steppenwolf",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/39fd93a6114147b0f357a4f9c3e26ba5cad93d7f",
+            "track_id": "1pqTePrSp43XjG8phQngLM",
+            "track_name": "Born to Be Wild"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f05f133e4e6398cd1fac9566a3bff381b9f01ea",
+            "track_id": "2fja4gHzPsIXiK4bMeU0hN",
+            "track_name": "Listen To The Music"
+        },
+        {
+            "artist_id": "7jefIIksOi1EazgRTfW2Pk",
+            "artist_name": "Electric Light Orchestra",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/fac6f0a53874ca9b895b2fc9d99e2ff9e53ea9bb",
+            "track_id": "5lIQ4dFhncseTMYRl9Btes",
+            "track_name": "Showdown"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/dcc0bc7ee6b4849ea5695965a98f111df566f927",
+            "track_id": "1dv3ePjze9tPq2pk8eWJdR",
+            "track_name": "Gimme Shelter"
+        },
+        {
+            "artist_id": "4n31svBA9GGIYxGxgrQaRK",
+            "artist_name": "George Thorogood & The Destroyers",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/e71c7e0aa2de1a0baf8fca397a74ba43c2cfa928",
+            "track_id": "0u6Quwu7pe0lxJJPsRe4Mf",
+            "track_name": "One Bourbon, One Scotch, One Beer"
+        },
+        {
+            "artist_id": "3qm84nBOXUEQ2vnTfUTTFC",
+            "artist_name": "Guns N' Roses",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d51900072bc3740263d6886e11a6251efeabdff",
+            "track_id": "5Fz2wrKAjhKpWeTwvE1Ct3",
+            "track_name": "Paradise City"
+        },
+        {
+            "artist_id": "1rSGNXhhYuWoq9BEz5DZGO",
+            "artist_name": "Arty",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a1a5a22c01f36300be54ef7949e12aa99db645d",
+            "track_id": "4ozIyPaX6GTHPinyqlL3Lh",
+            "track_name": "Together We Are (feat. Chris James)"
+        },
+        {
+            "artist_id": "4P0dddbxPil35MNN9G2MEX",
+            "artist_name": "Cypress Hill",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1ae9a295f7e0a7873cd7754d58e17ee5ecf4097",
+            "track_id": "6Mll2CRQ6neUAIPYJTEOgu",
+            "track_name": "Armada Latina - feat. Pitbull and Marc Anthony"
+        },
+        {
+            "artist_id": "0UOrN3LNaKApiOSdvJiETl",
+            "artist_name": "Shout Out Louds",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/03a7a004274ac9af8ef6f0c7c4c3b1292f1ff46b",
+            "track_id": "7selJ7EVnDpSxWhNETbE9s",
+            "track_name": "Very Loud"
+        },
+        {
+            "artist_id": "5me0Irg2ANcsgc93uaYrpb",
+            "artist_name": "The Notorious B.I.G.",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7paFS4dSVezRULVsoSRH1H",
+            "track_name": "Machine Gun Funk (WoodysProduce Remix)"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/8637087fedfa6cb23025046d7ff1550ee3ce0aac",
+            "track_id": "1YzIe5I0UNPgPRPxYpe92f",
+            "track_name": "XOXO"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/b42e66786c7db52a11a80cd02259ae677cd5e723",
+            "track_id": "2JEJN5a9ZefMLlMSZma7Ab",
+            "track_name": "Jazzercise '95"
+        },
+        {
+            "artist_id": "67nwj3Y5sZQLl72VNUHEYE",
+            "artist_name": "Wale",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/63640564b488b2d3820c47d5e53b73356709b457",
+            "track_id": "5GZWG4NbneAc9sGVCtqGO3",
+            "track_name": "Clappers (feat. Nicki Minaj & Juicy J)"
+        },
+        {
+            "artist_id": "6Ha4aES39QiVjR0L2lwuwq",
+            "artist_name": "Yo Gotti",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/6750f869d05dd1351d059eb1cedb072a90d21e7c",
+            "track_id": "4cb0chqcLcXdMrm1hMLoeK",
+            "track_name": "Cold Blood"
+        },
+        {
+            "artist_id": "0oeUpvxWsC8bWS6SnpU8b9",
+            "artist_name": "The Naked And Famous",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9fe49214d0cea4c1832912e91c24e1588b28476",
+            "track_id": "25nzKGDiua1lE9Qo5V19GL",
+            "track_name": "Young Blood"
+        },
+        {
+            "artist_id": "0XLhfP0Nt0IYLLKqfWjnbb",
+            "artist_name": "George Kranz",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/e73ff8452d238b00b895d4899c4bb4a7b95905db",
+            "track_id": "75BgSdh6oigfxQ2tbQXu0Z",
+            "track_name": "Din Daa Daa"
+        },
+        {
+            "artist_id": "0DxeaLnv6SyYk2DOqkLO8c",
+            "artist_name": "MAGIC!",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b3bd39a3460c7678e2ec2db2f05fe986797d137",
+            "track_id": "3tCwjWLicbjsMCvXhN0WOE",
+            "track_name": "Rude"
+        }
+    ]
+}

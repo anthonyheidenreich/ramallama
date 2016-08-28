@@ -1,0 +1,365 @@
+{
+    "href": "https://api.spotify.com/v1/users/1245921668/playlists/66XaLwyTbGdq2kgLepSjFC/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3KEixcRfBS5K3E91Vn1Kdy",
+            "artist_name": "Iced Earth",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/f8906dde9f3891fa1bfdf92419a8cbe94fccdbcc",
+            "track_id": "0FQuSs2jU8B4Jl7I49jyP5",
+            "track_name": "Ten Thousand Strong"
+        },
+        {
+            "artist_id": "1O8CSXsPwEqxcoBE360PPO",
+            "artist_name": "Stratovarius",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6nvOddf2NfpMSzy7vmoXjo",
+            "track_name": "Hunting high and low"
+        },
+        {
+            "artist_id": "1O8CSXsPwEqxcoBE360PPO",
+            "artist_name": "Stratovarius",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "13bog8poNFrNkkYwEX8Xsi",
+            "track_name": "Find your own voice"
+        },
+        {
+            "artist_id": "1O8CSXsPwEqxcoBE360PPO",
+            "artist_name": "Stratovarius",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3bAYZ7Mm8DgV2HXjNxNiWv",
+            "track_name": "Learning to fly"
+        },
+        {
+            "artist_id": "1O8CSXsPwEqxcoBE360PPO",
+            "artist_name": "Stratovarius",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1mNW6Hh13cUQQCEUz7Aaxb",
+            "track_name": "Stratofortress"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/571e2dc16b543d7d8f270f1d3a85ba2d35b559c9",
+            "track_id": "7KzotXfUSEtMrRWaBVbTbA",
+            "track_name": "Black Sheep"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/339387678d65227f91b2a04edb459583820eb16f",
+            "track_id": "1AJwTN9kigNp4qz9hhmhzA",
+            "track_name": "Weballergy"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/14f8b48740804f409c13b558028265d09b6d74c1",
+            "track_id": "5gK6wg79uEyar51DtHMHJd",
+            "track_name": "San Sebastian (Revisited)"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/1966da551baf9bccd4caafccc70d4efb88978b77",
+            "track_id": "0eiS4yG10eYDEK3YoxjRSV",
+            "track_name": "Tallulah"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/cee8ad88f4cade1f145f40dc483018159c486a5f",
+            "track_id": "4NfCmQdQMx82lolTZrszpN",
+            "track_name": "Wolf & Raven"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/74e544f378bd1a417ca1d2d7dca8ed1737874852",
+            "track_id": "1ld7YUs29Mt1IZ9x5WPjvI",
+            "track_name": "The Cage"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/e42161fc317e47f39134cbfa287d8d3001460182",
+            "track_id": "5vbQ6o93Xc5ZGXIKYz85ZU",
+            "track_name": "The Ruins Of My Life"
+        },
+        {
+            "artist_id": "5YeoQ1L71cXDMpSpqxOjfH",
+            "artist_name": "Sonata Arctica",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/e7735cc0c3b524085813b595560054bb6142d9ec",
+            "track_id": "6sjpm1IDXOWQkDf4j3b9pV",
+            "track_name": "Victoria's Secret"
+        },
+        {
+            "artist_id": "5KvkOKroKLz202ioXfGWR2",
+            "artist_name": "Equilibrium",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/f82501c819e2b6ba44ca67afe5b6af6500490dc5",
+            "track_id": "3FTe5tXtAUK4otJOpIpSFf",
+            "track_name": "Blut Im Auge"
+        },
+        {
+            "artist_id": "0krXCIkthz13P8o0v2tksH",
+            "artist_name": "Ensiferum",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/318e43d7c3b5c6debc8ef092a082c737db5d0728",
+            "track_id": "3vKxCpi8ePMxolp8Fdqpj5",
+            "track_name": "Iron"
+        },
+        {
+            "artist_id": "1w7TzlLDTjjFx5MFILkVr3",
+            "artist_name": "Rhapsody",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2HDjAZ3tWn6rvxnyqS7uwd",
+            "track_name": "Rain Of A Thousand Flames"
+        },
+        {
+            "artist_id": "1w7TzlLDTjjFx5MFILkVr3",
+            "artist_name": "Rhapsody",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6lN5IqtckgT4MkFYPwWZBk",
+            "track_name": "The Wizard\u2019s Last Rhymes"
+        },
+        {
+            "artist_id": "1w7TzlLDTjjFx5MFILkVr3",
+            "artist_name": "Rhapsody",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/de33c2e4db82092cb02bf60178b762d9acd1f4ab",
+            "track_id": "41AZl0dFvjUFaqCj5PizYT",
+            "track_name": "Power Of The Dragonflame"
+        },
+        {
+            "artist_id": "1O8CSXsPwEqxcoBE360PPO",
+            "artist_name": "Stratovarius",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3xUMrn60jt1dL03OYwRIOa",
+            "track_name": "Eagleheart"
+        },
+        {
+            "artist_id": "4pQN0GB0fNEEOfQCaWotsY",
+            "artist_name": "Helloween",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee3ee798b17067087b383e67f6b6c73d24c9a93e",
+            "track_id": "0LqAkK92GTGSPHOLk7V36f",
+            "track_name": "Just A Little Sign"
+        },
+        {
+            "artist_id": "4pQN0GB0fNEEOfQCaWotsY",
+            "artist_name": "Helloween",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/2bfa92b64b48e706b2ff675937b410d8e10abecb",
+            "track_id": "43OOIkcDBf8YfBJOxjxMew",
+            "track_name": "If I Could Fly (Album Version)"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "6osc3EA5wvlcw88g9mlI4H",
+            "track_name": "Sea Of Lies"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "4KGhWPUMEPfGjshwlqkTVi",
+            "track_name": "Inferno (unleash The Fire)"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "6HEqR6Y7dMFqcrG0olAvBm",
+            "track_name": "Smoke And Mirrors"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "5Ft9lDXAdTPUsiCFZOJD9m",
+            "track_name": "Church Of The Machine"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "6SHzpHMP180qSkhOiNmtWg",
+            "track_name": "Of Sins And Shadows"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "4Bzf0VIyABiu25HLYUwjqI",
+            "track_name": "The Witching Hour"
+        },
+        {
+            "artist_id": "4MnZkh4dpNmTMPxkl4Ev5L",
+            "artist_name": "Symphony X",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "3XXWQdL0bKoMIaqx47cXYi",
+            "track_name": "Masquerade (bonustrack)"
+        },
+        {
+            "artist_id": "7IAXZaLTb6nkJr8RmVPn5y",
+            "artist_name": "Angra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1XVIdaFOcDCip2TPgMxUMc",
+            "track_name": "Waiting Silence"
+        },
+        {
+            "artist_id": "7IAXZaLTb6nkJr8RmVPn5y",
+            "artist_name": "Angra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2YYCEReITeo9a5piElVlFl",
+            "track_name": "Spread Your Fire"
+        },
+        {
+            "artist_id": "7IAXZaLTb6nkJr8RmVPn5y",
+            "artist_name": "Angra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6QJmHsdumqwpQtPhs5KbRF",
+            "track_name": "Angels And Demons"
+        },
+        {
+            "artist_id": "7IAXZaLTb6nkJr8RmVPn5y",
+            "artist_name": "Angra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6oOXxKN2tzzEVs3WMOcLje",
+            "track_name": "The Shadow Hunter"
+        },
+        {
+            "artist_id": "7IAXZaLTb6nkJr8RmVPn5y",
+            "artist_name": "Angra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "01V0cJnXKgzdd1zzareVuJ",
+            "track_name": "No Pain For The Dead"
+        },
+        {
+            "artist_id": "2jqA2OsMhBDu0M2GLDIvsH",
+            "artist_name": "Luca Turilli",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6ba99f3c678d24897d33d9aa5a17a4cb703bf6a",
+            "track_id": "5hOFYqOBSWJTdZAvxde3aH",
+            "track_name": "Demonheart"
+        },
+        {
+            "artist_id": "2jqA2OsMhBDu0M2GLDIvsH",
+            "artist_name": "Luca Turilli",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/419d41fd324355aa368da32d759b7b9b12babd83",
+            "track_id": "2FB1ZSxbWpTHV9vKUUpcd1",
+            "track_name": "Black Dragon"
+        },
+        {
+            "artist_id": "2GnCQNJbs4xqFulqAdAg2U",
+            "artist_name": "Rhapsody Of Fire",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/65045aac0b22a126ef88f4e91b99894e85a612a6",
+            "track_id": "7CD8UNQp89kO481VG4ygWX",
+            "track_name": "The Frozen Tears Of Angels"
+        },
+        {
+            "artist_id": "6mfghV4I1CD17FOhDKq7cJ",
+            "artist_name": "Grave Digger",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3XoowzM9EfTLuB5HtyY2y5",
+            "track_name": "Valhalla"
+        },
+        {
+            "artist_id": "6mfghV4I1CD17FOhDKq7cJ",
+            "artist_name": "Grave Digger",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e5fdf943d20687f54d5a44d1b4fd16f3225542c",
+            "track_id": "4nm9rEC2KiKeQFq3LbDfM0",
+            "track_name": "Rebellion (The Clans Are Marching)"
+        },
+        {
+            "artist_id": "7pDnkvo4I1Esv7dZ4WFKv7",
+            "artist_name": "Dreamtale",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/48ab5f09afc5342decb52b54887ec6146dad08be",
+            "track_id": "6xXT2oC9rahX70kA6oTPOg",
+            "track_name": "Secret Door"
+        },
+        {
+            "artist_id": "7gTbq5nTZGQIUgjEGXQpOS",
+            "artist_name": "Kamelot",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae899845790e5689fad480022a95766678bd0c0e",
+            "track_id": "7ICFHXAdJv3DdPUJgX8uRI",
+            "track_name": "March Of Mephisto"
+        },
+        {
+            "artist_id": "7gTbq5nTZGQIUgjEGXQpOS",
+            "artist_name": "Kamelot",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1yBgtLC6NuGNScnbB0R1Xo",
+            "track_name": "Center Of The Universe"
+        },
+        {
+            "artist_id": "5HA5aLY3jJV7eimXWkRBBp",
+            "artist_name": "Epica",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/df2cfc005846337ed25b0de1ea58f04503e36c3c",
+            "track_id": "70TIltdxvgnxUuoEpHQbN3",
+            "track_name": "Never Enough"
+        },
+        {
+            "artist_id": "5HA5aLY3jJV7eimXWkRBBp",
+            "artist_name": "Epica",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "29Ka6lOdiI8t9mnEi0jQSG",
+            "track_name": "Our Destiny"
+        },
+        {
+            "artist_id": "4OAddazJM576euUnFSvXSL",
+            "artist_name": "Lacuna Coil",
+            "popularity": 35,
+            "preview_url": null,
+            "track_id": "4an3kONrPMZu3FeXtPlwlo",
+            "track_name": "Trip The Darkness"
+        },
+        {
+            "artist_id": "1ke5Q2ijh6Tm31kH2HELEe",
+            "artist_name": "Vanden Plas",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7HHL3vlMn81PGz4bhqC49D",
+            "track_name": "Nightwalker"
+        }
+    ]
+}

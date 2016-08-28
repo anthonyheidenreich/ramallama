@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/2FwclABrFdql6QKfQqdUeK/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4ACplpEqD6JIVgKrafauzs",
+            "artist_name": "The Everly Brothers",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "6Et30R1GtviOIDU7wYYyxp",
+            "track_name": "All I Have To Do Is Dream"
+        },
+        {
+            "artist_id": "0JDkhL4rjiPNEp92jAgJnS",
+            "artist_name": "Roy Orbison",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "2M3OVvigcmanSnRq1sdlVE",
+            "track_name": "Crying"
+        },
+        {
+            "artist_id": "4sj6D0zlMOl25nprDJBiU9",
+            "artist_name": "Andy Williams",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/0123a76407f29dfc7239bbfc2930e175c775b3f6",
+            "track_id": "24AIahNHzBxm9S12peXbnG",
+            "track_name": "Moon River (From \"Breakfast at Tiffany's\")"
+        },
+        {
+            "artist_id": "4b0WsB47XCa9F83BmwQ7WX",
+            "artist_name": "The Righteous Brothers",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/be5363a6d28b9d380ea8c27f77f7ee8c88d4f4de",
+            "track_id": "1jFhnVoJkcB4lf9tT0rSZS",
+            "track_name": "Unchained Melody"
+        },
+        {
+            "artist_id": "3wYyutjgII8LJVVOLrGI0D",
+            "artist_name": "Buddy Holly",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e68ed580d5eb9b57db9552110ace50d1e8c141c",
+            "track_id": "5MMU5J8jtVDZiryukBeruJ",
+            "track_name": "Everyday - Single Version"
+        },
+        {
+            "artist_id": "2loYllWFfoWpoxC5YrJKc4",
+            "artist_name": "Dion & The Belmonts",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "6jy0YaWonpm3xH27xFVlXF",
+            "track_name": "Runaround Sue"
+        },
+        {
+            "artist_id": "2loYllWFfoWpoxC5YrJKc4",
+            "artist_name": "Dion & The Belmonts",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5MFpk7qPZmswRlKhzF1E0x",
+            "track_name": "Stay Just A Little Bit Longer"
+        },
+        {
+            "artist_id": "2loYllWFfoWpoxC5YrJKc4",
+            "artist_name": "Dion & The Belmonts",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "2KrL2uwOYGNrLhx7my1z8L",
+            "track_name": "The Wanderer"
+        }
+    ]
+}

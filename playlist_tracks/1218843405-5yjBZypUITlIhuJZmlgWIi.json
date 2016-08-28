@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1218843405/playlists/5yjBZypUITlIhuJZmlgWIi/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "50sDxiSCdHfeu2tD5ZBbIw",
+            "track_name": "Sleep Now In The Fire"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "162UBgdInOBkPk6zKUSYXw",
+            "track_name": "Down Rodeo"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "0N4NO2BmOIBWrCQ9r8Ei8m",
+            "track_name": "Killing In The Name"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Rage Against The Machine",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Guerilla Radio"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "4MAxrLl9mQmpd6l0sqhkfL",
+            "track_name": "Bulls on Parade"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "5FZlziJMjtq4dWiI7brgUl",
+            "track_name": "Born Of A Broken Man"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "2vnSm3DRlrMCcUuoxrOOxX",
+            "track_name": "Bombtrack"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc0b5db7cb787b2fe89fbba0b48a83d1a191c392",
+            "track_id": "4K1DB7EedHPuVnhVrnvf2U",
+            "track_name": "How I Could Just Kill a Man"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/6bc7e7fc964951969186acb7c905037057300a5b",
+            "track_id": "5YBVDvTSSSiqv7KZDeUlXA",
+            "track_name": "Renegades Of Funk"
+        }
+    ]
+}

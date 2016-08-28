@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/124954713/playlists/0eyQGqYUPDKlnLce9UJOSK/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7x83XhcMbOTl1UdYsPTuZM",
+            "artist_name": "Tom Waits",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/84dc3e62211ded71df0fe5d14ddd165467209663",
+            "track_id": "2DwzknWjtUWj2zzDvziklB",
+            "track_name": "Come On Up To The House"
+        },
+        {
+            "artist_id": "6hnWRPzGGKiapVX1UCdEAC",
+            "artist_name": "Sam Cooke",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/689b8d7f86ffe30b5fc3bf91c44f80bb00eb99cd",
+            "track_id": "6VuO6xcpSeeLfqBo4ePbkw",
+            "track_name": "Cupid"
+        },
+        {
+            "artist_id": "7x83XhcMbOTl1UdYsPTuZM",
+            "artist_name": "Tom Waits",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8b12e85f734ac5b5a995303161f5da9822de9a47",
+            "track_id": "0oYo06FRCBtrE3kWrDcsDF",
+            "track_name": "I Hope That I Don't Fall In Love With You"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/rocksteady1313/playlists/4BdNHLPT0An25fnGkLWdVl/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0YWxKQj2Go9CGHCp77UOyy",
+            "artist_name": "Fabolous",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0c80bdcd21a0c887fe34c15f280a60288ce078b",
+            "track_id": "0jdkdbnRwNVHJQ6zL84pQs",
+            "track_name": "Young'n"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/46066797bd58e147702effa9b29b1d48d8080268",
+            "track_id": "4Uyy8fl4AIvAPcIA8B9i3j",
+            "track_name": "I Just Wanna Love U (Give It 2 Me)"
+        }
+    ]
+}

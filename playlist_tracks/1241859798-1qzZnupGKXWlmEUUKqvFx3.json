@@ -1,0 +1,93 @@
+{
+    "href": "https://api.spotify.com/v1/users/1241859798/playlists/1qzZnupGKXWlmEUUKqvFx3/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1CYsQCypByMVgnv17qsSbQ",
+            "artist_name": "Crosby, Stills, Nash & Young",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/67d747e4d5c3722014f4819c8f5dd48b793fa0cb",
+            "track_id": "5JC4BHDEyREcHfPyOwEbEM",
+            "track_name": "Our House"
+        },
+        {
+            "artist_id": "163tK9Wjr9P9DmM0AVK7lm",
+            "artist_name": "Lorde",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/94739b0d21a2267c63bd72f4f3b21b653ee752ed",
+            "track_id": "63gEwBbFtKIb4DQrZdODj7",
+            "track_name": "400 Lux"
+        },
+        {
+            "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+            "artist_name": "David Bowie",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4b800deff2a82c4f38e2dc6fe466ff07981116a",
+            "track_id": "5j6ZZwA9BnxZi5Bk0Ng4jB",
+            "track_name": "Heroes - 1999 Remastered Version"
+        },
+        {
+            "artist_id": "1xU878Z1QtBldR7ru9owdU",
+            "artist_name": "Phoenix",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "7EIADzwAj9LjwoLwFCMcUr",
+            "track_name": "The Real Thing"
+        },
+        {
+            "artist_id": "1ououJVWgWsHWMYDLvT7sH",
+            "artist_name": "Ball Park Music",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0MA6SJa4uIerkfk3OFEE35",
+            "track_name": "All I Want Is You"
+        },
+        {
+            "artist_id": "5hW4L92KnC6dX9t7tYM4Ve",
+            "artist_name": "Joni Mitchell",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/5976dad073c1ca4b3a929f7cc21e6d8ea49e1ff7",
+            "track_id": "7uJjM1gfQfgTBrTCuI4pMj",
+            "track_name": "Chelsea Morning"
+        },
+        {
+            "artist_id": "4yiQZ8tQPux8cPriYMWUFP",
+            "artist_name": "Gwen Stefani",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6d9d5958e679766becddf82cacf898b707c62e7",
+            "track_id": "4QvTOAIVxL3NGgrIYU97pj",
+            "track_name": "Cool"
+        },
+        {
+            "artist_id": "3Rsr4Z96O6U3lToOiV3zBh",
+            "artist_name": "Jamie T",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e8d6998177d29ed6690af06205ba4826abc3633",
+            "track_id": "5aNwrdUHSfMZi7GUyXVUeb",
+            "track_name": "Salvador"
+        },
+        {
+            "artist_id": "536BYVgOnRky0xjsPT96zl",
+            "artist_name": "Two Door Cinema Club",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "4MuNjxIGhNeiO0grjeAzey",
+            "track_name": "Something Good Can Work"
+        },
+        {
+            "artist_id": "3w6zswp5THsSKYLICUbDTZ",
+            "artist_name": "Gabrielle Aplin",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "1MYgu7GBTvC3mC1ovvrzUk",
+            "track_name": "Out on My Own"
+        },
+        {
+            "artist_id": "0C0XlULifJtAgn6ZNCW2eu",
+            "artist_name": "The Killers",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c8377ba2344ad94b74122033b070adcd361bdb2",
+            "track_id": "3gNGi2iUGHXGpBQHce6Nua",
+            "track_name": "When You Were Young"
+        }
+    ]
+}

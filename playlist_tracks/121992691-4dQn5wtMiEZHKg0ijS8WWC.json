@@ -1,0 +1,437 @@
+{
+    "href": "https://api.spotify.com/v1/users/121992691/playlists/4dQn5wtMiEZHKg0ijS8WWC/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4N874uPqBka1QiCvnCVOtr",
+            "artist_name": "Phoebe Ryan",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "3iLZNaFe2bjSwTWScgmQGU",
+            "track_name": "Mine"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/48841dac0633d9fc1e4ca7a18de7c8855cb63191",
+            "track_id": "7n4rVtcfHLYrWZChwhES40",
+            "track_name": "West Coast"
+        },
+        {
+            "artist_id": "5ivCbtrcD5N4rD337xIb2z",
+            "artist_name": "MisterWives",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7db9071cf6736955cb464efdea11f29b82e49e0",
+            "track_id": "21TPhU58AvI1esDUxfCZyW",
+            "track_name": "Hurricane"
+        },
+        {
+            "artist_id": "6ltzsmQQbmdoHHbLZ4ZN25",
+            "artist_name": "Lord Huron",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/403f0f3a50cfb403e63b8b16e861d229edb934b8",
+            "track_id": "3g0XVm6ZTWHbtTTfKhmMo7",
+            "track_name": "Fool for Love"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/acfc2f98be72398d9671c86651214c51bfb38bf3",
+            "track_id": "34GmGSHISecrOU8dF33K0J",
+            "track_name": "Graduate"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/efd87b5799e7dbad2463cfe4fcf11d16533fdeec",
+            "track_id": "47yiq96ANdpKrlgROPpDzC",
+            "track_name": "Darwin (2008 Album Version)"
+        },
+        {
+            "artist_id": "0X2BH1fck6amBIoJhDVmmJ",
+            "artist_name": "Ellie Goulding",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebe557e5ae93b82498f7860e24c23d8332232d99",
+            "track_id": "0uBWMWm5P6tuCiavbjPWS0",
+            "track_name": "The Writer"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/173de2dea5dd26b7fdacec11d475b1a0e2d7d52c",
+            "track_id": "2LkaNhCrNVmcYgXJeLVmsw",
+            "track_name": "The Sound of Silence"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa826e8af9e873f09466c96d5dc19801e2431432",
+            "track_id": "0iOZM63lendWRTTeKhZBSC",
+            "track_name": "Mrs. Robinson"
+        },
+        {
+            "artist_id": "6xrCU6zdcSTsG2hLrojpmI",
+            "artist_name": "Jos\u00e9 Gonz\u00e1lez",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/58c0e8b0529936936ca8362dc458a0afc5eeddae",
+            "track_id": "0ZNYGrmcehorhh9JOeg5Iv",
+            "track_name": "Stay Alive"
+        },
+        {
+            "artist_id": "0J7U24vlOOIeMpuaO6Q85A",
+            "artist_name": "LP",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/a035e2dff6a43b8d9438a8ac7886c31b711bdee4",
+            "track_id": "6lai3DmICTpH3ygJvteIGm",
+            "track_name": "Into The Wild"
+        },
+        {
+            "artist_id": "0RSOEwcMBmhkXmriCCXIXz",
+            "artist_name": "Churchill",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/499f6a036c8a1f4e83347e45c6361f6f97dbf09c",
+            "track_id": "331q5cdwo9aq7ih6bSpoOa",
+            "track_name": "Change"
+        },
+        {
+            "artist_id": "6xrCU6zdcSTsG2hLrojpmI",
+            "artist_name": "Jos\u00e9 Gonz\u00e1lez",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5e8ac9e73267fb483affa4f885df1cd214c1680",
+            "track_id": "4GrOV18KKdZnc3jcfvMDgk",
+            "track_name": "Leaf Off / The Cave"
+        },
+        {
+            "artist_id": "5EM6xJN2QNk0cL7EEm9HR9",
+            "artist_name": "Radical Face",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c6eec1d114d0b81b387174441bb8d87828594c0",
+            "track_id": "42ymF5UrcbYEfHGIE4SBlE",
+            "track_name": "Holy Branches"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/48841dac0633d9fc1e4ca7a18de7c8855cb63191",
+            "track_id": "7n4rVtcfHLYrWZChwhES40",
+            "track_name": "West Coast"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b3a36ed97a6a1faea8e41f88313cb0bfddcdb2c",
+            "track_id": "0oEyXbHhtUBqKdKHewG8Cn",
+            "track_name": "The Dress Looks Nice on You"
+        },
+        {
+            "artist_id": "3j4FHbC5zwmYGJ7r0ZgaMt",
+            "artist_name": "Lissie",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffae332add7f99f638c18de798293628606a551f",
+            "track_id": "0jWtBixMUayiBJ8O4dz3os",
+            "track_name": "I Don't Wanna Go to Work"
+        },
+        {
+            "artist_id": "6FxuPrpa8phaP3Xn73emhT",
+            "artist_name": "The Wood Brothers",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/b38663118ee6dc49fa1ea9bf88a924cf3a991c45",
+            "track_id": "1OwZB3LSwmYv9yHd9fgLLc",
+            "track_name": "Mary Anna"
+        },
+        {
+            "artist_id": "3x8FbPjh2Qz55XMdE2Yalj",
+            "artist_name": "Nick Mulvey",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/e81992cd0415430f3d12007f33dc3636b77d8d1a",
+            "track_id": "6J0OvmRxVmiRyLeJ0aBryf",
+            "track_name": "April"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/7121fb7bdcc6781466c898480f528b909c4def24",
+            "track_id": "3YNZLnEI7MpxZq5iz8O8qH",
+            "track_name": "A Little Lost"
+        },
+        {
+            "artist_id": "6nXSnNEdLuKTzAQozRtqiI",
+            "artist_name": "M. Ward",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2779dd52394c3827b032eaf81f98fe7d2a718cd",
+            "track_id": "3u0jwJGejfjBAX9GAy1Gra",
+            "track_name": "Clean Slate"
+        },
+        {
+            "artist_id": "2HcZuUtnktqMHm4H1R9gAR",
+            "artist_name": "Great Lake Swimmers",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1oyS3j0GlCSLac5qJRQS2W",
+            "track_name": "Zero in the City"
+        },
+        {
+            "artist_id": "3ZllGjNdP5pS8UFnT5Jj2x",
+            "artist_name": "Sea Wolf",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "4DsoxHtvqFn9OtByQnKMRm",
+            "track_name": "The Cold, The Dark & The Silence"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "eddie vedder",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "society"
+        },
+        {
+            "artist_id": "7x5rK9BClDQ8wmCkYAGsQp",
+            "artist_name": "Paolo Nutini",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/a34a62329e3bf34a1d47b371e70d809c364024e2",
+            "track_id": "514q6NjO0jX0yVOOpTs2Ez",
+            "track_name": "Rewind - US"
+        },
+        {
+            "artist_id": "27ze6hCgfr3HcDZAHY60pg",
+            "artist_name": "L\u00e5psley",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/99ac726c11d67aef3a8d13e99b8675f7c96dd5b0",
+            "track_id": "3FerxZiiAtj2SHpuHkPNdp",
+            "track_name": "Falling Short"
+        },
+        {
+            "artist_id": "0bdfiayQAKewqEvaU6rXCv",
+            "artist_name": "M\u00d8",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/a34e0f766d6673bd5e7c09f622132857a2bfb649",
+            "track_id": "6OwDUCgzQOIVcjHA5PBb15",
+            "track_name": "Say You'll Be There"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 25,
+            "preview_url": null,
+            "track_id": "5qNorWTAF5jRGpd3YshEov",
+            "track_name": "No Shade in the Shadow of The Cross"
+        },
+        {
+            "artist_id": "1WrqUPWlHN5FXCRcQgrkas",
+            "artist_name": "Lucius",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/3956fd6cb597e71ff994de3826d27ae33474410a",
+            "track_id": "7eI7Y41wcPfqzAxqv1jogS",
+            "track_name": "Two of Us on the Run"
+        },
+        {
+            "artist_id": "5Q8NEHGX70m1kkojbtm8wa",
+            "artist_name": "Ibeyi",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/1845dde218b9e45edd668b3372178f25a4edf03f",
+            "track_id": "2bqx1nbXAI6ciOxzl2JbVC",
+            "track_name": "Ghosts"
+        },
+        {
+            "artist_id": "0N12PNPrehNU9PVsJMfdzi",
+            "artist_name": "The Show Ponies",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4649efee9f63fda1c5aee1fb12c7f01278dadbed",
+            "track_id": "5xZV3jkOFbKLH7ywEqGORA",
+            "track_name": "Gone"
+        },
+        {
+            "artist_id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "artist_name": "Death Cab for Cutie",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/57ce41409dd9231c57f522279c765036c6d1ad1b",
+            "track_id": "6IKxfNSkRCWXBG4636BtRh",
+            "track_name": "The Ghosts Of Beverly Drive"
+        },
+        {
+            "artist_id": "3IaqL9bsZtYJkqNLiovVho",
+            "artist_name": "Handsome Ghost",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4accb880da82116e5a057d116eb244160ad1951",
+            "track_id": "2g5sJ70dWI3wRWTSR85qUT",
+            "track_name": "Steps"
+        },
+        {
+            "artist_id": "7JFtD8KnbAADBBDleIMuH7",
+            "artist_name": "The Lone Bellow",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a892f39cece39bbe78614a65619bf7387aad09e",
+            "track_id": "5jQQSl7Uae4S8mlRkR4W8j",
+            "track_name": "Green Eyes and a Heart of Gold"
+        },
+        {
+            "artist_id": "4igDSX1kgfWbVTDCywcBGm",
+            "artist_name": "Johnnyswim",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/54c50138c489ace18b4a4cee50734746db0deab8",
+            "track_id": "72BlyfR0zO3NWcLZQ1ARcK",
+            "track_name": "Don't Let It Get You Down"
+        },
+        {
+            "artist_id": "5ivCbtrcD5N4rD337xIb2z",
+            "artist_name": "MisterWives",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/1bb097fc0c1eec6c320bbd5cf4295c39b07bfbab",
+            "track_id": "2PtBhfoPZ6VYtXkrE5FrCH",
+            "track_name": "Reflections"
+        },
+        {
+            "artist_id": "2MuFzH1J5I6gGFYo2qhZmX",
+            "artist_name": "Ryn Weaver",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "16tlhh3jNraThY2kgBlG4X",
+            "track_name": "OctaHate"
+        },
+        {
+            "artist_id": "3cHwmcXlo7XvovQcl5YxlQ",
+            "artist_name": "Yael Naim",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6jwXUNAgI86H6t5teVs89L",
+            "track_name": "Coward"
+        },
+        {
+            "artist_id": "2Zi3RrdQqk63Xj0914STkS",
+            "artist_name": "Naomi Scott",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa2a9613ec17e4af3bdf17653e13ed74c7812255",
+            "track_id": "7pRSpCaW17oEflhhvBkuiI",
+            "track_name": "Hear The Bells"
+        },
+        {
+            "artist_id": "1FWybrAwiSa0zKibdLfZZr",
+            "artist_name": "Blue Foundation",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/52aca426baf10bb3db28a41f9153801ab8337ec7",
+            "track_id": "0OsnLvp3vjq2yRA8gZqjrl",
+            "track_name": "Heads on Fire - Zeds Dead Remix"
+        },
+        {
+            "artist_id": "0nJaMZM8paoA5HEUTUXPqi",
+            "artist_name": "Bear's Den",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/06a469eacfe2e4dede1f1c0638cb6601c52678bb",
+            "track_id": "3cnkPRKvkItP5xGfnAPsAg",
+            "track_name": "Above The Clouds Of Pompeii"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/66f2fc1f7173c683f2ac11e7c075e05aeb464ce7",
+            "track_id": "5Gtn8HgCAo0TUiaKKgP6us",
+            "track_name": "Down in the Valley"
+        },
+        {
+            "artist_id": "4S3XJRZ2bToEYIH1slOdl5",
+            "artist_name": "\u00d3l\u00f6f Arnalds",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbc53f8afbbaab78a4579df405e3d481ba1eef44",
+            "track_id": "4fcQm79lQN2GJHRYq75sSO",
+            "track_name": "With Tomorrow/I'm On Fire"
+        },
+        {
+            "artist_id": "67xyhWIvYQK5qr6b0gElst",
+            "artist_name": "Rae Morris",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/16982769d27fa6577e8bb8aacdddde519d224754",
+            "track_id": "11AM5mzkNzbpohxrmjmGEh",
+            "track_name": "Grow"
+        },
+        {
+            "artist_id": "1FWybrAwiSa0zKibdLfZZr",
+            "artist_name": "Blue Foundation",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/229812481b332a1d62e8bfe9b3f1dfe781a95197",
+            "track_id": "4w3zR0z2oqv8ijhOkTnRvT",
+            "track_name": "Eyes On Fire"
+        },
+        {
+            "artist_id": "2HcZuUtnktqMHm4H1R9gAR",
+            "artist_name": "Great Lake Swimmers",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb6ed2d07263e6d16991e8184a92550e565ca3a9",
+            "track_id": "6kiBz1dvmDhknb3x545rIh",
+            "track_name": "I Will Never See the Sun"
+        },
+        {
+            "artist_id": "053q0ukIDRgzwTr4vNSwab",
+            "artist_name": "Grimes",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/f99cbec9fe133586d23b3e1aaa402d0c4760fd71",
+            "track_id": "5li3FHS5s9V3l4xWsUcmQa",
+            "track_name": "Entropy"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/44bc7199da21d89c2726aa3bb4d57659d28911b2",
+            "track_id": "2zc8bzU9Eg498tbPRdobCl",
+            "track_name": "The Best Room"
+        },
+        {
+            "artist_id": "18Zv2g2vUcEGqJf6WnjfXN",
+            "artist_name": "Brandon Flowers",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/23a78aef7b91fa9ad49126a7013b12a140c19d5d",
+            "track_id": "2ylbo0xbhTmIA7WeBIVZvg",
+            "track_name": "Can't Deny My Love"
+        },
+        {
+            "artist_id": "1W2FTsCUlviVRhHNjZwWiN",
+            "artist_name": "Brooke Fraser",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/233d137a3801e006cc527ce532b1933dd83d014f",
+            "track_id": "4yYUMcnbH1lpqewAabrWPW",
+            "track_name": "Psychosocial"
+        },
+        {
+            "artist_id": "6ltzsmQQbmdoHHbLZ4ZN25",
+            "artist_name": "Lord Huron",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/a829db2b50f19927fdc458584ce27cee6002c30c",
+            "track_id": "3WGGFwucBPa40UaKfoD99f",
+            "track_name": "Frozen Pines"
+        },
+        {
+            "artist_id": "06y1hH4hu3rcTUXHJevPCf",
+            "artist_name": "Ben Lee",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/df51d3d3ede83f6b45bd9bf098dcbf241d904a19",
+            "track_id": "7ldJJqP6MgAp6qbbOT77im",
+            "track_name": "Rise Up"
+        },
+        {
+            "artist_id": "3LVPGE5jPPwtbGslx07YR0",
+            "artist_name": "Kishi Bashi",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/38198509a1fe6a20be7f97af4182e31679d6f2d6",
+            "track_id": "7fhi5tys5EUmDqNy4I0w87",
+            "track_name": "Manchester"
+        },
+        {
+            "artist_id": "18Zv2g2vUcEGqJf6WnjfXN",
+            "artist_name": "Brandon Flowers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/733bbe5272bcfecca54f24f2e8bcadae193a3b43",
+            "track_id": "1BVFeJ9yIeUmWOWbMa4son",
+            "track_name": "Still Want You"
+        }
+    ]
+}

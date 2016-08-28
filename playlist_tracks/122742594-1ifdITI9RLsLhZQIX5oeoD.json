@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/122742594/playlists/1ifdITI9RLsLhZQIX5oeoD/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1d1ba4231bd0f74ce1876ebb323900db1c0d136",
+            "track_id": "7EsLqnaXUSJnwxB252N0rR",
+            "track_name": "End of the World"
+        },
+        {
+            "artist_id": "1vSN1fsvrzpbttOYGsliDr",
+            "artist_name": "Tori Kelly",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/6e3e2227b9ee4a453907fca9b3c4d2371617a601",
+            "track_id": "0AXym3uMYhCOngivsnwjkz",
+            "track_name": "Nobody Love"
+        },
+        {
+            "artist_id": "2RP4pPHTXlQpDnO9LvR7Yt",
+            "artist_name": "Lianne La Havas",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a00fbb709882aacf3444d1d587e17931b2ea359",
+            "track_id": "0gorODYIUfyg83lBPnPbZs",
+            "track_name": "What You Don't Do"
+        }
+    ]
+}

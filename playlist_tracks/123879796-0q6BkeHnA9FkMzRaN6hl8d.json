@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/123879796/playlists/0q6BkeHnA9FkMzRaN6hl8d/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4PDpGtF16XpqvXxsrFwQnN",
+            "artist_name": "Thelonious Monk",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/53a8dd4bef4b5eeb78519c362d077c0015248935",
+            "track_id": "1kAaGwsZioS6AoP78CLbWr",
+            "track_name": "'Round Midnight"
+        },
+        {
+            "artist_id": "1W8TbFzNS15VwsempfY12H",
+            "artist_name": "Charles Mingus",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/7646a845c61449a29747440dcea48e54a2633158",
+            "track_id": "16nJl8NnriCJxraco5Zssm",
+            "track_name": "Better Git It in Your Soul"
+        },
+        {
+            "artist_id": "2jFZlvIea42ZvcCw4OeEdA",
+            "artist_name": "Count Basie",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef847a45a10de72c8313ff8b48337432199641d6",
+            "track_id": "6PGne8ylB0ULe6TH33vbOF",
+            "track_name": "One O'Clock Jump"
+        },
+        {
+            "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ",
+            "artist_name": "Dexter Gordon",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea7e5e7eace5666e0429c703a8166d88c3fb4301",
+            "track_id": "58ylMBq2yqYdHyevarkNWa",
+            "track_name": "I Guess I'll Hang My Tears Out To Dry - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "0tg5uVI4VjzZOFzBryJZii",
+            "artist_name": "Teddy Wilson",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/910e7fef715c743d43b6ba1d2cbe84af03851cde",
+            "track_id": "0OwlMCZXXc4rSLSjkIWRtu",
+            "track_name": "I Got Rhythm"
+        },
+        {
+            "artist_id": "4Ww5mwS7BWYjoZTUIrMHfC",
+            "artist_name": "Charlie Parker",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4c6101b3866764cedcddb7c71e62699ae5b47bd",
+            "track_id": "1c9KwiScmV0H6CxAowAo1T",
+            "track_name": "Ornithology - Live - Storyville"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f18a2ac14b59713ff523ef29ac521a1bf2312d8",
+            "track_id": "6Y1Po1thK2gzebu2x46GMN",
+            "track_name": "Come Fly With Me - Live At The Sands, Las Vegas/1966"
+        },
+        {
+            "artist_id": "2EsmKkHsXK0WMNGOtIhbxr",
+            "artist_name": "McCoy Tyner",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb546d61923ac53fb2cb2805e8748f0a736cf53d",
+            "track_id": "4qRJ7ZJyfzchEd2fjle7Bz",
+            "track_name": "Search For Peace"
+        },
+        {
+            "artist_id": "1tGINpEJVUsQXssRC28ugo",
+            "artist_name": "Roy Haynes",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3moIC5cC75r8dLoM6Ic0E1",
+            "track_name": "Our Delight"
+        },
+        {
+            "artist_id": "6EDLWCpiBEWX51V16atdRN",
+            "artist_name": "Hampton Hawes Trio",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/6602c011519ca9b27c3509a6cd4ed5efe1bedca6",
+            "track_id": "4pZCBhzQ1q49CfpuYMjKk9",
+            "track_name": "What Is This Thing Called Love"
+        },
+        {
+            "artist_id": "5ZATfKurLqflrBhv2FLht5",
+            "artist_name": "Horace Silver",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/910c9dcb20411399b81065ce7aceabde0de9815f",
+            "track_id": "0HljbQu04dxbPje7kCUmzf",
+            "track_name": "The St. Vitus Dance (Rudy Van Gelder Edition) [1999 - Remaster]"
+        },
+        {
+            "artist_id": "1W8TbFzNS15VwsempfY12H",
+            "artist_name": "Charles Mingus",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cbe11348e702579b2ea0bc0716988bb16166d44",
+            "track_id": "5RWzKLxXVzkJQ702yWfp1w",
+            "track_name": "Fables of Faubus"
+        },
+        {
+            "artist_id": "38C3okxv3fyyOIQUVPCdGX",
+            "artist_name": "Lee Morgan",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/7c8b3f9b3f33a3c19ba33f61049ec06fddb7283a",
+            "track_id": "4mY9ouJLSIp2t0CmBzbEZp",
+            "track_name": "Candy - 2007 Digital Remaster"
+        },
+        {
+            "artist_id": "52cM6vrM4MJ8g4H7Ibo5fZ",
+            "artist_name": "Johnny Griffin",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/75f04cc4b93b208d4ef6b86495e51cef84ec62c9",
+            "track_id": "5TR3tXk6SzxSpTRy5STgO3",
+            "track_name": "All The Things You Are - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "1Sc9ykJB728MAZab1Ocwy8",
+            "artist_name": "Sonny Clark",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/33347786087fe803935cf7626990466635e2d08f",
+            "track_id": "3rkMTHBabMPDJsBsoIK2LI",
+            "track_name": "Deep Night"
+        },
+        {
+            "artist_id": "3VEG6gxFIMfl4Cdog26avS",
+            "artist_name": "Bill Evans Trio",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/50b0ea3ff2fd0bb5ab7d9a4dd4e2d0cf29af00f3",
+            "track_id": "1wCe7Rl3SRopd2hZxny2Zg",
+            "track_name": "My Man's Gone Now"
+        },
+        {
+            "artist_id": "0ldU0QJm31y0d6f57R1G2A",
+            "artist_name": "Oscar Peterson Trio",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/528b128b65f16adb9fe7dbe6922be212d890d3cc",
+            "track_id": "1haPzI492gIfPLv27qKUHA",
+            "track_name": "Moten Swing"
+        },
+        {
+            "artist_id": "03YhcM6fxypfwckPCQV8pQ",
+            "artist_name": "Wes Montgomery",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b7e1f558ef8d55250a68c0a2007dea0e8c82518",
+            "track_id": "6w1ZnzuYeDhmK9GmhetwWD",
+            "track_name": "Not Since Nineveh - Digitally Remastered"
+        },
+        {
+            "artist_id": "5ZATfKurLqflrBhv2FLht5",
+            "artist_name": "Horace Silver",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/3320e2dd5322379dfa4a54a47546fe9c1bcfce46",
+            "track_id": "1CDBaGlisZlOJzvx88lL8A",
+            "track_name": "Song For My Father (Rudy Van Gelder Edition) [1999 - Remastered]"
+        },
+        {
+            "artist_id": "5ncBRFyyylFng7kQJaRXN0",
+            "artist_name": "Wynton Kelly",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/ccaf4eed2af43d35100633751387d27f209617a7",
+            "track_id": "3krl40zsdsECZVtOEAkRoh",
+            "track_name": "Gone With The Wind"
+        },
+        {
+            "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ",
+            "artist_name": "Dexter Gordon",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/a971c83edb66bf28e099ea9f06f690b0b58e1f92",
+            "track_id": "1kZ5KjLRzgcbx8v5zP6Iyt",
+            "track_name": "Three O'Clock In The Morning - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "0kbYTNQb4Pb1rPbbaF0pT4",
+            "artist_name": "Miles Davis",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/df1c591632611648495df545085da3248074dd41",
+            "track_id": "5vb7At47uO0yPGfmYnAHuw",
+            "track_name": "'Round Midnight"
+        },
+        {
+            "artist_id": "2nQKUeZeleLGNsJj6WLUXN",
+            "artist_name": "Oliver Nelson",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/720651a80afb0bcd863a865d2283e8cec36a3baa",
+            "track_id": "5O8x53VEBfuv6Ywsw0VsTH",
+            "track_name": "Cascades"
+        },
+        {
+            "artist_id": "0iOVhN3tnSvgDbcg25JoJb",
+            "artist_name": "Etta James",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/67e815f3c9f8e5cf4ae20ac4fbe148682a3b1464",
+            "track_id": "379adW8mq2dcOs3KIlDa3e",
+            "track_name": "Misty"
+        },
+        {
+            "artist_id": "6l40OFJhuTbHQ9V12evc9K",
+            "artist_name": "Gerry Mulligan",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/9dd615fc8e7a7733e42442b5ef3631b75ddf52a8",
+            "track_id": "1tkTbcqjkIw7nt1oKbmznO",
+            "track_name": "Pretty Little Gypsy"
+        },
+        {
+            "artist_id": "6C65D20ASusYqHGSIktfED",
+            "artist_name": "Erroll Garner",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/10d99c06ca739ce3fabf7ce5468a28addf45ef20",
+            "track_id": "5trJ9IoXtS8Yh0LLSwp28N",
+            "track_name": "The Loving Touch"
+        },
+        {
+            "artist_id": "6dUZplQfg5blo0h9HiJ94d",
+            "artist_name": "Tommy Flanagan",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/ddab2985b868f11059cd3fa1fad0d804e77dbc89",
+            "track_id": "56HMjF7x6GYUeXTsgvTGfE",
+            "track_name": "Tonight"
+        },
+        {
+            "artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+            "artist_name": "Herbie Hancock",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/8db670fb2997be364661fda9d88b7f9d7cfb9aba",
+            "track_id": "1tckg6GRaTodmxnDd4Cxkl",
+            "track_name": "Cantaloupe Island"
+        },
+        {
+            "artist_id": "6dUZplQfg5blo0h9HiJ94d",
+            "artist_name": "Tommy Flanagan",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c7efde08f3fceeee3d5206020e5387053d63c17",
+            "track_id": "7GnLbfLodpxrNKEmjioDq4",
+            "track_name": "How High the Moon"
+        },
+        {
+            "artist_id": "2EsmKkHsXK0WMNGOtIhbxr",
+            "artist_name": "McCoy Tyner",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5c04ac56ce4a546920f9a551418018eabb7ebfa",
+            "track_id": "0lELi5BqmUO4hXTFfAUf60",
+            "track_name": "Passion Dance"
+        },
+        {
+            "artist_id": "3ZppcUE7tHnE6SzUR4ipSy",
+            "artist_name": "Booker Ervin",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/0ec07baadf3b1d67fbf719cb200a5a4564637594",
+            "track_id": "0b0ZUEBYuEZtNeDqpCdKHf",
+            "track_name": "A Day To Mourn"
+        },
+        {
+            "artist_id": "2ZUAe0H2nhsuuCOykSVsJ2",
+            "artist_name": "Thelonious Monk Quartet",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/888bc5b465ac39b0d90e0408fbbb713decb59b9b",
+            "track_id": "0Mo1jIhenIzY0jAFiEv7MQ",
+            "track_name": "Sweet And Lovely - Live At Carnegie Hall"
+        },
+        {
+            "artist_id": "4PDpGtF16XpqvXxsrFwQnN",
+            "artist_name": "Thelonious Monk",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/53a8dd4bef4b5eeb78519c362d077c0015248935",
+            "track_id": "1kAaGwsZioS6AoP78CLbWr",
+            "track_name": "'Round Midnight"
+        },
+        {
+            "artist_id": "03YhcM6fxypfwckPCQV8pQ",
+            "artist_name": "Wes Montgomery",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7w9W00MIgQw9I2TepkYJgB",
+            "track_name": "Stranger in Paradise."
+        },
+        {
+            "artist_id": "3VEG6gxFIMfl4Cdog26avS",
+            "artist_name": "Bill Evans Trio",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2o0s3NkTsZAHlW0HYcJVeB",
+            "track_name": "Autumn Leaves"
+        },
+        {
+            "artist_id": "71Ur25Abq58vksqJINpGdx",
+            "artist_name": "Miles Davis Quintet",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/d43036ab65514867d433d2fd7438551071bb90dc",
+            "track_id": "1rw8b4dClCTDS3GoBRvIg9",
+            "track_name": "My Funny Valentine"
+        },
+        {
+            "artist_id": "05E3NBxNMdnrPtxF9oraJm",
+            "artist_name": "Lester Young",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/a1ab5f8ee550070bd44845f5e3d7a65a5b1325fc",
+            "track_id": "5KfI3J7JzC3dspoNbRRK7q",
+            "track_name": "Stardust"
+        },
+        {
+            "artist_id": "3GpMtIOC5ZLvMBMI7IxPvA",
+            "artist_name": "Art Pepper",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/e85a8c59ae334aba5a10844cd2e32a29cc9d3907",
+            "track_id": "5rfBAWjEAvgLLzKeFJRTYO",
+            "track_name": "Tin Tin Deo"
+        },
+        {
+            "artist_id": "0JM134st8VY7Ld9T2wQiH0",
+            "artist_name": "Coleman Hawkins",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e654209b2b0bfbde7c6a7260250d1e4ba1dfa7e",
+            "track_id": "53VUwWGRp0rhhqNtBZ5rQw",
+            "track_name": "Samba Para Bean"
+        },
+        {
+            "artist_id": "5v74mT11KGJqadf9sLw4dA",
+            "artist_name": "Cannonball Adderley",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf6b843807d5910f04eb83e3ffd3fa5f79f489cb",
+            "track_id": "2AoSArkYqh7G9BVPETOkEV",
+            "track_name": "Autumn Leaves"
+        },
+        {
+            "artist_id": "38C3okxv3fyyOIQUVPCdGX",
+            "artist_name": "Lee Morgan",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/56189f51c53d145d3a8d82da6ba398ef4c4c00e6",
+            "track_id": "57abY9xX9SVdfjn0vydx0t",
+            "track_name": "Boy, What A Night - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "35iymrFS4VnsKn35ebHKX9",
+            "artist_name": "Red Garland",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad114c3409d8026dc3d14f4db453a697335e3457",
+            "track_id": "6j0mXItB7viXXjB98l3Kwy",
+            "track_name": "Please Send Me Someone To Love"
+        },
+        {
+            "artist_id": "1YuknfkSYTTbolRpwZBOv4",
+            "artist_name": "George Gershwin",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb7abb3918803ae1b8ed3a08bdc8a8f2a99266a2",
+            "track_id": "0JlU9dAagcWuuag0GdsKVC",
+            "track_name": "Someone To Watch Over Me (Arr. Keith Jarrett)"
+        },
+        {
+            "artist_id": "0tg5uVI4VjzZOFzBryJZii",
+            "artist_name": "Teddy Wilson",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/d49ae5ee85163f269408c3df9847068b16e061ba",
+            "track_id": "20G4IfSulGHLI4SnNlA8Vh",
+            "track_name": "That Old Feeling"
+        },
+        {
+            "artist_id": "4COj38VNF2Tvc5i9UlfgIV",
+            "artist_name": "Duke Pearson Trio",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/468051567efb335f5ba59c3c8b67230b5756a197",
+            "track_id": "56z1LVAmH9LVydLIe8x9Jk",
+            "track_name": "Two Mile Run"
+        },
+        {
+            "artist_id": "2mY5u4CceAPrpBnse1WpFr",
+            "artist_name": "Earl Hines",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/acde77d9947b8ba8a642a0bba971c84fed9b6416",
+            "track_id": "5rEX2S7L0wrRVKpOPEd0xU",
+            "track_name": "Hallelujah!"
+        },
+        {
+            "artist_id": "0BhFfJmScFj7OzqVaDqnSv",
+            "artist_name": "Hank Jones",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/50f5a5fb50b78678944f949241a20bd541c40db6",
+            "track_id": "0BufOgO9Usr2r1rqmZh8VP",
+            "track_name": "The Night We Called It A Day"
+        },
+        {
+            "artist_id": "6gc6oo3u2f7SqTd4mhe81O",
+            "artist_name": "Ahmad Jamal",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/df3187a0a70698bedd1bb5fbbc8044f29bdd6861",
+            "track_id": "4CZfPaDW5madfScpZl0nDU",
+            "track_name": "Ahmad's Blues"
+        },
+        {
+            "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+            "artist_name": "Chet Baker",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/e68335a970eb1541d0a9d3798a1101d6d82ccd23",
+            "track_id": "1urpTv8ljOwrLlJgxLbZxH",
+            "track_name": "Moon Love"
+        },
+        {
+            "artist_id": "0ldU0QJm31y0d6f57R1G2A",
+            "artist_name": "Oscar Peterson Trio",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/d80a3ad215cd80d8e3896f83a998dcee5d0ae661",
+            "track_id": "7p6ZeiNtEHJKmc4YWBZELG",
+            "track_name": "Georgia On My Mind"
+        },
+        {
+            "artist_id": "4jXfFzeP66Zy67HM2mvIIF",
+            "artist_name": "Bill Evans",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "7HLbrlgF2e26r2ngKhAxFw",
+            "track_name": "Waltz for Debby"
+        },
+        {
+            "artist_id": "1HJHwWck1EY096ea2iPAHO",
+            "artist_name": "Clifford Brown",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/01fea40ca4ddec66c3409daf727329864de5f163",
+            "track_id": "4eq1iqJQzdx7cIz9pgDZQx",
+            "track_name": "Jordu"
+        },
+        {
+            "artist_id": "3kUKwTJdH8FuWzF8p6Dg9E",
+            "artist_name": "Dave Brubeck",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/7582281fdf2ef5ba3daa6640336666b9d5f1ccbb",
+            "track_id": "5p6me2mwQrGfH30eExHn6v",
+            "track_name": "Take Five"
+        },
+        {
+            "artist_id": "52cM6vrM4MJ8g4H7Ibo5fZ",
+            "artist_name": "Johnny Griffin",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/707f1afb2eee528713d5ee29bb37e45122291715",
+            "track_id": "1FkpJeq8QJTB51lNC9zvEl",
+            "track_name": "Mil Dew - 2006 Digital Remaster"
+        },
+        {
+            "artist_id": "7g3iwvP459BN53F7CDxemI",
+            "artist_name": "Jason Moran",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/5db1a83ff8d9d84dea7615f00dc69d5dd896b31b",
+            "track_id": "3Mxjr8FpKRYLIrUstMd6z4",
+            "track_name": "Still Moving"
+        },
+        {
+            "artist_id": "13kHQ586h4Lm9iwVyS2b3K",
+            "artist_name": "Michel Petrucciani",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a4e42b10f1e378a67424bcdc6226bec25021a64",
+            "track_id": "4VkbCvIPjrvJR8EZwa3ktH",
+            "track_name": "September Second"
+        },
+        {
+            "artist_id": "5cbutZUQE7SUCA6MsEMbBv",
+            "artist_name": "Hank Mobley",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2527201426d887d0ec9c2f4b27e59db36f07e10",
+            "track_id": "10kVwPSRjUYja0EtdqmXHe",
+            "track_name": "Dig Dis - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "0ldU0QJm31y0d6f57R1G2A",
+            "artist_name": "Oscar Peterson Trio",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/47caef7b8e990cac3b1b18c2654e414c17be5410",
+            "track_id": "4fGgxzrQRyBTMcxtXzXQZj",
+            "track_name": "Night Train"
+        },
+        {
+            "artist_id": "1hGvycYQKeu788IeWG6ALU",
+            "artist_name": "Chet Baker & Gerry Mulligan",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/676878e000088b167ba70ed8531714d748a52504",
+            "track_id": "0z5Gh8RuBuJYoPRKRLahNV",
+            "track_name": "Line For Lyons"
+        },
+        {
+            "artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+            "artist_name": "Art Blakey & The Jazz Messengers",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e155e402a4a5a7fce1aa922cd8900d11e9cf30e",
+            "track_id": "1BZhawXGhfTYIklMNvHxMw",
+            "track_name": "In Walked Bud"
+        },
+        {
+            "artist_id": "570vCzcespB48HIQyTbDO6",
+            "artist_name": "Bud Powell",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/31ad85cfca7c14703c05d1591682fcacefd64046",
+            "track_id": "5SocjOFFwNyWGLwAzPfLFh",
+            "track_name": "Un Poco Loco - 1998 Digital Remaster;The Rudy Van Gelder Edition"
+        },
+        {
+            "artist_id": "6gc6oo3u2f7SqTd4mhe81O",
+            "artist_name": "Ahmad Jamal",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0LCEA5JndObG7BbjIJCXL4",
+            "track_name": "Poinciana"
+        },
+        {
+            "artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+            "artist_name": "Duke Ellington",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "43DXDfmVyZl1pRwjKnzh61",
+            "track_name": "In A Sentimental Mood"
+        },
+        {
+            "artist_id": "6zkX5fhrSD4tdVOmimR9wB",
+            "artist_name": "Oscar Peterson",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/25681bd6dfc53a840dc8028ebe161482eb913373",
+            "track_id": "3A1NOwqErSnpNuvdeW1RHy",
+            "track_name": "Night And Day"
+        },
+        {
+            "artist_id": "0ZqhrTXYPA9DZR527ZnFdO",
+            "artist_name": "Wayne Shorter",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1ac1769298da84f7ee8527021bbec44e3439b26",
+            "track_id": "0mHEBtkQ5H3PhAdWqLunva",
+            "track_name": "Speak No Evil"
+        },
+        {
+            "artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+            "artist_name": "Art Blakey & The Jazz Messengers",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f797db75f295e0c7053783e373d5687a34e7b84f",
+            "track_id": "4Tq2fWpX1nLCkMSOPkYb1Y",
+            "track_name": "Moanin'"
+        },
+        {
+            "artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+            "artist_name": "John Coltrane",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/4904fedf6b4460a57649afca604f3966bc490c3c",
+            "track_id": "2GqZiMAj4QVzjq9LEZzofw",
+            "track_name": "Take the Coltrane"
+        },
+        {
+            "artist_id": "65uKPt40QH8dMBLuoJHPVY",
+            "artist_name": "Kenny Drew",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa4f566ce958280590ea37b5dff7822eb5cc1e68",
+            "track_id": "6wdwh5TKKLRUO17gSiAHjr",
+            "track_name": "Ballade - 2007 Digital Remaster"
+        },
+        {
+            "artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+            "artist_name": "Art Blakey & The Jazz Messengers",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f797db75f295e0c7053783e373d5687a34e7b84f",
+            "track_id": "4Tq2fWpX1nLCkMSOPkYb1Y",
+            "track_name": "Moanin'"
+        },
+        {
+            "artist_id": "5RzjqfPS0Bu4bUMkyNNDpn",
+            "artist_name": "Dizzy Gillespie",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4jQQ6Kiu7rq9H84j8oeG4O",
+            "track_name": "Dizzy Atmosphere"
+        },
+        {
+            "artist_id": "4PDpGtF16XpqvXxsrFwQnN",
+            "artist_name": "Thelonious Monk",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/b652c757e7458d2dea28ea95c3af64709227c8fc",
+            "track_id": "14fCc1FZ53mvvJD1uM04XI",
+            "track_name": "April In Paris - 1998 Digital Remaster"
+        },
+        {
+            "artist_id": "1HJHwWck1EY096ea2iPAHO",
+            "artist_name": "Clifford Brown",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5886740dc12eedcb3efdf610bb73d9341bb4576",
+            "track_id": "6sqCNKLg6jPKzowRT4o9zZ",
+            "track_name": "Brownie Eyes"
+        },
+        {
+            "artist_id": "4L9xEztn5PKQIO5WnI5W3u",
+            "artist_name": "Art Farmer",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/fe44e33a243655eec8988c9a9ba301e577e08d13",
+            "track_id": "5dPUrl7qMfchlVgXSNOhWQ",
+            "track_name": "Mox Nix - 1991 Digital Remaster"
+        },
+        {
+            "artist_id": "3BG0nwVh3Gc7cuT4XdsLtt",
+            "artist_name": "Joe Henderson",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5a96c54a19f23936a262ce3a488a34293163957",
+            "track_id": "71xfEEzdq8Mu02l5zkArzi",
+            "track_name": "A Shade Of Jade - 2003 Digital Remaster"
+        },
+        {
+            "artist_id": "3DtSOCXYU6o4EV0K1NgIKq",
+            "artist_name": "Art Tatum",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/e257cdc87a88eb5b58fd6f0627b037b248ac2d11",
+            "track_id": "3QoFNr4yNoHdG5EnHj9Mdn",
+            "track_name": "St. Louis Blues"
+        },
+        {
+            "artist_id": "6BvSJSt6l7QJO2GHvtwFOK",
+            "artist_name": "Hampton Hawes",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/de83f095442ea650955631b13cd5cd0f41de4dfd",
+            "track_id": "41to0uFP2KrxEkeEmgXHcQ",
+            "track_name": "Hamp's Blues"
+        },
+        {
+            "artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+            "artist_name": "John Coltrane",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/cfae12cfcab966e313f60a6d2f550424f7224be1",
+            "track_id": "1HSDjqo7BNp0YDiJpYtbYu",
+            "track_name": "Moment's Notice"
+        },
+        {
+            "artist_id": "0EgftqHXtk840HVLdydk5V",
+            "artist_name": "Charlie Parker Quintet",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/81af10209edf6b9bcf3efdd13c5cf5d5b08cd5b6",
+            "track_id": "0i12wIhW0szGGEjVBz9JvZ",
+            "track_name": "Blues For Alice"
+        },
+        {
+            "artist_id": "56koGOp6EpWHZYOfuTTxRB",
+            "artist_name": "Thelonious Monk Septet",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/b462e5a639fb66eea9896620f2f0eba9040ab9bf",
+            "track_id": "50wwKcwqsIWhxOVSEcn8T3",
+            "track_name": "Well, You Needn't"
+        },
+        {
+            "artist_id": "23i8EixXKG0EWGRCfHlUGN",
+            "artist_name": "Milt Jackson",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/7bca0421e032cfd45443149373d92a067f2e50cc",
+            "track_id": "0DvHJO3eszxirT6EJuXGft",
+            "track_name": "Blues Legacy - Alternate Take"
+        },
+        {
+            "artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
+            "artist_name": "The Dave Brubeck Quartet",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/1074a5821f4683d5b4624be5c9f484e81efbd8c0",
+            "track_id": "3aY5YwVDJpzss2VgYIwOys",
+            "track_name": "Three to Get Ready"
+        },
+        {
+            "artist_id": "3kUKwTJdH8FuWzF8p6Dg9E",
+            "artist_name": "Dave Brubeck",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/b073c712097788ff746b6ebf5791266447f70658",
+            "track_id": "2jfiDZCg4UjLJEFktdcAV4",
+            "track_name": "Unsquare Dance"
+        },
+        {
+            "artist_id": "0DYWCXTkNqGFZIf67SrWEa",
+            "artist_name": "Fats Waller",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1DCjXrSD8WnMv4Odm8vOkV",
+            "track_name": "Handful of Keys"
+        },
+        {
+            "artist_id": "5v74mT11KGJqadf9sLw4dA",
+            "artist_name": "Cannonball Adderley",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc312bddda95f03dfe5633cabc6eb80df01b1902",
+            "track_id": "16Po3i2Kcsy74jz0lp6fdJ",
+            "track_name": "Love For Sale"
+        },
+        {
+            "artist_id": "2mY5u4CceAPrpBnse1WpFr",
+            "artist_name": "Earl Hines",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1FKZjaVQfvgPWwclusmaxe",
+            "track_name": "Royal Garden Blues"
+        },
+        {
+            "artist_id": "4COj38VNF2Tvc5i9UlfgIV",
+            "artist_name": "Duke Pearson Trio",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/59cab6b1f4b82714953d3bb3b14c166192326d04",
+            "track_id": "7L0IkQj2IX2HMFwmxGth7w",
+            "track_name": "Like Someone in Love"
+        },
+        {
+            "artist_id": "5cbutZUQE7SUCA6MsEMbBv",
+            "artist_name": "Hank Mobley",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/59c713ca2f8297800a17873933739c6a0ee56dd6",
+            "track_id": "2BhU0Hl5OatWiCW93pE2b8",
+            "track_name": "Remember - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "1lB7KbOr9xdPK1CuasxmeA",
+            "artist_name": "Jackie McLean",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/2295f099fa1f00e22045202717e8576e2ed9ee27",
+            "track_id": "2BWoji8I4oAUqP87fgCPyx",
+            "track_name": "Confirmation"
+        },
+        {
+            "artist_id": "05E3NBxNMdnrPtxF9oraJm",
+            "artist_name": "Lester Young",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/c173ceb0a177d8b125941f1a36873054401b6c24",
+            "track_id": "5OaEwgB9IogwLn7tJbmuHf",
+            "track_name": "Peg O' My Heart"
+        },
+        {
+            "artist_id": "4jJdlJGA6MD8e25RPe8lgv",
+            "artist_name": "The Sonny Stitt Quartet",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/e837fb21c0920b358b2d0652b84a7e9a4b464c07",
+            "track_id": "3iWp7kcGiw5mwAs5YdSfIt",
+            "track_name": "Don't Take Your Love from Me"
+        },
+        {
+            "artist_id": "2ZUAe0H2nhsuuCOykSVsJ2",
+            "artist_name": "Thelonious Monk Quartet",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/3800230bb4f95524979f68b00908df89a1bc5b1d",
+            "track_id": "11yhsD6e0nLqNtv5rvr7Ny",
+            "track_name": "Bye-Ya - Live At Carnegie Hall"
+        },
+        {
+            "artist_id": "2nQKUeZeleLGNsJj6WLUXN",
+            "artist_name": "Oliver Nelson",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/99e10f1178a3212c9b5c719a5811f4443296305d",
+            "track_id": "3dXkuNOqtOrVxZHfZSNv36",
+            "track_name": "Hoe Down"
+        },
+        {
+            "artist_id": "3DtSOCXYU6o4EV0K1NgIKq",
+            "artist_name": "Art Tatum",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/476208e2d64f9804b56eaf8596947c82460d43e7",
+            "track_id": "5ETRgw64eNyh8nfWHINfTD",
+            "track_name": "Yesterdays"
+        },
+        {
+            "artist_id": "4ORSNkNYSzva169PBZCzvy",
+            "artist_name": "Andrew Hill",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a7c5108b6a77fb6af156a966be31c88079ac20c",
+            "track_id": "0USixLb4VjaZVpjGPCCeLI",
+            "track_name": "Pumpkin (Rudy Van Gelder Edition) [2004 - Remaster]"
+        },
+        {
+            "artist_id": "1Sc9ykJB728MAZab1Ocwy8",
+            "artist_name": "Sonny Clark",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ec57e41785035574cacb77a7d2ed6789b696af7",
+            "track_id": "5we0wX90XIYxL4h8fCu3jX",
+            "track_name": "Sippin' At Bells"
+        },
+        {
+            "artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+            "artist_name": "Duke Ellington",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c79ff9d74e9be396136566f32ded6cd8e0cc0c6",
+            "track_id": "4A8VMiwggF5OrCPkuqAlPx",
+            "track_name": "Take The \"A\" Train"
+        },
+        {
+            "artist_id": "1lB7KbOr9xdPK1CuasxmeA",
+            "artist_name": "Jackie McLean",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebbfae1639cf116be0b389d905adeb3d51e83d55",
+            "track_id": "7gLIkxW578BRGHALQyVc9O",
+            "track_name": "Don't Blame Me (Remastered)"
+        },
+        {
+            "artist_id": "4L9xEztn5PKQIO5WnI5W3u",
+            "artist_name": "Art Farmer",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/5783f48ae54c4e194387920e12b19f6e7d5e9f81",
+            "track_id": "6Cu61bC14DNEnl5eTRxi8p",
+            "track_name": "Like Someone In Love - 1991 Digital Remaster"
+        },
+        {
+            "artist_id": "2hGh5VOeeqimQFxqXvfCUf",
+            "artist_name": "John Coltrane",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/f46ad60feaad16f5d1888e4e6df24e4e3858ca46",
+            "track_id": "5xX8ZeZayna4DQ2Jzth9hu",
+            "track_name": "Blue Train"
+        },
+        {
+            "artist_id": "4iRZAbYvBqnxrbs6K25aJ7",
+            "artist_name": "The Dave Brubeck Quartet",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e8894feb473da14f05e92d21dd2b1f695565191",
+            "track_id": "01kcNG2bUzkBu2nz3Juabd",
+            "track_name": "Take Five"
+        }
+    ]
+}

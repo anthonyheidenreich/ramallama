@@ -1,0 +1,293 @@
+{
+    "href": "https://api.spotify.com/v1/users/123277527/playlists/4BwaDzFdGtXE7vKgyMjhsS/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "47mxvwsJozXlSHwBCXe7ZF",
+            "artist_name": "The Low Life",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd2e865e92401d355789293d336cb701d6cf57ca",
+            "track_id": "2r1s0Sv3ocoTW7YPoTlEvK",
+            "track_name": "You Are Everything"
+        },
+        {
+            "artist_id": "3RbyaF3Pq6iDUKNp04AIcU",
+            "artist_name": "New Politics",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8d690afaa48a5b15e06c1544554b93f48317990",
+            "track_id": "573latfTMO7SpGtStVrQx5",
+            "track_name": "Harlem"
+        },
+        {
+            "artist_id": "3YQKmKGau1PzlVlkL1iodx",
+            "artist_name": "Twenty One Pilots",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/3035f295e7ef05d537660e20c49e4f5ae47af6ea",
+            "track_id": "773xZHHSHJvC1z3AAtWgH6",
+            "track_name": "Ode To Sleep"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfcf6b9488097630465307afe42a70380ca5d79f",
+            "track_id": "5b9lH8ThEcXGWsBM3TqAi5",
+            "track_name": "This Devil's Workday"
+        },
+        {
+            "artist_id": "3AA28KZvwAUcZuOKwyblJQ",
+            "artist_name": "Gorillaz",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/7388c425022ced92b1caa7f73bcf0cb3080aee47",
+            "track_id": "0d28khcov6AiegSCpG5TuT",
+            "track_name": "Feel Good Inc"
+        },
+        {
+            "artist_id": "3jOstUTkEu2JkjvRdBA5Gu",
+            "artist_name": "Weezer",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/a43d06b7aa8d569747bb37bd75930b02c932eb4b",
+            "track_id": "09aDV0TC2RfWFU5IwZfIdG",
+            "track_name": "(If You're Wondering If I Want You To) I Want You To"
+        },
+        {
+            "artist_id": "53KwLdlmrlCelAZMaLVZqU",
+            "artist_name": "James Blake",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5d7a3119e930fe6f588e20305cbaa82e718ff54",
+            "track_id": "0fq2N4qK5B4mDuVx9FTpkc",
+            "track_name": "Life Round Here"
+        },
+        {
+            "artist_id": "0fA0VVWsXO9YnASrzqfmYu",
+            "artist_name": "Kid Cudi",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6420e64dacfffcae5748a19bb93ef8be987855af",
+            "track_id": "6kpiwAM3vWN9UbGAQw2v8q",
+            "track_name": "Too Bad I Have To Destroy You Now"
+        },
+        {
+            "artist_id": "5schNIzWdI9gJ1QRK8SBnc",
+            "artist_name": "Ben Howard",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b4423525b2131716bc06c78f05e73b083183636",
+            "track_id": "7bV3OXKg3KeKPOrldnIHJh",
+            "track_name": "Esmerelda"
+        },
+        {
+            "artist_id": "2pdvghEHZJtgSXZ7cvNLou",
+            "artist_name": "Crosby, Stills & Nash",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b4246a298c4c7ebf5b303f392e926e5570f3492",
+            "track_id": "4k1YrSM0KCb5LepafCrW5K",
+            "track_name": "Southern Cross"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b9ecadd03cb31fa4a6d50b0ba26e69e1956ee78",
+            "track_id": "7J4gq1xNP3IsG6lDk0eSa7",
+            "track_name": "Take Me to Church"
+        },
+        {
+            "artist_id": "3RMHexittaAZkf8zukkZB8",
+            "artist_name": "Trevor Hall",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/b285b47e6079c60ca0ec594f9ac41515968ea3be",
+            "track_id": "3QLDXScXec9qdHw2Gt7PUe",
+            "track_name": "Om Shakti Om"
+        },
+        {
+            "artist_id": "45lorWzrKLxfKlWpV7r9CN",
+            "artist_name": "Ben Harper",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/0583539a2bae9e6c55bc7b61dc8dc455833adc03",
+            "track_id": "2PkxIx7ciJa4TdZ73hflTt",
+            "track_name": "Amen Omen"
+        },
+        {
+            "artist_id": "6d47Z08T4snK50HgTEHo5Z",
+            "artist_name": "Sage The Gemini",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/725b79a1cbb485d722626f32d4d33385411880a9",
+            "track_id": "0Nf3vtVBfiayZL7c8r4KBO",
+            "track_name": "Gas Pedal"
+        },
+        {
+            "artist_id": "0asVlqTLu3TimnYVyY5Jxi",
+            "artist_name": "tUnE-yArDs",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6ccd799dd99df1202e1670fe29ef0af8922fbe6",
+            "track_id": "7ntT9X35Y8FspsqYI2qRi3",
+            "track_name": "Gangsta"
+        },
+        {
+            "artist_id": "3F2Y683ovlWT53WKCeq0oj",
+            "artist_name": "Goodie Mob",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/b36dda0c7fe60c9921a5c5ea28160ca7b989ce94",
+            "track_id": "4wFmoSpv69wsdAKnkPRr57",
+            "track_name": "Special Education - feat. Janelle Mon\u00e1e"
+        },
+        {
+            "artist_id": "7muzHifhMdnfN1xncRLOqk",
+            "artist_name": "Flux Pavilion",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/b65d264ce390ae5ec701cef719c922a9ccebab91",
+            "track_id": "2BTPW7osibjN9gFDRY4mYN",
+            "track_name": "Do Or Die - feat. Childish Gambino"
+        },
+        {
+            "artist_id": "2qxJFvFYMEDqd7ui6kSAcq",
+            "artist_name": "Zedd",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/18512a163f83c41b9376a2cecbcb6f465756e48a",
+            "track_id": "2tfuDYZQJpEI3lQnNzJUDE",
+            "track_name": "Shave It Up"
+        },
+        {
+            "artist_id": "5FWi1mowu6uiU2ZHwr1rby",
+            "artist_name": "Feed Me",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/894a7448a4ef169b31295216836c068b19c04169",
+            "track_id": "3KtdWNEJ9Dhe7Y5ihOcW4E",
+            "track_name": "Death By Robot - Original Mix"
+        },
+        {
+            "artist_id": "5FWi1mowu6uiU2ZHwr1rby",
+            "artist_name": "Feed Me",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ef756df4f378e2bf64cc40a592676120723b24a",
+            "track_id": "7Mw1svSngAwEaKFDjgxdiT",
+            "track_name": "One Click Headshot - Original Mix"
+        },
+        {
+            "artist_id": "6VDdCwrBM4qQaGxoAyxyJC",
+            "artist_name": "Cold War Kids",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/20fd0b8b51ee98e3753181a930f20d9b5a4cf570",
+            "track_id": "0CILKPMt12CBXBJYksxUai",
+            "track_name": "Hang Me Up to Dry"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/6db82dafc02b8a7a972434c730e10ebff0a01ce0",
+            "track_id": "5WlGOU9WVSW9fZXoVfHNsZ",
+            "track_name": "Odd Soul"
+        },
+        {
+            "artist_id": "2wY79sveU1sp5g7SokKOiI",
+            "artist_name": "Sam Smith",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1q26zhcQRac21zGDnaZaU3",
+            "track_name": "Lay Me Down - Acoustic Version"
+        },
+        {
+            "artist_id": "7CIW23FQUXPc1zebnO1TDG",
+            "artist_name": "Matt Corby",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/f841090400150d302c742173cefd0063b4b6b0f1",
+            "track_id": "6C2PcJaxG7OXRU86zZiQOz",
+            "track_name": "Resolution"
+        },
+        {
+            "artist_id": "0FC1LIeQXKib0jOwZqeIwT",
+            "artist_name": "Brett Dennen",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a216a9188235f57c71c8a52589859d4ba00a4be",
+            "track_id": "2y0WJFYbr9vJPcNmbRIT2q",
+            "track_name": "Desert Sunrise"
+        },
+        {
+            "artist_id": "4xac3zhHlBm5QDxbZeqgeR",
+            "artist_name": "Robert Randolph & The Family Band",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/b5025ef8d1c44cdaadfc564af627b0d2ac659e01",
+            "track_id": "4a8mshDjwAIwNcgDvCtMMa",
+            "track_name": "Ain't Nothing Wrong With That"
+        },
+        {
+            "artist_id": "3X3DHASP1G1waqVoEDWMHr",
+            "artist_name": "Lyrics Born",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "5KlTOymbOK9mGGHSFHcslP",
+            "track_name": "Callin' Out"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/36ade9974fa85079e996dd9aca93af62c4e88711",
+            "track_id": "0I3q5fE6wg7LIfHGngUTnV",
+            "track_name": "Ms. Jackson"
+        },
+        {
+            "artist_id": "6eaKsv68njcrz5OjeQor5L",
+            "artist_name": "State Radio",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/9af737455ffe910582a19fd67201ea48beeb4c2b",
+            "track_id": "3445HAqg7Y15JEcD65BRoH",
+            "track_name": "Fight No More"
+        },
+        {
+            "artist_id": "6eaKsv68njcrz5OjeQor5L",
+            "artist_name": "State Radio",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/878b45f611d6b748a19c434846325c7d114ec3aa",
+            "track_id": "2f5m5MB4H5wRS5iu7oee1Q",
+            "track_name": "Right Me Up"
+        },
+        {
+            "artist_id": "55tif8708yyDQlSjh3Trdu",
+            "artist_name": "Ben Folds",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5fbf5e3bb8951e5961d6da816438c273ccec744",
+            "track_id": "2vk14Ko9Jxr2Ef5PTxqmbp",
+            "track_name": "Bitches Ain't Shit"
+        },
+        {
+            "artist_id": "7hJnLLfzUy0oDOtNZF8wUm",
+            "artist_name": "Bernhoft",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1c3c03cf24257a13f274d4790b6f9a66a39a400",
+            "track_id": "58ilByfAdstuNpTTQ3MibL",
+            "track_name": "C'mon Talk"
+        },
+        {
+            "artist_id": "7dnB1wSxbYa8CejeVg98hz",
+            "artist_name": "Meat Loaf",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "6i5AWl19pUD53gqvtpl63m",
+            "track_name": "Paradise by the Dashboard Light"
+        },
+        {
+            "artist_id": "5ivCbtrcD5N4rD337xIb2z",
+            "artist_name": "MisterWives",
+            "popularity": 28,
+            "preview_url": null,
+            "track_id": "2jLjVXkSJmMprZpIV4gXLN",
+            "track_name": "Reflections"
+        },
+        {
+            "artist_id": "3HZgaiR960RFqx9d4LPraD",
+            "artist_name": "The Districts",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/15174d8cd5a750f6d82dab922f63b72ce5acfa59",
+            "track_id": "15aSG9IVRNXPunPQAAlW9Z",
+            "track_name": "Long Distance"
+        },
+        {
+            "artist_id": "4FZ3j1oH43e7cukCALsCwf",
+            "artist_name": "Jack White",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b486bc9d34d1440cb4c2c775aa3cfc26cba7c09",
+            "track_id": "41qHerpo9DI6LHo13MIIy4",
+            "track_name": "Lazaretto"
+        }
+    ]
+}

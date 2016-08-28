@@ -1,0 +1,421 @@
+{
+    "href": "https://api.spotify.com/v1/users/lizyeomans/playlists/5cGwzwtYs6XE867HsuNbYM/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": null,
+            "artist_name": "Stevie Nicks",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Edge of Seventeen"
+        },
+        {
+            "artist_id": "3lPQ2Fk5JOwGWAF3ORFCqH",
+            "artist_name": "John Mellencamp",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5434652d10cc73482fa87d7f40cd39b8ae1551f",
+            "track_id": "3vmOEg3JBiNxaz0mHxPSPC",
+            "track_name": "Jack & Diane"
+        },
+        {
+            "artist_id": "3Z02hBLubJxuFJfhacLSDc",
+            "artist_name": "Bryan Adams",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/840a2f0e8bddfa76de7da91b1b3b46cbeb0395c9",
+            "track_id": "5EU1mh0C4Km3k6vGvIDN2J",
+            "track_name": "Summer Of '69"
+        },
+        {
+            "artist_id": "6IFXsrXBpwbIqtOUOiAa3p",
+            "artist_name": "Rick Springfield",
+            "popularity": 28,
+            "preview_url": null,
+            "track_id": "1sgfjgLRCqSfndpofU8T2C",
+            "track_name": "Jessie's Girl"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Pat Benatar",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Hit Me With Your Best Shot"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/5908f4536c2b1111045c46555811fe61112d5c26",
+            "track_id": "77NNZQSqzLNqh2A9JhLRkg",
+            "track_name": "Don't Stop Believin'"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/08227d819166979e7d2b294061e21c9b78432dd5",
+            "track_id": "5tVA6TkbaAH9QMITTQRrNv",
+            "track_name": "Free Fallin'"
+        },
+        {
+            "artist_id": "1zxDewzd2j1ZdSBGaYcr0y",
+            "artist_name": "The Outfield",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "5HGL4s8LG1X6FJfx8kbdrO",
+            "track_name": "Your Love"
+        },
+        {
+            "artist_id": "7obkHyv6MEWSmEcvHjMsUL",
+            "artist_name": "The Dan Band",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1RmFyUseh8UWUa3B1SQ6Pb",
+            "track_name": "Total Eclipse Of The Heart"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/4007de7fbc8c86e2103e4c0d224205420203dde3",
+            "track_id": "1uk0Cl3eguy3khZ0l7udcb",
+            "track_name": "Sympathy For The Devil - (Original Single Stereo Version)"
+        },
+        {
+            "artist_id": "7lzordPuZEXxwt9aoVZYmG",
+            "artist_name": "Billy Idol",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/02302df1e1ae385f06e17dd81e68723b4f9a122d",
+            "track_id": "0swJk3Hoi5woYCdfnL5lWj",
+            "track_name": "Rebel Yell - 1999 - Remaster"
+        },
+        {
+            "artist_id": "7bPU7cvfoD20ixGD9Qnqki",
+            "artist_name": "Stealers Wheel",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2ba6b9f4dc91a62e7123173665ce18243fe7030",
+            "track_id": "1b7LMtXCXGc2EwOIplI35z",
+            "track_name": "Stuck In The Middle With You"
+        },
+        {
+            "artist_id": "3lPQ2Fk5JOwGWAF3ORFCqH",
+            "artist_name": "John Mellencamp",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc7195f33c8b0e5fb3efac7a8deba504e07929df",
+            "track_id": "3D9aRFIrFGDnBJAmP6ODYW",
+            "track_name": "Hurts So Good"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Guns N' Roses",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Paradise City"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f8554c322c7b953428c4aeda982dc1b90b5b85",
+            "track_id": "0FeCO85RKW8fDRytwXof2x",
+            "track_name": "Go Your Own Way"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/73ddec894d66c2295b501db5a900ea4f33cfdefe",
+            "track_id": "45j8grEsUQxkBy6ug5dTPB",
+            "track_name": "Don't Come Around Here No More"
+        },
+        {
+            "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+            "artist_name": "David Bowie",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/915dc5e8e0876feb4a2cf08407462f766ff316ce",
+            "track_id": "6LNwcU77wgVQ5PLSnrRwAN",
+            "track_name": "Rebel Rebel - 1999 Remastered Version"
+        },
+        {
+            "artist_id": "2rc78XDH9zuJP6bm78lU8Z",
+            "artist_name": "Derek & The Dominos",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/939ad86288cbdbdbbb4556d0dd61a1393c996a80",
+            "track_id": "01zdD7epF5uS0gGb0jNjhN",
+            "track_name": "Layla"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "5e6x5YRnMJIKvYpZxLqdpH",
+            "track_name": "Fortunate Son"
+        },
+        {
+            "artist_id": "4NgfOZCL9Ml67xzM0xzIvC",
+            "artist_name": "Janis Joplin",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/45ec85e0b09d9a00d0e88fc0b9648e16e941e1fc",
+            "track_id": "2RWraN4ZkuqjcNQAlBNGEH",
+            "track_name": "Piece of My Heart"
+        },
+        {
+            "artist_id": "7j9PMegEgVN1fNp8NZXNCI",
+            "artist_name": "The Edgar Winter Group",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/25e5c70576124535247f93aec2387017e978ff1c",
+            "track_id": "4DhbiXEuV7JxSR0wuqetTa",
+            "track_name": "Free Ride"
+        },
+        {
+            "artist_id": "2y8Jo9CKhJvtfeKOsYzRdT",
+            "artist_name": "Rod Stewart",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/05ae0b02f8c7f0fca1c53a068eb0ba3e214ffa77",
+            "track_id": "2LpirOWiA4eslLRuPpQT7V",
+            "track_name": "Maggie May"
+        },
+        {
+            "artist_id": "2hl0xAkS2AIRAu23TVMBG1",
+            "artist_name": "Kansas",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8042192865ef3cfa19db58b8f15c9e829f5616eb",
+            "track_id": "2SUpC3UgKwLVOS2FtZif9N",
+            "track_name": "Carry on Wayward Son"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/34fd0b3b2456ae0842d8e4242830b43ac5c70c46",
+            "track_id": "2DyHhPyCZgZzNXn1IrtsTu",
+            "track_name": "Any Way You Want It"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/920e1367344e020100e499744890d45f0f8729ce",
+            "track_id": "7MooGz4ZPE4bNxjFegR6Jx",
+            "track_name": "You Don't Know How It Feels"
+        },
+        {
+            "artist_id": "07XSN3sPlIlB2L2XNcTwJw",
+            "artist_name": "KISS",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf9c55e5bba13973ca70d27ac294398450671880",
+            "track_id": "4DmkQZINxKk2QO5oBxbfIX",
+            "track_name": "Rock And Roll All Nite"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Lynyrd Skynyrd",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Sweet Home Alabama"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Guns N' Roses",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Sweet Child O' Mine"
+        },
+        {
+            "artist_id": "3Fz2GbraVXhcpXnoi2Oe1r",
+            "artist_name": "Billy Squier",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/46dd780945227ad74aaa14ada1b781a4d286a622",
+            "track_id": "0Dw63esdYJcunXdJk6VSg2",
+            "track_name": "My Kinda Lover - 2002 - Remaster"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 25,
+            "preview_url": null,
+            "track_id": "67SMaSkF6rOBiTkwLCMUIW",
+            "track_name": "American Girl"
+        },
+        {
+            "artist_id": "0WwSkZ7LtFUFjGjMZBMt6T",
+            "artist_name": "Dire Straits",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/0dcbcd3569d83da11c35c1f91532335b3d5daa78",
+            "track_id": "423o3ZHIaBtGXyhF1uH41a",
+            "track_name": "Walk Of Life"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a09325cc96a189742c45fe40ed39d498fa19a45",
+            "track_id": "6i8ecOsx4J2Px1maiqzqoG",
+            "track_name": "Everywhere"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Van Morrison",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Into The Mystic"
+        },
+        {
+            "artist_id": "3i9hP422d2KMjaupTzBNVS",
+            "artist_name": "The Spencer Davis Group",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "3RsoPQ7StO7hfdnQCQCnQe",
+            "track_name": "Gimme Some Lovin' - Single Mix / U.S Version"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/739daaac33adf703950578d37a4f11e38985720b",
+            "track_id": "2oBoGj6WvCA3dUcpJ4L9Pb",
+            "track_name": "I Won't Back Down"
+        },
+        {
+            "artist_id": "0WwSkZ7LtFUFjGjMZBMt6T",
+            "artist_name": "Dire Straits",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/f62c09d63c274192b56f5e5a4dbfb758ec685103",
+            "track_id": "6i4wYU25phbBBNFmSx4AYs",
+            "track_name": "Romeo And Juliet"
+        },
+        {
+            "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+            "artist_name": "Aerosmith",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/f744fafea7f807dd79503249f4238a21393daf8f",
+            "track_id": "5SZ6zX4rOrEQferfFC2MfP",
+            "track_name": "Walk This Way"
+        },
+        {
+            "artist_id": "1n2LWYgwtGp7EzDapUoniE",
+            "artist_name": "Tommy Tutone",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0ldYZdorEbTj3UVtjWcxjH",
+            "track_name": "Jenny / 867-5309"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/10b5068313e5ee282e3fd335e87349c2580a2011",
+            "track_id": "703BT1NQsfIwPFv8MXQ47m",
+            "track_name": "Dreams"
+        },
+        {
+            "artist_id": "6QtGlUje9TIkLrgPZrESuk",
+            "artist_name": "Steve Miller Band",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/403b9016d78b8b9bbe80d1fac1b49df24f97afac",
+            "track_id": "71gU4Kd5eQXcg5npdYheJE",
+            "track_name": "Jet Airliner - 2003 Digital Remaster"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c5046f155c32547a0f7388618a796d41d5251fd",
+            "track_id": "0UB1ORB5L02Yb4PtXgLDj1",
+            "track_name": "Alive"
+        },
+        {
+            "artist_id": "3CkvROUTQ6nRi9yQOcsB50",
+            "artist_name": "Genesis",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b31e05872291656504cb5f0536114cf99a34752",
+            "track_id": "0xpBr84T3FTm9j4D1MdPtk",
+            "track_name": "Invisible Touch - 2007 Remastered Version"
+        },
+        {
+            "artist_id": "0ECwFtbIWEVNwjlrfc6xoL",
+            "artist_name": "Eagles",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/a7aad2c707f19afcc8f408d834008cce0fab21e5",
+            "track_id": "1vLlzUAREiFMWgskzefFPr",
+            "track_name": "Heartache Tonight"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/15df93a5173b9abda5ede090734b3de5f8f7b8aa",
+            "track_id": "4w2EzYwas6H1tag5Job5pN",
+            "track_name": "Beast Of Burden"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/df6c9d016d3600bf7253454437d7f9c76e02686e",
+            "track_id": "7Dm3dV3WPNdTgxoNY7YFnc",
+            "track_name": "The Chain"
+        },
+        {
+            "artist_id": "7AC976RDJzL2asmZuz7qil",
+            "artist_name": "Yes",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/756d15f392766b7ebde9ceb5fa967b9e3948cde8",
+            "track_id": "4uLo3el3oXuxQxHhDHJr40",
+            "track_name": "Owner Of A Lonely Heart"
+        },
+        {
+            "artist_id": "1fBCIkoPOPCDLUxGuWNvyo",
+            "artist_name": "Poison",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/c747858f5e3ef10ca5b8f2e97e489c4e481328e3",
+            "track_id": "1NW32mer4GFgDvDZ0idTUt",
+            "track_name": "Nothin' But A Good Time - 2006 - Remaster"
+        },
+        {
+            "artist_id": "0SD4eZCN4Kr0wQk56hCdh2",
+            "artist_name": "Bonnie Tyler",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/f48d5786b2115ef778856979ab8823072c0d8a7c",
+            "track_id": "5prTs2HAw2G4idHZyeFp8o",
+            "track_name": "Total Eclipse of the Heart"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/9846bb7fc9860d2eb2d117046c8e6d0a05ae541c",
+            "track_id": "7cy1bEJV6FCtDaYpsk8aG6",
+            "track_name": "China Grove"
+        },
+        {
+            "artist_id": "35U9lQaRWSQISxQAB94Meo",
+            "artist_name": "America",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/39160b959b9c3ef5eb82314160eb168af167ac3b",
+            "track_id": "54eZmuggBFJbV7k248bTTt",
+            "track_name": "A Horse with No Name"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/afada93be0c928ee81a5730bf75dff949502be13",
+            "track_id": "19Ym5Sg0YyOCa6ao21bdoG",
+            "track_name": "Gypsy"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/832a40bc10c0c472e7cd1e4f68f4e8840a22ed7a",
+            "track_id": "0t7ttzoe3dV0mah4lBI2kx",
+            "track_name": "Gimme Shelter"
+        }
+    ]
+}

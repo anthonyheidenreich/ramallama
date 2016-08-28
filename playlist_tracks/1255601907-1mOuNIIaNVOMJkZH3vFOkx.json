@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1255601907/playlists/1mOuNIIaNVOMJkZH3vFOkx/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0VNWuGf8SMVU2AerpdhMbP",
+            "artist_name": "The Black Angels",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/52543362269249d44e41be788e01124ba1d7dd55",
+            "track_id": "2qBLFxAyZz1GuecNzceEoi",
+            "track_name": "The Boat Song"
+        },
+        {
+            "artist_id": "3HJIB8sYPyxrFGuwvKXSLR",
+            "artist_name": "TV On The Radio",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb59965c7dda0f9d2858587a75297865c4291ecb",
+            "track_id": "6f3SLU7xzUfeyQ9U4OVPiB",
+            "track_name": "Family Tree"
+        },
+        {
+            "artist_id": "3HJIB8sYPyxrFGuwvKXSLR",
+            "artist_name": "TV On The Radio",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/959cf6d8e0ba106fa90726870973eab9c9ece9a6",
+            "track_id": "2RsOA1RGr00HiwksLLGVsH",
+            "track_name": "Young Liars"
+        },
+        {
+            "artist_id": "3HJIB8sYPyxrFGuwvKXSLR",
+            "artist_name": "TV On The Radio",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/004a85de459474b5cd1585b948a4a29eab8c7571",
+            "track_id": "61UgtgHXcTjWqiJ2CMvWiE",
+            "track_name": "You"
+        },
+        {
+            "artist_id": "3HJIB8sYPyxrFGuwvKXSLR",
+            "artist_name": "TV On The Radio",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/f65d1f288e3c7fc5233f5f5a8ba2e593ac2bf616",
+            "track_id": "5iHK8VI9XkJJdXQHCBXeM4",
+            "track_name": "Will Do"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a9da1e990e7ab3231aefcdf56666d18800665e6",
+            "track_id": "4gkl7QbQvBd3TM9PhlWFkI",
+            "track_name": "Love Yourz"
+        }
+    ]
+}

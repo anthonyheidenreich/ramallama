@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/1gYToDmIcQeHsKHlsWPRst/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3oDbviiivRWhXwIE8hxkVV",
+            "artist_name": "The Beach Boys",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/7978128f3701c0ec3b549f4997363c2fa3cf9c44",
+            "track_id": "1vqiAr7rJOKgo6LGYezR40",
+            "track_name": "Little Pad (Stereo)"
+        },
+        {
+            "artist_id": "64LCTpIu9Iji2EPaxxPpxF",
+            "artist_name": "Joe Dassin",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ba43024eacf7aa1585240ef638ae7f012ba5a70",
+            "track_id": "4VWbPQUPvLes814r6T11Jz",
+            "track_name": "Les Champs-Elys\u00e9es"
+        },
+        {
+            "artist_id": "3oDbviiivRWhXwIE8hxkVV",
+            "artist_name": "The Beach Boys",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/165e06bb63b2660c748a28a1913009c31ed5455b",
+            "track_id": "3eIX5P1WOs1er26JAogERj",
+            "track_name": "Vegetables (Stereo)"
+        },
+        {
+            "artist_id": "68g1s6VqLLLBI3tXR0Bb7C",
+            "artist_name": "The Asteroids Galaxy Tour",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/6901ef79bb2c5b6ccd589f2e0e8155bef4c262e3",
+            "track_id": "10zZ1RuwSxm96GON0PL1vR",
+            "track_name": "The Golden Age"
+        },
+        {
+            "artist_id": "68g1s6VqLLLBI3tXR0Bb7C",
+            "artist_name": "The Asteroids Galaxy Tour",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "72E3AFN8LhqN2YwdsnaZxu",
+            "track_name": "Heart Attack"
+        },
+        {
+            "artist_id": "5dr7fkIRO4K14g7U8SCue5",
+            "artist_name": "The Blasters",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7a8b4ee2cacce9b93a7808a3feaa215b6e46461",
+            "track_id": "0MxTwcjoBpsytyztIjqRzi",
+            "track_name": "Help You Dream"
+        },
+        {
+            "artist_id": "0Nc79lkTxXLSIIHDB8mqJC",
+            "artist_name": "Tiny Tim",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/97f83514e77d6355fd16d1842be5ebbd78f36fc4",
+            "track_id": "1PmXm1881bonBI1AlG5uaH",
+            "track_name": "Livin' In The Sunlight, Lovin' In The Moon Light"
+        },
+        {
+            "artist_id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+            "artist_name": "Dr. Dog",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/4648b49e9dcd73ccda1513fed4a9dc3076b2949b",
+            "track_id": "0Pt99LE4y6sHrUvUaIrSVK",
+            "track_name": "The Unicorn"
+        },
+        {
+            "artist_id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
+            "artist_name": "Dr. Dog",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1U09IpTDF8OzB7IZ84EHQy",
+            "track_name": "Eyesing The Blues"
+        }
+    ]
+}

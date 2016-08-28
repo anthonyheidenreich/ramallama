@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/7LRFk8UDibvShWSwdjOjyv/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6moCgUmUrdoS86CnxxAMK1",
+            "artist_name": "Partysingers",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/1393a9c78b2ecb0078d135a048e787da8fcec488",
+            "track_id": "2cY3YDf9AQl2DuocD0JYf0",
+            "track_name": "Tubthumping - I get knocked Down"
+        },
+        {
+            "artist_id": "1caoBfXJrbKCwIaTzGkyHn",
+            "artist_name": "Six60",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0MTW23wOFcSscAOcTqShye",
+            "track_name": "Forever"
+        },
+        {
+            "artist_id": "6J9WjHEosyvHNWTuYcWqvu",
+            "artist_name": "Stasis",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/dcfa220400902da2a6eb372b23f945e36fa54e9d",
+            "track_id": "77GiHBcMuvYm6dG464iEHV",
+            "track_name": "Welcome To The New Age Disco"
+        }
+    ]
+}

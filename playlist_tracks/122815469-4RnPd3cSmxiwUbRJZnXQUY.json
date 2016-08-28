@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/122815469/playlists/4RnPd3cSmxiwUbRJZnXQUY/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+            "artist_name": "Fugees",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/74e3d509a14db7c7b6605c91db6a4c8b6a2925b6",
+            "track_id": "6nc6alU2UxQb4XfkublZES",
+            "track_name": "Fu-Gee-La"
+        },
+        {
+            "artist_id": "1W9qOBYRTfP7HcizWN43G1",
+            "artist_name": "Slick Rick",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/0da26bd50e09b47dbe4d4ea6905e655b08f592c5",
+            "track_id": "71A6V5dh5Y8ikhm6NGwZ7p",
+            "track_name": "Children's Story"
+        },
+        {
+            "artist_id": "1ZwdS5xdxEREPySFridCfh",
+            "artist_name": "2Pac",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0f9f60cdee810683adc9f3b65ca08724a381351",
+            "track_id": "3ssX20QT5c3nA9wk78V1LQ",
+            "track_name": "Ambitionz Az A Ridah"
+        },
+        {
+            "artist_id": "0Mz5XE0kb1GBnbLQm2VbcO",
+            "artist_name": "Mos Def",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d5bb039dfbe4b6395c3bfe34335a6aaf1d5729a",
+            "track_id": "0IVAlb0cFCH1cQ974iR1TU",
+            "track_name": "Ms. Fat Booty"
+        },
+        {
+            "artist_id": "7df4aW2MDoNsEhmJ2NRoro",
+            "artist_name": "Dice Raw",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/a1a51a14eef9e503b07103b460213bc3fec6ad6d",
+            "track_id": "68CFwqgOgWxmElGoOCtgEN",
+            "track_name": "1995"
+        }
+    ]
+}

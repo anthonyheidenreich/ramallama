@@ -1,0 +1,381 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/7tDgJmqeJrjMYGiiuY26qU/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "61lyPtntblHJvA7FMMhi7E",
+            "artist_name": "Duke Dumont",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/53f99a0f5b88d921bac80ebe83ea942973d1184c",
+            "track_id": "0b6wdul3A5sQNpIOv03OxP",
+            "track_name": "Ocean Drive"
+        },
+        {
+            "artist_id": "1iyEgo06tQEwW0ro4Qys9K",
+            "artist_name": "Brett",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "3wmYW6JjhxJWg6XZiayP6i",
+            "track_name": "Golden"
+        },
+        {
+            "artist_id": "25hbSOMmbhgqvonjC876UJ",
+            "artist_name": "Aer",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/de8901cf12d904b355cceeef6c6eafc4c88e9db6",
+            "track_id": "6UNcSlmYEoRFANqx8EqjiL",
+            "track_name": "Floats My Boat"
+        },
+        {
+            "artist_id": "5MAp6rMiUJjRLXMWtArXRS",
+            "artist_name": "Dorrough Music",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/8edab11492d17c712414499c9c2c9cf2837f844a",
+            "track_id": "06cHfRigADx8K8oyvQUZTu",
+            "track_name": "La La La (feat. Wiz Khalifa)"
+        },
+        {
+            "artist_id": "3XHO7cRUPCLOr6jwp8vsx5",
+            "artist_name": "alt-J",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b9b54128c3a0a1538999bf3314d8cfbca33f017",
+            "track_id": "126TblwXGNTUZ7RPMnThkU",
+            "track_name": "Left Hand Free"
+        },
+        {
+            "artist_id": "0oYWECmtozBZGjnklDFPTH",
+            "artist_name": "Carousel",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/78fce9815389a022cb66da17e00fc66900a34a54",
+            "track_id": "5V4kOEjDBLt4oe2cPSXW9V",
+            "track_name": "Let's Go Home (Sound Remedy Remix)"
+        },
+        {
+            "artist_id": "6nS5roXSAGhTGr34W6n7Et",
+            "artist_name": "Disclosure",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6EL9XyQK0d9jBRNv7AsV9e",
+            "track_name": "Latch (feat. Sam Smith)"
+        },
+        {
+            "artist_id": "0jnsk9HBra6NMjO2oANoPY",
+            "artist_name": "Flo Rida",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/afa94edef4dec2eda16e99153ccd513ef4306d06",
+            "track_id": "385Ra4Nd3dlSRzVFBCooE3",
+            "track_name": "My House"
+        },
+        {
+            "artist_id": "37uLId6Z5ZXCx19vuruvv5",
+            "artist_name": "Hot Chip",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cadfc9b3c26e2628126e26d21814a8d6e9562ee",
+            "track_id": "2KrIVRYbzxFhrtIs6iDZpn",
+            "track_name": "I Feel Better"
+        },
+        {
+            "artist_id": "10exVja0key0uqUkk6LJRT",
+            "artist_name": "Vance Joy",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/56b0ed77bb0313edab50d2e62589fe7187de254a",
+            "track_id": "6Fha6tXHkL3r9m9nNqQG8p",
+            "track_name": "Georgia"
+        },
+        {
+            "artist_id": "5WId4o5jdGVhptNU0uqKxu",
+            "artist_name": "St. Lucia",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/4fd9bd3334b46a711d7abcc663bcfb656ae02617",
+            "track_id": "4hoB7jVAo22BXwMFWLdlxQ",
+            "track_name": "All Eyes on You"
+        },
+        {
+            "artist_id": "3a9qv6NLHnsVxJUtKOMHvD",
+            "artist_name": "The Glitch Mob",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/fee90750076898f2f2000132071ff4cf3838a4ee",
+            "track_id": "48n92l7OnLEURhalUBtsl7",
+            "track_name": "We Can Make The World Stop"
+        },
+        {
+            "artist_id": "2vDV0T8sxx2ENnKXds75e5",
+            "artist_name": "Booker T. & the M.G.'s",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/efb53faffe12276d365d0de1b2c48cf1de5d96ad",
+            "track_id": "4fQMGlCawbTkH9yPPZ49kP",
+            "track_name": "Green Onions"
+        },
+        {
+            "artist_id": "6GI52t8N5F02MxU0g5U69P",
+            "artist_name": "Santana",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/022291c2e79340690b8e8dfd1c6084410fb5aa94",
+            "track_id": "3XKIUb7HzIF1Vu9usunMzc",
+            "track_name": "Maria Maria - Radio Mix"
+        },
+        {
+            "artist_id": "0lzV2CiahHRiGd6qpADtPS",
+            "artist_name": "James Hersey",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8f352c370ebe391bf036027cd1dab25819237b7",
+            "track_id": "0uIDxM4fdk9zHQzbhr5Jgq",
+            "track_name": "Coming Over - filous Remix"
+        },
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/480ce9948eb7953673b8b6d9b687bd821bc19705",
+            "track_id": "6br4Pc0BzU6dTD5fEmks2i",
+            "track_name": "Electric Body"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/9521b6538698689468c5c33998bde565912600b9",
+            "track_id": "5Iy2Jj87Ha0C0IBlNE1I4y",
+            "track_name": "The Days"
+        },
+        {
+            "artist_id": "4YXycRbyyAE0wozTk7QMEq",
+            "artist_name": "Matoma",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ccc16c87a984758a4c0db58ef82c739f24929eb",
+            "track_id": "6HTJZ0TQJVMSKkUGzAOe2h",
+            "track_name": "Old Thing Back (feat. Ja Rule and Ralph Tresvant)"
+        },
+        {
+            "artist_id": "2x7EATekOPhFGRx3syMGEC",
+            "artist_name": "The Knocks",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/5e1b7a006811af736aef47e8fe15484c88f124a3",
+            "track_id": "42UaTVeWaNaME7ttu61ykG",
+            "track_name": "Classic (feat. Powers)"
+        },
+        {
+            "artist_id": "0T5OJgMVjKIX3b3W3ekqOl",
+            "artist_name": "Rocko",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/22e168936fab981fc32b9cbbd09201a982090d50",
+            "track_id": "0HFrCOmhCYXlv4NdEwRAuj",
+            "track_name": "U.O.E.N.O. (feat. Rick Ross, Future)"
+        },
+        {
+            "artist_id": "1YuNQvsvOsMBm0ahbxB8qM",
+            "artist_name": "Orjan Nilsen",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/12cc76ca2f61dd9eaf0f820198f5a71c671e7250",
+            "track_id": "4LzfByj2wTGZRjr8szwcFD",
+            "track_name": "Apart - Martin Volt & Quentin State Remix"
+        },
+        {
+            "artist_id": "53A0W3U0s8diEn9RhXQhVz",
+            "artist_name": "Keane",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/e747a831fa3b74c53be12c97addcaf543598219e",
+            "track_id": "0eCQbSnDaGd6XTmuj3gX9v",
+            "track_name": "Sovereign Light Caf\u00e9"
+        },
+        {
+            "artist_id": "6epWHUrLmk5wCN3H18V8Rm",
+            "artist_name": "Bold as Gold",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/d51c60218c8b7cdf409a8f3e83b5eb82ad1b47d6",
+            "track_id": "0UQKFyg1f8xs8pjy8DNYXP",
+            "track_name": "Flowie"
+        },
+        {
+            "artist_id": "5qL11uHhk8QM2IUnxggWqy",
+            "artist_name": "AYER",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b1af316ac77d6d24c83199e2f12b748b006d182",
+            "track_id": "5qKSG35g2L5q7A3KIzFRnr",
+            "track_name": "Circle Down (Keljet Remix)"
+        },
+        {
+            "artist_id": "4ogwGU9VPWrnVBs1GEwZVV",
+            "artist_name": "Temples",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/a18b80583b3eecfea6acccfc172f5435932d9265",
+            "track_id": "7GZvmsRJ4gLyCBbARlpp6g",
+            "track_name": "Shelter Song"
+        },
+        {
+            "artist_id": "4AGwPDdh1y8hochNzHy5HC",
+            "artist_name": "RAC",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4ae7ddb156aaf005886c515926dea9d79db2743",
+            "track_id": "3xEqegrcyQtfhWeEMnDyCG",
+            "track_name": "Hollywood"
+        },
+        {
+            "artist_id": "53XhwfbYqKCa1cC15pYq2q",
+            "artist_name": "Imagine Dragons",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/bbfe0c3fff044a7cfd9c020a1320e9fb334029e7",
+            "track_id": "3LlAyCYU26dvFZBDUIMb7a",
+            "track_name": "Demons"
+        },
+        {
+            "artist_id": "6TQj5BFPooTa08A7pk8AQ1",
+            "artist_name": "Kaskade",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/335c554764af3b4c7156ca0bec133717089601de",
+            "track_id": "5KOt1QRD9YQQrrzwLCWuTN",
+            "track_name": "Move For Me"
+        },
+        {
+            "artist_id": "2CIMQHirSU0MQqyYHq0eOx",
+            "artist_name": "deadmau5",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c67a441e6c145ca39b87da98536a9663de3ea82",
+            "track_id": "1dyfTBfrp0F5dnCGrXMN4E",
+            "track_name": "There Might Be Coffee"
+        },
+        {
+            "artist_id": "5sm0jQ1mq0dusiLtDJ2b4R",
+            "artist_name": "Eric Prydz",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/a135ba81fef3c8b5733e0d8df5c885e72ac01a9c",
+            "track_id": "6X0WsSsMMwam5AzVxlUUzo",
+            "track_name": "Liberate"
+        },
+        {
+            "artist_id": "3f5fB1YUbkUnW7cf7I0R48",
+            "artist_name": "Geto Boys",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f29e560cfd805f4ad07bf6fd5f18add1454d1ed",
+            "track_id": "6js4GbrJjNU0Kp5ipDQ9vc",
+            "track_name": "G Code"
+        },
+        {
+            "artist_id": "0pF1TxZmwCJ3gGpkBQwdtT",
+            "artist_name": "Gabriel Rios",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/b34a67a528eb1d2270560b4e3bd200ca4f59edc1",
+            "track_id": "6eWsgrQLZhLqy5VfGB9iFs",
+            "track_name": "Gold - Thomas Jack Radio Edit"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/87eefbe99d9d5f4742d45b2c8530bc72f00b2730",
+            "track_id": "4eteOEGYlGM33q76CKdPom",
+            "track_name": "The Days - Henrik B Remix"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "73ExUbskoIkjU0llIwsSzu",
+            "track_name": "X You - Radio Edit"
+        },
+        {
+            "artist_id": "6FIrstf3kHEg3zBOyLpvxD",
+            "artist_name": "Ra Ra Riot",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/f733c68b25d077b815b78a47c81ef562909821eb",
+            "track_id": "3inoWFYIvANzeicpROiqas",
+            "track_name": "Beta Love"
+        },
+        {
+            "artist_id": "1LOB7jTeEV14pHai6EXSzF",
+            "artist_name": "Cash Cash",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c8ccb1187d4e2a601cccbc9621559baf52a1329",
+            "track_id": "7iT98FhZ7BAE8xdCxBlw55",
+            "track_name": "Take Me Home (feat. Bebe Rexha)"
+        },
+        {
+            "artist_id": "3tJL2NbxEnJgYjo3LBdDQ9",
+            "artist_name": "Patterns",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/c09b361ff79ecc25354af6b24f21b713668e94de",
+            "track_id": "4RfvjfmKa89V3cHvyoDERv",
+            "track_name": "Sunny Days - Fred Falke Remix"
+        },
+        {
+            "artist_id": "4Ws2otunReOa6BbwxxpCt6",
+            "artist_name": "Benny Benassi",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/55e0f796e2e2a91b15d1a715a0f3f205e8379ca0",
+            "track_id": "5ozEfR39ztiPrDk0E7cyxM",
+            "track_name": "Come Fly Away - Soha & Adam K Remix"
+        },
+        {
+            "artist_id": "2n7USVO8fO8FF8zq4kG2N1",
+            "artist_name": "Mat Zo",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/0182480d490acb9fdcf1463ddc6486457af7bdf4",
+            "track_id": "1x0gvJVlwXY53fPAZEkYei",
+            "track_name": "Only For You"
+        },
+        {
+            "artist_id": "1WRM9i067hd2ujxxi8FI3m",
+            "artist_name": "Steppenwolf",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/a969c3b0b06a1e9c167476253e5a8a605b6ed0cb",
+            "track_id": "25ttbACknSKxdXAZchsIne",
+            "track_name": "Magic Carpet Ride"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/8637087fedfa6cb23025046d7ff1550ee3ce0aac",
+            "track_id": "1YzIe5I0UNPgPRPxYpe92f",
+            "track_name": "XOXO"
+        },
+        {
+            "artist_id": "00dwwnz3V4kRfu3UFYpJLz",
+            "artist_name": "Cherub",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/581c6d1621bc992ff22eb300271d5db65e2a0bb3",
+            "track_id": "1V7RdWso6RBW5Wmpa2s4zF",
+            "track_name": "Do I (Where We Are)"
+        },
+        {
+            "artist_id": "7gP3bB2nilZXLfPHJhMdvc",
+            "artist_name": "Foster The People",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/6256b217645b61a96a24e24f37ecc233dacbbcf0",
+            "track_id": "4MEUWuPQ11B1Iu6rNYgh9G",
+            "track_name": "Houdini (RAC Mix)"
+        },
+        {
+            "artist_id": "4EENT7N7rCBwrddM3s0vFS",
+            "artist_name": "Cut Copy",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/96061f6a6c43412cc87744da06af9087d14b8c2a",
+            "track_id": "0pAisVoZ7Gybjvm0q7AoVu",
+            "track_name": "Hearts On Fire"
+        },
+        {
+            "artist_id": "4ME85YvMUi1hdqhbind7gy",
+            "artist_name": "Guru Josh Project",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/9da076eb20507c0624c80954ee8d7788599f79df",
+            "track_id": "3aQz0z86zrKjd1mcZlonxE",
+            "track_name": "Infinity 2008 - Klaas Vocal Edit"
+        },
+        {
+            "artist_id": "5DK8eK7fjvRsziXzyr3sFA",
+            "artist_name": "Moon Taxi",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a44963cf67053b37663e2967873dd33a5076816",
+            "track_id": "56JwgF5LLyrIEyGIrzpSN2",
+            "track_name": "Mercury"
+        },
+        {
+            "artist_id": "2UoNs5iwwlnv86Kp4GFXrV",
+            "artist_name": "The Rubix Cube's",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/120a9132e968ed18beda6f4bb82ad35925b60e27",
+            "track_id": "6oTtoBTGkk8B1bA4Lp6pvw",
+            "track_name": "Give It Up (From \"Kingsman: The Secret Service\")"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "href": "https://api.spotify.com/v1/users/hpatel13/playlists/13OEV0zxLeTRdfpPsliUrO/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "artist_name": "Dr. Dre",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/d13701c108a95e18f2503fd53211690b4088e871",
+            "track_id": "4LwU4Vp6od3Sb08CsP99GC",
+            "track_name": "The Next Episode"
+        },
+        {
+            "artist_id": "3Isy6kedDrgPYoTS1dazA9",
+            "artist_name": "Sean Paul",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/4fb6d452f24697ba91658d1c0d892e55a27767b0",
+            "track_id": "0k2GOhqsrxDTAbFFSdNJjT",
+            "track_name": "Temperature"
+        },
+        {
+            "artist_id": "1mYsTxnqsietFxj1OgoGbG",
+            "artist_name": "A.R. Rahman",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8dab6230900167183870b63432323f02358b1fb",
+            "track_id": "4i3MgUew8ynhf49Qwr4IP4",
+            "track_name": "Jai Ho"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca42c116bedd994141b8d697ba7d7cf1b521cb2f",
+            "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
+            "track_name": "Give Me Everything"
+        },
+        {
+            "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "artist_name": "Ed Sheeran",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/e42999c81431d6e5432b8cd6b7e2dc4795daf6a7",
+            "track_id": "1huvTbEYtgltjQRXzrNKGi",
+            "track_name": "Don't"
+        },
+        {
+            "artist_id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "artist_name": "Death Cab for Cutie",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/261925f8f05e875cc0545c723a4f77b08757d014",
+            "track_id": "5yc59J3MR3tVDPTOgwgRI5",
+            "track_name": "Soul Meets Body"
+        },
+        {
+            "artist_id": "2Cd98zHVdZeOCisc6Gi2sB",
+            "artist_name": "Technotronic",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/069a5b6163d6324cbe7bfde5079e4d177b78975f",
+            "track_id": "7rL33IgIVe3Wd2eHHFnFQ7",
+            "track_name": "Pump Up the Jam"
+        },
+        {
+            "artist_id": "2NdeV5rLm47xAvogXrYhJX",
+            "artist_name": "Ciara",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb51dfa72f604c19e94eef2a5bc8bdd91013bc46",
+            "track_id": "3qEu5RQnsEcSBX8SkiwJEG",
+            "track_name": "1, 2 Step - Main"
+        },
+        {
+            "artist_id": "1PGEeOJ3gWiaKzBa4q7bN9",
+            "artist_name": "TV Theme Tune Factory",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/b5ed3008918bd4cf4128c164e72abe6431a120b3",
+            "track_id": "7x1Kg2eCleRF8GaZDt3pXE",
+            "track_name": "The Office U.S. Theme - Opening Credits Theme Song from the TV Show Music Soundtrack"
+        },
+        {
+            "artist_id": "6XwwFnewNgWp81MYMK8zLq",
+            "artist_name": "Edward Maya",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2178e82d710036a8d4c37557b63130692d2d328",
+            "track_id": "1aklRy3btsbucImSXvR2SY",
+            "track_name": "Stereo Love - Original"
+        },
+        {
+            "artist_id": "5rSXSAkZ67PYJSvpUpkOr7",
+            "artist_name": "Backstreet Boys",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6",
+            "track_id": "6e40mgJiCid5HRAGrbpGA6",
+            "track_name": "I Want It That Way"
+        },
+        {
+            "artist_id": "2MGT7CYlixSPxAnnkhLpaA",
+            "artist_name": "Next",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e7b0cc020ddb159a88abce4277a58285bf7fd20",
+            "track_id": "2fyTojfPYs67KBWN4WYRX7",
+            "track_name": "Too Close"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226635310/playlists/6JLOBovSXyQamjECzoVsZm/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4xRYI6VqpkE3UwrDrAZL8L",
+            "artist_name": "Logic",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/7025653e641849d74273a871ab8514683a8d4f3d",
+            "track_id": "4q6oNFTjZmJqkIgPdp8iR1",
+            "track_name": "Lord Willin'"
+        },
+        {
+            "artist_id": "1LCPvGsQVJUQE8oyIRihHh",
+            "artist_name": "Cappa",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b6e79b6b4a865a56864b3247b99044899f70461",
+            "track_id": "1GLzCv2crATQgyUGdN94c3",
+            "track_name": "No Scrubs (feat. Jon Santana)"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/9fc9f52fc4e85a8976c7dfa121ea8b1e614d90bc",
+            "track_id": "7IAa7vUJ11STN7le8XaxsH",
+            "track_name": "WTF (Where They From) [feat. Pharrell Williams]"
+        },
+        {
+            "artist_id": "4YLtscXsxbVgi031ovDDdh",
+            "artist_name": "Chris Stapleton",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b587539574fc3f3264fa48f9f11bb1b0c5eabdc",
+            "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+            "track_name": "Tennessee Whiskey"
+        }
+    ]
+}

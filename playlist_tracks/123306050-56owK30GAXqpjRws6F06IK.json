@@ -1,0 +1,253 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/56owK30GAXqpjRws6F06IK/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "711MCceyCBcFnzjGY4Q7Un",
+            "artist_name": "AC/DC",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af",
+            "track_id": "57bgtoPSgt236HzfBOd8kj",
+            "track_name": "Thunderstruck"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/67cf8a1703d96ef23a57f0ce5950031c8d4625a8",
+            "track_id": "11dCfArPrM7kzYpUrFHal9",
+            "track_name": "Panama"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/6aa13be0bb142f0924f8b2aa78031e5006f4f54a",
+            "track_id": "2CJtimCSGAn8x6RE3irZFV",
+            "track_name": "Danger Zone"
+        },
+        {
+            "artist_id": "3qm84nBOXUEQ2vnTfUTTFC",
+            "artist_name": "Guns N' Roses",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8995a30964d50cd30fccab54eb29d611e6b7d00",
+            "track_id": "5Q41NLTmGbVPozwHKK7bk2",
+            "track_name": "Paradise City"
+        },
+        {
+            "artist_id": "58lV9VcRSjABbAbfWS6skp",
+            "artist_name": "Bon Jovi",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/b00c72883fe1616069620390e96cb05e8278df90",
+            "track_id": "4KaHvV6CcOI9F0WDdToZdv",
+            "track_name": "It's My Life"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/5e1e2220d825218e6d9b1a14aff580e1573d7591",
+            "track_id": "17jHbSrAeRrVhi1omLXQEo",
+            "track_name": "Playing with the Boys"
+        },
+        {
+            "artist_id": "6H1RjVyNruCmrBEWRbD0VZ",
+            "artist_name": "Def Leppard",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/49cd7c1d341797324a07e1e48cbeb9d7ae6cc8ad",
+            "track_id": "0LN0ASTtcGIbNTnjSHG6eO",
+            "track_name": "Pour Some Sugar On Me (2012)"
+        },
+        {
+            "artist_id": "4Tw2N3wdvJPGEU7JqMxFfE",
+            "artist_name": "Eddie Money",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d9b0ee0d6536e655c6a100006569ef988681754",
+            "track_id": "63diy8Bzm0pHMAU37By2Nh",
+            "track_name": "Take Me Home Tonight"
+        },
+        {
+            "artist_id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "artist_name": "Duran Duran",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/bceb1f048afe49dc6db3fc27924ef2b6c432cd57",
+            "track_id": "2qeESyQyH7MRHCBotCQsNq",
+            "track_name": "Hungry Like The Wolf"
+        },
+        {
+            "artist_id": "1h8YIw9HLr6E8gdXVDRbVJ",
+            "artist_name": "Big Country",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f2d2f84f638441a8f0b95dc7acfa8af1507626a",
+            "track_id": "1tAFvq63jO3n9WaDCZPJNh",
+            "track_name": "In A Big Country"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/86eb8994171ae619ade3fa9f813e107bfa56ee38",
+            "track_id": "2t0ZYmVXMR36fchq1Egs2d",
+            "track_name": "By The Way"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c4fca39cd964267d37164312c9c6baae0bcc117",
+            "track_id": "2PfBSkCKZDXMsJogMT0wML",
+            "track_name": "Jump"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/55066eff6bdeda6fc9f7286f45076453b360ce78",
+            "track_id": "10Nmj3JCNoMeBQ87uw5j8k",
+            "track_name": "Dani California"
+        },
+        {
+            "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "artist_name": "Foo Fighters",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "6u47WBqEuowycc48t2Wekx",
+            "track_name": "Everlong"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Gorillaz",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Ghost Train"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/832a40bc10c0c472e7cd1e4f68f4e8840a22ed7a",
+            "track_id": "0t7ttzoe3dV0mah4lBI2kx",
+            "track_name": "Gimme Shelter"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ac52a0fd79ac52679948a1fede2a3ed097348a3",
+            "track_id": "263Iuyk08ks1v6FIudUIGD",
+            "track_name": "Get Off Of My Cloud"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/c379eb5d5d2a31b79238f614335d9efa3c72a615",
+            "track_id": "4BcS4LomxUnQpzx4hCaJTs",
+            "track_name": "Can't Stop"
+        },
+        {
+            "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "artist_name": "Foo Fighters",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/371ecdede3dda7f49d04ba01ee7c6087abd31e79",
+            "track_id": "0mWiuXuLAJ3Brin3Or2x6v",
+            "track_name": "Learn to Fly"
+        },
+        {
+            "artist_id": "58lV9VcRSjABbAbfWS6skp",
+            "artist_name": "Bon Jovi",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f6f072b1adf9443abd9aa7ec4f80f10f67eddc2e",
+            "track_id": "1MTMedlCphum6mRcd8YzvE",
+            "track_name": "You Give Love A Bad Name"
+        },
+        {
+            "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "artist_name": "Foo Fighters",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/46145f46a9246e10f645929311a5a5ce8bd01d27",
+            "track_id": "7u5dBtASrtOuBTTZjJrvuJ",
+            "track_name": "My Hero"
+        },
+        {
+            "artist_id": "36QJpDe2go2KgaRleHCDTp",
+            "artist_name": "Led Zeppelin",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1f024eb57b569b926c8e68cab0a6056dc7d9654",
+            "track_id": "0QwZfbw26QeUoIy82Z2jYp",
+            "track_name": "Good Times Bad Times"
+        },
+        {
+            "artist_id": "29kkCKKGXheHuoO829FxWK",
+            "artist_name": "Boston",
+            "popularity": 37,
+            "preview_url": null,
+            "track_id": "32kgOw8wejH7zUhtXCM8DH",
+            "track_name": "More Than a Feeling"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f8554c322c7b953428c4aeda982dc1b90b5b85",
+            "track_id": "0FeCO85RKW8fDRytwXof2x",
+            "track_name": "Go Your Own Way"
+        },
+        {
+            "artist_id": "67ea9eGLXYMsO2eYQRui3w",
+            "artist_name": "The Who",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "3QfJhbiVGJucxyUbOFiaLY",
+            "track_name": "Won't Get Fooled Again - Original Album Version"
+        },
+        {
+            "artist_id": "2hl0xAkS2AIRAu23TVMBG1",
+            "artist_name": "Kansas",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8042192865ef3cfa19db58b8f15c9e829f5616eb",
+            "track_id": "2SUpC3UgKwLVOS2FtZif9N",
+            "track_name": "Carry on Wayward Son"
+        },
+        {
+            "artist_id": "2zyz0VJqrDXeFDIyrfVXSo",
+            "artist_name": "Jerry Lee Lewis",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/15b845d00bb0dae426958ba608763c0e2ccdae5d",
+            "track_id": "6vR4LDbi4H6iwC3YDUL6jT",
+            "track_name": "Great Balls Of Fire"
+        },
+        {
+            "artist_id": "58lV9VcRSjABbAbfWS6skp",
+            "artist_name": "Bon Jovi",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/2fa81cbcbdf5f9b3f4e131450781f08ff8f314ed",
+            "track_id": "7qQnBfwXrw2tZNFG4Uf57N",
+            "track_name": "Livin' On A Prayer"
+        },
+        {
+            "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+            "artist_name": "Aerosmith",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8d7971797e5d917ee589ade9962ea9196fae562",
+            "track_id": "2vX5WL7s6UdeQyweZEx7PP",
+            "track_name": "Walk This Way"
+        },
+        {
+            "artist_id": "3qm84nBOXUEQ2vnTfUTTFC",
+            "artist_name": "Guns N' Roses",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0aca8c9fb5fc30adb3e4a71497fffe903c8e735d",
+            "track_id": "0eFvoRSTTaR2q8bSWVjwfp",
+            "track_name": "Welcome To The Jungle"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c79f22235255cd48ce4100e02c92523e9b2bbfd",
+            "track_id": "7xdLNxZCtY68x5MAOBEmBq",
+            "track_name": "All Along the Watchtower"
+        }
+    ]
+}

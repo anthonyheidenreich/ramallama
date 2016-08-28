@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/4LiYhRZOurpn1QQh6s9Dyx/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1buzCmyYZE4kcdLRudsb8V",
+            "artist_name": "Mikky Ekko",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/e033d101524d8fd85165cd01c7ce770339eab47b",
+            "track_id": "0FVPq7QbvLI8a6mixwQaqI",
+            "track_name": "Pull Me Down"
+        },
+        {
+            "artist_id": "1buzCmyYZE4kcdLRudsb8V",
+            "artist_name": "Mikky Ekko",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9b4255df154943b3b8757ef627bc294e2e8b17e",
+            "track_id": "3g9DZ7nXZJAIBKRvoXR2ZY",
+            "track_name": "Kids"
+        },
+        {
+            "artist_id": "6kUglM25Mvn6Uy7EDXsT1n",
+            "artist_name": "Thomas Dybdahl",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e5eeed3d978a2b7a89c105040b5583c53b70570a",
+            "track_id": "5p0zcsB7qzgSzZs2ws0JKM",
+            "track_name": "One Day You'll Dance For Me, New York City"
+        },
+        {
+            "artist_id": "6kUglM25Mvn6Uy7EDXsT1n",
+            "artist_name": "Thomas Dybdahl",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/80391929247ade2867aba74c72ea887cc50ee035",
+            "track_id": "56K9LmUuUHmYjEhC657trg",
+            "track_name": "A Lovestory"
+        },
+        {
+            "artist_id": "1moxjboGR7GNWYIMWsRjgG",
+            "artist_name": "Florence + The Machine",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/5bfdf802e9f380c6d02f4fdaa94f495c5de522a5",
+            "track_id": "0CSTvWUps1YmpQoXXay9ol",
+            "track_name": "Cosmic Love"
+        },
+        {
+            "artist_id": "5NpqRcmyTpxxceGTy5y5MN",
+            "artist_name": "Jessie Ware & Sampha",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/f05b917707d8acddf7a185569b16bc13ac3f620b",
+            "track_id": "0hHG8qSmu7Edwpu2ZrxSWR",
+            "track_name": "Valentine"
+        }
+    ]
+}

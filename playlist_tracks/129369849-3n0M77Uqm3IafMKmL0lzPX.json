@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/3n0M77Uqm3IafMKmL0lzPX/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+            "artist_name": "Flume",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/1435f370549ec17cbb771dacf198ba7c80f77072",
+            "track_id": "4KtrE35pTuqwNc22QP58RT",
+            "track_name": "Drop the Game"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "5MiQly7cdHQiP6JBX1PSYG",
+            "track_name": "No Diggity"
+        },
+        {
+            "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+            "artist_name": "Flume",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb9f0aa44410a8a73a8d705d24f545ffd0dbecaf",
+            "track_id": "1yfqaP4WaUzRzadbpzRQK6",
+            "track_name": "This Song Is Not About a Girl"
+        },
+        {
+            "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+            "artist_name": "Flume",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/036980e15e05f134b75ae85e12cd7b9cf13fb8f3",
+            "track_id": "64b00590trgiAQh18OoZe9",
+            "track_name": "What About Us"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/160c0648972fbd43228dccb4dfb4466216fdd1b6",
+            "track_id": "6rZG4b7DocC5rO43Lv8zWi",
+            "track_name": "Talk Is Cheap"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4200c6889f0863c0541e8bb65b38f341d59665b",
+            "track_id": "46tAoP2In1lklk0ntrQe7T",
+            "track_name": "I'm Into You"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3e6752a9b0ad9364492121a23bde39b94972a92",
+            "track_id": "6H1agC16dHancPYuOSQaiz",
+            "track_name": "Fear Like You"
+        },
+        {
+            "artist_id": "6nxWCVXbOlEVRexSbLsTer",
+            "artist_name": "Flume",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6d749e290e70a89ad5ed38e76940f7fcbfd6874",
+            "track_id": "22Xq9CmG8O6renbc91Yuu0",
+            "track_name": "Left Alone"
+        }
+    ]
+}

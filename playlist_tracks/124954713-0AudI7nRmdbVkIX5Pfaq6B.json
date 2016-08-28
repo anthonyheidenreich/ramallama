@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/124954713/playlists/0AudI7nRmdbVkIX5Pfaq6B/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "16tbi6bWXBzJ9pOMZ5gIC7",
+            "artist_name": "Life Without Buildings",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/70792d1ce6455123a6581c15c7e2f18be0dae79d",
+            "track_id": "6uLV6l3ZHVim1kBeduHlEO",
+            "track_name": "Sorrow"
+        },
+        {
+            "artist_id": "2wJ4vsxWd7df7dRU4KcoDe",
+            "artist_name": "Sharon Van Etten",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/26531c4e0f05ccf61a335f1118f231de10b50b62",
+            "track_id": "4ouHnqx22lzTZHr2hEt5aH",
+            "track_name": "Our Love"
+        },
+        {
+            "artist_id": "6cZKsPzeAAklHjbSe7fqEh",
+            "artist_name": "Johnny Foreigner",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/dec4c60cc3502d4b7b74279dca33678008e4b0aa",
+            "track_id": "2zOixY2TaONJNJeUpffNPQ",
+            "track_name": "Doesn't Believe in Angels"
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1245921668/playlists/6eMgUV8sCKc2Lfg6LNs2pj/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/f097849c3d05f30cb4a723b09214156ff51c6065",
+            "track_id": "6TTBhxnb9NYT7cz6aLOkBy",
+            "track_name": "Give It All"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef0d696be52f0d0c118397314e8ee44267483582",
+            "track_id": "3asFGFY3uLjMDmML1p0tYm",
+            "track_name": "Savior"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea28d69f191fe1ed9e022796db52a9ec948cb9b7",
+            "track_id": "3Effll2C7OnP2isgbVPJje",
+            "track_name": "The Good Left Undone"
+        },
+        {
+            "artist_id": "5Mhs3Eu8lU6sRCtRYsmABV",
+            "artist_name": "Black Flag",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfe7f1366667c675692a25327d497f0e999f4ce4",
+            "track_id": "48MuBOCt8M25yfw6c0NNMg",
+            "track_name": "Drinking and Driving"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/300296fd00b05cdfda5e77cf27014ba47998a9c9",
+            "track_id": "3pkzJjJXfdDjhpXx639MIH",
+            "track_name": "Somewhere With You"
+        },
+        {
+            "artist_id": "14pVkFUHDL207LzLHtSA18",
+            "artist_name": "Pantera",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/14e66cb261d6027f14d31e7d247b2281b9e79e71",
+            "track_id": "7fcfNW0XxTWlwVlftzfDOR",
+            "track_name": "Walk"
+        },
+        {
+            "artist_id": "14pVkFUHDL207LzLHtSA18",
+            "artist_name": "Pantera",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d3f1b1fa85da4b86ad874017e269378e4904e4b",
+            "track_id": "2M5WTwqnkyz7bW6P1CiD6q",
+            "track_name": "I'm Broken"
+        },
+        {
+            "artist_id": "14pVkFUHDL207LzLHtSA18",
+            "artist_name": "Pantera",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e083a534b7b69a1f742651323823ff8c97dc368",
+            "track_id": "5RU50TPTgtxJLFNunUS2p5",
+            "track_name": "Fucking Hostile"
+        },
+        {
+            "artist_id": "14pVkFUHDL207LzLHtSA18",
+            "artist_name": "Pantera",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/81537978c84c985cf8e4a95eb8a9c5ed7f030693",
+            "track_id": "5SAEMjVQbmin3g7b0RG6me",
+            "track_name": "5 Minutes Alone"
+        },
+        {
+            "artist_id": "1DFr97A9HnbV3SKTJFu62M",
+            "artist_name": "Mot\u00f6rhead",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "13g6lOv0c3FOaCMH8kdHQW",
+            "track_name": "Ace Of Spades"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/55cc8b3138a053364de050e06855de76b1189102",
+            "track_id": "4xkOaSrkexMciUUogZKVTS",
+            "track_name": "'Till I Collapse"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f06fb0da6f33333cdd8f4e781d5b14ec67b79cc",
+            "track_id": "7Ie9W94M7OjPoZVV216Xus",
+            "track_name": "Not Afraid"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/a30e5fc827c70aab0b9e38bc01b7a20368034f48",
+            "track_id": "1G3fgI4w0FmoNS8oLjLTaX",
+            "track_name": "Like Toy Soldiers"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4PKJY4FK61yhdPiECLhzHg",
+            "track_name": "The Point Of No Return"
+        },
+        {
+            "artist_id": "20qISvAhX20dpIbOOzGK3q",
+            "artist_name": "Nas",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/08bdb68d2a64f696c09260456b685351cbd6142b",
+            "track_id": "0FoNL2JohSdDhABW82QJMc",
+            "track_name": "One Mic"
+        },
+        {
+            "artist_id": "01QTIT5P1pFP3QnnFSdsJf",
+            "artist_name": "Lupe Fiasco",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e5aa2a04a726df5f5b1f3aa473873ca5093f91b",
+            "track_id": "7sb2qiE0af4NggQPa5FkYY",
+            "track_name": "Little Weapon (feat. Biship G and Nikki Jean)"
+        },
+        {
+            "artist_id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+            "artist_name": "Explosions In The Sky",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/dde8cd6ad9fbaf543314f82cd09f24be42a35d2d",
+            "track_id": "0iJoQ1kbaaKPRGJ0Bwrhzg",
+            "track_name": "The Birth And Death Of The Day (Jesu Mix)"
+        },
+        {
+            "artist_id": "1uQWmt1OhuHGRKmZ2ZcL6p",
+            "artist_name": "Explosions In The Sky",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2752383b2fbb81d7447668554b71dd5c7f1c2e4",
+            "track_id": "5uWzSBJKqdSKJ3uMrYYUIT",
+            "track_name": "Your Hand In Mine"
+        },
+        {
+            "artist_id": "6DVVsQAnpHdJjb1nYuOQ6g",
+            "artist_name": "65daysofstatic",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffca0a4c8a66bb850b759818a176bd608b3594d2",
+            "track_id": "5mCHD79hdMKzB0t3QUjDoH",
+            "track_name": "Don't Go Down to Sorrow"
+        },
+        {
+            "artist_id": "02NfyD6AlLA12crYzw5YcR",
+            "artist_name": "Jane's Addiction",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "2KEKTzLi2DQwhvlBJXRODd",
+            "track_name": "Irresistible Force"
+        },
+        {
+            "artist_id": "02NfyD6AlLA12crYzw5YcR",
+            "artist_name": "Jane's Addiction",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/b33376235a2df74f2c8eff132a92e53916717f72",
+            "track_id": "4COsndfUNxn85B4ZipFUGy",
+            "track_name": "Stop"
+        },
+        {
+            "artist_id": "02NfyD6AlLA12crYzw5YcR",
+            "artist_name": "Jane's Addiction",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9ff4e7a55ba747fcb14f4fd640f51866f155d0d",
+            "track_id": "2qtXHxCj2sTZHwXQbAvIT0",
+            "track_name": "I'll Hit You Back"
+        },
+        {
+            "artist_id": "6GbCJZrI318Ybm8mY36Of5",
+            "artist_name": "Faith No More",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/541fe34d7f30146be4b71e3fd47690f022bd557d",
+            "track_id": "62HyVeSK4fpxjKj6dsI5MP",
+            "track_name": "Midlife Crisis"
+        },
+        {
+            "artist_id": "6GbCJZrI318Ybm8mY36Of5",
+            "artist_name": "Faith No More",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c538805d9aa7430fa219e4be5f23e4c320b290f",
+            "track_id": "1Iw3wchVrb4rahrtYqcdW6",
+            "track_name": "Surprise! You're Dead!"
+        },
+        {
+            "artist_id": "6GbCJZrI318Ybm8mY36Of5",
+            "artist_name": "Faith No More",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/c849787ab638e4b2f16b1cd5da425f1ffec31459",
+            "track_id": "20nb0Wl1yqoEERbUSILuG1",
+            "track_name": "Falling To Pieces"
+        },
+        {
+            "artist_id": "1w5Kfo2jwwIPruYS2UWh56",
+            "artist_name": "Pearl Jam",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "7vPnlEkCGmYx2Eier8YBwc",
+            "track_name": "Even Flow"
+        },
+        {
+            "artist_id": "1w5Kfo2jwwIPruYS2UWh56",
+            "artist_name": "Pearl Jam",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "76dynyoXf52MiEsr3Pi06e",
+            "track_name": "Jeremy"
+        },
+        {
+            "artist_id": "2UazAtjfzqBF0Nho2awK4z",
+            "artist_name": "Stone Temple Pilots",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/4618c4762f00e5a074862d8d56104f6ce709f168",
+            "track_id": "600s08VdbjiyAjDGDjYSFI",
+            "track_name": "Interstate Love Song"
+        },
+        {
+            "artist_id": "2UazAtjfzqBF0Nho2awK4z",
+            "artist_name": "Stone Temple Pilots",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/391a225bdd65f6552bd01e03118795c33f58f02d",
+            "track_id": "1whAGgcXk2B1W3XluT2m0B",
+            "track_name": "Trippin' On A Hole In A Paper Heart"
+        },
+        {
+            "artist_id": "37394IP6uhnjIpsawpMu4l",
+            "artist_name": "Killswitch Engage",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/d70bbdd57d55aa5b9bbbe97e7fe543ffe882836b",
+            "track_id": "2nUy0ifVE7UwtOK4rugFsP",
+            "track_name": "The End Of Heartache"
+        },
+        {
+            "artist_id": "1HaiS1sFo8qkc6tF5Mw1M0",
+            "artist_name": "Shadows Fall",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/b59964fed8e4e0d87f514d3d32c364688bc0f970",
+            "track_id": "06IVPoFaOUIOcmf70Jk9ie",
+            "track_name": "What Drives The Weak"
+        },
+        {
+            "artist_id": "1HaiS1sFo8qkc6tF5Mw1M0",
+            "artist_name": "Shadows Fall",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "64KKQG70uFnbvv5uH9fqhf",
+            "track_name": "The Power Of I And I"
+        },
+        {
+            "artist_id": "1HaiS1sFo8qkc6tF5Mw1M0",
+            "artist_name": "Shadows Fall",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "07jp7znQ42naEByAxXsx43",
+            "track_name": "Inspiration On Demand"
+        },
+        {
+            "artist_id": "7w9jdhcgHNdiPeNPUoFSlx",
+            "artist_name": "Dropkick Murphys",
+            "popularity": 31,
+            "preview_url": null,
+            "track_id": "2kf767S4oj5KKVLZKEG4gw",
+            "track_name": "I'm Shipping Up To Boston"
+        },
+        {
+            "artist_id": "7w9jdhcgHNdiPeNPUoFSlx",
+            "artist_name": "Dropkick Murphys",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "0wyV8Z5VnuDX0KFt56DkiS",
+            "track_name": "The Warrior's Code"
+        },
+        {
+            "artist_id": "7w9jdhcgHNdiPeNPUoFSlx",
+            "artist_name": "Dropkick Murphys",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e61b402bf6638d3d94835a2a5c90aa2b7fadb6e",
+            "track_id": "67PwQNkJRsrqWXz45wK6Qj",
+            "track_name": "(F)lannigan's Ball"
+        },
+        {
+            "artist_id": "1IQ2e1buppatiN1bxUVkrk",
+            "artist_name": "Slayer",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/542f2e7192161b73b8d7d1b3b2a0a9880b8701fb",
+            "track_id": "01Mpj13vURSO3cCLprPt5T",
+            "track_name": "Raining Blood"
+        },
+        {
+            "artist_id": "1IQ2e1buppatiN1bxUVkrk",
+            "artist_name": "Slayer",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/6db0a0339b781a6acd0f7fe816459cdf3046acc0",
+            "track_id": "61dTqhd46yMkSWmC5LAh5F",
+            "track_name": "Angel Of Death"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/45067a92386806e485a3e8a056f5c85bb68c8cb2",
+            "track_id": "7p4UfVAC2nVPGN2mYSzDTD",
+            "track_name": "Crime Wave"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f04f567918afa53bbe54cc90e2c6fce2dfa83f6",
+            "track_id": "4dSdJQGFl7BLZBiZv8dukI",
+            "track_name": "Strong Enough"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "034OF871DL28cVljtNk1fF",
+            "track_name": "Blood Hound"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/88992b0b46a1ffa3a6430c29776fc2301a9abba5",
+            "track_id": "0nQseC4YVxQ0mCd0LOwWS9",
+            "track_name": "What's My Name"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/79ea7250824440834bf898a62fccec38435910a1",
+            "track_id": "1RbnH7qjUyWJWh8kjFIYNw",
+            "track_name": "Who We Be"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/06fa5f6e99dacd6550984b29a19c4cff6c907a60",
+            "track_id": "0PJYMfWrcdgliosbUgsf1j",
+            "track_name": "The Rain"
+        },
+        {
+            "artist_id": "5me0Irg2ANcsgc93uaYrpb",
+            "artist_name": "The Notorious B.I.G.",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3d7ee3b99d290c47f6ac107cdac6f14c2d14b34",
+            "track_id": "0Bd3oaSitY4a57zlwV9sG6",
+            "track_name": "Notorious Thugs"
+        },
+        {
+            "artist_id": "7B4hKK0S9QYnaoqa9OuwgX",
+            "artist_name": "Eazy-E",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f02ccebc12a16f80be3f6bc6ff66c2872bc41ea",
+            "track_id": "4mSp2FCzwGUN58aurJawQq",
+            "track_name": "Boyz-N-The-Hood"
+        },
+        {
+            "artist_id": "6Mo9PoU6svvhgEum7wh2Nd",
+            "artist_name": "Public Enemy",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f937346c3f05987682afc2b8c91414ce4be4422",
+            "track_id": "1yo16b3u0lptm6Cs7lx4AD",
+            "track_name": "Fight The Power"
+        },
+        {
+            "artist_id": "3JysSUOyfVs1UQ0UaESheP",
+            "artist_name": "Anthrax",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7527926035b956424ec07340bc13f72bdab0b11",
+            "track_id": "4gewF94jp6nLo1fOCbBwwM",
+            "track_name": "Bring The Noise"
+        },
+        {
+            "artist_id": "6kACVPfCOnqzgfEF5ryl0x",
+            "artist_name": "Johnny Cash",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/15063a8c8d3131e17fbd30a82231cf1dc5b926b6",
+            "track_id": "6RFkVsPmrM4pzlDkFswwJl",
+            "track_name": "God's Gonna Cut You Down"
+        },
+        {
+            "artist_id": "3KEixcRfBS5K3E91Vn1Kdy",
+            "artist_name": "Iced Earth",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/f8906dde9f3891fa1bfdf92419a8cbe94fccdbcc",
+            "track_id": "0FQuSs2jU8B4Jl7I49jyP5",
+            "track_name": "Ten Thousand Strong"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "2YctiYM44sHMfwAGFdVAWT",
+            "track_name": "Run To The Hills"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "0ccCf9v2MfiGHlh0m8wxWd",
+            "track_name": "The Number Of The Beast"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "6GR5zB4eMwfMcZdqD0QQHf",
+            "track_name": "The Trooper"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "3jRADFCO4TbgBHwC9SPGej",
+            "track_name": "Aces High"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "14GyalRd4isik3qj1IU18j",
+            "track_name": "2 Minutes To Midnight"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "55uXWpXyy53Fl9sBjVh9hM",
+            "track_name": "Can I Play With Madness"
+        },
+        {
+            "artist_id": "2tRsMl4eGxwoNabM08Dm4I",
+            "artist_name": "Judas Priest",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "3dix9ONSeCaR05vk8K2kEQ",
+            "track_name": "Breaking the Law"
+        },
+        {
+            "artist_id": "2tRsMl4eGxwoNabM08Dm4I",
+            "artist_name": "Judas Priest",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "59pBA1HUMol92PIIeJ0h9F",
+            "track_name": "Painkiller"
+        },
+        {
+            "artist_id": "3JysSUOyfVs1UQ0UaESheP",
+            "artist_name": "Anthrax",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/d41a16c44ff7487d72da857b8ef9910b8a3a7853",
+            "track_id": "76BYv24CcZt2u94JRjmATX",
+            "track_name": "Madhouse"
+        },
+        {
+            "artist_id": "0cc6vw3VN8YlIcvr1v7tBL",
+            "artist_name": "M\u00f6tley Cr\u00fce",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "4lt3cXW4RkvkHRG4x3K3P4",
+            "track_name": "Kickstart My Heart"
+        },
+        {
+            "artist_id": "0cc6vw3VN8YlIcvr1v7tBL",
+            "artist_name": "M\u00f6tley Cr\u00fce",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "3srPnN4EqPhdvMROVESuIA",
+            "track_name": "Dr. Feelgood"
+        },
+        {
+            "artist_id": "19ra5tSw0tWufvUp8GotLo",
+            "artist_name": "George Michael",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/b29e1256b8400397f7fdb0fbb5e4030f8b1d0fa3",
+            "track_id": "1SKApv6ZfJ9bkUxeRObJEF",
+            "track_name": "Freedom! '90"
+        },
+        {
+            "artist_id": "05fG473iIaoy82BF1aGhL8",
+            "artist_name": "Slipknot",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f18d218cab1743b2848ae3b8ee8be7c0a2117e72",
+            "track_id": "15DLl1r2zi07Ssq5RT1yT0",
+            "track_name": "Wait And Bleed"
+        },
+        {
+            "artist_id": "05fG473iIaoy82BF1aGhL8",
+            "artist_name": "Slipknot",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/835a766a2ae7f61480c38e5b97443520fecc325d",
+            "track_id": "6wqJeItl3Vc3az4ZicSQAB",
+            "track_name": "Before I Forget"
+        },
+        {
+            "artist_id": "05fG473iIaoy82BF1aGhL8",
+            "artist_name": "Slipknot",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d69e64bedfe9428d4cb07ee9b134b38e0230c6d",
+            "track_id": "61mWefnWQOLf90gepjOCb3",
+            "track_name": "Duality"
+        },
+        {
+            "artist_id": "2Pfv2w8a20xzC7Dr7QXRqM",
+            "artist_name": "Mudvayne",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/51af6343469e806c9f2a2a3f0a37e6168afbe5d3",
+            "track_id": "6We00ez9RPJftp4lB6Xqu7",
+            "track_name": "Not Falling"
+        },
+        {
+            "artist_id": "2Pfv2w8a20xzC7Dr7QXRqM",
+            "artist_name": "Mudvayne",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf814265417fe84c464e4ecc7c65497df2d7b0db",
+            "track_id": "3Y4rNagSf2IukhcOTWYJuV",
+            "track_name": "Death Blooms"
+        },
+        {
+            "artist_id": "3RNrq3jvMZxD9ZyoOZbQOD",
+            "artist_name": "Korn",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/74efa3ef73ba1fe30d28d70c2b721faa6dfb253c",
+            "track_id": "7B9S4RiRczdw1B9ddjpFe8",
+            "track_name": "Freak On a Leash"
+        },
+        {
+            "artist_id": "319rafipfKvd4cqaOwWIvA",
+            "artist_name": "Taproot",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/d108d5ba82dc41fcdd68ea55e7de1485f19ab967",
+            "track_id": "7mQwxVogsnpR3h6AJLQLlR",
+            "track_name": "Poem"
+        },
+        {
+            "artist_id": "165ZgPlLkK7bf5bDoFc6Sb",
+            "artist_name": "Limp Bizkit",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/982fd14c497385b224a32c22d8bab1f6018f8c13",
+            "track_id": "2YC6ET3q1F29B0V7UcPV70",
+            "track_name": "Break Stuff"
+        },
+        {
+            "artist_id": "165ZgPlLkK7bf5bDoFc6Sb",
+            "artist_name": "Limp Bizkit",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/50a63b3e041d102a795d7e903c71b34cdcbaeee8",
+            "track_id": "1TEZWG1FdjzDdercCguTwj",
+            "track_name": "Nookie"
+        },
+        {
+            "artist_id": "3w2WYNyPCPkZFoC1EqfCMe",
+            "artist_name": "Nas & Damian \"Jr. Gong\" Marley",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/27a3d8421bfe532199c5cdddf589694dcec642d2",
+            "track_id": "6gSAiLNiRUJeeC0YKbG4QB",
+            "track_name": "As We Enter"
+        },
+        {
+            "artist_id": "2WjvvwAX0mdWwq3aFuUdtc",
+            "artist_name": "Rebelution",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/24387adc3efdcbb70c0dda5a22c2df00b6580e2e",
+            "track_id": "0Ktp1KnQcs9irA5tklB1jD",
+            "track_name": "Courage To Grow"
+        },
+        {
+            "artist_id": "2WjvvwAX0mdWwq3aFuUdtc",
+            "artist_name": "Rebelution",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "4Bvqw2QqYTqP9Kivu0B435",
+            "track_name": "Good Vibes (feat. Lutan Fyah)"
+        },
+        {
+            "artist_id": "2WjvvwAX0mdWwq3aFuUdtc",
+            "artist_name": "Rebelution",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "4iHjyMmM79hV6KGg0L0sK0",
+            "track_name": "Sky Is the Limit"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/9619d33afce31aace722d5731ddff5cdba194eeb",
+            "track_id": "3IaAYtmN8T0YIYVqnxNnVz",
+            "track_name": "Bad Guy"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b76731f46d02ec6a153261690dad99a16d6305a",
+            "track_id": "6r027Faonff84hxFMjMbIH",
+            "track_name": "Rap God"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b0210acd5abba450f96867e5debec9a12a5452d",
+            "track_id": "45JxylFwaThjLsRBuzcfoL",
+            "track_name": "Rhyme Or Reason"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/702134c7bc58bc7b065886c27ab102be7d6725ec",
+            "track_id": "7EAjG4SK1TpsZrtVnnGDsb",
+            "track_name": "No Love"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0902046385aa72e169c4859d33e6d3b2aea3161",
+            "track_id": "0cc9bwqbJ4Y3DsJr2GRAz3",
+            "track_name": "Cinderella Man"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9784649fe56fe841002e8ce8f163e2f1ae8363e",
+            "track_id": "1AcGKHRv5Q4TJd9yb4vjHE",
+            "track_name": "Sing For The Moment"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/02c46483894006b31dda73a1281868dbfdc3ba3b",
+            "track_id": "5QD28FqaM3jTfsqWwvRZwv",
+            "track_name": "Soldier"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b14132c17176839a57b722c56b5803ee509c04d",
+            "track_id": "14bJY2KbvjHYJvg6IduMv2",
+            "track_name": "11th Hour"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/89c84ad676c6da51e8bd4c4c9c437a88fdd9f744",
+            "track_id": "35iDs42FZwTmrvUHonpkZ0",
+            "track_name": "As The Palaces Burn"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3179fe4f66b206f14f1ae340c1af54a744c860f8",
+            "track_id": "1uOkapWUZPXQRRHTAAfu6E",
+            "track_name": "Omerta"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/fcd9bda1c90324ac2628f9f34bacd6d7e91a4d54",
+            "track_id": "0lCwaZYSRy6q0jLmnYiQxi",
+            "track_name": "Laid to Rest"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/de3650e4babe0179dff41527c478025e327c4597",
+            "track_id": "18tzenBUBfhF6Z15SGiGPk",
+            "track_name": "Black Label"
+        },
+        {
+            "artist_id": "5DKuVtlpDH0agZQUFDy8O7",
+            "artist_name": "Pharoahe Monch",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae957326fc5036d5663d076d47068694d392c007",
+            "track_id": "7d0qykD3MkgOV4cyFM6QCD",
+            "track_name": "Bad M.F."
+        },
+        {
+            "artist_id": "5DKuVtlpDH0agZQUFDy8O7",
+            "artist_name": "Pharoahe Monch",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "5AUlCVPEcWnSuDxxYJ0tpn",
+            "track_name": "W.A.R. - Feat. Immortal Technique & Vernon Reid"
+        },
+        {
+            "artist_id": "5DKuVtlpDH0agZQUFDy8O7",
+            "artist_name": "Pharoahe Monch",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff1fcb8342ab1cb2a950111abcca2282098c3d19",
+            "track_id": "3J9yskt3HzDAyBwtd4QBLH",
+            "track_name": "Free - Album Version (Edited)"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8b1b8fa9eafe23b33edf6e4f7bd8d6e950f7cd6",
+            "track_id": "4GfhaqyXVJVRvwfC4NKlHB",
+            "track_name": "Obnoxious"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/45bf75c4f2ceddc722204409671f5927700422ea",
+            "track_id": "6C6kmwabmhtrPRQeKi0qdl",
+            "track_name": "Positive Balance"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ee1407f0c640e7102b4e0ef3079bed04f745ddf",
+            "track_id": "2j4AKjlKl7iDVLWJ3rKifU",
+            "track_name": "No Me Importa"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7e601b518bf5c4e6324f5c6bd7a54ea007e3961",
+            "track_id": "6fZaPdmxn2NfrO5LnZjwE1",
+            "track_name": "The 4th Branch"
+        },
+        {
+            "artist_id": "7h8ja4JSORo2sXJPmCXRxa",
+            "artist_name": "Immortal Technique",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/98ad938005a9cdee1b65d14cd91b6c07576220fa",
+            "track_id": "6fx3RqwMuR3k7M1bCpUFKJ",
+            "track_name": "Freedom of Speech"
+        },
+        {
+            "artist_id": "13FswnDmTIttTpiK9PS0BI",
+            "artist_name": "Army Of The Pharaohs",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d298856a103268ec090561db3a7e2ffeae6067f",
+            "track_id": "3iZc0giQC5ySLgbJ6gQFEl",
+            "track_name": "Battle Cry"
+        },
+        {
+            "artist_id": "5DKuVtlpDH0agZQUFDy8O7",
+            "artist_name": "Pharoahe Monch",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/55b82974f92f5451f4c12b7222a19b36d70252c3",
+            "track_id": "6Lxpe3GAbb1s9LxtX1RBaV",
+            "track_name": "Time2"
+        },
+        {
+            "artist_id": "3ggwAqZD3lyT2sbovlmfQY",
+            "artist_name": "Meshuggah",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef61a4a43aad286654578280ec21b1a61871d25a",
+            "track_id": "5p2sCetlJ6D0KiBljKwmLb",
+            "track_name": "Bleed"
+        },
+        {
+            "artist_id": "3ggwAqZD3lyT2sbovlmfQY",
+            "artist_name": "Meshuggah",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/236a0b088b8867595ac5eb125380c91e91e6a3af",
+            "track_id": "7y4kNLnq4AZXZxceZlguYW",
+            "track_name": "Pineal Gland Optics"
+        },
+        {
+            "artist_id": "3ggwAqZD3lyT2sbovlmfQY",
+            "artist_name": "Meshuggah",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4eff0d275799a093ce93882db9d3a80f16a0895",
+            "track_id": "0JbWvYXghxpXNVPPSXB1L7",
+            "track_name": "New Millennium Cyanide Christ"
+        }
+    ]
+}

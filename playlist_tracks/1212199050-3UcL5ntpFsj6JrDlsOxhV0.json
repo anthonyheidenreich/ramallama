@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1212199050/playlists/3UcL5ntpFsj6JrDlsOxhV0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3dBVyJ7JuOMt4GE9607Qin",
+            "artist_name": "T. Rex",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/feb120fa6dafbdb2811c56df8cfa467d4b605deb",
+            "track_id": "6FsQrRpBLgsrFeAeiQqytm",
+            "track_name": "Bang A Gong [Get It On] (Remastered Single/LP Version)"
+        },
+        {
+            "artist_id": "5fbhwqYYh4YwUoEs582mq5",
+            "artist_name": "The Spinners",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/e91acc7504869e1db0c559fe397708cab586edfd",
+            "track_id": "4Q5HmyNvQHlfylzGY7V3Wr",
+            "track_name": "The Rubberband Man"
+        },
+        {
+            "artist_id": "6PAt558ZEZl0DmdXlnjMgD",
+            "artist_name": "Eric Clapton",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0caedebc3408c21a1aaa59d0b9c2479d0ddb8b89",
+            "track_id": "3BEZCNZSmVv30vsMNSOCri",
+            "track_name": "Layla"
+        }
+    ]
+}

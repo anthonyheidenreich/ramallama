@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1255601907/playlists/3rE7WhOyWG1Q8e2UZ91Jw5/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5cyHu7tidauRJ9UawaPwG5",
+            "artist_name": "Only Real",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b204bd262a74e6ea962a582982a472d270120d4",
+            "track_id": "1sbAfa2q2zlerTSH8ZdYm6",
+            "track_name": "Cadillac Girl"
+        },
+        {
+            "artist_id": "0vIFLqYvyNzfBjzyo6J0Pv",
+            "artist_name": "Sleepwalkers",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/54481078a93fb41f9d2913d74f664ef658d8a5b5",
+            "track_id": "4kr3l1fAE5gkjxkbE7WU65",
+            "track_name": "Cocaine"
+        },
+        {
+            "artist_id": "0vIFLqYvyNzfBjzyo6J0Pv",
+            "artist_name": "Sleepwalkers",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/aee38ea86ca418d50038fa476a4389088764815b",
+            "track_id": "4ZJKDXyqBradNtcyYe1S79",
+            "track_name": "Cheers"
+        },
+        {
+            "artist_id": "6XiSck3QPuXk7ho6zlDz3P",
+            "artist_name": "The Bees",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/367fd2e894965f399b0404d19eb27016617d6737",
+            "track_id": "0RrSZWuWiIR7ETRjKZBUib",
+            "track_name": "I Really Need Love"
+        },
+        {
+            "artist_id": "2lnn5H36McBxbyhPYg10oj",
+            "artist_name": "Wake Owl",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f367cc6ba86d9ee0347529082245baaefc60839",
+            "track_id": "7u1367adTTLUNgdioz4UUP",
+            "track_name": "Candy"
+        },
+        {
+            "artist_id": "2Ki2mlU4LhZZ0BOYHWbcot",
+            "artist_name": "The Dig",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/f204c105da5018c6dce4f2d27acb9170db4555fc",
+            "track_id": "06RqYEJf2XrY5QKiXFoCIg",
+            "track_name": "Black Water"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/121534226/playlists/4X3edGGhzr7YxcZKAGEWNk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3Oim8XBPbznAa8Jj8QzNc8",
+            "artist_name": "Cults",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/5918de656cc016ebc7b1e0a4b4735f76583900f0",
+            "track_id": "0V8jGgK39sLsj2yAHHPigU",
+            "track_name": "Go Outside"
+        },
+        {
+            "artist_id": "6FlOCziOXI157pvUREAh3E",
+            "artist_name": "Los Campesinos!",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/4307ccd19fb58fa8245c8da4e5e736e3fe9dd3aa",
+            "track_id": "3uJpPyDtD8eK3P8v7z1YdE",
+            "track_name": "By Your Hand"
+        },
+        {
+            "artist_id": "3kVUvbeRdcrqQ3oHk5hPdx",
+            "artist_name": "Grouplove",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/2147e7bd8762aa4f7f1ce38ba02cfa618c530758",
+            "track_id": "0GO8y8jQk1PkHzS31d699N",
+            "track_name": "Tongue Tied"
+        },
+        {
+            "artist_id": "5o8Wylae9k23IEJMIiwd8s",
+            "artist_name": "The Antlers",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/85ddf74f9df248cc854ba80001aa25ebca499235",
+            "track_id": "371oFaGHOqCmqRwx0XxEpo",
+            "track_name": "I Don't Want Love"
+        },
+        {
+            "artist_id": "3Rge90vTSlldCXm8AFKZmJ",
+            "artist_name": "Harlem Shakes",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/026d12af026b9c219a739fa3d46d218e158bd709",
+            "track_id": "5GvlyAsPxdWVc1y9ErdPql",
+            "track_name": "Sunlight"
+        },
+        {
+            "artist_id": "5YkBrE0wF8cAlq3GCOw5Eu",
+            "artist_name": "Best Coast",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc7ead9aad406147078e560acc79652c4124f185",
+            "track_id": "02DqzTBDp3yOAyF6LuGmoG",
+            "track_name": "When I'm With You"
+        },
+        {
+            "artist_id": "3pTE9iaJTkWns3mxpNQlJV",
+            "artist_name": "Bombay Bicycle Club",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b2d9b634fd982fe497653def2258a3002260791",
+            "track_id": "214Cj6UAEJvq9rocjbXqK1",
+            "track_name": "How Can You Swallow So Much Sleep"
+        }
+    ]
+}

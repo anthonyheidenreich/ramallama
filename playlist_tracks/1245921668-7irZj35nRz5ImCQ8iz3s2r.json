@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1245921668/playlists/7irZj35nRz5ImCQ8iz3s2r/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3ikKyCOrsMeANi0d5u8BCR",
+            "artist_name": "Tobacco",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "37GoZJLOqQcBFQz3K50uHX",
+            "track_name": "Streaker (Ft. Notrabel)"
+        },
+        {
+            "artist_id": "3ikKyCOrsMeANi0d5u8BCR",
+            "artist_name": "Tobacco",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "2QfNLIW7oTnV6matSw1jaY",
+            "track_name": "Eruption (Gonna Get My Hair Cut at the End of the Summer)"
+        },
+        {
+            "artist_id": "04tBaW21jyUfeP5iqiKBVq",
+            "artist_name": "Scott Walker",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/f706eea22dc47106d46cf68869af3e709eb87dfb",
+            "track_id": "1QtdHvQeFgSE7R7AuLPccZ",
+            "track_name": "It's Raining Today"
+        },
+        {
+            "artist_id": "73p7913nnreqv6jbWpeNb1",
+            "artist_name": "Storm Corrosion",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/119441702070f8a8ed17efc9a421b2ea8ae73417",
+            "track_id": "1arn1AwDxrsylmS8SBG2y1",
+            "track_name": "Ljudet Innan"
+        },
+        {
+            "artist_id": "73p7913nnreqv6jbWpeNb1",
+            "artist_name": "Storm Corrosion",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/8076649a026bd6dd8b1b7d33bf67aabea83225b4",
+            "track_id": "2mNSbkHbE90ISfFQISJ0L8",
+            "track_name": "Storm Corrosion"
+        },
+        {
+            "artist_id": "6FfjnGXMhxSsJTuGLWBDth",
+            "artist_name": "HEALTH",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/7cee5ae9ae00081358830f83ba76966967611d39",
+            "track_id": "45lA5tbfUCnR2T9VqpXypj",
+            "track_name": "We Are Water"
+        },
+        {
+            "artist_id": "053q0ukIDRgzwTr4vNSwab",
+            "artist_name": "Grimes",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/f65d1db711cd2b661a0ec3b96e0b5fa620184776",
+            "track_id": "4sCYKMatyhazyy6r2N7Hp2",
+            "track_name": "Genesis"
+        }
+    ]
+}

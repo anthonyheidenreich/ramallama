@@ -1,0 +1,349 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226635310/playlists/6WF6ztc1itOmy9dK9OPFMJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/f95af05e622fcdff8d55e1719b1eedf8f298bfd8",
+            "track_id": "4YFRvewBPozzyXqSgHYUfi",
+            "track_name": "The Sound of Silence"
+        },
+        {
+            "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "artist_name": "Ed Sheeran",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/12eb90aa64be1b349b479f8dde7ca7175ac11513",
+            "track_id": "53Pgsvu3qSYO2aXt5J2vcL",
+            "track_name": "Lego House"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa826e8af9e873f09466c96d5dc19801e2431432",
+            "track_id": "0iOZM63lendWRTTeKhZBSC",
+            "track_name": "Mrs. Robinson"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/9cc352357ef1ee3337b6975aa1c2f980814937c0",
+            "track_id": "7n2G21wCsM4OkuEAirxKId",
+            "track_name": "Scarborough Fair / Canticle"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/17cc997d95b0db3e396b03b0fa84e207ead7db43",
+            "track_id": "6QhXQOpyYvbpdbyjgAqKdY",
+            "track_name": "Cecilia"
+        },
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e2256807c1cccc86e17d5f6775be16331499551",
+            "track_id": "51KKQAgYFoJHgVIuJWHdHb",
+            "track_name": "Graceland"
+        },
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/75b35e78582e255a34e69a9b30bb12f6a9bcfc9d",
+            "track_id": "71GvlH0VdeClloLIkHrAVu",
+            "track_name": "Diamonds On the Soles of Her Shoes"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/c56d88a6ec25caad667dd259a0760fe8f7d19a84",
+            "track_id": "3LcYYV9ozePfgYYmXv0P3r",
+            "track_name": "Fire And Rain"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c60d744b102776cfbe82c149b95733e7071e8678",
+            "track_id": "69foTA1ElY03DJQb7bbA0e",
+            "track_name": "Something In The Way She Moves"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2e94a843848d24e8ea96b75c582594ba794b8fc",
+            "track_id": "2T5Ch09nefwckOu5NQvjIk",
+            "track_name": "Carolina In My Mind"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/b915a4b714596b085dae0d88cdb494303ed23883",
+            "track_id": "47cdhtxTfp7WvUbDpDeYa2",
+            "track_name": "Sweet Baby James"
+        },
+        {
+            "artist_id": "0vn7UBvSQECKJm2817Yf1P",
+            "artist_name": "James Taylor",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/cdcb60cddacbe17bd6010dfa5b9cd94b70a652bc",
+            "track_id": "1105xyHTDp3bZQa1cpoCyX",
+            "track_name": "Country Road"
+        },
+        {
+            "artist_id": "74ASZWbe4lXaubB36ztrGX",
+            "artist_name": "Bob Dylan",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/f0eec1a1dbd31bf51cf323d2981535ec4fc5a568",
+            "track_id": "3AhXZa8sUQht0UEdBJgpGc",
+            "track_name": "Like a Rolling Stone"
+        },
+        {
+            "artist_id": "74ASZWbe4lXaubB36ztrGX",
+            "artist_name": "Bob Dylan",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/5a2ed79e56a60188c9f031e3b41bc886dc088aad",
+            "track_id": "52vA3CYKZqZVdQnzRrdZt6",
+            "track_name": "The Times They Are A-Changin'"
+        },
+        {
+            "artist_id": "74ASZWbe4lXaubB36ztrGX",
+            "artist_name": "Bob Dylan",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d590e2139ce4eb119238968a8b398e8510a6251",
+            "track_id": "6HSXNV0b4M4cLJ7ljgVVeh",
+            "track_name": "Knockin' on Heaven's Door - Remastered"
+        },
+        {
+            "artist_id": "44NX2ffIYHr6D4n7RaZF7A",
+            "artist_name": "Van Morrison",
+            "popularity": 36,
+            "preview_url": null,
+            "track_id": "4myBMnNWZlgvVelYeTu55w",
+            "track_name": "Brown Eyed Girl"
+        },
+        {
+            "artist_id": "7mEIug7XUlQHikrFxjTWes",
+            "artist_name": "Neil Diamond",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ef9b40a4754e66d9dd47f1511b65bfe9190bb4f",
+            "track_id": "5akBpqWmFWEHoBGRIrR5aK",
+            "track_name": "Sweet Caroline"
+        },
+        {
+            "artist_id": "7mEIug7XUlQHikrFxjTWes",
+            "artist_name": "Neil Diamond",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/4fe4e4cf0f7965762352a38a05a83de9009e3d49",
+            "track_id": "5pkd9ib1RgbkAd1R9bIOCa",
+            "track_name": "Cracklin' Rosie - Single Version"
+        },
+        {
+            "artist_id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "artist_name": "Billy Joel",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f1dc0e2f56c946849ac2e61dfa1ce827fb8dc70",
+            "track_id": "70C4NyhjD5OZUMzvWZ3njJ",
+            "track_name": "Piano Man"
+        },
+        {
+            "artist_id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "artist_name": "Billy Joel",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/ddc79ec18d01d3e1bf318b60fffc1dd735702490",
+            "track_id": "30qVCFYKBtAENjTIBA8FPZ",
+            "track_name": "The River of Dreams"
+        },
+        {
+            "artist_id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "artist_name": "Billy Joel",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef6c2caa85012dbc077651c06256c4b2b5940088",
+            "track_id": "49MHCPzvMLXhRjDantBMVH",
+            "track_name": "Just the Way You Are"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/605b1c1a5995a87eb64dab0264738f5143c64e2c",
+            "track_id": "1iDcKYNvo6gglrOG6lvnHL",
+            "track_name": "Sympathy For The Devil"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/0660a1937792928f2a7406e33b5cba06b029c927",
+            "track_id": "4Q6Kuze3wNMQRjamyBjHUR",
+            "track_name": "Rivers and Roads"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/85d22b4d6f027bffda37cec111b8f2f8bfc87ca8",
+            "track_id": "3gvAGvbMCRvVDDp8ZaIPV5",
+            "track_name": "Lost in My Mind"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/66f2fc1f7173c683f2ac11e7c075e05aeb464ce7",
+            "track_id": "5Gtn8HgCAo0TUiaKKgP6us",
+            "track_name": "Down in the Valley"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8bf0f420948d46e6f4369aa8bdcad49730764996",
+            "track_id": "01NSrsQkOZ3PgRcGLGrOT5",
+            "track_name": "Winter Song"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9db112711d7e25339d476c27b828cdbc23d6394",
+            "track_id": "3ABYGT6fB6ocDDYZ7vj4lj",
+            "track_name": "Sounds Like Hallelujah"
+        },
+        {
+            "artist_id": "0n94vC3S9c3mb2HyNAOcjg",
+            "artist_name": "The Head and the Heart",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfe6fd015aa50e412af97b3772663fa9bc41b346",
+            "track_id": "1uGPqR2OCNimv0kPiLmA35",
+            "track_name": "Honey Come Home"
+        },
+        {
+            "artist_id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "artist_name": "Bon Iver",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/9964fbfa8b9d85d3b4edcd5a47c6386f0eadee92",
+            "track_id": "2cbic3TiUENlJX91y67ARR",
+            "track_name": "Skinny Love"
+        },
+        {
+            "artist_id": "74gcBzlQza1bSfob90yRhR",
+            "artist_name": "City and Colour",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bd2bfcf7a91d0e22179a30e8dc3da2f4e13167e",
+            "track_id": "4B5XXgClp1rUS28iWAoQCP",
+            "track_name": "Grand Optimist"
+        },
+        {
+            "artist_id": "74gcBzlQza1bSfob90yRhR",
+            "artist_name": "City and Colour",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/f527fec5af042641b73ece2a9ad0fcd7f449486a",
+            "track_id": "1GC5vddt7fLU5B93XUL9NX",
+            "track_name": "We Found Each Other In The Dark"
+        },
+        {
+            "artist_id": "5o206eFLx38glA2bb4zqIU",
+            "artist_name": "Bright Eyes",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/4fd96a1eb6a258e9a745940c592148315cb49a68",
+            "track_id": "6588w3GdDxmdtLMLuwf1tO",
+            "track_name": "At The Bottom Of Everything"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1bd712b6d0de6d24b185b02ea4d841fdff8b761",
+            "track_id": "5Szn0p3DlnawyuhX8ULCg4",
+            "track_name": "Orange Sky"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/6773404726f343f000a1272a2f8ac34a5d678a88",
+            "track_id": "1x2xQTH9ibApB4ndLwq6FN",
+            "track_name": "Song For You"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/537be18609b6e2a9810e2847b4e8d686445ccb80",
+            "track_id": "6imKHLNom4xjEj2n3ZbKHr",
+            "track_name": "All My Days"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/42433d3f825f79674891911c0f4c2425134925f4",
+            "track_id": "3Xakb20OXM5ZArqHqPTpiZ",
+            "track_name": "Through The Dark"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/773be719503861e1b2551cb5d7483bc3afccbcf9",
+            "track_id": "2v9VnLpsFdG5gnBUmYQheE",
+            "track_name": "Breathe"
+        },
+        {
+            "artist_id": "25mrbNwFzoqPWyYXLhiDRw",
+            "artist_name": "Alexi Murdoch",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/f36f292af813a514974ce70d064fe2981517519a",
+            "track_id": "5MM3FAVv9d0yMsmrIg7VfM",
+            "track_name": "Towards The Sun"
+        },
+        {
+            "artist_id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "artist_name": "The Tallest Man On Earth",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/54e0bc251971787c7748df1fd920d70d4ab3b0b8",
+            "track_id": "6oI3Inlpzlik5e7cy4Sdi8",
+            "track_name": "The Gardener"
+        },
+        {
+            "artist_id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "artist_name": "The Tallest Man On Earth",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/dacd30d0da37a1295a854e8e7e77a05cf6019f9a",
+            "track_id": "3gVuz4Bhvxb2J0iGSH8bCZ",
+            "track_name": "Love is All"
+        },
+        {
+            "artist_id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "artist_name": "The Tallest Man On Earth",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ff004c35ab972d0242a1f4c589ef805a60f3f93",
+            "track_id": "7i5NbxA7ONWkmjtW2kXdQP",
+            "track_name": "The Wild Hunt"
+        },
+        {
+            "artist_id": "2BpAc5eK7Rz5GAwSp9UYXa",
+            "artist_name": "The Tallest Man On Earth",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/558625abb3c1778f99ce33733aba181188359c27",
+            "track_id": "3SXsoJxUF3C9XjZnGMZbXn",
+            "track_name": "King of Spain"
+        },
+        {
+            "artist_id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "artist_name": "Queen",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/d448eacbf50ce786fc0aee3af31ee1f0b8c44bea",
+            "track_id": "7tFiyTwD0nx5a1eklYtX2J",
+            "track_name": "Bohemian Rhapsody"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/6KuWUAnfjXG9jtABpDt5EQ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "37uLId6Z5ZXCx19vuruvv5",
+            "artist_name": "Hot Chip",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cadfc9b3c26e2628126e26d21814a8d6e9562ee",
+            "track_id": "2KrIVRYbzxFhrtIs6iDZpn",
+            "track_name": "I Feel Better"
+        },
+        {
+            "artist_id": "4sTQVOfp9vEMCemLw50sbu",
+            "artist_name": "Galantis",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7fb82cd8de6d07fca2be8ce026004c26c8072c6",
+            "track_id": "3aIhJDHxr1kgTSnutJxPTH",
+            "track_name": "Peanut Butter Jelly"
+        }
+    ]
+}

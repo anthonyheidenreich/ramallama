@@ -1,0 +1,741 @@
+{
+    "href": "https://api.spotify.com/v1/users/assiagrazioli/playlists/7wIKZifjTtbreFBRtvFmsT/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5nki7yRhxgM509M5ADlN1p",
+            "artist_name": "Oliver Heldens",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/abebbc8ae12216eb059cbabe1b49a71b568a0433",
+            "track_id": "7Lgg4sQpyFimCAQxSoxUVf",
+            "track_name": "Last All Night (Koala) [feat. KStewart] - Toyboy & Robin Remix"
+        },
+        {
+            "artist_id": "2Dxbev9hZzbiEEwocnObzH",
+            "artist_name": "Faul",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/015c544e5a3071e6832d9f3d873b074cfb1a18ea",
+            "track_id": "0QjhfF1zVLwiJxCoXwu6pC",
+            "track_name": "Something New"
+        },
+        {
+            "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "artist_name": "Ed Sheeran",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/3af25de0085d33ce9a2e419a940cc078c8f26fdc",
+            "track_id": "1cWepLwVVDgyqxso6G4TQU",
+            "track_name": "Thinking Out Loud - Alex Adair Remix"
+        },
+        {
+            "artist_id": "4VNQWV2y1E97Eqo2D5UTjx",
+            "artist_name": "Gorgon City",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ad6e3740e23e0c3db230c1c622f377721ffe4ab",
+            "track_id": "3699WaVfLOWLG4MmjLKHyT",
+            "track_name": "Here For You - Bearcubs Remix"
+        },
+        {
+            "artist_id": "6jOz2B9qeID4dLP1o8bFGf",
+            "artist_name": "Crazy P",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/958ef7ae0b960ce12db175627a20601fa8c9b698",
+            "track_id": "4vcPegtrtRJPUXrnfxqvg9",
+            "track_name": "Heartbreaker"
+        },
+        {
+            "artist_id": "4Ui2kfOqGujY81UcPrb5KE",
+            "artist_name": "HAIM",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/c05420d60066084b6709e4034148229d9f38613e",
+            "track_id": "4wTkpJZ8WC8uixCZP8O2Ic",
+            "track_name": "Falling - Duke Dumont Remix"
+        },
+        {
+            "artist_id": "0pyi4vNCq5T6GgV1rt7ncc",
+            "artist_name": "Kyau & Albert",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8a69967bd9e8482331924629df93e55003b7fb8",
+            "track_id": "4OEBVDm0agJcwqFbmAM7PD",
+            "track_name": "Down - Sebastien Remix"
+        },
+        {
+            "artist_id": "3t5xRXzsuZmMDkQzgOX35S",
+            "artist_name": "Robin Schulz",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/9eea19a9a84505f27e63534a8a876db6766da765",
+            "track_id": "4zLBcDtvYNVtF9fnG6lme3",
+            "track_name": "Sun Goes Down (feat. Jasmine Thompson) - Radio Mix"
+        },
+        {
+            "artist_id": "31CtLHmSL7Oa7TPU9YyBEu",
+            "artist_name": "Aeroplane",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/e46680da4ecf947b2f2499a808a61c0bec0f201b",
+            "track_id": "6Cyg3GDNo97SCt72Bemhdk",
+            "track_name": "Let's Get Slow"
+        },
+        {
+            "artist_id": "3FzBqgiFc0LHnvCKbeAhnN",
+            "artist_name": "Alessandro Taccini",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e16b8d2b17cac9da68602968e2db4267bbe7c3ad",
+            "track_id": "0WI0elMfmkEixw3itHZKge",
+            "track_name": "Higher Love"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/41c1bedb902d582e4e37e56ebdf0ea1880576442",
+            "track_id": "2CoWJhDYVENsByS7rPInSr",
+            "track_name": "Midnight - Kygo Remix"
+        },
+        {
+            "artist_id": "2feDdbD5araYcm6JhFHHw7",
+            "artist_name": "Labrinth",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/586e5d5688e1ca553e4dea60b7cc11e976eb2e7a",
+            "track_id": "1zrPHnMkddezXWTp2uDAPt",
+            "track_name": "Let It Be - The GRADES Money Mix"
+        },
+        {
+            "artist_id": "23fqKkggKUBHNkbKtXEls4",
+            "artist_name": "Kygo",
+            "popularity": 90,
+            "preview_url": "https://p.scdn.co/mp3-preview/5aa0fdab41429a6b9ae73ccbc9f4b7980133d1f3",
+            "track_id": "2sNvitW3TxiTeC9xT9f2ZZ",
+            "track_name": "Firestone"
+        },
+        {
+            "artist_id": "7H55rcKCfwqkyDFH9wpKM6",
+            "artist_name": "Christina Perri",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/a11f594e020ab2868bf6526fd723cb1bb8b6ead8",
+            "track_id": "3TUdrUvmzH1qlUlLufT27I",
+            "track_name": "burning gold - Addal Remix"
+        },
+        {
+            "artist_id": "6aUV3Fndwagje8d4rBA3xw",
+            "artist_name": "Family Force 5",
+            "popularity": 39,
+            "preview_url": null,
+            "track_id": "32RhJFu4oZVWEKKZFUvtTA",
+            "track_name": "This Is My Year - Matoma Remix"
+        },
+        {
+            "artist_id": "4bL2B6hmLlMWnUEZnorEtG",
+            "artist_name": "Felix Jaehn",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b5b481c2e121e840a228f682c6f73e0f3e4c021",
+            "track_id": "6SCAXcwAjspBCWsrlqs4vw",
+            "track_name": "Dance With Me - Radio Edit"
+        },
+        {
+            "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "artist_name": "David Guetta",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/87e25443b5783ef5209ec5cd896a98de1c03003f",
+            "track_id": "1FkbBFzuPskyOvIoipKug5",
+            "track_name": "Dangerous (feat. Sam Martin) - Robin Schulz Remix; Radio Edit"
+        },
+        {
+            "artist_id": "6i1GVNJCyyssRwXmnaeEFH",
+            "artist_name": "Syn Cole",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee28aabb011ffa10acd0e2e7f4b466d4c35c6dc6",
+            "track_id": "1DRbYDXcxIl1oHP0wPHi96",
+            "track_name": "Miami 82 - Kygo Remix"
+        },
+        {
+            "artist_id": "7qG3b048QCHVRO5Pv1T5lw",
+            "artist_name": "Enrique Iglesias",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9f2e1bf9b703ccb14618f6417fdd02bc544d313",
+            "track_id": "2EHu09nPab1dk0jySbkjEr",
+            "track_name": "Bailando - Matoma Remix"
+        },
+        {
+            "artist_id": "5EGOerlVYxwqxaTLEWumBR",
+            "artist_name": "Synapson",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/eaab4a3af7d4730ce4c292627de820d02361cb5d",
+            "track_id": "1P0z5yv8e7VZbFseMdDOkD",
+            "track_name": "Djon Maya Ma\u00ef - feat. Victor D\u00e9m\u00e9 [Oliver Koletski Remix]"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b8e502c8be238091a9523f095f2afc268edafce",
+            "track_id": "65Pt6tIzWyovMiWAAQPf37",
+            "track_name": "Animals - Gryffin Remix"
+        },
+        {
+            "artist_id": "4bL2B6hmLlMWnUEZnorEtG",
+            "artist_name": "Felix Jaehn",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/7b0e6e6c2df000ef5a96d9a8e3fd9e907994965b",
+            "track_id": "1gLXtnkhzRGQ7fo90paYgk",
+            "track_name": "Shine - Extended Mix"
+        },
+        {
+            "artist_id": "5MouCg6ta7zAxsfMEbc1uh",
+            "artist_name": "OMI",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/68d3173526af84c05b7100868bda56916565f0ae",
+            "track_id": "2IBouTigURbfUFQ4qLYAoe",
+            "track_name": "Cheerleader - Felix Jaehn Remix"
+        },
+        {
+            "artist_id": "2feDdbD5araYcm6JhFHHw7",
+            "artist_name": "Labrinth",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a77e8bd41cbe894ad722e414a536e33f2e7525c",
+            "track_id": "7BOu5S45QjJhriKH2QyvCj",
+            "track_name": "Jealous - Bakermat Remix"
+        },
+        {
+            "artist_id": "6KcmUwBzfwLaYxdfIboqcp",
+            "artist_name": "Kyla La Grange",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/5a6052090dd3213dedc68351838f67f9ebad35b0",
+            "track_id": "1y4Kln6VEjQMpmHW7j9GeY",
+            "track_name": "Cut Your Teeth - Kygo Remix"
+        },
+        {
+            "artist_id": "7nDsS0l5ZAzMedVRKPP8F1",
+            "artist_name": "Ella Henderson",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/234bff2726701c2940ea99587b2ffe9cd1e3fba7",
+            "track_id": "4zFgZQEatsyUhLhDtClcKl",
+            "track_name": "Ghost - Oliver Nelson Remix"
+        },
+        {
+            "artist_id": "08U9qk0KByTwtgdfKr7195",
+            "artist_name": "MYNGA",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/77e40dd70ba909d0fa49ff2ff20c2f977e8eba2a",
+            "track_id": "22jRrJwhkCqNS4RbaJSRGD",
+            "track_name": "Back Home - Radio Edit"
+        },
+        {
+            "artist_id": "4X0v8sFoDZ6rIfkeOeVm2i",
+            "artist_name": "Seinabo Sey",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/50618b8c8461a30e091d4354e9f7378698a5467d",
+            "track_id": "7hrDA2n8BVGLyHra0rBiFd",
+            "track_name": "Younger - Kygo Remix"
+        },
+        {
+            "artist_id": "5Rr15NSbi1Xjno1AEP9u21",
+            "artist_name": "Dan Croll",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "30kc5pH8yKNJ1wl6CQeY0o",
+            "track_name": "Nobody Knows - Monsieur Adi"
+        },
+        {
+            "artist_id": "6MDME20pz9RveH9rEXvrOM",
+            "artist_name": "Clean Bandit",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9d9d2d68603e22dd2f04693c8e29e4f5823e09f",
+            "track_id": "3s4U7OHV7gnj42VV72eSZ6",
+            "track_name": "Rather Be (feat. Jess Glynne)"
+        },
+        {
+            "artist_id": "24DO0PijjITGIEWsO8XaPs",
+            "artist_name": "Nora En Pure",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a21f9433c67a2fa703f0c7df9500c32416d8253",
+            "track_id": "2RAi5Py1o0MMokWLhz9zNU",
+            "track_name": "Come With Me - Original Mix"
+        },
+        {
+            "artist_id": "5UVzX8pQe6bb5ueNdfViih",
+            "artist_name": "Chris Malinchak",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/acaac8a5673ed25e1354cb2700ceb787d4432329",
+            "track_id": "3fDrZa4ksxA5lgi0utGu6k",
+            "track_name": "So Good to Me - Radio Edit"
+        },
+        {
+            "artist_id": "238y1dKPtMeFEpX3Y6H1Vr",
+            "artist_name": "Parra for Cuva",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/40b765b529241a4df2ed7a1bb6e5ea18d1983d34",
+            "track_id": "3AchVMlCSZhA3hMKkG7Kpe",
+            "track_name": "Wicked Games - Radio Edit"
+        },
+        {
+            "artist_id": "6nS5roXSAGhTGr34W6n7Et",
+            "artist_name": "Disclosure",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/d46af8bedf50c58c4cbdb04e62ce36a98a897546",
+            "track_id": "2LTIrVBonJJLQHAjw41b28",
+            "track_name": "Help Me Lose My Mind"
+        },
+        {
+            "artist_id": "5UVzX8pQe6bb5ueNdfViih",
+            "artist_name": "Chris Malinchak",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/52be9395beb8e921b3acbbe95f40e903a4f5ce15",
+            "track_id": "74pkmgBZgLGGNzfwHNBuJi",
+            "track_name": "So Good To Me - Radio Edit"
+        },
+        {
+            "artist_id": "5Gn7NoCZvbVlGgtZMILRcv",
+            "artist_name": "Satin Jackets",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2ebb73ee3fc1f3a6d70445100fd1f6eeb0badab",
+            "track_id": "1gUDtXaDKoVxaE87xy3UGz",
+            "track_name": "You Make Me Feel Good - Original Mix"
+        },
+        {
+            "artist_id": "7daexEpVdKDbvlUHZ2rWbe",
+            "artist_name": "Matias Aguayo",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f5cfd2b213f7be73506aeca660096e7d549b264",
+            "track_id": "4sTeZ0AFUVOsFbkxEr8cmT",
+            "track_name": "Minimal - Dj Koze Remix"
+        },
+        {
+            "artist_id": "2x7EATekOPhFGRx3syMGEC",
+            "artist_name": "The Knocks",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/5e1b7a006811af736aef47e8fe15484c88f124a3",
+            "track_id": "42UaTVeWaNaME7ttu61ykG",
+            "track_name": "Classic (feat. Powers)"
+        },
+        {
+            "artist_id": "5tLCdDhH9DjHWmewXiaX9h",
+            "artist_name": "Hollow & Akimbo",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "5MUBGwW2DHLVozCq56C0lr",
+            "track_name": "Singularity (Osborne Remix)"
+        },
+        {
+            "artist_id": "0x0u0jCVf5Jf4DNh45XPXL",
+            "artist_name": "Skylar Spence",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e161015814f7c07c5ea38453eb74d8620d8937d",
+            "track_id": "3x3lq0IUkLEv4apfJxwgwd",
+            "track_name": "Fiona Coyne"
+        },
+        {
+            "artist_id": "1FbsmLXvj5CccZj6JLk46Z",
+            "artist_name": "Kim Cesarion",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/453d373e32225ae2eb74361e63f337a70eddc19d",
+            "track_id": "4jdC8ju5WZTbZHZzYxKbt8",
+            "track_name": "Undressed - Oliver Nelson Remix"
+        },
+        {
+            "artist_id": "6ifwtjnyBErm69itobvpyn",
+            "artist_name": "Chela",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "14VCDSRuuUfYnGsDZQL4WJ",
+            "track_name": "Romanticise - Original Mix"
+        },
+        {
+            "artist_id": "6HUm6AHJE0oisACMN6NNJ5",
+            "artist_name": "Faul & Wad Ad",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/916fbcea6728f3c734ed26d8a86d507b8f181751",
+            "track_id": "13qqdlSeF8FcxsRyapDMZ0",
+            "track_name": "Changes - Original Mix"
+        },
+        {
+            "artist_id": "0baqzsI5oUU3yyeeP7568i",
+            "artist_name": "Clive Tanaka y su orquesta",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ee0e4a0f44ce9bd3621113140c072865048bb60",
+            "track_id": "3Y1BThO9RaVCM8P1Db4HI5",
+            "track_name": "Neu Chicago :: Side A :: For Dance"
+        },
+        {
+            "artist_id": "4pb4rqWSoGUgxm63xmJ8xc",
+            "artist_name": "Madeon",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d7b1ced7b8754046e67f8ada9cd064c78062e7b",
+            "track_id": "2OlZu4pJaqsq5rXgc5EqaK",
+            "track_name": "You're On - Gramatik Remix"
+        },
+        {
+            "artist_id": "5Mq7iqCWBzofK39FBqblNc",
+            "artist_name": "Jessie Ware",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/1bc15f5d577586903b654e5223b9a863e6c984c6",
+            "track_id": "6J9ujMTYp65uedJZy82l9L",
+            "track_name": "Tough Love - Cyril Hahn Remix"
+        },
+        {
+            "artist_id": "7A0awCXkE1FtSU8B0qwOJQ",
+            "artist_name": "Jamie xx",
+            "popularity": 64,
+            "preview_url": null,
+            "track_id": "2sZtaJ4RFbRAAOBKWEeR4H",
+            "track_name": "Loud Places"
+        },
+        {
+            "artist_id": "6HQ6vf4AloXyVNdyJhrX1J",
+            "artist_name": "GAMPER & DADONI",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/d37d796a4b00d207886decb3becd9fa809bddfb6",
+            "track_id": "3Zg6kO3S4FQ0jMfTIgHzyl",
+            "track_name": "Oxas"
+        },
+        {
+            "artist_id": "5Pb27ujIyYb33zBqVysBkj",
+            "artist_name": "R\u00dcF\u00dcS",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/386331ba46ea2137eec5c98a2afeff111bff02a0",
+            "track_id": "1GakwODaE19qBffBx6COXX",
+            "track_name": "Sundream"
+        },
+        {
+            "artist_id": "3OsRAKCvk37zwYcnzRf5XF",
+            "artist_name": "Moby",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/815c8d38f346d3eb8c58350044b62963649a995d",
+            "track_id": "2Yzn261CodBzbIwIQzrl5g",
+            "track_name": "Almost Home (feat. Damien Jurado) - Vijay & Sofia Zlatko Mix"
+        },
+        {
+            "artist_id": "75nC6MXUalYZSOd7OfNkwq",
+            "artist_name": "Tensnake",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d8ffdd1c6d908f22b8ab1b1d555a0fa36912799",
+            "track_id": "3XO4cEyMVodCon4xJQOGNS",
+            "track_name": "See Right Through"
+        },
+        {
+            "artist_id": "1L9i6qZYIGQedgM9QLSyzb",
+            "artist_name": "Klingande",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/43ae9e76c3f246bf1c5054ce11dc4ebead216e99",
+            "track_id": "2mpsKeLCbdXkwEpZRNi4XD",
+            "track_name": "Jubel - Original Mix"
+        },
+        {
+            "artist_id": "3MyFDtqB80WZvbtCZRsekM",
+            "artist_name": "Bakermat",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/485925a17f386d9024ef927bca55563ba23a1ad7",
+            "track_id": "0GSU6yLOJqO10ziQuBLWOE",
+            "track_name": "One Day (Vandaag) - Radio Edit"
+        },
+        {
+            "artist_id": "4csQIMQm6vI2A2SCVDuM2z",
+            "artist_name": "Hayden James",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/eeb4f4e8ed3c0808b10294762fa80283903ddbe7",
+            "track_id": "0agehDrq7ZHos1Di3Gv4Co",
+            "track_name": "Permission to Love"
+        },
+        {
+            "artist_id": "08Ut1tYxtmgIInVyQqohkM",
+            "artist_name": "Fritz Kalkbrenner",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "1y2xXHKRBgxJPedtr68dfE",
+            "track_name": "Facing The Sun"
+        },
+        {
+            "artist_id": "61ipISvUVa5LkJlKZnm3Oo",
+            "artist_name": "Alle Farben",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/85469679fd18c93a947af611529d0e48cd8fd5dd",
+            "track_id": "4EXZ3f0xzUIcsLpmPv3nR1",
+            "track_name": "Sometimes"
+        },
+        {
+            "artist_id": "7MlotYZhHjOlXcvmwrITj8",
+            "artist_name": "Tep No",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/e7ed400babccf222020d482a33dba8262642696c",
+            "track_id": "4X6wMQec2NHdBhEGUwqUFV",
+            "track_name": "The Last Ones Standing"
+        },
+        {
+            "artist_id": "2rv8IrcIQiFKkdvQAgUTZj",
+            "artist_name": "Set Mo",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/5113f321779dcbc00eef06dffd44a2e03ae82811",
+            "track_id": "1uVGSDpZ9RwaD9SxMH3Qkt",
+            "track_name": "White Dress (feat. Deutsch Duke) - Radio Edit"
+        },
+        {
+            "artist_id": "738wLrAtLtCtFOLvQBXOXp",
+            "artist_name": "Major Lazer",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2fb514286bfd42f6b823f29ec3d965d90b89fb4",
+            "track_id": "0BF6mdNROWgYo3O3mNGrBc",
+            "track_name": "Lean On (feat. M\u00d8 & DJ Snake)"
+        },
+        {
+            "artist_id": "1L9i6qZYIGQedgM9QLSyzb",
+            "artist_name": "Klingande",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3cd66733723f5be5df8763530dbb66189f20343",
+            "track_id": "5urLObRRCdQn66JHsMegO3",
+            "track_name": "Riva (Restart The Game) - Radio Edit"
+        },
+        {
+            "artist_id": "1h8RNW3ze2ef2CHd6IsShM",
+            "artist_name": "Spada & Elen Levon",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/111229781b729009179139894b50a92b9ddb88ac",
+            "track_id": "4uCqzUxd7eSMymzHjmRFGz",
+            "track_name": "Cool Enough - (Radio Edit)"
+        },
+        {
+            "artist_id": "7wjeXCtRND2ZdKfMJFu6JC",
+            "artist_name": "Louane",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/43e74caaee1c5ae4a0fae6a5c1219477eaebe81f",
+            "track_id": "7culxZiBjN3w3yXqxgKIpD",
+            "track_name": "Avenir - Radio Edit"
+        },
+        {
+            "artist_id": "6zGCrS2y63IEUJfyn9Bpuc",
+            "artist_name": "Teemid",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/6e3f03d4751fcfd037eb210f06bdd13a890f0929",
+            "track_id": "689WZ46LgjqQeI6axe2kkG",
+            "track_name": "Crazy (feat. Joie Tan)"
+        },
+        {
+            "artist_id": "1nWS89L7evreaF9wcCsIyi",
+            "artist_name": "Gostan",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9ed3381fef84a17c631c1599c173447715bff47",
+            "track_id": "1A6sVuun3GjnRutMi5ORQJ",
+            "track_name": "Klanga"
+        },
+        {
+            "artist_id": "4VNQWV2y1E97Eqo2D5UTjx",
+            "artist_name": "Gorgon City",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/e05c6d364259b81998de930d82b1a6b6dc282293",
+            "track_id": "3ZrWmt3DGH75hItHp6uWLz",
+            "track_name": "Imagination"
+        },
+        {
+            "artist_id": "6J2749jPHYhAZUq79rsNi0",
+            "artist_name": "Zwette",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/2eb7fa80ba96b9854140aa92b0560b5210cd1223",
+            "track_id": "0HBAX0skQZLwbuvJNZuRWG",
+            "track_name": "Rush - Extended Mix"
+        },
+        {
+            "artist_id": "0Y3tjYXavSfCOvFjkPrSS6",
+            "artist_name": "Julia Vero",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/d517ebdd4e1a5715c0d625eda2c3e203e46bf177",
+            "track_id": "6Ejit26Cx7OPexzmtND6OS",
+            "track_name": "How Does It Feel? - Gabriel Gassi Remix"
+        },
+        {
+            "artist_id": "1zQfSKetozOFtnWvzH8uH3",
+            "artist_name": "David P.",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/f39ec90499e5cb16e25f6aaf7704badcea349a20",
+            "track_id": "3h8vSAehx9i8I4r1zlqSty",
+            "track_name": "No - (Zwette Remix) [Radio Edit]"
+        },
+        {
+            "artist_id": "2zHHEU3t9cutZFyG0fHdOR",
+            "artist_name": "Sonny Alven",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/158b18ea1bf701faa2220495d96a626a2bcbdb11",
+            "track_id": "5E6wOj418oSYCZNpyN3JeM",
+            "track_name": "Where Do We Go"
+        },
+        {
+            "artist_id": "4bL2B6hmLlMWnUEZnorEtG",
+            "artist_name": "Felix Jaehn",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0fa1198f423e50eda9288f53f8e4e5247909bd1",
+            "track_id": "2wZFAsXLnIdo7fba55EQq1",
+            "track_name": "Book Of Love"
+        },
+        {
+            "artist_id": "6hZDTUqjAdw543I6czUumV",
+            "artist_name": " Dim Sum ",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/02e37acac8227dcffe982e61d403ce65c329d396",
+            "track_id": "199aOsUa2BP0tK6BfdxMaQ",
+            "track_name": "High Love"
+        },
+        {
+            "artist_id": "2zJ8chFLjiBHRNchfevMRI",
+            "artist_name": "SNBRN",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/688df7d0268476a544add4d969dd47c1f613493f",
+            "track_id": "1LBwyk8neY2W5S7RvVDDWS",
+            "track_name": "Raindrops - Hotel Garuda Remix"
+        },
+        {
+            "artist_id": "2IjiuEObrCKyZvSb8xLxG9",
+            "artist_name": "filous",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/e43c220df6a3e657473c0a0fc403c59e927a9f2b",
+            "track_id": "12gURb7o0ICP0O1h1v8jnc",
+            "track_name": "How Hard I Try - Gianni Kosta Remix"
+        },
+        {
+            "artist_id": "6dJi7tkU0GjHJtB2A586kj",
+            "artist_name": "Lago",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0914f1fbfa94e26624e37e947eeda25b5b2d2c6",
+            "track_id": "5ZTPowK41qACT8FFuorbXW",
+            "track_name": "Karibu - Radio Edit"
+        },
+        {
+            "artist_id": "7aBzpmFXB4WWpPl2F7RjBe",
+            "artist_name": "Wyclef Jean",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/b71477de4cb6a1f786538041a7d6ab4f1cae97eb",
+            "track_id": "5iiISP4Ux4Y1XedNxWK5Cy",
+            "track_name": "Divine Sorrow - Klingande Remix"
+        },
+        {
+            "artist_id": "4Uj1xVe00hoAoAUb1hNI3H",
+            "artist_name": "Simioli",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/19b039f7f74c0d59cacd9d7fa044e1d858bb389f",
+            "track_id": "3A8HHz1hlV5kLeTHo3Sxrr",
+            "track_name": "Ain't No Sunshine - Deep Chills Radio Edit"
+        },
+        {
+            "artist_id": "3MyFDtqB80WZvbtCZRsekM",
+            "artist_name": "Bakermat",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/100136fe9550032159ea4367926932772f45118d",
+            "track_id": "5teGX9dkVCZOuao7dOWs7l",
+            "track_name": "Teach Me - Radio Edit"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a30b6a41454acf14a6c6f7bec6594d605c07ed6",
+            "track_id": "6xNSaBtoPKlPhXsNT7ZwLd",
+            "track_name": "The Nights - Felix Jaehn Remix"
+        },
+        {
+            "artist_id": "1mrrvBvbrm28iYaPlJ9mG5",
+            "artist_name": "Alex Adair",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/234d919b676f69f7a95903d1f0e34ff2a7994b63",
+            "track_id": "5wy5gRd6uSqfz1aYnWDqPx",
+            "track_name": "Make Me Feel Better - Radio Edit"
+        },
+        {
+            "artist_id": "1nWS89L7evreaF9wcCsIyi",
+            "artist_name": "Gostan",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/03c68c9ab6481e77b0022202d6248901511007f6",
+            "track_id": "1RMXNaUZ8AdmANVYyNjNum",
+            "track_name": "Klanga - De Hofnar Remix"
+        },
+        {
+            "artist_id": "6YkrCLD9pID4Ibfm52jGFL",
+            "artist_name": "Mobin Master feat. Karina Chavez",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/311ecb6acd774f87fb410c28638967b10a6678b0",
+            "track_id": "0EQuc9huBOftgtRkkwAvZm",
+            "track_name": "Show Me Love (Radio Edit)"
+        },
+        {
+            "artist_id": "20gsENnposVs2I4rQ5kvrf",
+            "artist_name": "Sam Feldt",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/cd75a1e4a2514875255df108740ef851520a0129",
+            "track_id": "5OppKZFuGrKMVpWRHzp4jM",
+            "track_name": "Hot Skin - Radio Edit"
+        },
+        {
+            "artist_id": "5a3LNFE90ApnB22P9GhGwq",
+            "artist_name": "The Avener & Phoebe Killdeer",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e06fd371fd2484601c24116d67c5d717f1aabda",
+            "track_id": "5OZq2lbxzzQ0a5BOcmMTmP",
+            "track_name": "Fade Out Lines - Alle Farben Remix"
+        },
+        {
+            "artist_id": "18XyLuKeMMfkTNKTmc6yOU",
+            "artist_name": "Sirens Of Lesbos",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/f11d9a587362d2467311f6e6b185594cc5339240",
+            "track_id": "2utjfvIDOn8mJ7m464WcMX",
+            "track_name": "Long Days, Hot Nights - Claptone Radio Edit"
+        },
+        {
+            "artist_id": "28j8lBWDdDSHSSt5oPlsX2",
+            "artist_name": "Zhu",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b4a9e00cbe5d311d93da4eb02c9acb499cd073e",
+            "track_id": "4RbywoUAWDKcUFSQGdsVHr",
+            "track_name": "Faded - T\u00c2CHES Remix"
+        },
+        {
+            "artist_id": "6oBm8HB0yfrIc9IHbxs6in",
+            "artist_name": "Lykke Li",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1d8a4a80dfc9d8d434e3e924fc8425d4e8775ee",
+            "track_id": "4F9FCeqh9sqCxb6y14yc6h",
+            "track_name": "No Rest for the Wicked - Joris Voorn Remix"
+        },
+        {
+            "artist_id": "1mrrvBvbrm28iYaPlJ9mG5",
+            "artist_name": "Alex Adair",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/702b2a01dca237f06a96f900f406ce532797afa0",
+            "track_id": "4Ym9aSWtUwHMBGcCYq1qcC",
+            "track_name": "Make Me Feel Better"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 84,
+            "preview_url": null,
+            "track_id": "2GpHJb7xGNBaIDTrBxjIu6",
+            "track_name": "Sorry"
+        },
+        {
+            "artist_id": "1vlR56ECqMAOA2mUTcTgPV",
+            "artist_name": "Emma Bale",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/414d0be12b5b27cc12550c61f2f88b97464c36e9",
+            "track_id": "4dqnFd0dfgh4HgZ1w3AGTE",
+            "track_name": "Run - Lost Frequencies Radio Edit"
+        },
+        {
+            "artist_id": "3XcCT5MPlQPWFTJyzXbfuX",
+            "artist_name": "Maejor",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d136a1e5e473a69eb275411be89823de7d9b1f1",
+            "track_id": "5QjojS4gO6z8iCaU8WDeL7",
+            "track_name": "Me and You - Original Mix"
+        },
+        {
+            "artist_id": "4G4XrrdC3VDih4El2P0din",
+            "artist_name": "1 Purple Summer",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/4685bd223126a3e7e9119e13bdf1518c25734912",
+            "track_id": "73JYmIV6UitbrIDyGb2lWf",
+            "track_name": "You Make Me Feel Better"
+        },
+        {
+            "artist_id": "1drZSKcRUX09dXTl3RpALw",
+            "artist_name": "Cl\u00e9ment Bcx",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab75e51a5c2d32123257e949d04be2539aac86cd",
+            "track_id": "57jeYClozvl1pM6cejhxPn",
+            "track_name": "Take Care - Extended Mix"
+        }
+    ]
+}

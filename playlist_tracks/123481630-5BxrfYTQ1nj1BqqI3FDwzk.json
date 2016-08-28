@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/123481630/playlists/5BxrfYTQ1nj1BqqI3FDwzk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "34v5MVKeQnIo0CWYMbbrPf",
+            "artist_name": "John Newman",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/fe565052441abe78cfac3a222d39a7334b3533b9",
+            "track_id": "57PjISfyOyDcvTPipz16nf",
+            "track_name": "Love Me Again"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/4bbc6c3a61b175ca895e0f5a2ab79804f290b263",
+            "track_id": "27jdUE1EYDSXZqhjuNxLem",
+            "track_name": "Magic"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/4eaf0cd938bf5a32110b3061787206360e3b83fe",
+            "track_id": "6D5pfooPP6hi99RaXjkDsP",
+            "track_name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix"
+        },
+        {
+            "artist_id": "2jSGzJw0ebJLu7OLVSOcBP",
+            "artist_name": "Plan B",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/b34fcf307fb2339258d8badfa25b85876b5f34bf",
+            "track_id": "2I1uzkNYEJ5FOzLjI0ssTX",
+            "track_name": "Candy"
+        },
+        {
+            "artist_id": "6e9wIFWhBPHLE9bXK8gtBI",
+            "artist_name": "Editors",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "0NcoCGAGcm0KGFBTt5UTOy",
+            "track_name": "Papillon"
+        },
+        {
+            "artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+            "artist_name": "Snoop Dogg",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/0850ae6fcfede7522aac25871cb4c315cda140a8",
+            "track_id": "2NBQmPrOEEjA8VbeWOQGxO",
+            "track_name": "Drop It Like It's Hot"
+        }
+    ]
+}

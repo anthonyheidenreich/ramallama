@@ -1,0 +1,533 @@
+{
+    "href": "https://api.spotify.com/v1/users/assiagrazioli/playlists/69zbnPitZIoSCS9yOMh93s/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5aj3LEYRbuaabjjHkj5oE1",
+            "artist_name": "Death In Vegas",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "3aut5GgS02ZLQnZmKWrQcN",
+            "track_name": "Your Loft My Acid"
+        },
+        {
+            "artist_id": "2GLf7iaOOujAem5R87xwto",
+            "artist_name": "Matthew Dear",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1WH8lNEZp1Xw0L7KYrF1Es",
+            "track_name": "Little People (Black City) - Mark E Remix"
+        },
+        {
+            "artist_id": "1YvN5uOGQkHVUUlZUcnotD",
+            "artist_name": "John Talabot",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce81208b6dc9547e220d05ccfb3e9df1de79ad98",
+            "track_id": "1Ss8Z6u88HXC5qUq16Co0e",
+            "track_name": "So Will Be Now... feat. Pional"
+        },
+        {
+            "artist_id": "5xm9NG9Wjnq3mX4tBjH5Qs",
+            "artist_name": "Golden Boy with Miss Kittin",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/cdc1bd07a1c0255b5b90634253dbb2ceea138ce3",
+            "track_id": "2wOI7ohZLV7NbllGYNqus7",
+            "track_name": "Rippin Kittin"
+        },
+        {
+            "artist_id": "4FN8WHqUbwkd97WEjoCu7B",
+            "artist_name": "Justin Martin",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a4ab2d499b6f15779d02c68c3a3cfdab2110e25",
+            "track_id": "615DsUjb7Nd3PdaCZYZwpX",
+            "track_name": "Don't Go - Dusky Remix"
+        },
+        {
+            "artist_id": "61lyPtntblHJvA7FMMhi7E",
+            "artist_name": "Duke Dumont",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/17a4f66bea4770b455f13e9cc28412bddd5df89d",
+            "track_id": "7jZHbRMODr5AS1WL8ik19V",
+            "track_name": "Thunder Clap - Original Mix"
+        },
+        {
+            "artist_id": "4nhvb6x9ZhPiYCzrHDNia9",
+            "artist_name": "Daphni",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "4NMgXydFiCAck0XaYz6n6B",
+            "track_name": "Ye Ye"
+        },
+        {
+            "artist_id": "4GjYagK3g6mvTLMlR4vEqQ",
+            "artist_name": "Voltron",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d703f1aba1e3fa01bda20700e127af3a0343b63",
+            "track_id": "15HY9NtY3nAsf4HM3mobDC",
+            "track_name": "Don't Stop (xxxy Remix)"
+        },
+        {
+            "artist_id": "54QMjE4toDfiCryzYWCpXX",
+            "artist_name": "Metronomy",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/2fb27329d65ad05f5ce8de5db1c854ab986384db",
+            "track_id": "5v8XhD72eYkyvYXJ6dRUuc",
+            "track_name": "The Bay - Erol Alkan's Extended Rework"
+        },
+        {
+            "artist_id": "247AfC9pLuqwgpH8Mo96oA",
+            "artist_name": "Connan Mockasin",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ea175c5db6250107af4b721734c949fb6800143",
+            "track_id": "0jCeUOk6uJfVsaEyCBHZwV",
+            "track_name": "Forever Dolphin Love - Erol Alkan Rework"
+        },
+        {
+            "artist_id": "5h8UChTQYQZfgRFICcJBkP",
+            "artist_name": "Martin Dawson",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/b13017128d597ea4df2da977ad6e6dca746583b4",
+            "track_id": "5r2oY8Po24AmOZBEodQdvg",
+            "track_name": "No One Belongs Here More Than You - Ewan's Balearos Maximos Remix"
+        },
+        {
+            "artist_id": "3Xcves4cRUVjBauOkiuKQ2",
+            "artist_name": "Skinnerbox",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c20102ca486f6360374f000bde77370490ca386",
+            "track_id": "1PumKBKcnjBizLjrKYpvUL",
+            "track_name": "Purgatory Five"
+        },
+        {
+            "artist_id": "3fdTyhMVXu3X3zErrj0sNm",
+            "artist_name": "Ripperton",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/74dc7dcd6558dd1b2da3027c3f1f0a1bf8f13599",
+            "track_id": "0qLzsHMejKWXGhHOZzDNLe",
+            "track_name": "Random Violence - Original Mix"
+        },
+        {
+            "artist_id": "3pVm0ttbAah6dTDher8dSz",
+            "artist_name": "Phonique",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/39ce9ef1e4a0c5313eeecffad8c87fd5f14332b6",
+            "track_id": "2hTcVWx63rbt1pohPnzUyG",
+            "track_name": "For The Time Being featuring Erlend \u00d8ye - Ripperton Remix"
+        },
+        {
+            "artist_id": "44zcDDVZOY0ck7KECNUPK1",
+            "artist_name": "Dominik Eulberg",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f6da509dbbc43e8d3e0f843255e9deaec83b3ef",
+            "track_id": "5Euoos3VdvsaodOXXnefhT",
+            "track_name": "Der Tanz der Gluehwuermchen"
+        },
+        {
+            "artist_id": "3jEWwtiifaWzV7ZcRduuxU",
+            "artist_name": "Dinka",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/8bd752bf818505342e133be76dac75fdda85e8d1",
+            "track_id": "7d6D9OAsPDIi8NcuIfzAjL",
+            "track_name": "Elements - EDX Radio Mix"
+        },
+        {
+            "artist_id": "5FShZPKtOs19K5qcZHkw3Q",
+            "artist_name": "Flowers and Sea Creatures",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/953376feb9737b3f650216d1689b51df2986f5e4",
+            "track_id": "3a6L57HIABFIZy4YIjX4NV",
+            "track_name": "A.M. - Ewan Pearson Re-Edit"
+        },
+        {
+            "artist_id": "62k5LKMhymqlDNo2DWOvvv",
+            "artist_name": "Boys Noize",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/d53e40d62f88318ebb21971c2257bcf7aa8e0229",
+            "track_id": "4OCcOlhkXo1DyAAKKPVSNl",
+            "track_name": "Avalanche - Terminal Velocity [feat. Jarvis Cocker Ewan Pearson's Deeper Underground Re-Version]"
+        },
+        {
+            "artist_id": "17dbJyUCrxh4I7iyUrjaHU",
+            "artist_name": "Carl Craig",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "11MiSbdlQN0ORguUCWzlEu",
+            "track_name": "At Les - Christian Smith's Tronic Treatment Remix"
+        },
+        {
+            "artist_id": "2gv0vhtUiUJeGcYkTybo7G",
+            "artist_name": "ZZT",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6Wo2V5VuOIqrJGzidca0YV",
+            "track_name": "Zzafrika - Julio Bashmore Remix"
+        },
+        {
+            "artist_id": "5af6HkEomDP7dKLugVmMmk",
+            "artist_name": "Joakim",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/d29ed1dcf61663d665c121b61236fab43989565a",
+            "track_id": "7rP4SxbuVTpaoCiypUnHeo",
+            "track_name": "Find a Way"
+        },
+        {
+            "artist_id": "247AfC9pLuqwgpH8Mo96oA",
+            "artist_name": "Connan Mockasin",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4b26895551286bcc9c1d473cc84e40e247ea7d2",
+            "track_id": "7xPnlrGMCIDRlaXLms44NR",
+            "track_name": "Faking Jazz Together - Michael Mayer Remix"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Diamond Messages",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Liquid Summer"
+        },
+        {
+            "artist_id": "7qAWGH2Lb2uIXlZI36YRiO",
+            "artist_name": "Trust",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/a722c8f755d17aa24adfb4e16caaf66f617b5ff4",
+            "track_id": "5Ybqyd13m7LFAONi9B4UVV",
+            "track_name": "F.T.F. - Dinamo Azari for the Humanities Remix / Bonus Track"
+        },
+        {
+            "artist_id": "3jEWwtiifaWzV7ZcRduuxU",
+            "artist_name": "Dinka",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/b0e346d0accb7a48c8d1b5d682a7661030b124c8",
+            "track_id": "0XT5c7Sfrc9ArvCTyYKUtv",
+            "track_name": "Camouflage (Original Mix) - Original Mix"
+        },
+        {
+            "artist_id": "27LGatz1m8aJ7ZaVVWEphc",
+            "artist_name": "Gui Boratto",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3ffdfed070d744de486f3f2ac2f35782eb89537",
+            "track_id": "0y9tyvD9JpTLPgp6cKz57y",
+            "track_name": "The Drill"
+        },
+        {
+            "artist_id": "5UCVxnXbewxjSHOYlqRstK",
+            "artist_name": "Jay Haze",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/0de700c1586a78e5a36251b87328ea2463cc09e7",
+            "track_id": "0KttGTNMeNAGBKvZ9jCjEU",
+            "track_name": "Soul In A Bottle (feat. Big Bully and Sven VT)"
+        },
+        {
+            "artist_id": "5FShZPKtOs19K5qcZHkw3Q",
+            "artist_name": "Flowers and Sea Creatures",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/aca187d9df4294c4515e8ae0f2fd206618b44a20",
+            "track_id": "1X5Em83atEliVKkF65YOxc",
+            "track_name": "At Night"
+        },
+        {
+            "artist_id": "4jRLIIrKvl4rAmir58oDK0",
+            "artist_name": "Cosmin TRG",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6dEprjSsevE5BrL38LvUep",
+            "track_name": "Liebe Suende"
+        },
+        {
+            "artist_id": "0WAZJYudbUpl0EOjvdrnRG",
+            "artist_name": "Julio Bashmore",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7KCsTbRrqzu1mzI5HSCzuI",
+            "track_name": "Battle For Middle You"
+        },
+        {
+            "artist_id": "3MM8mtgFzaEJsqbjZBSsHJ",
+            "artist_name": "Bloc Party",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6ttq8nEaf4YvCLPopTHlzO",
+            "track_name": "Helicopter (Weird Science Remix feat. Peaches)"
+        },
+        {
+            "artist_id": "67tgMwUfnmqzYsNAtnP6YJ",
+            "artist_name": "Groove Armada",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c91bba649d60e35e536c62b494b0f9fc998396d",
+            "track_id": "4JxPvh0XnW9nrVdVd41hqR",
+            "track_name": "The Pleasure Victim"
+        },
+        {
+            "artist_id": "2D9Oe8R9UhbMvFAsMJpXj0",
+            "artist_name": "K\u00f6lsch",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/233c36970cbd15df10a51c64d851dccd4fe70b65",
+            "track_id": "1SyU4PHlhcQMJxau8c2N77",
+            "track_name": "Opa"
+        },
+        {
+            "artist_id": "0mnlHIcYkz3TQQ07xiFwuz",
+            "artist_name": "Ben Pearce",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/72e900beae2a2d5d2ae65b8f394e7d07af2df85e",
+            "track_id": "6s4sFuYRgBNg2jOD983ApY",
+            "track_name": "What I Might Do - Radio Edit"
+        },
+        {
+            "artist_id": "31DXlldabwPHwu6dYevuzK",
+            "artist_name": "Simian Mobile Disco",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5f504814c82b739a3f1b75c19a3205dabfac0db",
+            "track_id": "2LRy6LEfvLse452WKM4ev2",
+            "track_name": "Your Love Ain't Fair"
+        },
+        {
+            "artist_id": "75nC6MXUalYZSOd7OfNkwq",
+            "artist_name": "Tensnake",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/22f36711ef4bf7f89a61c157eba2e7a42eb109c5",
+            "track_id": "6mkgPOxigXsi5JY5Lso2c9",
+            "track_name": "Something About You - Original Mix"
+        },
+        {
+            "artist_id": "4smK3nFPhkimbY6EXK156w",
+            "artist_name": "Hackman",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "01dv22L4cWGNBXiKu5FYhl",
+            "track_name": "Close"
+        },
+        {
+            "artist_id": "4o5e4EQgqNVOUCbqVnZYXn",
+            "artist_name": "Jozif",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/66057f85dfcb9fcff87c5d589c32343942dfcdf3",
+            "track_id": "6hVqmzmJU9GtgPlHiMIxtx",
+            "track_name": "Twilight Featuring Terri Walker - Casino Times Remix"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "0gQhsweQc7qhqJPVlKrc08",
+            "track_name": "Summertime Sadness - Asadinho Main Vocal Mix"
+        },
+        {
+            "artist_id": "7da523apYjG6oJePP5MZwG",
+            "artist_name": "Rebecca Pidgeon",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/37c09215a3076022a897b46b69c6a37aeb126017",
+            "track_id": "3wOiqdp4uRpk0atuBrHsOJ",
+            "track_name": "Learn To Pray (Charles Webster Dub)"
+        },
+        {
+            "artist_id": "3KH7WsR2JZQ94Ik8SyabU6",
+            "artist_name": "Amadou & Mariam",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/aaf279ddfb466d60fda72ae1773af18ab23687ac",
+            "track_id": "6H0qoHwGIeTmZTJEP8dGLt",
+            "track_name": "Sabali - Miike Snow Remix"
+        },
+        {
+            "artist_id": "1cqfzXw4jL9AXgSE25K0c6",
+            "artist_name": "Pandr Eyez",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1UpdVYNbNxBVjnQbrqCobe",
+            "track_name": "Little Bit"
+        },
+        {
+            "artist_id": "4aulLg9UvpHY9dIRqr30Qh",
+            "artist_name": "Infinity Ink",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/522c48c248e4f14be86031cdfe743fb1446529fa",
+            "track_id": "68PDydciw4W2e16wCbr9tv",
+            "track_name": "Infinity"
+        },
+        {
+            "artist_id": "5f4pbLN8c7sqtnXwY6a63H",
+            "artist_name": "Wonderklubb",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/934de6c6aca2491fe11b74982fd220b76ba58651",
+            "track_id": "0uNMOWOkhmQZFFXXNmDFQA",
+            "track_name": "I'm in Love"
+        },
+        {
+            "artist_id": "1EULJuDFWpZ9xg4YwtUGGt",
+            "artist_name": "Daniel Avery",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/9847c1dd5e66168d279449dfcb5e6e334b725668",
+            "track_id": "5FDklRn5Q3yddYTRZbZDPY",
+            "track_name": "Drone Logic"
+        },
+        {
+            "artist_id": "0ZurilbRp6KwW6dpaw4pEK",
+            "artist_name": "Brodinski",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0EgTozctT5I7l6uSCXauCL",
+            "track_name": "Gimme Back the Night (feat. Theophilus London)"
+        },
+        {
+            "artist_id": "1EULJuDFWpZ9xg4YwtUGGt",
+            "artist_name": "Daniel Avery",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/420411df0467ac8e7ba63b03caeb9d3a0b908ee4",
+            "track_id": "41c7INeMvhQ9vc48Ff4jmR",
+            "track_name": "Drone Logic - Factory Floor / Gabe Gurnsey Remix"
+        },
+        {
+            "artist_id": "2f9PTWJfMMDTAFZcvHy1Z5",
+            "artist_name": "OVERWERK",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "4xOsZspnNSCDfaVxDF6db5",
+            "track_name": "Signal"
+        },
+        {
+            "artist_id": "60d24wfXkVzDSfLS6hyCjZ",
+            "artist_name": "Martin Garrix",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/f535b72bbcf367b864b3d2c81f3c0ea8b3b009df",
+            "track_id": "0hv6ku4431kPrjbpBBspw3",
+            "track_name": "Animals"
+        },
+        {
+            "artist_id": "4gwpcMTbLWtBUlOijbVpuu",
+            "artist_name": "Capital Cities",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2ec03ca3c9ca9359200bf3f26613b73f5234720",
+            "track_id": "68SMl4VcAJFsO9u2UFB0oH",
+            "track_name": "Safe And Sound - Monsieur Adi Remix"
+        },
+        {
+            "artist_id": "1gR0gsQYfi6joyO1dlp76N",
+            "artist_name": "Justice",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/600c318ebffe9d3fb5cd7bbdd83628caa752f10a",
+            "track_id": "5gGAGypPz7dszHuASzipQM",
+            "track_name": "New Lands - Sebastian Remix"
+        },
+        {
+            "artist_id": "066X20Nz7iquqkkCW6Jxy6",
+            "artist_name": "LCD Soundsystem",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "6ciUyTIabyzJkdeg24DrcN",
+            "track_name": "Tribulations"
+        },
+        {
+            "artist_id": "166Dz1GX3xonSQ3Z6CQW26",
+            "artist_name": "The Rapture",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/a77fc9675ce03813f9d47ba3a088c316e7bdd6e5",
+            "track_id": "7wg5h9uqPvRngy5WUQKlAs",
+            "track_name": "Echoes"
+        },
+        {
+            "artist_id": "6TshTCYwh9ySzOO6Jy4Ux2",
+            "artist_name": "Maya Jane Coles",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/85c807dd1b78c534060ed8bea92a26c9b27838c5",
+            "track_id": "3UW7fPyeAY9qCLiSe1AqLg",
+            "track_name": "No Stick"
+        },
+        {
+            "artist_id": "1lms1qIgUJeCL4ojl2B7kG",
+            "artist_name": "Tonefive",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e784cca7f47408dbf1e3d865908d835045ee154",
+            "track_id": "0AteKpy5raFkfurqfjncJD",
+            "track_name": "Phenomena - Original Mix"
+        },
+        {
+            "artist_id": "28j8lBWDdDSHSSt5oPlsX2",
+            "artist_name": "Zhu",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/c04d97733fc6508e95a2a0852a4e5b6a643cd00d",
+            "track_id": "2Fbfyv5wU3ude8ZaFP85Ta",
+            "track_name": "Stay Closer"
+        },
+        {
+            "artist_id": "4veIvBHKoUacjuoMOm3vsg",
+            "artist_name": "Ten Walls",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/32dbfe2ce75cf58a6673f4aed735e432f63d98af",
+            "track_id": "6wPMapHawG4uns1R3vHzUG",
+            "track_name": "Walking With Elephants"
+        },
+        {
+            "artist_id": "28j8lBWDdDSHSSt5oPlsX2",
+            "artist_name": "Zhu",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "5YJZJDjUMv4XCq0KR46YPC",
+            "track_name": "Faded"
+        },
+        {
+            "artist_id": "7jlMwr0xUcRO1xS6WjkkUT",
+            "artist_name": "One Bit",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/f20c8973fb52b7a383027c622435265b740b5287",
+            "track_id": "1bgMP0cOD6Kr6FoBaqhFUV",
+            "track_name": "Limitless"
+        },
+        {
+            "artist_id": "4w0sJs2KqoEWfHzitF3Er7",
+            "artist_name": "Cathleen Cher",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/41acf1f0933c8e44298bc3ddb2352ac8b0051908",
+            "track_id": "4MC64gqD8zTnZ3FUgxjBeL",
+            "track_name": "Heart Beat - Original Mix"
+        },
+        {
+            "artist_id": "22AhylBe42SLAannH7BOBx",
+            "artist_name": "TIAAN",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "09f65MwUCWxMkMLC5DUFLo",
+            "track_name": "Devils Touch - CANVAS Remix"
+        },
+        {
+            "artist_id": "2exkZbmNqMKnT8LRWuxWgy",
+            "artist_name": "Moderat",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/744c25b877b97508cd9992a266349c7263354994",
+            "track_id": "53dkS8M4NdZTUkn5DvB0vp",
+            "track_name": "Bad Kingdom - DJ Koze Remix"
+        },
+        {
+            "artist_id": "1jf3CssdtSksxNa3uIpPzS",
+            "artist_name": "Dntel",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/a81e4826b4adf407eedc9008ddba466e86632509",
+            "track_id": "1QWO7pD4It4ltLSZr1WEvJ",
+            "track_name": "Ashby"
+        },
+        {
+            "artist_id": "5zCGgAGz4jIAqCDJ4xDZpT",
+            "artist_name": "Saccao",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/53f8ea1bfab6540fa99079b33fdd5bda99a2c642",
+            "track_id": "1F3BSQEE3SMwynFwCCoEqT",
+            "track_name": "That Bitch - Vijay & Sofia Zlatko Remix"
+        },
+        {
+            "artist_id": "5LoctxpMh3qfgcTjbtdR39",
+            "artist_name": "Brolin",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbe9c2c59ea8ad4227f5f5a41941589c5d1b68f0",
+            "track_id": "0BcolQ32SfNNnK70cVwxsg",
+            "track_name": "Nightdriving"
+        },
+        {
+            "artist_id": "4EMtGVFvfCSrEmWaGV0roE",
+            "artist_name": "Theophilus London",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d6d99036966092e8a99418a88ecb30769512c87",
+            "track_id": "6hnUCXU3btmbdEzzD0AFUq",
+            "track_name": "Neu Law"
+        }
+    ]
+}

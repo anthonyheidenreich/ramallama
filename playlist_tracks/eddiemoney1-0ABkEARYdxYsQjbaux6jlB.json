@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/eddiemoney1/playlists/0ABkEARYdxYsQjbaux6jlB/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/111256313f35a8b2a3e1628a83504330b489f04f",
+            "track_id": "4QRZirU4s1f30iDHzuKncj",
+            "track_name": "Wake Me Up"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/3133110b57632137b3a587346343a3b122f108f1",
+            "track_id": "5UNSifwmQaJMCGYAxr91Mh",
+            "track_name": "Silhouettes - Syn Cole Creamfields Mix"
+        },
+        {
+            "artist_id": "6TQj5BFPooTa08A7pk8AQ1",
+            "artist_name": "Kaskade",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "2NtpkWD2REYmCDkcYP2bfF",
+            "track_name": "Room For Happiness - feat. Skylar Grey"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/25e4e8476ddef4dd384687f26a3922f417cc6983",
+            "track_id": "6csiA8EczbxAHDewDL7QQl",
+            "track_name": "The Way"
+        }
+    ]
+}

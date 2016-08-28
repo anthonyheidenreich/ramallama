@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1212199050/playlists/6nSHW4elBNK0Wk8sI7Ug9X/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0jJNGWrpjGIHUdTTJiIYeB",
+            "artist_name": "The Wallflowers",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cb9694953a74e3a8f0dbb685a1d62a7d4eeddec",
+            "track_id": "04zllSy1QxiamFFwB4KET8",
+            "track_name": "One Headlight"
+        },
+        {
+            "artist_id": "0zg9mF9dX2knvdTKnL22T1",
+            "artist_name": "Freestylers",
+            "popularity": 20,
+            "preview_url": null,
+            "track_id": "5OJ8hNTKYU2dCvdgnOarLU",
+            "track_name": "Cracks Feat. Belle Humble (Flux Pavilion Rmx)"
+        },
+        {
+            "artist_id": "5wBSmOVbIW7qAjwVfSKzvq",
+            "artist_name": "Somebody That I Used To Know",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4fb50524b37582322348d423cada92651334ded",
+            "track_id": "406chc5x8znJX9xBR98pZ8",
+            "track_name": "Somebody That I Used To Know"
+        },
+        {
+            "artist_id": "7gP3bB2nilZXLfPHJhMdvc",
+            "artist_name": "Foster The People",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/5773cb56fd97ec8c1e64b762c13fe5f30367a59c",
+            "track_id": "4HRa9ZWcmZ8JD7UySPu0wT",
+            "track_name": "Don't Stop (Color on the Walls)"
+        }
+    ]
+}

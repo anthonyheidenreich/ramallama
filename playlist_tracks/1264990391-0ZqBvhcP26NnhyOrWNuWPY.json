@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1264990391/playlists/0ZqBvhcP26NnhyOrWNuWPY/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2hJPr4lk7Q8SSvCVBl9fWM",
+            "artist_name": "Kip Moore",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/04e715b0caf49f476400d27ecfb9c2a291ff7854",
+            "track_id": "5xTfBHpJTpPk5Wk1RnEe3M",
+            "track_name": "Everything But You"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/32d169da21e105273db34a3378f47d4e6cfc49ce",
+            "track_id": "1jYhVwOj06aYm3QeXi3j0L",
+            "track_name": "Worth Dying For"
+        }
+    ]
+}

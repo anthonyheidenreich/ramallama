@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1227405034/playlists/5SPc605WveVQmwnaAHyrtl/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2Sqr0DXoaYABbjBo9HaMkM",
+            "artist_name": "Sara Bareilles",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2QI8cXQcc7NDWmPyNo29lq",
+            "track_name": "Undertow"
+        },
+        {
+            "artist_id": "1JdHoZwkwOmX2Pl2iTwnzc",
+            "artist_name": "Vishal Bhardwaj",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/0649944ad5a408a798b3d620f839d0ed7ae56a2b",
+            "track_id": "0riJEDFOIYrRKVNmiJgRfR",
+            "track_name": "Oye Boy Charlie"
+        },
+        {
+            "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "artist_name": "David Guetta",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f56664b9fc73728492211a99fa077429d3a5087",
+            "track_id": "4dTaAiV9xFFCxnPur9c9yL",
+            "track_name": "Memories (feat. Kid Cudi)"
+        }
+    ]
+}

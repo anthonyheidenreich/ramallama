@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1212199050/playlists/5nPEUOOUGnlqdxldb05Bpd/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "68kEuyFKyqrdQQLLsmiatm",
+            "artist_name": "Vince Staples",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/fcf6e7958a395eaf38938467fa2631c3d6c76550",
+            "track_id": "4uQ7wYsuL0DryknoDc11Hk",
+            "track_name": "Norf Norf"
+        },
+        {
+            "artist_id": "3qwxSif06Qwzykdln8ZGfG",
+            "artist_name": "Wax Tailor",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/de062d2907bf4798dcac25b21bc15663e3ce54e7",
+            "track_id": "61KHfpOOqUgSWpzfpufkzs",
+            "track_name": "Que Sera"
+        }
+    ]
+}

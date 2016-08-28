@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/40cQnDMLSooVyRPX6hP8cJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0LbLWjaweRbO4FDKYlbfNt",
+            "artist_name": "Kaiser Chiefs",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b088c5790a14f98fc2564847e37bc68c11f6e48",
+            "track_id": "2fAIfPLrPUTW1AmJRR428Q",
+            "track_name": "Ruby"
+        },
+        {
+            "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+            "artist_name": "The Kooks",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/40a9e01f0cdffa03975384dc7f62c12d607a97f3",
+            "track_id": "4rTrIN74pRB08LaqJ9Fsqs",
+            "track_name": "Shine On - Acoustic Version From Q101, Chicago"
+        },
+        {
+            "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+            "artist_name": "The Kooks",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/eba3b919a28dcd21886405f7b60c1e342b9acab3",
+            "track_id": "0yvpdnJR4OzK9R25lHGo5G",
+            "track_name": "Pumped Up Kicks - BBC Live Version"
+        },
+        {
+            "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+            "artist_name": "The Kooks",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/d72c0407c788fcbd4a94069fbfb60e623f89cd8e",
+            "track_id": "6jOqq1TS2Uw0lPmpQ083Uc",
+            "track_name": "Always Where I Need To Be - NRK P3 Acoustic Session"
+        },
+        {
+            "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+            "artist_name": "The Kooks",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/af3650712c03b24f9f7b06821351c95ddc7c8ae1",
+            "track_id": "3BVTM7RpS0zvz2MLBxB0H2",
+            "track_name": "Tick Of Time"
+        }
+    ]
+}

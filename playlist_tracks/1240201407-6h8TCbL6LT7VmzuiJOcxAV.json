@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1240201407/playlists/6h8TCbL6LT7VmzuiJOcxAV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2dDL0E2g6X3Mz7LFRDYw2K",
+            "artist_name": "African Tribal Orchestra",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/5de10caa28c741b0220340dd3822801e3fc3cda2",
+            "track_id": "4xRB2JdUeFOjVJqSK7we0W",
+            "track_name": "Mayo"
+        },
+        {
+            "artist_id": "2dDL0E2g6X3Mz7LFRDYw2K",
+            "artist_name": "African Tribal Orchestra",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/57f0db8c7d0a3ed073f9ff050330dddee8bf3456",
+            "track_id": "6Ftk90Fu4hKwWdON9XMHd4",
+            "track_name": "Gowgawg"
+        },
+        {
+            "artist_id": "2dDL0E2g6X3Mz7LFRDYw2K",
+            "artist_name": "African Tribal Orchestra",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/8b405f2eac31832b17f154ca922e2c891b01c3b1",
+            "track_id": "5kdD2sepksKHZWAUWxubE8",
+            "track_name": "Shakseti"
+        }
+    ]
+}

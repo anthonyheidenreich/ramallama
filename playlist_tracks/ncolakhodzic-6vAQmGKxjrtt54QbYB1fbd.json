@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/6vAQmGKxjrtt54QbYB1fbd/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/88d6e113a3747c49743683d48e1141bc821d36d8",
+            "track_id": "2XJIsmUaLybSTzTwCAh6Yk",
+            "track_name": "Stay Or Leave - Live At Wrigley Field"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/af8f7d8ad8823ccf76811141ee2a7b6bbd6e8c8d",
+            "track_id": "0XRDPGvwfRrPoJ6KWphbR4",
+            "track_name": "Crush"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/acd547cb5d76704d2b7dfc2cdcd6b270c95afe75",
+            "track_id": "1HL3yEnYq8LEyFQ3QegA5V",
+            "track_name": "Crash into Me"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/073c0ee376e0aca474d62ee4e183773240290c33",
+            "track_id": "1o2waYkqMs9q93uBOhrwAX",
+            "track_name": "#41"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d6bda3cfbdf13f9d72dee4e5dbcdcc9637fa0d2",
+            "track_id": "7rYMkUsGV9VxhDFTqiUFlb",
+            "track_name": "The Space Between"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbb7a702a15acf492b1de64df259c62473b63d25",
+            "track_id": "5fCxl609046LL8q6Ib5xaY",
+            "track_name": "Sweet"
+        }
+    ]
+}

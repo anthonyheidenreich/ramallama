@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/27YWCtmxH74MX44aT3Rn2N/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0KydPQPUUoTNhmiHKOg5Er",
+            "artist_name": "Neon Indian",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "4SZglz1iVHpSa8S5Za3eu1",
+            "track_name": "Polish Girl"
+        },
+        {
+            "artist_id": "56ZTgzPBDge0OvCGgMO3OY",
+            "artist_name": "Beach House",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/107212d6353af9bf83b7577703e58bae5e54abc3",
+            "track_id": "4oNXgGnumnu5oIXXyP8StH",
+            "track_name": "Walk in the Park"
+        },
+        {
+            "artist_id": "7K3zpFXBvPcvzhj7zlGJdO",
+            "artist_name": "Crystal Castles",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/475dc40ac6ff507e87d2a4ad5697937ffc7a785d",
+            "track_id": "10SYLtqP6Z9RG5otWbz4HK",
+            "track_name": "Untrust Us"
+        },
+        {
+            "artist_id": "5zS8r5hRRk1jzD41yYS1NO",
+            "artist_name": "Baths",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "6IKNeMqF1V1gmNkiZh1MmZ",
+            "track_name": "Aminals"
+        },
+        {
+            "artist_id": "6VDdCwrBM4qQaGxoAyxyJC",
+            "artist_name": "Cold War Kids",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/9593acaa364478d8c069f7b747cf6266c35fd6ab",
+            "track_id": "6RaWZSYg9WCB1bcoQSlvcv",
+            "track_name": "Hospital Beds"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/341ec04a8d560719804978f9663ed62be88ebebb",
+            "track_id": "0g1f0hZoOFWPKDjvw8oAIy",
+            "track_name": "Saul Bellow"
+        }
+    ]
+}

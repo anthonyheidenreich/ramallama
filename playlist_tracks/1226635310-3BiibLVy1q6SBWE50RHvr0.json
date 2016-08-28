@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226635310/playlists/3BiibLVy1q6SBWE50RHvr0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3BeQqzKdlARoOd6y30kCO2",
+            "artist_name": "Pete Rock",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/424f8a7a410f368b9160e96287cf2473f0614a41",
+            "track_id": "2LDT6MfJ0RhvzJhkjZsrSk",
+            "track_name": "Pete's Jazz"
+        },
+        {
+            "artist_id": "1AEcpjnSCmm53IBZQo3g9z",
+            "artist_name": "D\u00e2m-Funk",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/b91f7f789bbd876a32b0d7abc1d52f7d36d11e5d",
+            "track_id": "2ewWADfw38mrmvpwAySrje",
+            "track_name": "Night Stroll"
+        },
+        {
+            "artist_id": "3nmiIgeri4vEY7y0VpbsCn",
+            "artist_name": "DJ Jazzy Jeff",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/89e69e15d7d88985c339370aecb912878c19f767",
+            "track_id": "0MXfw3Cm6PBHFU5UuZnyua",
+            "track_name": "Come On feat. Dave Ghetto - Instrumental"
+        },
+        {
+            "artist_id": "0IVcLMMbm05VIjnzPkGCyp",
+            "artist_name": "J Dilla",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfebf580b7450f84c34e2fb8a21f9c6a8efa5762",
+            "track_id": "3R8CATui5dGU42Ddbc2ixE",
+            "track_name": "So Far To Go"
+        },
+        {
+            "artist_id": "1O3ZOjqFLEnbpZexcRjocn",
+            "artist_name": "RJD2",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d4fa30186fb8902145b6b77f209c953e78ce60a",
+            "track_id": "7aRJmzl622nk2qhnUxc1fV",
+            "track_name": "A Beautiful Mine"
+        },
+        {
+            "artist_id": "3XHO7cRUPCLOr6jwp8vsx5",
+            "artist_name": "alt-J",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac0387f53397dfcb82340f229b3a0415468c4a84",
+            "track_id": "5bp6twky1rHu72giADl7Mv",
+            "track_name": "Interlude 2"
+        },
+        {
+            "artist_id": "4YLtscXsxbVgi031ovDDdh",
+            "artist_name": "Chris Stapleton",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b587539574fc3f3264fa48f9f11bb1b0c5eabdc",
+            "track_id": "3fqwjXwUGN6vbzIwvyFMhx",
+            "track_name": "Tennessee Whiskey"
+        }
+    ]
+}

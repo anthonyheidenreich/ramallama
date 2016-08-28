@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/1210178120/playlists/5ORQkEIG7fgL69TN6WUkyG/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "35hvMJGbUtnKTj9GHvlR5d",
+            "track_name": "Bonfire"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "7FQQBmyJuIHLkkyw6J3vJD",
+            "track_name": "m.A.A.d city"
+        },
+        {
+            "artist_id": "67nwj3Y5sZQLl72VNUHEYE",
+            "artist_name": "Wale",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce594c771271e65058b883f8e406239ee67f2ad7",
+            "track_id": "1qTq2QIaaKOJcEu6BcBTbW",
+            "track_name": "Contemplate"
+        },
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/e7aa436cb0bf12d70df81a0128fc48525921b7e3",
+            "track_id": "2fPb58e6f8KxejYDCaARwS",
+            "track_name": "Say Something"
+        },
+        {
+            "artist_id": "0iOVhN3tnSvgDbcg25JoJb",
+            "artist_name": "Etta James",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba15579fb782400260dcba003cf96c18cb9da06a",
+            "track_id": "2OlDaPUuYqdCLQncM0LtBu",
+            "track_name": "I'd Rather Go Blind"
+        },
+        {
+            "artist_id": "7jmTilWYlKOuavFfmQAcu6",
+            "artist_name": "Barbra Streisand",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4f83004d527b75cde4c51aaec6ae17645d37348",
+            "track_id": "101tKsNj1azODLsJbZZNiM",
+            "track_name": "My Man"
+        },
+        {
+            "artist_id": "7nwUJBm0HE4ZxD3f5cy5ok",
+            "artist_name": "Aretha Franklin",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d698067f3214d7bafcbf454ce942d7b9a9858a9",
+            "track_id": "7s25THrKz86DM225dOYwnr",
+            "track_name": "Respect"
+        },
+        {
+            "artist_id": "6vWDO969PvNqNYHIOW5v0m",
+            "artist_name": "Beyonc\u00e9",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6a363d78937638e1049379398e38a5a95350f2b",
+            "track_id": "4qwT6ISA0clmfsFSTjd9Hb",
+            "track_name": "Why Don't You Love Me"
+        }
+    ]
+}

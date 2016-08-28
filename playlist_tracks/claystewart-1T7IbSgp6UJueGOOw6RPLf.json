@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/claystewart/playlists/1T7IbSgp6UJueGOOw6RPLf/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/f6bfaf529e98595da00e08d728768b720cfc16d2",
+            "track_id": "5eqZWYQ5tbIehx00NeKXz7",
+            "track_name": "The Robots - 2009 Remastered Version"
+        },
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae6e43fae74c17740cc2b145c18d5a8af1ee2b18",
+            "track_id": "48Q7pVDuBivnR5rdf6RGYT",
+            "track_name": "Spacelab - 2009 Remastered Version"
+        },
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba05e59ea1596e361186291cf65e592115c2dc94",
+            "track_id": "24G3gIRBrI94XfUyjc0pxI",
+            "track_name": "Metropolis - 2009 Remastered Version"
+        },
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f7452ca3193988a009e110d2d9ff2eb27da7d4a",
+            "track_id": "1FL9DHDSED6lxNMDJUJQvB",
+            "track_name": "The Model - 2009 Remastered Version"
+        },
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/28e1ebb22b2d5fb6188c3e845ffb53de6bb53502",
+            "track_id": "1krBKWusytTAT2jNWJGA7m",
+            "track_name": "Neon Lights - 2009 Remastered Version"
+        },
+        {
+            "artist_id": "0dmPX6ovclgOy8WWJaFEUU",
+            "artist_name": "Kraftwerk",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e687ff4fedcb4668cbd13371e6f606205c4fc22",
+            "track_id": "4rbt9xJMIYwjTyMUYSvEL2",
+            "track_name": "The Man Machine - 2009 Remastered Version"
+        }
+    ]
+}

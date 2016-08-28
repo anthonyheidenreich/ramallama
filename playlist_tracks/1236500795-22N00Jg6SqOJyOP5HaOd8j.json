@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1236500795/playlists/22N00Jg6SqOJyOP5HaOd8j/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+            "artist_name": "JoJo",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "1bYubJyLO1fCa6umTXpUeJ",
+            "track_name": "Leave Get Out"
+        },
+        {
+            "artist_id": "3KV3p5EY4AvKxOlhGHORLg",
+            "artist_name": "Jeremih",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/f510e5ffe46bc2a42091dcf47966dfe8f25f6e69",
+            "track_id": "596hhoTeno9d8kcwI4Td0Y",
+            "track_name": "Jumpin"
+        },
+        {
+            "artist_id": "0YWxKQj2Go9CGHCp77UOyy",
+            "artist_name": "Fabolous",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/189f2b480727ceee4656ee5e1924ee3a65007e2b",
+            "track_id": "5I6YA7oHtraxwWQzzCugDt",
+            "track_name": "You Be Killin Em"
+        }
+    ]
+}

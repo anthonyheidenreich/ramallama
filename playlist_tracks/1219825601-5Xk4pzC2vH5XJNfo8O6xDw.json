@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/5Xk4pzC2vH5XJNfo8O6xDw/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6TQj5BFPooTa08A7pk8AQ1",
+            "artist_name": "Kaskade",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/56c364296e8d91bb97b6712894a367e4a1bbd67a",
+            "track_id": "7x6z9pBKORkPS8y3kBeB81",
+            "track_name": "Gonna Make It"
+        },
+        {
+            "artist_id": "4tZwfgrHOc3mvqYlEYSvVi",
+            "artist_name": "Daft Punk",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/2dc001a8d4bb5666dfb8b5d544b73d3ec0e3a92a",
+            "track_id": "2cGxRwrMyEAp8dEbuZaVv6",
+            "track_name": "Instant Crush"
+        },
+        {
+            "artist_id": "3kVUvbeRdcrqQ3oHk5hPdx",
+            "artist_name": "Grouplove",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/2172ab3b946020e64a49c0141625777c9f80c9b9",
+            "track_id": "7Ik1qCkU5NIeBNFzoehjix",
+            "track_name": "Ways To Go"
+        }
+    ]
+}

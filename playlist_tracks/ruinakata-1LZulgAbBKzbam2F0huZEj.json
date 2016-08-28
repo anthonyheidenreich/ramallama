@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruinakata/playlists/1LZulgAbBKzbam2F0huZEj/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3KV3p5EY4AvKxOlhGHORLg",
+            "artist_name": "Jeremih",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/26e64cade1debdd3690f1ae5089428d31a124fd0",
+            "track_id": "0x3TibRgnSqzkcwrqBd4iX",
+            "track_name": "Down On Me"
+        },
+        {
+            "artist_id": "3KV3p5EY4AvKxOlhGHORLg",
+            "artist_name": "Jeremih",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/badcc1287eaf4053f3c04c54f439b0378f8997ce",
+            "track_id": "1QOxGqu6VTjx58nslWBFVW",
+            "track_name": "Imma Star (Everywhere We Are)"
+        },
+        {
+            "artist_id": "6PXS4YHDkKvl1wkIl4V8DL",
+            "artist_name": "Fetty Wap",
+            "popularity": 89,
+            "preview_url": "https://p.scdn.co/mp3-preview/62bf932cdc4d351174128d974397f5093de4f994",
+            "track_id": "2d8JP84HNLKhmd6IYOoupQ",
+            "track_name": "Trap Queen"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d28a1dea9296eac4c93bb45c6dce8bfcf96995a",
+            "track_id": "22L7bfCiAkJo5xGSQgmiIO",
+            "track_name": "All Of The Lights"
+        }
+    ]
+}

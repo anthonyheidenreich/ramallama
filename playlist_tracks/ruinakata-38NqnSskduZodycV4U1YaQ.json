@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruinakata/playlists/38NqnSskduZodycV4U1YaQ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6EkvDqOOEX08BotcQppKoD",
+            "artist_name": "Wolf Gang",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/95f0c7a91d3129b11b6be5b017ff27847336b0ee",
+            "track_id": "6rNrJ4VEfr9MhziYIHGRxM",
+            "track_name": "Midnight Dancers"
+        },
+        {
+            "artist_id": "6EkvDqOOEX08BotcQppKoD",
+            "artist_name": "Wolf Gang",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d34d65448131c398f97ba8d3944286603407c13",
+            "track_id": "3Ufbnur2EwjNQoVKyoX1ue",
+            "track_name": "Lions In Cages"
+        }
+    ]
+}

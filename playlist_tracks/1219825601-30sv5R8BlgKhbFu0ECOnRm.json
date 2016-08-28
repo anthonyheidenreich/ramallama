@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/30sv5R8BlgKhbFu0ECOnRm/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "56OMwqr8qaLIRH4ZrvvdXq",
+            "artist_name": "Dilated Peoples",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/15b5fbcb063f6a94d86399977b9821a672f71708",
+            "track_id": "7aSnPAggMMgElb6BgXeSEw",
+            "track_name": "Worst Comes To Worst"
+        },
+        {
+            "artist_id": "2GHclqNVjqGuiE5mA7BEoc",
+            "artist_name": "Common",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/276f5e69ab504e41e3a438e8c504c25a3802b80a",
+            "track_id": "2krGqhlbsTOOHN6RAzdnG0",
+            "track_name": "GO!"
+        },
+        {
+            "artist_id": "68E6CMer1rSr8pRizSZEEo",
+            "artist_name": "Public Enemy",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/d1b24b6b8891867f390e07ddb23bb660491df2ed",
+            "track_id": "5YpZh8wfS4moRBk0ijNcXr",
+            "track_name": "harder than you think"
+        },
+        {
+            "artist_id": "5cMgGlA1xGyeAB2ctYlRdZ",
+            "artist_name": "Gang Starr",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/d09bbe928cbf4c5cac94a8c10b3c94d60461d1cb",
+            "track_id": "0FzxHygj55RdtuNhmSyGe5",
+            "track_name": "Work"
+        },
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/27bf35b15b405f3dcc112d2f939bffe5efbc7509",
+            "track_id": "5sl2735QKaOmL8UL4Q39Ut",
+            "track_name": "Peso"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed0c4a831d9c9d3d89608bf63db3146e0861b952",
+            "track_id": "5ic68M3jaJTEUcEIh5PcqX",
+            "track_name": "Grown Up"
+        },
+        {
+            "artist_id": "7aA592KWirLsnfb5ulGWvU",
+            "artist_name": "Danny Brown",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f2234e4b049ca08837246f171e05932e71149b0",
+            "track_id": "22LoY7zNZWb7Acob4cvCwn",
+            "track_name": "Monopoly"
+        },
+        {
+            "artist_id": "7BMccF0hQFBpP6417k1OtQ",
+            "artist_name": "Action Bronson",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "1uEQxgDFc0GcLiVMPlNkDh",
+            "track_name": "Shiraz Produced By Action Bronson"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7y1GB13kJnitvpFbJct3hn",
+            "track_name": "Blessed (feat. Kendrick Lamar)"
+        }
+    ]
+}

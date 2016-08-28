@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/4xSBl0WybTRTlBvreD3Dv7/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0z9s3P5vCzKcUBSxgBDyLU",
+            "artist_name": "Jonny Greenwood",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5ca4296ffc37d7de538eee7eb4f5afe67665808",
+            "track_id": "6Vq4UZSEaU0vjqguXd5TMV",
+            "track_name": "Overtones"
+        },
+        {
+            "artist_id": "0aDq59Z2MJTahQmYIX3kBY",
+            "artist_name": "Austin Peralta",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/57cd171342007297d70df87c793c603b032bd366",
+            "track_id": "76dNn0YACjoHjhnQYSJ16u",
+            "track_name": "Lapis"
+        },
+        {
+            "artist_id": "0z9s3P5vCzKcUBSxgBDyLU",
+            "artist_name": "Jonny Greenwood",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/d83d94fb48c9106d2f06dd8e8cc111a467b9e393",
+            "track_id": "6YBi4P93p95BpV5EOwJ8z2",
+            "track_name": "Alethia"
+        },
+        {
+            "artist_id": "0aDq59Z2MJTahQmYIX3kBY",
+            "artist_name": "Austin Peralta",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/fdc74bac8c644a9445a45bfb1ea04d90e5721d66",
+            "track_id": "5mpA4BnixWecnfeJSxw5Uc",
+            "track_name": "Algiers"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Jon Brion",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Punch Drunk Melody"
+        }
+    ]
+}

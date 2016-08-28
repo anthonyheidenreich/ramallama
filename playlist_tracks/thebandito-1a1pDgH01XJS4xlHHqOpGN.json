@@ -1,0 +1,381 @@
+{
+    "href": "https://api.spotify.com/v1/users/thebandito/playlists/1a1pDgH01XJS4xlHHqOpGN/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6kACVPfCOnqzgfEF5ryl0x",
+            "artist_name": "Johnny Cash",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "19NKQh7UsGP0dazET759jN",
+            "track_name": "Folsom Prison Blues - Live"
+        },
+        {
+            "artist_id": "3z6Gk257P9jNcZbBXJNX5i",
+            "artist_name": "Regina Spektor",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/4552f4930dabe9f5bbca2431284f9a3c1168a9fb",
+            "track_id": "3hMeLjX7z3VCZVsJYJ9Ar8",
+            "track_name": "Hotel Song"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2091e602b5b8b9318b46f5fe092c65ea47c82347",
+            "track_id": "0mIllpvSLn6pEgBNTkCmKX",
+            "track_name": "This Love"
+        },
+        {
+            "artist_id": "7t0rwkOPGlDPEhaOcVtOt9",
+            "artist_name": "The Cranberries",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ad03fd0f6b3396b9aa08f94e8b0eb0455c40f47",
+            "track_id": "7EZC6E7UjZe63f1jRmkWxt",
+            "track_name": "Zombie"
+        },
+        {
+            "artist_id": "23OknxGcY1i5xX1TRPilMj",
+            "artist_name": "Grace Potter & The Nocturnals",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d94bd8ce24a7331adb4db756bb2eb74a54c5a02d",
+            "track_id": "5dWfWqFoEMM4DpPhLWOdTi",
+            "track_name": "Low Road"
+        },
+        {
+            "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+            "artist_name": "Ben L'Oncle Soul",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4OBRFItENMJHlP9HFJNnyr",
+            "track_name": "Seven Nation Army"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/e095acbeb166357526113b063775215df2bad509",
+            "track_id": "5v2kpxJJPVsxfY95tdq5rI",
+            "track_name": "Why Georgia"
+        },
+        {
+            "artist_id": "6UE7nl9mha6s8z0wFQFIZ2",
+            "artist_name": "Robyn",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf8eb3e595de46f95af8a03ac7ee213f66d4087f",
+            "track_id": "6SluaPiV04KOaRTOIScoff",
+            "track_name": "Show Me Love - Radio Version"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2091e602b5b8b9318b46f5fe092c65ea47c82347",
+            "track_id": "0mIllpvSLn6pEgBNTkCmKX",
+            "track_name": "This Love"
+        },
+        {
+            "artist_id": "4dpARuHxo51G3z768sgnrY",
+            "artist_name": "Adele",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/d808ccb1a59c5f21a14cf8da9974558f84366933",
+            "track_id": "4kflIGfjdZJW4ot2ioixTB",
+            "track_name": "Someone Like You"
+        },
+        {
+            "artist_id": "46CuxapoPjUfIOiXdNq7qM",
+            "artist_name": "Oh Land",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae7d79d309af0a22cc612f92d63aaaeae9fe4723",
+            "track_id": "7pe4BMS4P5NpJgMrHNchT1",
+            "track_name": "Sun of a Gun"
+        },
+        {
+            "artist_id": "2iE18Oxc8YSumAU232n4rW",
+            "artist_name": "The Jackson 5",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/9503603f0b9a1fb95343fb85ca97edc1650c52db",
+            "track_id": "3tSi6iFO9yLGIYIqMEgjC9",
+            "track_name": "I Want You Back"
+        },
+        {
+            "artist_id": "2AsusXITU8P25dlRNhcAbG",
+            "artist_name": "Gotye",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/9966639bc41a012f4ab638132bd041108fe70f4d",
+            "track_id": "4wCmqSrbyCgxEXROQE6vtV",
+            "track_name": "Somebody That I Used To Know"
+        },
+        {
+            "artist_id": "2vm8GdHyrJh2O2MfbQFYG0",
+            "artist_name": "Ingrid Michaelson",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/9914a2d458a4d0ad51e98d38eae921ccce2b5673",
+            "track_id": "4oeRfmp9XpKWym6YD1WvBP",
+            "track_name": "You and I"
+        },
+        {
+            "artist_id": "3kjuyTCjPG1WMFCiyc5IuB",
+            "artist_name": "Arcade Fire",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3fb185cb7731ab660bb0a7ff54162290c712365",
+            "track_id": "1F2Ca0Cfo7DcdieWlZEqzc",
+            "track_name": "Ready to Start"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/95cb9df1b056d759920b5e85ad7f9aff0a390671",
+            "track_id": "75JFxkI2RXiU7L9VXzMkle",
+            "track_name": "The Scientist"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "3kyxRga5wDGbKdmxXssbps",
+            "track_name": "I Will Wait"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cc11744771b0ce1fdd35be6597d7bb5aaeb1124",
+            "track_id": "5oN8jhMW8wceKridYGbcZV",
+            "track_name": "Running To Stand Still"
+        },
+        {
+            "artist_id": "5zzrJD2jXrE9dZ1AklRFcL",
+            "artist_name": "KT Tunstall",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/82bfb51e6bab1ce2fc2b555d094dbbdced8504ee",
+            "track_id": "37p48vBggEeZyO6JvT6VxI",
+            "track_name": "Stoppin' The Love"
+        },
+        {
+            "artist_id": "1O10apSOoAPjOu6UhUNmeI",
+            "artist_name": "SBTRKT",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/42582431e42f8dba1a3ec8da3a40fa5d300813d4",
+            "track_id": "2WMRd3xAb9FwXopCRNWDq1",
+            "track_name": "Wildfire (feat. Little Dragon)"
+        },
+        {
+            "artist_id": "1moxjboGR7GNWYIMWsRjgG",
+            "artist_name": "Florence + The Machine",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e3c4f3be867e97a7607b3a9f157b8cb94956099",
+            "track_id": "4lY95OMGb9WxP6IYut64ir",
+            "track_name": "Shake It Out"
+        },
+        {
+            "artist_id": "2dJTa3mUidZAO9sKcY72tK",
+            "artist_name": "Ben L'Oncle Soul",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4OBRFItENMJHlP9HFJNnyr",
+            "track_name": "Seven Nation Army"
+        },
+        {
+            "artist_id": "31TPClRtHm23RisEBtV3X7",
+            "artist_name": "Justin Timberlake",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e2f07ca487e1f5020547ee64f95662fca2a75ef",
+            "track_id": "7Lf7oSEVdzZqTA0kEDSlS5",
+            "track_name": "Cry Me a River"
+        },
+        {
+            "artist_id": "3hv9jJF3adDNsBSIQDqcjp",
+            "artist_name": "Mark Ronson",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fd8eeb82fcea00e792734c117f347d2e58f4767",
+            "track_id": "7DJI0fg4dzBJk31sEmn6Zk",
+            "track_name": "Valerie - Version Revisited"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1534bb0501ace67e45448317dd55d32ec036d01",
+            "track_id": "3arKRnq9OUd7yq6LRwVW8I",
+            "track_name": "Soul To Squeeze"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/274a4c5e44179a6dad69d2ede7fcaa34a069fa7d",
+            "track_id": "2MVwrvjmcdt4MsYYLCYMt8",
+            "track_name": "Tighten Up"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/3dfdfd7ad515713c4c2e97b84f3b8b9aa47196db",
+            "track_id": "3zqTlJtp7KTPrNUKNahvAo",
+            "track_name": "Where The Streets Have No Name"
+        },
+        {
+            "artist_id": "5nLYd9ST4Cnwy6NHaCxbj8",
+            "artist_name": "CeeLo Green",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1e7bf86637599864edcbe615ff0a44ce49b92d3",
+            "track_id": "1SqyIN1eov3llhQWxtOect",
+            "track_name": "No One's Gonna Love You"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cc11744771b0ce1fdd35be6597d7bb5aaeb1124",
+            "track_id": "5oN8jhMW8wceKridYGbcZV",
+            "track_name": "Running To Stand Still"
+        },
+        {
+            "artist_id": "3YcBF2ttyueytpXtEzn1Za",
+            "artist_name": "Incubus",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "4IyDlKobNAzDkl6USG7rO2",
+            "track_name": "Drive"
+        },
+        {
+            "artist_id": "3YcBF2ttyueytpXtEzn1Za",
+            "artist_name": "Incubus",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e35965ee9795c55197718c74b79eea1ec58c686",
+            "track_id": "2Yzw1oQwuCJDglARieFOEY",
+            "track_name": "Drive - acoustic"
+        },
+        {
+            "artist_id": "5zzrJD2jXrE9dZ1AklRFcL",
+            "artist_name": "KT Tunstall",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/82bfb51e6bab1ce2fc2b555d094dbbdced8504ee",
+            "track_id": "37p48vBggEeZyO6JvT6VxI",
+            "track_name": "Stoppin' The Love"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/aecb1250f230fadde23630a8c1bc1cfeb1cf688a",
+            "track_id": "2LTl1pU074hnzAdy0SpHAb",
+            "track_name": "The Scientist"
+        },
+        {
+            "artist_id": "5Tf4EH8tDvznnjULcFxkIl",
+            "artist_name": "Alex Clare",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/f211b47845ce4899d5de355c9ad0d7bf7e9a5a88",
+            "track_id": "4sK96UnGx3NjBaqvfTG2dm",
+            "track_name": "Too Close"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef363d0f646c19e589cf2bc29f3d4f9075e7a355",
+            "track_id": "2Rvhjn78vg0rnuBHCdtz9P",
+            "track_name": "Why Georgia - Live at the Nokia Theatre"
+        },
+        {
+            "artist_id": "319yZVtYM9MBGqmSQnMyY6",
+            "artist_name": "Carole King",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "3yylO3r9fnCt2tLSlPQcOb",
+            "track_name": "Home Again"
+        },
+        {
+            "artist_id": "5Y5TRrQiqgUO4S36tzjIRZ",
+            "artist_name": "Timbaland",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c21a31040b9c0c5aa95008c8ac97b0849147eff",
+            "track_id": "6ucR4KfvsBFWCMVFDvyKKl",
+            "track_name": "Apologize"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7f2c67c665ec09fdc4eaec5399552b9d678038a",
+            "track_id": "7i9bu8l7zFppFNxPZVpsQ6",
+            "track_name": "MLK - Remastered"
+        },
+        {
+            "artist_id": "2TI7qyDE0QfyOlnbtfDo7L",
+            "artist_name": "Dave Matthews Band",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "1KPsT23uJJD4YpVN0D0p5p",
+            "track_name": "Lover Lay Down"
+        },
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/3be25f14812ac02efe0911b392ef02ae64df27f7",
+            "track_id": "6wLr2oR8eqUG5Beleh2Crm",
+            "track_name": "You Can Call Me Al"
+        },
+        {
+            "artist_id": "3z6Gk257P9jNcZbBXJNX5i",
+            "artist_name": "Regina Spektor",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/e51020ecd00da4f4c5d61de44874ff8666ce1904",
+            "track_id": "2bbhyUWJ5VjdfI3P4PRLu2",
+            "track_name": "Samson"
+        },
+        {
+            "artist_id": "5wbIWUzTPuTxTyG6ouQKqz",
+            "artist_name": "Phish",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/878f3f2ad98ffa9e08b457cf5a4980405ca0b151",
+            "track_id": "4TzRhTMnNh4L3oUqBaXFh9",
+            "track_name": "Bouncing Around the Room"
+        },
+        {
+            "artist_id": "5wbIWUzTPuTxTyG6ouQKqz",
+            "artist_name": "Phish",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/667362f1b8f3f0911ee01a39b3ae9794f1b48ecd",
+            "track_id": "4wcYKHGEzhJRjMFezccIT9",
+            "track_name": "Bouncing Around The Room"
+        },
+        {
+            "artist_id": "23OknxGcY1i5xX1TRPilMj",
+            "artist_name": "Grace Potter & The Nocturnals",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d94bd8ce24a7331adb4db756bb2eb74a54c5a02d",
+            "track_id": "5dWfWqFoEMM4DpPhLWOdTi",
+            "track_name": "Low Road"
+        },
+        {
+            "artist_id": "7sJ9LR0mCMgFlzJ6Y9xP64",
+            "artist_name": "Ben Harper And The Innocent Criminals",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/29502c7c13071d27323c4bace111401094ab22ee",
+            "track_id": "4cIwg5VY8Lo1NYwq7llOth",
+            "track_name": "Steal My Kisses"
+        },
+        {
+            "artist_id": "1l7ZsJRRS8wlW3WfJfPfNS",
+            "artist_name": "Christina Aguilera",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c9ad69c04cfe7e27ce24c9c22784285f025b551",
+            "track_id": "3TCauNPqFiniaYHBvEVoHG",
+            "track_name": "Beautiful"
+        },
+        {
+            "artist_id": "5eyMzR1hYiEZtN2c9ly2kw",
+            "artist_name": "Matisyahu",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc83c2264ed1f8fb9f5be07f00ce56c8f104e6fe",
+            "track_id": "0nCZDQrlWA149QdGTdlsFU",
+            "track_name": "One Day - New Album Version"
+        }
+    ]
+}

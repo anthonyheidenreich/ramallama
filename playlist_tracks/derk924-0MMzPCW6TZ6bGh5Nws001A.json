@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/derk924/playlists/0MMzPCW6TZ6bGh5Nws001A/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0IlQRCafsMrd0QkTRBU6n0",
+            "artist_name": "Surfer Blood",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "3HrwyrI4b8yUeSMu7Ap8vg",
+            "track_name": "Floating Vibes"
+        },
+        {
+            "artist_id": "6KZDXtSj0SzGOV705nNeh3",
+            "artist_name": "Kid Ink",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/43da31fff81fa4c885d2b625a578d92d66f5a048",
+            "track_id": "2aYzt5nE3tBUMahasMUoOl",
+            "track_name": "Be Real"
+        }
+    ]
+}

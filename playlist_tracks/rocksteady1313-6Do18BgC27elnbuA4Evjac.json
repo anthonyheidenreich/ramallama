@@ -1,0 +1,389 @@
+{
+    "href": "https://api.spotify.com/v1/users/rocksteady1313/playlists/6Do18BgC27elnbuA4Evjac/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3aQeKQSyrW4qWr35idm0cy",
+            "artist_name": "T-Pain",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e66d13d4e20b7009bbdb6238ce39564fd533923",
+            "track_id": "1uH1Nd8vet2uoZSDFSDwbh",
+            "track_name": "Up Down (Do This All Day)"
+        },
+        {
+            "artist_id": "6KZDXtSj0SzGOV705nNeh3",
+            "artist_name": "Kid Ink",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ebff6d55746451f587fd986d96fbe2c3fd92fb9",
+            "track_id": "45GtRWedzDAzG55MPosniU",
+            "track_name": "Show Me"
+        },
+        {
+            "artist_id": "2ht3wxeT69CzyKFChNnNAB",
+            "artist_name": "Big Boi",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa1d52f0d43456af75ce549ba40485590fb99cbb",
+            "track_id": "4mVr1RaWOZb3hpYHv2651y",
+            "track_name": "Fo Yo Sorrows"
+        },
+        {
+            "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+            "artist_name": "Chris Brown",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ac244e2bf65c6f8ec7519a529faca218eb5ed22",
+            "track_id": "5xGIqIiGr1do6RRpIviwGG",
+            "track_name": "Love More"
+        },
+        {
+            "artist_id": "7bXgB6jMjp9ATFy66eO08Z",
+            "artist_name": "Chris Brown",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d5de865f0340078556f8ce3925a232f6577cef0",
+            "track_id": "7EKTo6rVJ3XSS7QTd6ep2j",
+            "track_name": "Look At Me Now"
+        },
+        {
+            "artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "artist_name": "Busta Rhymes",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/800554e3fb6c92da9e142f681fb65f7dd46a855a",
+            "track_id": "0svl7cK07gK1ia5ainczU5",
+            "track_name": "Break Ya Neck"
+        },
+        {
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "artist_name": "Lil Wayne",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a68ff02efaf0b6de1f464d14fccdc97202d93351",
+            "track_id": "4lWJjtWbDDALpK9tVG8Dho",
+            "track_name": "Love Me"
+        },
+        {
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "artist_name": "Lil Wayne",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/94d08350df748b87fe42747919d44b22fa6e75a3",
+            "track_id": "0z5ZPs57J2KERwM1tBM2GF",
+            "track_name": "6 Foot 7 Foot"
+        },
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/4497006cd2977fa38a94823b85b89c9348cf862b",
+            "track_id": "5bUwUQKGNnTE20kb3MTqHD",
+            "track_name": "Under Ground Kings"
+        },
+        {
+            "artist_id": "4OBJLual30L7gRl5UkeRcT",
+            "artist_name": "T.I.",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/dcee964c9784d2393e7f3e395c5598024d200911",
+            "track_id": "2FrBHYuuMOAQlGiyWtndMg",
+            "track_name": "Ball - feat. Lil Wayne"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Busta Rhymes",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Why Stop Now Feat. Chris Brown"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4c616ccfce9d4627b7bc78235ba6fc64b042116",
+            "track_id": "1ulAlG3x3jWtCCK2SI4qyL",
+            "track_name": "Lose Control (feat. Ciara & Fat Man Scoop)"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/7fae13f01ac3dae5cb6dc419ceedf84a65f3f3ea",
+            "track_id": "75DjPjiIp2fvJDjtt41Jfs",
+            "track_name": "Gossip Folks (feat. Ludacris)"
+        },
+        {
+            "artist_id": "7hJcb9fa4alzcOq3EaNPoG",
+            "artist_name": "Snoop Dogg",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/0850ae6fcfede7522aac25871cb4c315cda140a8",
+            "track_id": "2NBQmPrOEEjA8VbeWOQGxO",
+            "track_name": "Drop It Like It's Hot"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/af0a66cd7d8ad1d89b9c8adb708aa36c0cecf3d3",
+            "track_id": "72gGeQ0dZ7E8RlBeNJNJkb",
+            "track_name": "The Monster"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/55cc8b3138a053364de050e06855de76b1189102",
+            "track_id": "4xkOaSrkexMciUUogZKVTS",
+            "track_name": "'Till I Collapse"
+        },
+        {
+            "artist_id": "6KZDXtSj0SzGOV705nNeh3",
+            "artist_name": "Kid Ink",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae67fbf7876f55b25987347bbae5b9278035079f",
+            "track_id": "0VTOyiDVBinWI4NPvwW7Fd",
+            "track_name": "Bossin' Up"
+        },
+        {
+            "artist_id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "artist_name": "Pusha T",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/06df9e275ffc51f6dad12a7d5c74767cb7db683f",
+            "track_id": "5qmZ34T5FJgLTiYA586MA5",
+            "track_name": "Hold On"
+        },
+        {
+            "artist_id": "0eei6RYtBwfslr0PVV0XOo",
+            "artist_name": "Dana Coppafeel",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/2563cb98b5e3caeddf9c5925a7df4ee8953ca880",
+            "track_id": "2oZn685UDdiGqQLlQ5a3sA",
+            "track_name": "Money Off The Tilt"
+        },
+        {
+            "artist_id": "0c173mlxpT3dSFRgMO8XPh",
+            "artist_name": "Big Sean",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9bc6d98c2efa8f93fa79c740121a1fd845e183a",
+            "track_id": "40XYVhxWCrpvwfTo2hZoER",
+            "track_name": "You Don't Know"
+        },
+        {
+            "artist_id": "1SlPJ2l80sMnCHpz1wB8nT",
+            "artist_name": "Blue Scholars",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb5dedd790bc31884d2637e30a6a7c9296e32e96",
+            "track_id": "7MvhTLaPfX8Bzj4AF8Zu8F",
+            "track_name": "Slick Watts"
+        },
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e5bc5f51c943e2910b8537c94e5b968f67b8ad8",
+            "track_id": "0a8uknDuoiWLuACnaLPlgr",
+            "track_name": "Faded"
+        },
+        {
+            "artist_id": "5yG7ZAZafVaAlMTeBybKAL",
+            "artist_name": "Iggy Azalea",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/0db7a9d2dab1760a70d8599313df56bbd7fa0595",
+            "track_id": "6wQ23fXXzURmj0tDgoKAUC",
+            "track_name": "My World"
+        },
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/60fc0531718e2b2715a8049a194c445c69048cee",
+            "track_id": "4go2hxLM6ijk0K76ZY0Nhd",
+            "track_name": "Goldie"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "5azeng4J5zhIjXmqRag2qQ",
+            "track_name": "Hands On the Wheel (feat. a$Ap Rocky)"
+        },
+        {
+            "artist_id": "0QHgL1lAIqAw0HtD7YldmP",
+            "artist_name": "DJ Khaled",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/91b6737f1e23d9a491f4f1991138d00c2b95e55a",
+            "track_id": "74OqjT3PMVWlZAyqUt4FgG",
+            "track_name": "We Takin' Over"
+        },
+        {
+            "artist_id": "25fqWEebq6PoiGQIHIrdtv",
+            "artist_name": "Baauer",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/943aeeaac83a3986b43f47a40c97f709386c14c9",
+            "track_id": "6mOex0b8muOcZDTBAwKBXn",
+            "track_name": "Dum Dum"
+        },
+        {
+            "artist_id": "55Aa2cqylxrFIXC767Z865",
+            "artist_name": "Lil Wayne",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e0050ae08a7030f58a61d570f576485603f9208",
+            "track_id": "46lIt6GmL0VkkbuUyGDbCs",
+            "track_name": "Got Money"
+        },
+        {
+            "artist_id": "1YfEcTuGvBQ8xSD1f53UnK",
+            "artist_name": "Busta Rhymes",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/7427b5c69a1d09a4f39cd4b62ccd814f59df4d1a",
+            "track_id": "3HVJbdz0V402U5YggQK4Ao",
+            "track_name": "Touch It - Album Version/Vocal Up"
+        },
+        {
+            "artist_id": "6ZhjJOJXXwnPS8PrXdmjLw",
+            "artist_name": "UGK",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/d14d6c5c7fc4f2a0a79a667d836fffa457588972",
+            "track_id": "2u366MxV9HaoVl5KEuGMEO",
+            "track_name": "Int'l Players Anthem (I Choose You) - Main Version - Clean"
+        },
+        {
+            "artist_id": "2iojnBLj0qIMiKPvVhLnsH",
+            "artist_name": "Trey Songz",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/68cc84155215d5bfa06cbbf9ac6e73a23203843d",
+            "track_id": "4F9ugjLElOmZgRMXAFZvwW",
+            "track_name": "2 Reasons (feat. T.I.)"
+        },
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd83b96f302ecee6f71efc182ad0bdfa1699efec",
+            "track_id": "6ycaeJRyCc1Wh1OU9wGMA0",
+            "track_name": "Molly"
+        },
+        {
+            "artist_id": "02kJSzxNuaWGqwubyUba0Z",
+            "artist_name": "G-Eazy",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ec3b68466ff5381645fcae79ce58e262011fc03",
+            "track_id": "6uz0z5oMeC8QWfTHeR5qlF",
+            "track_name": "Loaded (Bonus Track) [feat. DJ Carnage]"
+        },
+        {
+            "artist_id": "02kJSzxNuaWGqwubyUba0Z",
+            "artist_name": "G-Eazy",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1otBUT31ERgPuFhbBJCwXQ",
+            "track_name": "Gotta Go"
+        },
+        {
+            "artist_id": "0p1CrPBclXVis7VD4gtFri",
+            "artist_name": "Ground Up",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/e16929d504647bdc1b0a25407f3cc0e27c38fd65",
+            "track_id": "5V1zjB8nw53VZcDVSPeUj6",
+            "track_name": "Breakfast (feat. G-Eazy)"
+        },
+        {
+            "artist_id": "6d47Z08T4snK50HgTEHo5Z",
+            "artist_name": "Sage The Gemini",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/725b79a1cbb485d722626f32d4d33385411880a9",
+            "track_id": "0Nf3vtVBfiayZL7c8r4KBO",
+            "track_name": "Gas Pedal"
+        },
+        {
+            "artist_id": "5eIbEEQnDM8yuDVB0bimSP",
+            "artist_name": "RL Grime",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "1guO4qMwDDEaS2spZOsQQc",
+            "track_name": "Heard Me"
+        },
+        {
+            "artist_id": "5ndkK3dpZLKtBklKjxNQwT",
+            "artist_name": "B.o.B",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/e59a9fbc49cd7f9958719be3eb0f7fd423b3810c",
+            "track_id": "6gf1xlPETW9CwjsdnUzW3g",
+            "track_name": "HeadBand (feat. 2 Chainz)"
+        },
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a8003e91cd6de5c1c272caff04fef401005dc6c",
+            "track_id": "60geMByGdlcGGMR5R5ZjHE",
+            "track_name": "I'm Goin In"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ddf0a53994090f60aa7ec11acf5acc503a529fc",
+            "track_id": "3bMNprrp2JDKZsGbiXpsJl",
+            "track_name": "My Chick Bad"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/7739681092f0013f10ad9dd8dcf935b04f96f230",
+            "track_id": "4SyadrABZJIjeND1HPJS31",
+            "track_name": "Rollout (My Business)"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "1vHC51rey9PU9QhjWwemEw",
+            "track_name": "On To The Next One [Jay-Z + Swizz Beatz]"
+        },
+        {
+            "artist_id": "6vXTefBL93Dj5IqAWq6OTv",
+            "artist_name": "French Montana",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/91eb57c87a1e83f4902c4f2051bc5e4ee8e4afb8",
+            "track_id": "0nFW4IQ0LMzLnfazumHHHy",
+            "track_name": "Ain't Worried About Nothin - Remix"
+        },
+        {
+            "artist_id": "5Ce5C9NmxQraJA8zgGWJtu",
+            "artist_name": "Swizzymack",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e47bc21e9879a1996ea47800541d37df2057dac",
+            "track_id": "4FaUcuoZT35I3CUVgCiXRf",
+            "track_name": "Drip"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "FiTZ",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "DumDum Came Down"
+        },
+        {
+            "artist_id": "43tAs3kRWvyu1B7eZOv2pp",
+            "artist_name": "heRobust",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "12VfzBDv3ikYYTnGm6igpt",
+            "track_name": "Sheknowshebad"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/5dd70e556fbfbb3cfc6586512d8f3e42aaee4d01",
+            "track_id": "3njpLvANriMsdv3dgADEad",
+            "track_name": "Get Back"
+        },
+        {
+            "artist_id": "6KZDXtSj0SzGOV705nNeh3",
+            "artist_name": "Kid Ink",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/50e680a75a43eff560e4159339cd59aacff90de9",
+            "track_id": "38VErEiTizjEE6BjsmroFx",
+            "track_name": "Body Language"
+        }
+    ]
+}

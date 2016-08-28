@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/122815469/playlists/0Ix7vTqg1StLaV7v6lCnl4/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3dz0NnIZhtKKeXZxLOxCam",
+            "artist_name": "Porter Robinson",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ba5e0fa407c0c51b8274bfaa6fd6eda0fee6ef8",
+            "track_id": "18cCBvygH6yEFDY0cYN3wT",
+            "track_name": "Divinity"
+        },
+        {
+            "artist_id": "7aFTOGFDEqDtJUCziLVsVC",
+            "artist_name": "NAO",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e06ccfc1d3395914602ad33c6c0021362a60633d",
+            "track_id": "6JlepCW9oneBMysnhtjVUR",
+            "track_name": "Zillionaire"
+        },
+        {
+            "artist_id": "1gR0gsQYfi6joyO1dlp76N",
+            "artist_name": "Justice",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ccf0fc928bf7ba974449879feea6d6061f59520",
+            "track_id": "3F412bLncKAopQlhpAJBrX",
+            "track_name": "Genesis"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/26e4f25bfc745d1e07e734f1c94baa0a8969582b",
+            "track_id": "0jG92AlXau21qgCQRxGLic",
+            "track_name": "One Minute Man (feat. Ludacris)"
+        },
+        {
+            "artist_id": "1r4hJ1h58CWwUQe3MxPuau",
+            "artist_name": "Maluma",
+            "popularity": 62,
+            "preview_url": null,
+            "track_id": "2ocDZVhBiGCaaZRNW3fmSd",
+            "track_name": "Borro Cassette"
+        },
+        {
+            "artist_id": "4frXpPxQQZwbCu3eTGnZEw",
+            "artist_name": "Thundercat",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/17c1041986b25f3c00966c9d9c91c296772e6503",
+            "track_id": "7hmiDaBxoyLW094H8vup2S",
+            "track_name": "Them Changes (feat. Flying Lotus & Kamasi Washington)"
+        }
+    ]
+}
