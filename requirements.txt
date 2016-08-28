@@ -1,10 +1,4 @@
-Django==1.10
-djangorestframework==3.4.5
-flake8==3.0.4
-mccabe==0.5.2
-Paver==1.2.4
-pycodestyle==2.0.0
-pyflakes==1.2.3
+dj-database-url==0.4.1
 Django==1.10
 djangorestframework==3.4.5
 flake8==3.0.4

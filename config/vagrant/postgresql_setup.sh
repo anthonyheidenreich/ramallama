@@ -4,6 +4,7 @@ echo "=== Begin Vagrant Provisioning using 'config/vagrant/postgresql_setup.sh'"
 
 # Edit the following to change the name of the database user that will be created:
 APP_DB_USER=vagrant
+APP_DB_PASS=$APP_DB_USER
 
 # Edit the following to change the name of the database that is created (defaults to the user name)
 APP_DB_NAME=ramallama
@@ -15,11 +16,12 @@ PG_VERSION=9.4
 # Changes below this line are probably not necessary
 ###########################################################
 print_db_usage () {
-  echo "Your PostgreSQL database has been setup and can be accessed on your local machine on the forwarded port (default: 15432)"
+  echo "Your PostgreSQL database has been setup and can be accessed on your local machine on the forwarded port (default: 5432)"
   echo "  Host: localhost"
-  echo "  Port: 15432"
+  echo "  Port: 5432"
   echo "  Database: $APP_DB_NAME"
   echo "  Username: $APP_DB_USER"
+  echo "  Password: $APP_DB_PASS"
   echo ""
   echo "Admin access to postgres user via VM:"
   echo "  vagrant ssh"
@@ -28,13 +30,13 @@ print_db_usage () {
   echo "psql access to app database user via VM:"
   echo "  vagrant ssh"
   echo "  sudo su - postgres"
-  echo "  PGUSER=$APP_DB_USER  psql -h localhost $APP_DB_NAME"
+  echo "  PGUSER=$APP_DB_USER PGPASSWORD=$APP_DB_PASS psql -h localhost $APP_DB_NAME"
   echo ""
   echo "Env variable for application development:"
-  echo "  DATABASE_URL=postgresql://$APP_DB_USER@localhost:15432/$APP_DB_NAME"
+  echo "  DATABASE_URL=postgresql://$APP_DB_USER:$APP_DB_PASS@localhost:5432/$APP_DB_NAME"
   echo ""
   echo "Local command to access the database via psql:"
-  echo "  PGUSER=$APP_DB_USER psql -h localhost -p 15432 $APP_DB_NAME"
+  echo "  PGUSER=$APP_DB_USER PGPASSWORD=$APP_DB_PASS psql -h localhost -p 5432 $APP_DB_NAME"
 }
 
 export DEBIAN_FRONTEND=noninteractive
@@ -82,10 +84,9 @@ echo "client_encoding = utf8" >> "$PG_CONF"
 # Restart so that all new config is loaded:
 service postgresql restart
 
-echo "su - postgres; createuser --createdb --login --no-password $APP_DB_USER"
-cat << EOF | su - postgres
-# Create the user:
-createuser --createdb --login --no-password $APP_DB_USER
+cat << EOF | su - postgres -c psql
+-- Create the database user:
+CREATE USER $APP_DB_USER PASSWORD '$APP_DB_PASS' CREATEDB;
 EOF
 
 cat << EOF | su - postgres -c psql
@@ -96,6 +97,8 @@ CREATE DATABASE $APP_DB_NAME WITH OWNER=$APP_DB_USER
                                   ENCODING='UTF8'
                                   TEMPLATE=template0;
 EOF
+
+echo "DATABASE_URL=postgresql://$APP_DB_USER:$APP_DB_PASS@localhost:5432/$APP_DB_NAME" >> /etc/environment
 
 # Tag the provision time:
 date > "$PROVISIONED_ON"

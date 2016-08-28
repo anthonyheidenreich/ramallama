@@ -8,13 +8,13 @@ venv = os.environ['VENV']
 @task
 @virtualenv(dir=venv)
 def makemigration():
-    print('python ramallama/manage.py makemmigrations')
+    sh('python ramallama/manage.py makemmigrations')
 
 
 @task
 @virtualenv(dir=venv)
 def migrate():
-    print('python ramallama/manage.py migrate')
+    sh('python ramallama/manage.py migrate')
 
 
 @task
