@@ -1,0 +1,477 @@
+{
+    "href": "https://api.spotify.com/v1/users/1258925414/playlists/5i49ZgH6ytgGeQhNLmuela/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7uPxnKSyVSuLEUrSHUqtP0",
+            "artist_name": "Todd Rollins & His Orchestra",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/0da87e31c689075e14820222d5483593fc665c5b",
+            "track_id": "5GlyN3QMdit3fmVhiyyW5t",
+            "track_name": "The Boogie Man"
+        },
+        {
+            "artist_id": "4nZN9kln8toEzOifhWG2uF",
+            "artist_name": "Patti Page",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/6aacd9f652e6a75d201bbfa432f1fa0c392fc53d",
+            "track_id": "1mMSH14XSSjzLvNuf62azx",
+            "track_name": "(How Much Is) That Doggie In The Window"
+        },
+        {
+            "artist_id": "0qsb6mnN5e7ut4axY4wofX",
+            "artist_name": "Noel Coward",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/99deba020ee0d94ae4f307f1810554b2f59c4786",
+            "track_id": "5vaI0Vb7josOpHOFNdLLR5",
+            "track_name": "20th Century Blues"
+        },
+        {
+            "artist_id": "5SI9cSi1tWCRBtIBso3MPa",
+            "artist_name": "Artie Shaw And His New Music",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/e5026f9b68e60072e5563af420ecb6ff76de06c7",
+            "track_id": "7HNJvdLG1X542jQMHOyz7G",
+            "track_name": "Nightmare"
+        },
+        {
+            "artist_id": "2NH5zRbA36q4uznwcJ8yDk",
+            "artist_name": "Annette Hanshaw",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d016eda439d3557dc674d71d1bbd4c5e6676a68b",
+            "track_id": "3Tr4rNbK1hSMS9hlKwgy1l",
+            "track_name": "Daddy, Won't You Please Come Home?"
+        },
+        {
+            "artist_id": "23NUp4EWSmMANtTosuwrGS",
+            "artist_name": "Kay Kyser & His Orchestra",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/b81d48282394f52268dc7fa7a100605835e4a102",
+            "track_id": "7wlkvrgk3QNzv5qE0jT9Gm",
+            "track_name": "Praise the Lord and Pass the Ammunition"
+        },
+        {
+            "artist_id": "6PSwMC5q537qXR3Hj2RABg",
+            "artist_name": "Horace Heidt And His Musical Knights",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/b05a75f14c4dc23975f95157d8185b52139a0b4e",
+            "track_id": "7m6jPENkDqWfftM1PBnAdb",
+            "track_name": "Dawn of a New Day (Song of the World's Fair)"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/a25fd37f6575c95791a9b0210e7e8afdedec9f71",
+            "track_id": "3ZAm45fPHimwtpIG3YQXab",
+            "track_name": "Night and Day - Take 1"
+        },
+        {
+            "artist_id": "50oLNc8Bq2NmKzqTKiyLHd",
+            "artist_name": "Eddy Duchin & His Orchestra",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/787f8b3b9b7bdd510969e6a418b259862c2485a6",
+            "track_id": "1gFaPrfob6FXz8zFSEMavH",
+            "track_name": "My Heart Belongs To Daddy"
+        },
+        {
+            "artist_id": "5Z1XZyEFY0dewG8faEIiEx",
+            "artist_name": "Django Reinhardt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3a786fd96740d39724f1dc4a5a447a7685ea2ca",
+            "track_id": "6oM4MacpuZJH6VUhIQfy3L",
+            "track_name": "Chasing Shadows"
+        },
+        {
+            "artist_id": "4AhdPLjnpvCw7oh1tB9AoT",
+            "artist_name": "Connie Boswell",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/612002f94359d37c36befc1516f16f08a603c400",
+            "track_id": "4S2aBgvlB9Bi9iRobA27T5",
+            "track_name": "I Cover The Waterfront"
+        },
+        {
+            "artist_id": "508ItuzNHwMHd2Z9Lh1LFl",
+            "artist_name": "Jane Russell",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "4h7g2ivJfiLIishdgnC6WF",
+            "track_name": "Give Me That Old Time Religion"
+        },
+        {
+            "artist_id": "49rIehT663IKJuA3c16OkI",
+            "artist_name": "Ruth Etting",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "4YXprH2TUaLYYeg66bAiMI",
+            "track_name": "It All Depends On You"
+        },
+        {
+            "artist_id": "5z49AOW1q5dtslkcj6wGsW",
+            "artist_name": "Jimmie Lunceford",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "2XlJyg5QuWWM1iiAD3gsxN",
+            "track_name": "Ain't She Sweet?"
+        },
+        {
+            "artist_id": "3Ovf2lytXSXWFM2cwsJACC",
+            "artist_name": "Lead Belly",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "51PBoqon4NPIqKnJQvs233",
+            "track_name": "Goodnight, Irene"
+        },
+        {
+            "artist_id": "7k8b9KwXEScnxxeVPLXOIS",
+            "artist_name": "Billy Murray",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "35HtKaJFRz0fj9KqK7wWUh",
+            "track_name": "The Grand Old Rag"
+        },
+        {
+            "artist_id": "2pDFdLHKOmzKiNDzkz7p8L",
+            "artist_name": "Eddie Cantor",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "2E89bP1h04RZ0BhzaI4QiY",
+            "track_name": "Makin' Whoopee"
+        },
+        {
+            "artist_id": "46ifTQBZKor5EggRUIHQy1",
+            "artist_name": "Ambrose & His Orchestra",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1rsNgJkiAjitNsrsDZneC1",
+            "track_name": "The Clouds Will Soon Roll By"
+        },
+        {
+            "artist_id": "3OixquvLvKBdSUJlYDPbxU",
+            "artist_name": "Joe Loss & His Orchestra",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "3xQkPN9Gf0mldDJRP3BuEM",
+            "track_name": "Behind the Clouds"
+        },
+        {
+            "artist_id": "5bOsFzuJ6QZMr86ezC4oXY",
+            "artist_name": "The Ink Spots",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "616QPP1ZAOUn7rignzFXSr",
+            "track_name": "If I Didn't Care"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1S1pCIKylXG3psc3NFiNH8",
+            "track_name": "God Bless The Child"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3UPDBfveFTK8ITjOJPi6jV",
+            "track_name": "Brother, Can You Spare A Dime?"
+        },
+        {
+            "artist_id": "197mLk2Z62k4tvGxDL1pOa",
+            "artist_name": "Al Jolson",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1lS2Yw5eqvTpImSuzm5FW3",
+            "track_name": "Liza (All The Clouds'll Roll Away)"
+        },
+        {
+            "artist_id": "556bh5qJfhSUkjTluTTyMF",
+            "artist_name": "Frank Chacksfield",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5msxNILBqRLhqoZDEGvcYB",
+            "track_name": "Twentieth Century Blues"
+        },
+        {
+            "artist_id": "0LyTHMstvqKiSoqdnnjqix",
+            "artist_name": "Mildred Bailey",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4kMVtiVfB58jiFewl5QxxO",
+            "track_name": "Please Be Kind"
+        },
+        {
+            "artist_id": "5bO7gAKKIwHwhxdsCR1UN0",
+            "artist_name": "Slim Whitman",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6LGjer3HE9Sb8K3L4Qojbg",
+            "track_name": "Danny Boy"
+        },
+        {
+            "artist_id": "07hD0ZRBxt1clnlGk5UPlV",
+            "artist_name": "Pied Pipers",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7a795w64bgPNMFxtjXq2Zx",
+            "track_name": "Dream"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3y8YdlFTDWLnTpEoreHUYG",
+            "track_name": "You're Gettting To Be a Habit With Me"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7phnWKmy1d0cffAZwfogZc",
+            "track_name": "I'm Making Believe"
+        },
+        {
+            "artist_id": "5bOsFzuJ6QZMr86ezC4oXY",
+            "artist_name": "The Ink Spots",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5f8HtkP5Eo4W1nib32Ehse",
+            "track_name": "We Three (My Echo, My Shadow & Me)"
+        },
+        {
+            "artist_id": "6lH915sjQmzjPIcXAxj1cN",
+            "artist_name": "Adrian Rollini And His Orchestra",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/50e2bbb5a984020c7ae8d5ecfcccfed24959a44a",
+            "track_id": "3vGDZK9X5WJUwVKbRw2eZy",
+            "track_name": "Sweet Madness"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6A6oeBxCmaVQr7bMGgdwJP",
+            "track_name": "It\u2019s Only a Paper Moon"
+        },
+        {
+            "artist_id": "49rIehT663IKJuA3c16OkI",
+            "artist_name": "Ruth Etting",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5pzMXNV6AmQBswUbxz7MfX",
+            "track_name": "Ten Cents A Dance"
+        },
+        {
+            "artist_id": "5v8bwWRbu7AI3YFhzoM6Ha",
+            "artist_name": "The Mills Brothers",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3V18N15OYADYAaHyFmMJJ5",
+            "track_name": "Paper Doll"
+        },
+        {
+            "artist_id": "5ESobCkc6JI4tIMxQttqeg",
+            "artist_name": "Bessie Smith",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca3ffd3b789874c8c5d71e3b3e8e42272bfa6325",
+            "track_id": "5wR6KXUkd76fRgvSZcwuUo",
+            "track_name": "Nobody Knows You When You're Down And Out"
+        },
+        {
+            "artist_id": "5ESobCkc6JI4tIMxQttqeg",
+            "artist_name": "Bessie Smith",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9d37157addb733881a35f6f89b928232f829ccf",
+            "track_id": "1d3w6U7HMz5clfFQs6VVHM",
+            "track_name": "I Need A Little Sugar In My Bowl"
+        },
+        {
+            "artist_id": "2NCGI6dLTxLdI9XHdv7QfM",
+            "artist_name": "The Andrews Sisters",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3BTqScnn7b31RYABygpspV",
+            "track_name": "Bei mir bist du sch\u00f6n"
+        },
+        {
+            "artist_id": "6AhkMuO2f4VjKD6ItDglMO",
+            "artist_name": "Val Rosing",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6liAjeHob64inXC659Prrv",
+            "track_name": "Hush Hush Here Comes the Bogeyman"
+        },
+        {
+            "artist_id": "5bOsFzuJ6QZMr86ezC4oXY",
+            "artist_name": "The Ink Spots",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5EBFReepiuTk10fA9WYJoO",
+            "track_name": "Memories Of You"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Gary Schyman",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cohen's Scherzo"
+        },
+        {
+            "artist_id": "5v8bwWRbu7AI3YFhzoM6Ha",
+            "artist_name": "The Mills Brothers",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "34YJiXebYqJU2qZoUAquNl",
+            "track_name": "You Always Hurt The One You Love"
+        },
+        {
+            "artist_id": "03cwCzIWQ8BRmXjGPDAL04",
+            "artist_name": "Cab Calloway",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fa5eb7f389e965a5bfe02b1a96fd84514f90524",
+            "track_id": "2omB10QumdO6T9mitn4lzT",
+            "track_name": "Between The Devil & The Deep Blue Sea"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The Mills Brothers",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Daddy's Little Girl"
+        },
+        {
+            "artist_id": "5bOsFzuJ6QZMr86ezC4oXY",
+            "artist_name": "The Ink Spots",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4yTsWk5bdqhjWA06LzCyBl",
+            "track_name": "Someone\u2019s Rocking My Dreamboat"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Rosemary Clooney",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "It's Bad for Me"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Django Reinhardt",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "It Had to be You"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Maureen Murphy",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Will the Circle be Unbroken (Choral Version)"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5JD5hvRmfk7YCph1vr3uY8",
+            "track_name": "Wrap Your Troubles In Dreams"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Noel Coward",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "The Party is Over Now"
+        },
+        {
+            "artist_id": "3MKCzCnpzw3TjUYs2v7vDA",
+            "artist_name": "Pyotr Ilyich Tchaikovsky",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2yMyuHhO5V4tJzbGTDYYF9",
+            "track_name": "Waltz Of The Flowers From Nutcracker"
+        },
+        {
+            "artist_id": "6rrwIOOzyvn76SDbkxjIjS",
+            "artist_name": "Cole Porter",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0CFEZdjWQSJ2PDSk0BgmXz",
+            "track_name": "You're The Top"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Nico Vega",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Beast"
+        },
+        {
+            "artist_id": "5AVBFCn4Hq4KY2Xjc5Gj4y",
+            "artist_name": "Blues Saraceno",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/c30bb7ad1af6000c23838a335503cb0cae418949",
+            "track_id": "11OdR5fvn5CJjzKOoC4uas",
+            "track_name": "Save My Soul (Main Title Theme The Men Who Built America)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Lutece"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Courtnee Draper",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Will the Circle be Unbroken (Elizabeth Version)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Jessy Carolina",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "After You've Gone"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Jessy Carolina",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Fortunate Son"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The \"Bee\" Sharps Barbershop Quartet",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "God Only Knows"
+        },
+        {
+            "artist_id": "4NJhFmfw43RLBLjQvxDuRS",
+            "artist_name": "Wolfgang Amadeus Mozart",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1Y1Zqbk4UsJCTGRNMQSfV3",
+            "track_name": "Requiem in D Minor, K. 626: Lacrimosa"
+        }
+    ]
+}

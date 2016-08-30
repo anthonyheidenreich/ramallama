@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/122027052/playlists/4G8LJm5zHXrhlMsldQ4AyV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "68kEuyFKyqrdQQLLsmiatm",
+            "artist_name": "Vince Staples",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/09f489de777e46f1a10914a30482a644cb121b06",
+            "track_id": "4fR8CJztzJ6kUEIw1dBdaO",
+            "track_name": "Feelin' The Love"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 88,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef67372f58306c52484caadd120b0455e3fe2e6d",
+            "track_id": "62vpWI1CHwFy7tMIcSStl8",
+            "track_name": "No Role Modelz"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 83,
+            "preview_url": "https://p.scdn.co/mp3-preview/093fb9677db347b20e33d511c659e4072049680a",
+            "track_id": "6Ius4TC0L3cN74HT7ENE6e",
+            "track_name": "Wet Dreamz"
+        },
+        {
+            "artist_id": "7w29UYBi0qsHi5RTcv3lmA",
+            "artist_name": "Bj\u00f6rk",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b0bdecb6bf81fa77203486ab705449b19f962a2",
+            "track_id": "33w6ATHUKJZLIKeYiXIptM",
+            "track_name": "It's In Our Hands"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/1211188147/playlists/161MqYPdOgUOrFhJ7B80G4/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2KCB7rHKJ04E2WprsXHGU4",
+            "artist_name": "The Donkeys",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e4a778f3bf949a85a153b17a796b8aa785f589c",
+            "track_id": "3fI5JUeWcSl48NttF2ujnn",
+            "track_name": "Lower the Heavens"
+        },
+        {
+            "artist_id": "2KCB7rHKJ04E2WprsXHGU4",
+            "artist_name": "The Donkeys",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/5fbf2f1861fb192207ac2445104acb6e16662cb1",
+            "track_id": "4rHb8v9I2m7m8V97swsnfE",
+            "track_name": "Don't Know Who We Are"
+        },
+        {
+            "artist_id": "2KCB7rHKJ04E2WprsXHGU4",
+            "artist_name": "The Donkeys",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac0e870f9abd2f0c172b69a20ac353085981f8b7",
+            "track_id": "4kzUpXw7sWK8P6Mn9ERimq",
+            "track_name": "Traverse Wine"
+        },
+        {
+            "artist_id": "2KCB7rHKJ04E2WprsXHGU4",
+            "artist_name": "The Donkeys",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f556f73919c96c2e56f8f25d8a15426c5756078",
+            "track_id": "3nh4H5QhDKIunGnOX3Rpt0",
+            "track_name": "I Like The Way You Walk"
+        },
+        {
+            "artist_id": "2KCB7rHKJ04E2WprsXHGU4",
+            "artist_name": "The Donkeys",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/4967b804d2583391f8895d985bc6c9e547c4053d",
+            "track_id": "3NQD3dE8cw9SmH16wtUkcv",
+            "track_name": "Excelsior Lady"
+        },
+        {
+            "artist_id": "4yvcSjfu4PC0CYQyLy4wSq",
+            "artist_name": "Glass Animals",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/11dbcdbe7db48d1d3a3885186db0cd81821dd68f",
+            "track_id": "1gk3FhAV07q9Jg77UxnVjX",
+            "track_name": "Gooey"
+        }
+    ]
+}

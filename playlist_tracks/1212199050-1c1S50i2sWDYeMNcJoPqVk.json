@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1212199050/playlists/1c1S50i2sWDYeMNcJoPqVk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6y8XlgIV8BLlIg1tT1R10i",
+            "artist_name": "Old Dominion",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/392ae0f327b015b4eda99fcce1874f50b7f50fe5",
+            "track_id": "5eUDWbVY8d4h4GK7zmTfXZ",
+            "track_name": "Said Nobody"
+        },
+        {
+            "artist_id": "6x2LnllRG5uGarZMsD4iO8",
+            "artist_name": "Thomas Rhett",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a44af58db099091ebc98656696ec29e8a6fc3d7",
+            "track_id": "5ifixZpz6rilPfj0kO4RQf",
+            "track_name": "South Side"
+        },
+        {
+            "artist_id": "4MoAOfV4ROWofLG3a3hhBN",
+            "artist_name": "Jon Pardi",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/66c8575ab2e182542d48b57cf2e59068d35a9ee3",
+            "track_id": "59O0lOCAMdBugXQrEGR6A6",
+            "track_name": "When I've Been Drinkin'"
+        }
+    ]
+}

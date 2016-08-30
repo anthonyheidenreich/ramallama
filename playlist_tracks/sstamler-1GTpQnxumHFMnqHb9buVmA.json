@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/1GTpQnxumHFMnqHb9buVmA/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9d3db76b607045867478b29053da34dd0e8f419",
+            "track_id": "5CfxSAbupSFKPQIMzctGao",
+            "track_name": "Blipstream"
+        },
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf6c2e9eb9af1abcecd94a77a58b3df5c9fa795e",
+            "track_id": "5AL5TcrqAXsHWRGG8ZnENk",
+            "track_name": "Welcome 2 the Future"
+        },
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/c393a6fb6d9d7b2ec4786cdf0daa83cdb4e9fb9e",
+            "track_id": "2sn1DYAv3KdwbyCjgTPIWU",
+            "track_name": "0800 Dub"
+        },
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/7468b9008f4ba4458992abb341a12617ca3b2aee",
+            "track_id": "7wMkJNupK245ScLfuqSgs1",
+            "track_name": "Deep Concentration"
+        },
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/af698a0f7efaab2644352f76e980ffa6121b4fba",
+            "track_id": "1DwcuVzvMvNYQGu7D1Frjp",
+            "track_name": "Morning Blues"
+        },
+        {
+            "artist_id": "2jbP92oFLWqPqogflK1wlW",
+            "artist_name": "Skream",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/2901852d307b28ea76b21ce06729901d267b9309",
+            "track_id": "0T6V8dJFHooNmmeUF9qK4c",
+            "track_name": "Dub Period"
+        }
+    ]
+}

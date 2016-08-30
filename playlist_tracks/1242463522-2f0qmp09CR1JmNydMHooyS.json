@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/2f0qmp09CR1JmNydMHooyS/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6SAKydkM7CGK9gcoRgwvVV",
+            "artist_name": "Matt Pond",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e831ba9d88755b2229d0e2afa15ac0c19f2f00f",
+            "track_id": "7rpBFDqUmFrMhiToJKORnY",
+            "track_name": "Love to Get Used"
+        },
+        {
+            "artist_id": "6ltzsmQQbmdoHHbLZ4ZN25",
+            "artist_name": "Lord Huron",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/403f0f3a50cfb403e63b8b16e861d229edb934b8",
+            "track_id": "77x96TdWdkIia82QqU35SD",
+            "track_name": "Fool for Love"
+        },
+        {
+            "artist_id": "6wMt8nBoOxcnZtGf6hEmtW",
+            "artist_name": "Leagues",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/26f3b59863f2728b50cb3a6c57ce4a335f97b39f",
+            "track_id": "6iIgaicjGuLqynkT6rf7p0",
+            "track_name": "Walking Backwards"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/17Rm06yqgEUTuUHfTtwpT7/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "69GGBxA162lTqCwzJG5jLp",
+            "artist_name": "The Chainsmokers",
+            "popularity": 92,
+            "preview_url": "https://p.scdn.co/mp3-preview/551ca104a8e572832a6873d5d6b205c430e291fd",
+            "track_id": "3vv9phIu6Y1vX3jcqaGz5Z",
+            "track_name": "Roses"
+        },
+        {
+            "artist_id": "4yBK75WVCQXej1p04GWqxH",
+            "artist_name": "Jeezy",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/6f891df105e618505c496118f6bc68810f9af4ab",
+            "track_id": "1tSARQ02QRdFAkd4oMQNbc",
+            "track_name": "Sweet Life"
+        },
+        {
+            "artist_id": "2WKdxPFRD7IqZvlIAvhMgY",
+            "artist_name": "Fugees",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b14fffc962b543e4f61f79d92bef75cabf84ac8",
+            "track_id": "52PgJoRz30sRQGOGqXYKdX",
+            "track_name": "Zealots"
+        },
+        {
+            "artist_id": "4l1cKWYW591xnwEGxpUg3J",
+            "artist_name": "Miike Snow",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/4dda4202b8928094bfbfe6e7550dc51c8e43b054",
+            "track_id": "1vlXU4TwppxOYXd50pQWzJ",
+            "track_name": "Cult Logic"
+        },
+        {
+            "artist_id": "6mPZJXtFVaakznkRxdgWtC",
+            "artist_name": "Throttle",
+            "popularity": 43,
+            "preview_url": null,
+            "track_id": "1fPI4n7mTvKOrhGRSaCbaU",
+            "track_name": "September"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/139d4e447ca053bc5fdd0e585ae3303c05010947",
+            "track_id": "5WmRzgwwlTdDJxCLRN1l81",
+            "track_name": "Ain't That A Kick In The Head - RJD2 Remix"
+        },
+        {
+            "artist_id": "0oeUpvxWsC8bWS6SnpU8b9",
+            "artist_name": "The Naked And Famous",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/a49cc9024084369f24785f21cf5213499056e485",
+            "track_id": "5PtEpuVX03k9bOUwilL5EO",
+            "track_name": "Punching In A Dream"
+        }
+    ]
+}

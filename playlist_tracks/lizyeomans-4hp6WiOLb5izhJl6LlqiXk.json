@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/lizyeomans/playlists/4hp6WiOLb5izhJl6LlqiXk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2IvkS5MXK0vPGnwyJsrEyV",
+            "artist_name": "Eric Church",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/820613ce3f85755fec906d1a80c6f0562011b467",
+            "track_id": "05ZACkzW8YbRq3eFgIfSNB",
+            "track_name": "Springsteen"
+        },
+        {
+            "artist_id": "3FfvYsEGaIb52QPXhg4DcH",
+            "artist_name": "Jason Aldean",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/2390d32eda81efc4c3d3575db827f0a58570b1b3",
+            "track_id": "0adTN3vBO3pimO3yfxm9vg",
+            "track_name": "Dirt Road Anthem"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ad6353a1b61457b2c45a1b30dde67826a7857f8",
+            "track_id": "30ZGbfPsjDNCgL21Qzciuj",
+            "track_name": "Summertime"
+        },
+        {
+            "artist_id": "75FnCoo4FBxH5K1Rrx0k5A",
+            "artist_name": "The Band Perry",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0a1b6cda0a9a9799c933a2c28b79cd2909966ca",
+            "track_id": "4u26EevCNXMhlvE1xFBJwX",
+            "track_name": "If I Die Young"
+        },
+        {
+            "artist_id": "2IvkS5MXK0vPGnwyJsrEyV",
+            "artist_name": "Eric Church",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ead3733f5f666caa919be5322af1007b5031a86",
+            "track_id": "2uZhNjlUQ9mnt0rS7hcAgF",
+            "track_name": "Smoke a Little Smoke"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a0ef449b0dbcc4289c86420b3e63253db4f0c82",
+            "track_id": "58dRbjabfppvKsQlV0timz",
+            "track_name": "Beer in Mexico"
+        },
+        {
+            "artist_id": "32WkQRZEVKSzVAAYqukAEA",
+            "artist_name": "Lady Antebellum",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/efe8a78d99fbaa8c22df36f9eeab3cb288144648",
+            "track_id": "11EX5yhxr9Ihl3IN1asrfK",
+            "track_name": "Need You Now"
+        },
+        {
+            "artist_id": "56x8mYvS3cyDGAi8N2FxbB",
+            "artist_name": "Randy Houser",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d7b5bce4395fb06c9254817bad747736fcb2bf0",
+            "track_id": "7CL6oaDC9d0QXFMQRkNBmy",
+            "track_name": "Runnin' Outta Moonlight"
+        }
+    ]
+}

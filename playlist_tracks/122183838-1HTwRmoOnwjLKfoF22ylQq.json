@@ -1,0 +1,493 @@
+{
+    "href": "https://api.spotify.com/v1/users/122183838/playlists/1HTwRmoOnwjLKfoF22ylQq/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7sVQKNtdP2NylxMgbNOJMM",
+            "artist_name": "Goldfinger",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/48a5f878e5348159197c60e090eab7332dd9faae",
+            "track_id": "6cL7NCFSvqWrBH5r4mkvVV",
+            "track_name": "Superman"
+        },
+        {
+            "artist_id": "7sVQKNtdP2NylxMgbNOJMM",
+            "artist_name": "Goldfinger",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/46c6fb0b45df03e8e09caa59e498e3d543cbfc2b",
+            "track_id": "0q5xRODc3CcDS48dPaHjA7",
+            "track_name": "99 Red Balloons"
+        },
+        {
+            "artist_id": "74xFFXkvOq9dPDigOWTHiX",
+            "artist_name": "Millencolin",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "22klU94r0NFtx4cPO8KqHk",
+            "track_name": "No Cigar"
+        },
+        {
+            "artist_id": "1kNq8yT2S4lD5jetHxcyug",
+            "artist_name": "The Ernies",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e65b541ec99a198f610997d07af14b3939ef1290",
+            "track_id": "7pIZ4XDMrAYzSPCdvYXrKe",
+            "track_name": "Here & Now"
+        },
+        {
+            "artist_id": "64mPnRMMeudAet0E62ypkx",
+            "artist_name": "Primus",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/e015d6ce36994669359adbb8863c014c0f7bc01f",
+            "track_id": "6eksnQsyuCDmSEd9LyXLgA",
+            "track_name": "Jerry Was A Race Car Driver"
+        },
+        {
+            "artist_id": "3WPKDlucMsXH6FC1XaclZC",
+            "artist_name": "Suicidal Tendencies",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/59948c23a40750a88a698bd9f27df359f4c23929",
+            "track_id": "3I9K8tSZRsAw7bRYfbhJEA",
+            "track_name": "Cyco Vision"
+        },
+        {
+            "artist_id": "31v7ijnAMVL9V7Uzr1sFcI",
+            "artist_name": "The Suicide Machines",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/a107e2ea0130f3448db481de59d3a3ed52462712",
+            "track_id": "7bFNtX22XJMy5TuEpQfa3C",
+            "track_name": "New Girl"
+        },
+        {
+            "artist_id": "2C3gpQ0UMPjrOQ4FYdylRS",
+            "artist_name": "Unsane",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/5de36fb2e8e7b4469bf57559845c1ce7ffac082d",
+            "track_id": "3bZRQNkuI4pztoAGmUeBu2",
+            "track_name": "Committed"
+        },
+        {
+            "artist_id": "4AqIRTZF6DDmKmdorgFug6",
+            "artist_name": "The Vandals",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "25efnrPCsBE7C4MeQGrhE9",
+            "track_name": "Euro-barge"
+        },
+        {
+            "artist_id": "2yJwXpWAQOOl5XFzbCxLs9",
+            "artist_name": "Bad Religion",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "2taLSL36n5j5BxOqBAILMN",
+            "track_name": "You"
+        },
+        {
+            "artist_id": "3JysSUOyfVs1UQ0UaESheP",
+            "artist_name": "Anthrax",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "6I8RATOXSNDyrXGNC4H5Nd",
+            "track_name": "Bring Tha Noize"
+        },
+        {
+            "artist_id": "5imUS9dQyCbAjUEJJ9QyWC",
+            "artist_name": "Powerman 5000",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/d420b6a0b81a6148bd7fbb2f2cac712141f2d99a",
+            "track_id": "4xfcKZRY6LnjfZwE5lVJp0",
+            "track_name": "When Worlds Collide"
+        },
+        {
+            "artist_id": "4Otx4bRLSfpah5kX8hdgDC",
+            "artist_name": "Naughty By Nature",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2967ef15743ddfa3387df2f34edc66d865c2c08",
+            "track_id": "1c8HCW5mGLxXgGhWxh8eqs",
+            "track_name": "Pin The Tail On The Donkey"
+        },
+        {
+            "artist_id": "4RddZ3iHvSpGV4dvATac9X",
+            "artist_name": "Papa Roach",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/aefb6162276d4014a683a80c5c05b29b6fa3f1ad",
+            "track_id": "0R0Od004mm1yRHEVnpygoj",
+            "track_name": "Blood Brothers"
+        },
+        {
+            "artist_id": "16yS35GPWWk36MMsutkzeH",
+            "artist_name": "The High And Mighty",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "4iJVhs91G2PX6DpWf0HE9x",
+            "track_name": "B-Boy Document '99"
+        },
+        {
+            "artist_id": "7bXsAsoUGJlM4VVB9xOmn2",
+            "artist_name": "Consumed",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "7usuXSUalRDaMohyPAOwlm",
+            "track_name": "Heavy Metal Winner"
+        },
+        {
+            "artist_id": "4LYX3rRdXV2l99wR5YPFoK",
+            "artist_name": "Dub Pistols",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0128b3da1e655bd9877f277d56d3c62582a0048",
+            "track_id": "2qQieiApQ1TkvkZGLkbCH0",
+            "track_name": "Cyclone"
+        },
+        {
+            "artist_id": "6zXHaJc2ZqAmSyxT606ccM",
+            "artist_name": "Swingin' Utters",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/2297d1e4fb6c57e82fc4256d650e7f8716b588e4",
+            "track_id": "333q5dd9z9xMZldO8604eP",
+            "track_name": "Five Lessons Learned"
+        },
+        {
+            "artist_id": "5bf6yYgHODBW5EreBZshpX",
+            "artist_name": "Styles Of Beyond",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/015e521e0289d22b46a91baf65caf1d0705422d1",
+            "track_id": "71HXtqPhrESYxKKoJycwB0",
+            "track_name": "Subculture - Upbeats Remix"
+        },
+        {
+            "artist_id": "0UJLCzBpalel3qZCvPlppO",
+            "artist_name": "Alleylife",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/55200981467883ae2951e878766273dd7bf6ef1a",
+            "track_id": "12SsouyS1U7W0cFQupZar5",
+            "track_name": "Out With The Old (uncensored Sterilized) (feat. Alleylife)"
+        },
+        {
+            "artist_id": "66riGCPfih1Xqk81dDvpvf",
+            "artist_name": "Lagwagon",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "7nr8Dnkm1ooOtxbWc2X2Mh",
+            "track_name": "May 16"
+        },
+        {
+            "artist_id": "1TKaUU8ooBgSW9TlyKsw6k",
+            "artist_name": "Fu Manchu",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7952da31326d61bc8219e8f124d40daffcb7cad",
+            "track_id": "5UaB0lA47nZRJRrUk3AlEI",
+            "track_name": "Evil Eye"
+        },
+        {
+            "artist_id": "19I4tYiChJoxEO5EuviXpz",
+            "artist_name": "AFI",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "6VbkHFFZuK8Ys0fLqtp393",
+            "track_name": "The Boy Who Destroyed The World"
+        },
+        {
+            "artist_id": "2sSmGd0x45FGBtjJwNBSFr",
+            "artist_name": "Adolescents",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "3liFiHiH5TWRqJx1K14DDe",
+            "track_name": "Amoeba"
+        },
+        {
+            "artist_id": "6TZdvF1kFzwnQLgHQynzsO",
+            "artist_name": "Alien Ant Farm",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7740b05f97834d6d8a59b5c705bcdf3335489be",
+            "track_id": "3z3bcIS2CBJ5pqWQjKPiIo",
+            "track_name": "Wish"
+        },
+        {
+            "artist_id": "2LyXoG111QdqfI0HLYQgvS",
+            "artist_name": "Bodyjar",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/cd274c3d8cbf21c766c72ec3835c2a0f3cd21146",
+            "track_id": "2dap4hYk1G7f7mxCpeRkDD",
+            "track_name": "Not The Same"
+        },
+        {
+            "artist_id": "3ZQEU2arcWXSv3oz8hwWBK",
+            "artist_name": "CKY",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/b07b1f426b7a38b7c480182474d15d969e5f51fb",
+            "track_id": "7AimHQrOUoUTYbVX87D3Zl",
+            "track_name": "96 Quite Bitter Beings"
+        },
+        {
+            "artist_id": "0YsLR3SQd5QTXAhGIGX7cl",
+            "artist_name": "Del The Funky Homosapien",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/8388a19eae681b450f196c00b605931df1c3a600",
+            "track_id": "4QdtxZiSFl0GYrXWOHc3y8",
+            "track_name": "If You Must"
+        },
+        {
+            "artist_id": "2zIenWuthqTgWumViRZCZV",
+            "artist_name": "Guttermouth",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "3NR0FiqfLRwkbjQYUNb84d",
+            "track_name": "I'm Destroying The World"
+        },
+        {
+            "artist_id": "2gINJ8xw86xawPyGvx1bla",
+            "artist_name": "KRS-One",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3f9a40ae61b9a906e5d69ab697214cb64b9fd43",
+            "track_id": "0AeWU0AgMsAgIrsjAhRxgW",
+            "track_name": "Hush"
+        },
+        {
+            "artist_id": "1DFr97A9HnbV3SKTJFu62M",
+            "artist_name": "Mot\u00f6rhead",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "47FyQCd3TYLrZ9TU6MPaWK",
+            "track_name": "Ace Of Spades"
+        },
+        {
+            "artist_id": "1An0HCtDktvCBDdFEu7HC0",
+            "artist_name": "Ozomatli",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/99c9ca8e50f2cd7c40647b240c4515ec85b96d50",
+            "track_id": "29sk6hDcQx4c6rGJTkopmp",
+            "track_name": "Cut Chemist Suite"
+        },
+        {
+            "artist_id": "1co4F2pPNH8JjTutZkmgSm",
+            "artist_name": "Ramones",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/69c1243dc72c52c515d9ec238d442282d1abb616",
+            "track_id": "68YFOeWusWCFxK4TSYZZBU",
+            "track_name": "Blitzkrieg Bop"
+        },
+        {
+            "artist_id": "7xTKLpo7UCzXSnlH7fOIoM",
+            "artist_name": "Redman",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/120b30453fa724a1c4ccddce45533b75af30a053",
+            "track_id": "5BlLqiaTwttKiqzLhBrN1v",
+            "track_name": "Let's Get Dirty (I Can't Get In Da Club)"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4db8d68d5da636394955d9ce35ad51531fefd17",
+            "track_id": "7dapvL71Xx2CLJtJo17TZZ",
+            "track_name": "Fight Like A Brave"
+        },
+        {
+            "artist_id": "4byZW0sEv5RUoyQBfv7CPw",
+            "artist_name": "The Reverend Horton Heat",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/732a60f8b188497c75fff20bcafedbe136c2e0d9",
+            "track_id": "6KGARNa3KrL72c7Cye75ES",
+            "track_name": "I Can't Surf"
+        },
+        {
+            "artist_id": "4tujQJicOnuZRLiBFdp3Ou",
+            "artist_name": "Xzibit",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b6e23f911f5486a50271ea59c2aab38df4c110b",
+            "track_id": "037xJXp0HEJLSXOPKnQfHF",
+            "track_name": "Paparazzi - Live"
+        },
+        {
+            "artist_id": "6SiyKSeJo6gcsS2NvuAbsl",
+            "artist_name": "zebrahead",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/561ac7ef187fe8d59d24ae9e12adce4a957a74ae",
+            "track_id": "4NAm3aWUkQlQcAll13HVEt",
+            "track_name": "Check"
+        },
+        {
+            "artist_id": "5eAWCfyUhZtHHtBdNk56l1",
+            "artist_name": "System of a Down",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa78a67c3204569371eb215082b25f61226acda8",
+            "track_id": "3n4r8cWLwYn5YZEJmh3P90",
+            "track_name": "Shimmy"
+        },
+        {
+            "artist_id": "20oQv3LStCKCjI9oQ0JNha",
+            "artist_name": "Less Than Jake",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/0dbf1a24abb41719f550a8ce76cf1a3beb40a01b",
+            "track_id": "1hh4GY1zM7SUAyM3a2ziH5",
+            "track_name": "All My Best Friends Are Metalheads"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "De La Soul",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Oodles of O's"
+        },
+        {
+            "artist_id": "2fSaE6BXtQy0x7R7v9IOmZ",
+            "artist_name": "Aesop Rock",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/298ff85a47fff0afbb4cc3c15531cd8ccc5369cd",
+            "track_id": "6SZ9Tas1wuiFNdzwfddBi6",
+            "track_name": "Labor"
+        },
+        {
+            "artist_id": "6mdiAmATAx73kdxrNrnlao",
+            "artist_name": "Iron Maiden",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "24ktWNuEVPkLHyihuYGyui",
+            "track_name": "The Number Of The Beast"
+        },
+        {
+            "artist_id": "57ylwQTnFnIhJh4nu4rxCs",
+            "artist_name": "In Flames",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "4XIOwKFw6ps8YnM3Its0bY",
+            "track_name": "Embody the Invisible"
+        },
+        {
+            "artist_id": "1aEYCT7t18aM3VvM6y8oVR",
+            "artist_name": "Alkaline Trio",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6DGtcx2AnssYTmJc9W6s4X",
+            "track_name": "Armageddon"
+        },
+        {
+            "artist_id": "0av074qUwLn5eyzwqoq3xh",
+            "artist_name": "People Under The Stairs",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f456d51098b6b63dbfd83f5a0bef2aebe2d3bbb",
+            "track_id": "1M50sWgi0bI8XRG4GqwShu",
+            "track_name": "The Next Step II"
+        },
+        {
+            "artist_id": "0EdvGhlC1FkGItLOWQzG4J",
+            "artist_name": "Sublime",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/95891474a8f9b689fb134c49a156927eb6265372",
+            "track_id": "2SpcrfTPAh9EUyEKH0oeb7",
+            "track_name": "Seed"
+        },
+        {
+            "artist_id": "20qISvAhX20dpIbOOzGK3q",
+            "artist_name": "Nas",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/677cc276f94aad4ac327e4d3133e55206070f7f4",
+            "track_id": "1EPVTZyvQP5S7Qnc7oQvbA",
+            "track_name": "The World Is Yours - Explicit Album Version"
+        },
+        {
+            "artist_id": "2efzHZrUGhawnSOTpyAHOQ",
+            "artist_name": "Deltron 3030",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5be6f502ae10355bdc5542fd4c048f2fae613b1",
+            "track_id": "6mKai3TB6wtorWTX47wHUt",
+            "track_name": "Positive Contact"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/4049587df489060e91f4d8e2daee27a2764b8708",
+            "track_id": "4t2rjxCXIJnBmRBkXJOYa5",
+            "track_name": "Like the Angel"
+        },
+        {
+            "artist_id": "1GAS0rb4L8VTPvizAx2O9J",
+            "artist_name": "Atmosphere",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/0ab4ccaa496c04cdad72b8f423e4521914492044",
+            "track_id": "0eE58rFwPTkITwhfXLZ3vb",
+            "track_name": "Trying To Find A Balance"
+        },
+        {
+            "artist_id": "3TOqt5oJwL9BE2NG9MEwDa",
+            "artist_name": "Disturbed",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/62445acdc1c9ae9fd1be5f4c23f82c38266a602c",
+            "track_id": "1WVtCdwk72qhzYlDgX8I9h",
+            "track_name": "Liberate"
+        },
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed5e5d9794fcc662ba12a4ca17255cf7339dc444",
+            "track_id": "6mW55jsmWapFREmli1SsIM",
+            "track_name": "Pain"
+        },
+        {
+            "artist_id": "2ye2Wgw4gimLv2eAKyk1NB",
+            "artist_name": "Metallica",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fb4d75bc37e4d68f4349eb0a0144be26b0fd9d4",
+            "track_id": "0llXksyxjNlDB9vOcETZi0",
+            "track_name": "Whiplash"
+        },
+        {
+            "artist_id": "3JFsVIxOn7STeilPICkkB2",
+            "artist_name": "Lamb of God",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "6nB02hPddd6BWe0dlafwtH",
+            "track_name": "Black Label"
+        },
+        {
+            "artist_id": "6xTk3EK5T9UzudENVvu9YB",
+            "artist_name": "Rancid",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "3B8sLBRLKcv0f5j3yUMXoU",
+            "track_name": "Fall Back Down"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/18485dca1a75612ae570c3bcbfbd931fbdb4e448",
+            "track_id": "4Zp35RIATJCwHAKEhtiSb0",
+            "track_name": "The Power Of Equality"
+        },
+        {
+            "artist_id": "22WZ7M8sxp5THdruNY3gXt",
+            "artist_name": "The Doors",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8f685ff9b50f2f6f7672fc86642df000b195481",
+            "track_id": "6ToM0uwxtPKo9CMpbPGYvM",
+            "track_name": "Break On Through (To The Other Side)"
+        },
+        {
+            "artist_id": "31v7ijnAMVL9V7Uzr1sFcI",
+            "artist_name": "The Suicide Machines",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "16qWLPR4xgom48LE6f3Njh",
+            "track_name": "High Anxiety"
+        },
+        {
+            "artist_id": "7zliF6Q946WznVk3ZMYhZX",
+            "artist_name": "The Sugarhill Gang",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/4027798a044364d61ffbff6530ee6246983cafb7",
+            "track_id": "0FWhGmPVxLI6jOVF0wjALa",
+            "track_name": "Rapper's Delight"
+        },
+        {
+            "artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+            "artist_name": "Violent Femmes",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/9312fcb3f814efe9710e877bbc94963993fc2189",
+            "track_id": "7oyxaCjnv7P1F68DDXU7y7",
+            "track_name": "Add It Up (Remastered Album Version)"
+        }
+    ]
+}

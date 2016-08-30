@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/catmandabomb/playlists/45tnnL30168b5N5RWgApCO/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/8417722ecda6274e9e74bb62c9813a64e50e3993",
+            "track_id": "4oFtLSgHyZPNYDCcANhTnO",
+            "track_name": "Institutionalized"
+        },
+        {
+            "artist_id": "5dVua2HdrY1VlbPh6OM9KZ",
+            "artist_name": "The Gaslamp Killer",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9b6568ca8b68c2d676ce3143a1e84f58c892c7b",
+            "track_id": "16vaP50Z4Pr9uQr8MNR4Kf",
+            "track_name": "7 Years of Bad Luck for Fun"
+        },
+        {
+            "artist_id": "7fVp0A6oCMfiQJihMnY0SZ",
+            "artist_name": "KNOWER",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/24ccec371760ded668eee3e3fb58b42584fb9cc9",
+            "track_id": "0pLT0IT7xKaNlY4HvrWCx7",
+            "track_name": "What's in Your Heart"
+        },
+        {
+            "artist_id": "2sriRQRt36DnfHtD68zZlj",
+            "artist_name": "Dorian Concept",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/980fdf08be7380a2d5c16d8f8760f392011ed56c",
+            "track_id": "3HowSVTFzuE2oZ6rlsRtoR",
+            "track_name": "Draft Culture"
+        }
+    ]
+}

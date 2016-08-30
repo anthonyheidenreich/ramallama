@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/mattyszucs/playlists/0gjNjI7IwGBSw76rBuEqL4/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0MMY27gk33Lxyk0FwcJldc",
+            "artist_name": "Joy Zipper",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a07bfa347038e2e03e742e1261fcf7b7c849d56",
+            "track_id": "6rVugGfDB2x7m44JqvzB9i",
+            "track_name": "Christine Bonilla"
+        },
+        {
+            "artist_id": "5Rzqmz1zAszembFHGZQuAt",
+            "artist_name": "Souls Of Mischief",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4e133fe8dfc24bb43590ab74190bec54a399245",
+            "track_id": "6TFKclwGeJRTeZdY97XqPG",
+            "track_name": "93 'Til Infinity"
+        },
+        {
+            "artist_id": "5NIhgQ08PBzMux08ndi8Ae",
+            "artist_name": "Gravediggaz",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/76a925aa4ae2cd7d6f5073901e4dda2713fa4bee",
+            "track_id": "6hJG7PN9XUvueTNK28aQL6",
+            "track_name": "Nowhere To Run, Nowhere To Hide"
+        },
+        {
+            "artist_id": "4k7sf5sgqkVuT0KRiIbhSv",
+            "artist_name": "Kotchy",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/23fd2ab02abc9b405e000f720366b600ca3bf263",
+            "track_id": "1mJdOvdEVBWfRgPgytgNgg",
+            "track_name": "Getaway"
+        },
+        {
+            "artist_id": "6buUuVTdxxAe5ODJtKZ4hP",
+            "artist_name": "The Shoes",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/e9406c516708f68eddd3fba75ef93d07d350e1eb",
+            "track_id": "6jjCPuoFgKxvQi5d6YpiZZ",
+            "track_name": "Der Kreisel"
+        }
+    ]
+}

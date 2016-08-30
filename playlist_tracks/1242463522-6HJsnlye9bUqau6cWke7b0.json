@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/6HJsnlye9bUqau6cWke7b0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "5IsPbjPHnJKRuwvYMfoV4Z",
+            "track_name": "I Don't Trust Myself (With Loving You)"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/814ba0347b23558d7c4477458dbb68ab8b8f4baf",
+            "track_id": "1LCFKtT1l1Eq8dUXzIo3QL",
+            "track_name": "Slow Dancing in a Burning Room"
+        },
+        {
+            "artist_id": "7pyhre5oEEFMqcgMEvJY7q",
+            "artist_name": "Sky Ferreira",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d5862d54cc561c56b3d5ee647af96f25a653510",
+            "track_id": "3hnlbzC6h0GxLfVmxAG4gA",
+            "track_name": "Sad Dream"
+        },
+        {
+            "artist_id": "79hrYiudVcFyyxyJW0ipTy",
+            "artist_name": "The Paper Kites",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/126ff49743132e0f4c7d9b4089f125b139cda32d",
+            "track_id": "45p0MAVey0dnjZXo8kMUzh",
+            "track_name": "Featherstone"
+        },
+        {
+            "artist_id": "2Ki2mlU4LhZZ0BOYHWbcot",
+            "artist_name": "The Dig",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e7f4085dca2186b1a990669198fd69457873068",
+            "track_id": "4NHk7fLMtvMRjzm3u1HHch",
+            "track_name": "Break the Silence"
+        }
+    ]
+}

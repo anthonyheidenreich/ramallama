@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1218843405/playlists/6eMorhdYFZbflsqhE3VWhv/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2AsusXITU8P25dlRNhcAbG",
+            "artist_name": "Gotye",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/9966639bc41a012f4ab638132bd041108fe70f4d",
+            "track_id": "4wCmqSrbyCgxEXROQE6vtV",
+            "track_name": "Somebody That I Used To Know"
+        },
+        {
+            "artist_id": "5nCi3BB41mBaMH9gfr6Su0",
+            "artist_name": "fun.",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffc0e31e3685cae5ed9b05c2a506da3f3e9ee2ab",
+            "track_id": "6t6oULCRS6hnI7rm0h5gwl",
+            "track_name": "Some Nights"
+        },
+        {
+            "artist_id": "4j56EQDQu5XnL7R3E9iFJT",
+            "artist_name": "Young the Giant",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/493f4f2e68ba182ece11f8107fa1edf81b330915",
+            "track_id": "1UqhkbzB1kuFwt2iy4h29Q",
+            "track_name": "Cough Syrup"
+        },
+        {
+            "artist_id": "41qil2VaGbD194gaEcmmyx",
+            "artist_name": "Will Smith",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/fabc6695056c4b63938190df123de6d33b193478",
+            "track_id": "6e8Ou0wiqAzIpWb2eSxll8",
+            "track_name": "Miami"
+        },
+        {
+            "artist_id": "7eOmaHj3qXWhEb384B61eA",
+            "artist_name": "Bryan J",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5806e545561a6142a5d1acf8338b22d450cf91c",
+            "track_id": "4tM7IvirymOPAk74Us27kD",
+            "track_name": "Let Me Take You Out"
+        }
+    ]
+}

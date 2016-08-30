@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/121992691/playlists/7yxOhcqmzX39nUcTxTkxcX/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/b56a70770267b00ccae13c2e8c8a34ed54627d02",
+            "track_id": "1z3ugFmUKoCzGsI6jdY4Ci",
+            "track_name": "Like A Prayer"
+        },
+        {
+            "artist_id": "1yMYjh77WgOVafRkI50mim",
+            "artist_name": "Wilson Phillips",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/9aea9e36875f3fd4c26c57a2c801f7b4dc9b0bbc",
+            "track_id": "4VZDv8sASBS8UruUBGTFdk",
+            "track_name": "Hold On"
+        },
+        {
+            "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+            "artist_name": "R.E.M.",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/84584f597402bb27a23298d280baa51290de68f8",
+            "track_id": "4er8NyQ8cFnZ2b643Tjc44",
+            "track_name": "Shiny Happy People"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c052c976f9ad6610a1e8daf79e467e1e3943632",
+            "track_id": "23NPGXlSaIqWzvxIRhM2oG",
+            "track_name": "Under The Bridge"
+        },
+        {
+            "artist_id": "1A92IAcd7A6npCA33oGM5i",
+            "artist_name": "The Proclaimers",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5e44c043b4e27c01ee92be422224edd2a222f34",
+            "track_id": "66S14BkJDxgkYxLl5DCqOz",
+            "track_name": "I'm Gonna Be (500 Miles)"
+        },
+        {
+            "artist_id": "4TKTii6gnOnUXQHyuo9JaD",
+            "artist_name": "Sheryl Crow",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a144c8ecb683b0e09d08a39dc6d5ab9bcec75ca",
+            "track_id": "3ZpQiJ78LKINrW9SQTgbXd",
+            "track_name": "All I Wanna Do"
+        },
+        {
+            "artist_id": "0TImkz4nPqjegtVSMZnMRq",
+            "artist_name": "TLC",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d6910587f1e6081f7016d8bc2ec7ab94cf5f0fe",
+            "track_id": "6qspW4YKycviDFjHBOaqUY",
+            "track_name": "Waterfalls"
+        },
+        {
+            "artist_id": "2DaxqgrOhkeH0fpeiQq2f4",
+            "artist_name": "Oasis",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/cffcc40b4cdac1717e00e4accb00548f49365d36",
+            "track_id": "4w7RuuQAVP0JXlAom3z1aC",
+            "track_name": "Wonderwall"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/14a7c5f918d8665cf88466ba52ada3481c2d164f",
+            "track_id": "42et6fnHCw1HIPSrdPprMl",
+            "track_name": "Semi-Charmed Life"
+        }
+    ]
+}

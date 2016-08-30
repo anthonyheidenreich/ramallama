@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/1HZGExGFHkrLa1pYEjI9IJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2wkTcMEJKbkBFCInLoK7Ic",
+            "artist_name": "Milagres",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b94c2c6431a79d762b9fe910ff418a7c7fba1b9",
+            "track_id": "0gtVdzJYM9mDDeK8foYq8D",
+            "track_name": "Gentle Beast"
+        },
+        {
+            "artist_id": "2wkTcMEJKbkBFCInLoK7Ic",
+            "artist_name": "Milagres",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/fde8db7376c7f076c8cfbad35c7cb1721acc5742",
+            "track_id": "64KgLanJKid5Ye8v6Dji7S",
+            "track_name": "Halfway"
+        },
+        {
+            "artist_id": "2wkTcMEJKbkBFCInLoK7Ic",
+            "artist_name": "Milagres",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/76e8fa863a44a7c4f55b3b8368c43dcd14db1093",
+            "track_id": "0VaafEG6Ik1H5MUH8cxWnr",
+            "track_name": "Here to Stay"
+        },
+        {
+            "artist_id": "1WvvwcQx0tj6NdDhZZ2zZz",
+            "artist_name": "Future Islands",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ed5326756856ebbb49f4beb562e4db4a2b6f9f6",
+            "track_id": "51rRpuNOIrIOp9my5BQoLh",
+            "track_name": "Before the Bridge"
+        },
+        {
+            "artist_id": "5KOXLXe0w97kEI1wQnBo47",
+            "artist_name": "We Are Trees",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cae1cee366862bbeaffd8bec0cf1b84d88c8e21",
+            "track_id": "1RpbZandXQdiXNQcON12hb",
+            "track_name": "I Don't Believe in Love"
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruecritchfield/playlists/793g2bsXkCqt7OvQ13si88/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3d620b1ca6bac54c5ae03f1987b9e786314d3ba",
+            "track_id": "0rkO0Z9jDUsAQ6YrjzRaGR",
+            "track_name": "Go to Hell"
+        },
+        {
+            "artist_id": "1nIUhcKHnK6iyumRyoV68C",
+            "artist_name": "Ennio Morricone",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/427a38e823c45df3809dfb836b931f11e877a85f",
+            "track_id": "2IJJszwGK4NWmh3bNK6CPD",
+            "track_name": "The Good, The Bad and the Ugly (From \"The Good, the Bad and the Ugly\") - Titles"
+        },
+        {
+            "artist_id": "1nIUhcKHnK6iyumRyoV68C",
+            "artist_name": "Ennio Morricone",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/9dfc6208af75d78aab536dcd1ab66d96b5075226",
+            "track_id": "6PrKZUXJPmBiobMN44yR8Y",
+            "track_name": "L'Estasi Dell'oro (The Ecstasy Of Gold) - 2004 Digital Remaster"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/147687c4809b45a494ad502bf79a2903ebe2534a",
+            "track_id": "2DjWsDGgL1xNbhnr7f6t5F",
+            "track_name": "Baby Can I Hold You"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/21e293c4edf7cc7134436e5ac63705e18cc306da",
+            "track_id": "4vDBJeeQCbhP9FaPPMsYkY",
+            "track_name": "Give Me One Reason"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9afb93a872e34d1399a2b839f472ce7b830c259",
+            "track_id": "0YMFcrMtBowDdD5bPz0cgy",
+            "track_name": "Talkin' Bout A Revolution"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7c7088e15ff83fd4352fa675f52e29986671b0c",
+            "track_id": "2M9ro2krNb7nr7HSprkEgo",
+            "track_name": "Fast Car"
+        },
+        {
+            "artist_id": "05YVYeV4HxYp5rrWalvuE1",
+            "artist_name": "Grover Washington, Jr.",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/3517e537a63108a6bfe9e39538deb0bcf1112fbf",
+            "track_id": "70AhDADPvD8cRhjfgBUjhZ",
+            "track_name": "Just The Two Of Us"
+        },
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/e93b8b4a7d89ee8e3bd4d6c8517699d5312e7263",
+            "track_id": "1qfDfZAvrkSAFrAR2FTQDv",
+            "track_name": "Grandma's Hands"
+        },
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "6OzMwiqvWpC8OvsBNulvkJ",
+            "track_name": "Lean on Me - Single Version"
+        },
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 31,
+            "preview_url": null,
+            "track_id": "3gJgUanZ5JcFZJ1a5hM3dw",
+            "track_name": "Ain't No Sunshine"
+        },
+        {
+            "artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+            "artist_name": "Herbie Hancock",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a7bccc5edd7e8e0c4309e50821e0601634643e5",
+            "track_id": "2zQl59dZMzwhrmeSBEgiXY",
+            "track_name": "Watermelon Man"
+        },
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b166ad6e3bbc1f779913f2e03dee1d03307e59b",
+            "track_id": "2WVz9Mtp3E8HCblGiu3nCv",
+            "track_name": "Use Me"
+        },
+        {
+            "artist_id": "2gCsNOpiBaMNh20jQ5prf0",
+            "artist_name": "Buddy Guy",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "3OpDEJPWzv76Y9Q6ccLVE6",
+            "track_name": "Ain't No Sunshine featuring Tracy Chapman"
+        },
+        {
+            "artist_id": "6liAMWkVf5LH7YR9yfFy1Y",
+            "artist_name": "Portishead",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0KLIKCZJfSm2By8UtNSw83",
+            "track_name": "Roads"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/602db7b1b04ea638a844731b27c72430f27343b7",
+            "track_id": "617BX2z1ctbswU1xjU3LRW",
+            "track_name": "I Wish I Knew How It Would Feel to Be Free"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a53c7b547cca0f5da939ef202ad0cf2ec99621a",
+            "track_id": "1U5imk2JuhTUFfCiygRGGa",
+            "track_name": "Day and Night"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/26ef4c6f599cef85dd6ca4d417991b50eb237fd9",
+            "track_id": "1EJNVmLt3wnssius7WVE2l",
+            "track_name": "In the Dark - Original Master/Mix"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/37da975ed42e16d792714e9077af384d16a6178a",
+            "track_id": "7uYvKcX4hJ4YUVV06qsmer",
+            "track_name": "Real Real"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/b43450da8e94d7fe1e7770932b8ccd375991fffa",
+            "track_id": "5QzTKoV71zuDilmtCkdU8A",
+            "track_name": "My Man's Gone Now"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/e411a76f29a08b8d7c9092de105c1cdb56eb24a9",
+            "track_id": "2bdapwYVEGpGWxlx3iooAB",
+            "track_name": "Backlash Blues"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/5df5068f372d70bf47aeac9a878f86f10e882ec7",
+            "track_id": "3NcJu9876GBJuNU6vJOrbb",
+            "track_name": "I Want a Little Sugar in My Bowl"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/e90f5145f7c48ed2b739ab0a717e6901c2882559",
+            "track_id": "71UfXGXPCyi0zMNeXoogdk",
+            "track_name": "Buck"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb99fc3bc16bb4f0398f7efd46fb880bb62f5921",
+            "track_id": "0S8wQT9YkE41gHIGwXvgep",
+            "track_name": "Since I Fell for You - Original Mix"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/74b36f8374945abbd6368b0dc49cd00b9f92c04d",
+            "track_id": "5UWarhuxo8QZ5lKxgw5EHv",
+            "track_name": "The House of the Rising Sun"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/e36991c5acbcebe5f936e1fe630ef872a074c564",
+            "track_id": "2vY3XKWiQ3gb4o0aXRtHjY",
+            "track_name": "Blues for Mama"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2192a9ea0e311e9db92ba9e60af98d815c8b0ed",
+            "track_id": "2km9fkIwupyw4puhwcYnCP",
+            "track_name": "Do I Move You - Version II"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9f5bc3d42093cc592bd59a5bed53bb08d3cc4a9",
+            "track_id": "5WwiNwiyslsGmbmh6N07NA",
+            "track_name": "Whatever I Am (You Made Me)"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4a2bd2188230a442b8dfba28f4bbaa61fabdf79",
+            "track_id": "0aIcFRGr88cGtlEJBuDub6",
+            "track_name": "Do I Move You?"
+        },
+        {
+            "artist_id": "4LG4Bs1Gadht7TCrMytQUO",
+            "artist_name": "The Shins",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/cddd138adb6362fbce441a8d06acedbd960dc4d5",
+            "track_id": "5oUV6yWdDM0R9Q2CizRhIt",
+            "track_name": "New Slang"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4871a7a8f93f93eeee939a1479d0a5c4a9d1cd5",
+            "track_id": "5FHjL8cis70tttYrLS8uMi",
+            "track_name": "A Dear Old Southland"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/b25684f9a19970506ba7467cc226208ab0a5371e",
+            "track_id": "6FKasUNG1KT4r9TR9rKdll",
+            "track_name": "St. James Infirmary"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c0ed2f3985da9c4e5790c82ba1b8c82c15d34db",
+            "track_id": "5gnX7ITQLMx6UPUTVDn8T6",
+            "track_name": "Singin' the Blues"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/5e3fb0d6fffaed05c568febf0112ded4130645cf",
+            "track_id": "4tnUkEkckXRiItNlP37o4Q",
+            "track_name": "Winin' Boy Blues"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/a7495ae091f84a2435dc78d205107945afed16a1",
+            "track_id": "6gFiMwIvb6yAprrbi3AMoM",
+            "track_name": "West End Blues"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/04790612ac34e26facf79475ba440fde45434754",
+            "track_id": "4JGF6Lhl3axyZYJXV55znh",
+            "track_name": "Just a Closer Walk with Thee"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/6432ea089c770d7b80c1f19161bbdfb3db798855",
+            "track_id": "2E67aumg38tRDk5vFN2FGX",
+            "track_name": "Bright Mississippi"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/39d599d3b92ec989d4e1140f88550eff205dc827",
+            "track_id": "30UOF78PgVxrIY9VWubzzz",
+            "track_name": "Day Dream"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/2eb9efc75e6393aa6fac6ad3cf4b6d875244d1b7",
+            "track_id": "6Yh7CzUz5YBETI9d42Krnv",
+            "track_name": "Long, Long Journey"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1a5a635f9ed1baba630ebd63f37bb7f828431ec",
+            "track_id": "7yXx43siumzvRSSfqQUOrZ",
+            "track_name": "Solitude"
+        },
+        {
+            "artist_id": "63aP18bg2ABSOqSNQcAMNy",
+            "artist_name": "Allen Toussaint",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/95503e1f3a6cc9b097891eeff57c20955627909a",
+            "track_id": "6M7wfb504kCbEPuKXfwcau",
+            "track_name": "Blue Drag"
+        },
+        {
+            "artist_id": "3dkbV4qihUeMsqN4vBGg93",
+            "artist_name": "Al Green",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/19cbadaa9f26be80cdd39712be53407442f24892",
+            "track_id": "13FkFPnKX1eC2V3nwSy5YB",
+            "track_name": "Love And Happiness"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/424f6e677c9304c5b9fb1c6d508566b837ef8b9f",
+            "track_id": "4fWBgWNctDU62tEUcLmhXv",
+            "track_name": "I Put A Spell On You"
+        },
+        {
+            "artist_id": "6FXMGgJwohJLUSr5nVlf9X",
+            "artist_name": "Massive Attack",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/75bfab27698aa5fc9ec07f51ef81a6ad6f69465d",
+            "track_id": "2BndJYJQ17UcEeUFJP5JmY",
+            "track_name": "Paradise Circus"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/3fedbb02fdeb537b0b28d30dc3a82cff6678d966",
+            "track_id": "5ituU6SebgZBAkS0YnbVre",
+            "track_name": "Black Is The Color Of My True Love's Hair - Jaffa Remix"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5LnB71YcNVmKLjW5nvBSjK",
+            "track_name": "Forbidden Fruit"
+        },
+        {
+            "artist_id": "0iOVhN3tnSvgDbcg25JoJb",
+            "artist_name": "Etta James",
+            "popularity": 28,
+            "preview_url": null,
+            "track_id": "7EfLlY6Gen7TCbyZ3f0CM1",
+            "track_name": "I Just Want To Make Love To You"
+        },
+        {
+            "artist_id": "2DzRMyWgjuMbYvt5BLbpCo",
+            "artist_name": "Anthony Hamilton",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/55096b8acdded0a0e8b45218720045bc0c3b4df0",
+            "track_id": "5ZvHhVIb92E9xskEX9unVl",
+            "track_name": "Can't Let Go"
+        },
+        {
+            "artist_id": "738wLrAtLtCtFOLvQBXOXp",
+            "artist_name": "Major Lazer",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "13gvLHceysd6u8R7WNlkEn",
+            "track_name": "Get Free (Original)"
+        },
+        {
+            "artist_id": "03YhcM6fxypfwckPCQV8pQ",
+            "artist_name": "Wes Montgomery",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "457LWCZHVHt6R9NUYUMCwB",
+            "track_name": "D-Natural Blues"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/602db7b1b04ea638a844731b27c72430f27343b7",
+            "track_id": "617BX2z1ctbswU1xjU3LRW",
+            "track_name": "I Wish I Knew How It Would Feel to Be Free"
+        },
+        {
+            "artist_id": "32LHRiof0sa4taYew9i3Fa",
+            "artist_name": "Dinah Washington",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/04c5eeb804dad409e1fd0487c4340913c14bb908",
+            "track_id": "79KMw5grBPDLAJTPho7DOe",
+            "track_name": "Cry Me A River"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/fb4c93b3bf5f7f8390d8de62877d6f95f296f9a2",
+            "track_id": "3XkXJNMHJB0UiKiVz83yD7",
+            "track_name": "Across The Lines"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfd842e54253fbd8f29a9a5b992f2a7653f60dd4",
+            "track_id": "00OMaIm4VEsUcXad5Pf1Qe",
+            "track_name": "Behind The Wall"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bc213dd3b4af23860d50d40d1c61078dabf90a2",
+            "track_id": "45GTwVJoDDLGEAYkB5NOrT",
+            "track_name": "Mountains O' Things"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/426b9be97a53aa3507791143450f9eccf6e92ef4",
+            "track_id": "61xvgZVz1DiR628nmGtsZH",
+            "track_name": "She's Got Her Ticket"
+        },
+        {
+            "artist_id": "7oPgCQqMMXEXrNau5vxYZP",
+            "artist_name": "Tracy Chapman",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7f623e819ad018b4e4f7e4faf5c4cfd4875cf8e",
+            "track_id": "54Q9fI0Xj3VML32oq7fLTz",
+            "track_name": "I Did It All"
+        },
+        {
+            "artist_id": "7x83XhcMbOTl1UdYsPTuZM",
+            "artist_name": "Tom Waits",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/2699aec9172cb555b2e8a0f1299e4e12ad0c64d4",
+            "track_id": "0ZKwuHVTC2My6lX48r912g",
+            "track_name": "Downtown Train"
+        },
+        {
+            "artist_id": "3IZrrNonYELubLPJmqOci2",
+            "artist_name": "Nancy Sinatra",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/37268731dc7673efbd2c02b395777bc21d66d2ba",
+            "track_id": "4JLcAU2xY90qTkTSNM1lUa",
+            "track_name": "Bang Bang (My Baby Shot Me Down)"
+        },
+        {
+            "artist_id": "2P1puQXmG48EVLBrHbum1J",
+            "artist_name": "Melody Gardot",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6641d6cee36eb4fde7cb3bfe83ff9fd83a92baa1",
+            "track_id": "44zqBRucPIZDEaeG82SAzh",
+            "track_name": "Worrisome Heart"
+        },
+        {
+            "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+            "artist_name": "Chet Baker",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/1948f54888f407e2fc162c69b7a18ec10a372049",
+            "track_id": "4l9hml2UCnxoNI3yCdL1BW",
+            "track_name": "My Funny Valentine"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff4ff7253a66c32d95c273d8bd7a8499ff8b2dbd",
+            "track_id": "1wi8ciRyktNaTBGibXEn2t",
+            "track_name": "Draft Daughter's Blues aka Ootischenia"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff87260aa708c0c1c2ba6eb736df2805361d701c",
+            "track_id": "6Rt7oArVuGeJN1MLyYbZ3d",
+            "track_name": "In My Time Of Dying"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/e967b3f8c5cb2ac5e274b059227941e87aea6a2f",
+            "track_id": "7EbgWcWrgmpfoQuQrykBfC",
+            "track_name": "The Littlest Birds"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5393aed247836f570f68603b2562f658238ef4a",
+            "track_id": "3SeaiYbR2GHXyFHU3xIaMd",
+            "track_name": "Only In The Past"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/17304d5c676f7670c137ae7ae807d215441444c8",
+            "track_id": "10H4UVuGavxSglB9EyyULP",
+            "track_name": "Little Black Bear"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/773dc2c97b71c6886c4610c0567aa3d1358c9331",
+            "track_id": "2970PHwMCUcyv2KJ2KwdUR",
+            "track_name": "Scattered Leaves"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a86c30913030949fafc737e13d858fa5cd726ca",
+            "track_id": "34CgpKCa6ov4YgLqjPXhbK",
+            "track_name": "Waiting Around To Die"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/120dd3c1b48857fbde20e51fb21596ffffc70970",
+            "track_id": "67R8guhQlECcNFUHst91i6",
+            "track_name": "Light Enough To Travel"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd5c3d2e6b23de9658a3fc324f686beaaca34f63",
+            "track_id": "2ZG4SKHkznPxGM4PMEx1O1",
+            "track_name": "Dogsong (aka Sleep Dog Lullaby)"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ca1b440fa1d885c3fe613f16af37e38591e3cb2",
+            "track_id": "6gGHRg2jxG0F0Hbiz4t1R2",
+            "track_name": "The Junkie Song"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b1c7f66a7f8b3239d2bd511f1a52759497d54bb",
+            "track_id": "1QOh1IxQkoVRFH6fgS10ZU",
+            "track_name": "Rain And Snow"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/361589d398785d0dd9719c92a95d4b257e3ed21b",
+            "track_id": "583clyniqUWy3kDM6BAAmh",
+            "track_name": "For The Turnstiles"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/078172ac68742c6309b0c16ba6e689d87dec624e",
+            "track_id": "0fRZ1qYnZBdegdBEPlKwxw",
+            "track_name": "Song for R."
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/8533105111db6c7ad8c63352c3d6cbd8de7a0297",
+            "track_id": "5T6ssLkVqorb65fEtlnDvm",
+            "track_name": "Oh Susanna"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/18bbfc011f683143abd9570ace23ef1b4a5dc0f6",
+            "track_id": "3qyD6E4FtHifabp43FxcuS",
+            "track_name": "Ship Out On The Sea"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0b31c804309ea53ab84d0bf71eceb74e893c084",
+            "track_id": "4OGwTIpUt9XGTeu0ehS7Hd",
+            "track_name": "Gospel Song"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8b26d8487d8a35ebcee0369389f1cddec0d2c58",
+            "track_id": "2oMIxHHOC9bZt3OBemh0Iw",
+            "track_name": "Human Thing"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/361589d398785d0dd9719c92a95d4b257e3ed21b",
+            "track_id": "0ShbiDJGWaMyTimkimVohJ",
+            "track_name": "For The Turnstiles"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/d737312c8a83347c2756e8c11dfbc75c91aba090",
+            "track_id": "2Q8MSnQxkwn887rYGPcfDL",
+            "track_name": "A Thousand Tiny Pieces"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff4ff7253a66c32d95c273d8bd7a8499ff8b2dbd",
+            "track_id": "186BRzpZZq6FqEDjeSYD4S",
+            "track_name": "Draft Daughter's Blues aka Ootischenia"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/b217e410cd19d02cf4772ff2f382b6153abd9042",
+            "track_id": "6SAOW8K017WZlz7QzLF506",
+            "track_name": "A Little Blues"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd06c72adfa7e82ee303af0f669cf2746958a3c0",
+            "track_id": "6L0POTXwBHqKbyCmUeFVW4",
+            "track_name": "Scattered Leaves"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/55af56c2e401dbfccdd5715e190176b233c2bbf9",
+            "track_id": "7gbllRo7RJRu20Ctrlinfa",
+            "track_name": "Hello Love"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/db007e89883ac114dab51ffc1cb790429808dcf0",
+            "track_id": "4F6PD4zFHbFmc8CoblLfIB",
+            "track_name": "Nobody Cares For Me"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5c67b94a18c14e12d87269c36fd0a495605e238",
+            "track_id": "6EvNkWrF7Mpz1zVLx8KH8A",
+            "track_name": "Out Of The Wilderness"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/7024988b49c1da4c40309daeac708bc54d4ce91e",
+            "track_id": "09FEnfys7WfnBKwaIpKa2Q",
+            "track_name": "Song For R."
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa18889eb2f05cbdf6e041eb42ec969f133a7c3e",
+            "track_id": "4JCgna0fXpTR8hMpFCAYg9",
+            "track_name": "What Are They Doing In Heaven Today"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed4b3ffc12ac8b90fd453b4fa3fb38984d5a4669",
+            "track_id": "4nht2Y3JYlginG03uacdkA",
+            "track_name": "Crow Waltz"
+        },
+        {
+            "artist_id": "37PywjKNsxHji5F9eFODF2",
+            "artist_name": "The Be Good Tanyas",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "4feAgyLSEjPolAqkJD8f7V",
+            "track_name": "When Doves Cry"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/19adac95432363f7fad93303a90e99b94b7fc3d6",
+            "track_id": "7iqWZNpHBAK5jE6e9gPKj9",
+            "track_name": "Ain't That Love"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/23b3e06a63511468d658d0baba6482edcc50b3d8",
+            "track_id": "0oQtjAjUeksVd9gHE5fl02",
+            "track_name": "Drown In My Own Tears"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf47a4198db9c1c7aabf50bb04a799659a432ad6",
+            "track_id": "48al0wZBGItngZQZED80WO",
+            "track_name": "Come Back Baby"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff8d9ec0a3c3eabefacbddb4ee0911cfb5aff198",
+            "track_id": "3YROTILzpPbedQXDgeU9mb",
+            "track_name": "Sinner's Prayer"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbb11b953d1d94360e225b7dfad782776ff7ed99",
+            "track_id": "7u17w29WWTiftzGHs8rhpw",
+            "track_name": "Funny But I Still Love You"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/45c5490643c4402f98a5907c1dfb77d085dd44ac",
+            "track_id": "5JNfwF7ZoOkXJWZgcWEnQL",
+            "track_name": "Losing Hand"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/08f2a6817d2bbac29a2936cc5e5510cc05cabeba",
+            "track_id": "7uMb8RUN7S0bXdWXpI2euL",
+            "track_name": "A Fool For You"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ab9138f2a244a110fdc5f8d8bc06492edac7ae4",
+            "track_id": "5P11rW6aJErF37MTfRZS31",
+            "track_name": "Hallelujah I Love Her So"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/39f4c8fcddca2044721ae2e1b6d0151211533f5e",
+            "track_id": "7DJsL4jyXA39GDiHFQYQ0t",
+            "track_name": "Mess Around"
+        },
+        {
+            "artist_id": "1eYhYunlNJlDoQhtYBvPsi",
+            "artist_name": "Ray Charles",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/28cddb6011ff11d4c55acd20f31493a9bdcc9608",
+            "track_id": "3QoFJiEWJ0LnDwch93MdZf",
+            "track_name": "This Little Girl Of Mine"
+        }
+    ]
+}

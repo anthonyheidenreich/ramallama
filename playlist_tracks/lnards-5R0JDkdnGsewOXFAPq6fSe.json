@@ -1,0 +1,173 @@
+{
+    "href": "https://api.spotify.com/v1/users/lnards/playlists/5R0JDkdnGsewOXFAPq6fSe/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c05f69c0b829d9be4ea2fdbc34eaa2eeed99464",
+            "track_id": "1T7Htpf1kEvU9Adf8J0ekk",
+            "track_name": "Break Free"
+        },
+        {
+            "artist_id": "2gsggkzM5R49q6jpPvazou",
+            "artist_name": "Jessie J",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/426e754df7eb36b3e970c5c4d90893df10e7f9b7",
+            "track_id": "7zrYKlgYQv1ELz7LGyjTd1",
+            "track_name": "Bang Bang"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 32,
+            "preview_url": null,
+            "track_id": "0DKT3yIip1M0W0J1HYS1ru",
+            "track_name": "Maps"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/93c366f179c299b6f8baed30fb6478804f1475ea",
+            "track_id": "4DBkrkVzx7jxxIjxI6FYvz",
+            "track_name": "This Is How We Do"
+        },
+        {
+            "artist_id": "25uiPmTg16RbhZWAqwLBy5",
+            "artist_name": "Charli XCX",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/fee73de6ebcdb593299933dc1b7883ceded314a4",
+            "track_id": "63bniwRWWFGoasyhX2eQHJ",
+            "track_name": "Boom Clap"
+        },
+        {
+            "artist_id": "4zxvC7CRGvggq9EWXOpwAo",
+            "artist_name": "Kiesza",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/103548123496ebe8306a549edb767e8a2b0064f2",
+            "track_id": "1iXBApi39l5r6lJj9WEXXS",
+            "track_name": "Hideaway"
+        },
+        {
+            "artist_id": "0NIIxcxNHmOoyBx03SfTCD",
+            "artist_name": "Tinashe",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/3300eddaa63a34d29b505ea1c9c4222ee1688752",
+            "track_id": "5AzYIo8Y7pvnKtdl2Yflcb",
+            "track_name": "2 On"
+        },
+        {
+            "artist_id": "3Yl4nkmEa8BSuGWbwhdLDq",
+            "artist_name": "G.R.L.",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/b740a547811091b4140e961feea439cc366dd40d",
+            "track_id": "1Vv0MPcooEoQzVZYfKMgKW",
+            "track_name": "Ugly Heart"
+        },
+        {
+            "artist_id": "10exVja0key0uqUkk6LJRT",
+            "artist_name": "Vance Joy",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/0dd45171d094ca8d374219054879662fe7982462",
+            "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
+            "track_name": "Riptide"
+        },
+        {
+            "artist_id": "5WUlDfRSoLAfcVSX1WnrxN",
+            "artist_name": "Sia",
+            "popularity": 86,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1898cf5fd5640d4f0d7faafa6c572fc29db3db6",
+            "track_id": "4VrWlk8IQxevMvERoX08iC",
+            "track_name": "Chandelier"
+        },
+        {
+            "artist_id": "5yG7ZAZafVaAlMTeBybKAL",
+            "artist_name": "Iggy Azalea",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/149031672993652b1dd1f1b50e624c10f5e7165c",
+            "track_id": "7pNC5ZIKtwUK0ReSpM3P9f",
+            "track_name": "Black Widow"
+        },
+        {
+            "artist_id": "6vWDO969PvNqNYHIOW5v0m",
+            "artist_name": "Beyonc\u00e9",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ecd5010e5a46f1c84f42bcfed50505395825d7a",
+            "track_id": "2vPTtiR7x7T6Lr17CE2FAE",
+            "track_name": "Partition"
+        },
+        {
+            "artist_id": "1l9d7B8W0IHy3LqWsxP2SH",
+            "artist_name": "Phantogram",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/471a8a3cbe68d8ea6827c8a05d7c562b09909a7e",
+            "track_id": "73FCPll1CK0sklAt1VlmFc",
+            "track_name": "Fall In Love"
+        },
+        {
+            "artist_id": "3x7BaW5q1SDNv6bVrbOCmX",
+            "artist_name": "MOVEMENT",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/198c2054d206d6f7135648e2ec497d15875aaadf",
+            "track_id": "7xPHI2ASONML8pntwcqBSH",
+            "track_name": "Us"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 67,
+            "preview_url": null,
+            "track_id": "7dS5EaCoMnN7DzlpT6aRn2",
+            "track_name": "Take Me To Church"
+        },
+        {
+            "artist_id": "6JL8zeS1NmiOftqZTRgdTz",
+            "artist_name": "Meghan Trainor",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/25128e3ab7e61b593d5f15ab601369bc83bd9c5e",
+            "track_id": "0ifSeVGUr7py5GggttDhXw",
+            "track_name": "All About That Bass"
+        },
+        {
+            "artist_id": "67hb7towEyKvt5Z8Bx306c",
+            "artist_name": "Empire of the Sun",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc693a3b0ac7de13bdc4f640dc0e4233f7533d88",
+            "track_id": "5WBnKCEsPwsvWHUZmLjS3s",
+            "track_name": "Alive"
+        },
+        {
+            "artist_id": "1PbBg2aYjWLKRk84zJK15x",
+            "artist_name": "Echosmith",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/27df0a89036135748fd03fb67114abeb00c529a4",
+            "track_id": "13P5rwmk2EsoFRIz9UCeh9",
+            "track_name": "Cool Kids"
+        },
+        {
+            "artist_id": "4Rxn7Im3LGfyRkY2FlHhWi",
+            "artist_name": "Nick Jonas",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9fc0948d423f4e480cd6e12567c5be22f92ce7e",
+            "track_id": "3JiockjOTd8m2VGcTGkmew",
+            "track_name": "Jealous"
+        },
+        {
+            "artist_id": "2wY79sveU1sp5g7SokKOiI",
+            "artist_name": "Sam Smith",
+            "popularity": 48,
+            "preview_url": null,
+            "track_id": "6WNqOfvfqmbyCk23ejRBwO",
+            "track_name": "I'm Not The Only One"
+        },
+        {
+            "artist_id": "4NHQUGzhtTLFvgF5SZesLK",
+            "artist_name": "Tove Lo",
+            "popularity": 46,
+            "preview_url": null,
+            "track_id": "4dL1HwRWQgWK9timX9PLex",
+            "track_name": "Habits (Stay High)"
+        }
+    ]
+}

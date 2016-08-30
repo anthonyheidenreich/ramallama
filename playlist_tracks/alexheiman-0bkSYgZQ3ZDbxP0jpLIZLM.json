@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/0bkSYgZQ3ZDbxP0jpLIZLM/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c511c35e42bced5a77294c4af41f5f96c081b30",
+            "track_id": "41iP0E4SyaavLjTUzSlCXr",
+            "track_name": "Makin' Whoopee"
+        },
+        {
+            "artist_id": "0hItVPjwJLVZrFqOyIsxPf",
+            "artist_name": "Judy Garland",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/57d041f97e6fd903ba2611aea99dbc104975004b",
+            "track_id": "7AIJ4ekERtWcPIOjqbMKGz",
+            "track_name": "For Me And My Gal - Single Version"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/99e97ceb0a73e787fade3fe9a36ef1031904abb6",
+            "track_id": "1qVjKigouizXUqJtpzKBfc",
+            "track_name": "It Had To Be You"
+        },
+        {
+            "artist_id": "6SY4hPB2QITF4kQUui96EP",
+            "artist_name": "Barbara Cook",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0100916a6272012df59b7b73b34ed97f958c748",
+            "track_id": "4ezywP0C9qanuHw7oyoIZh",
+            "track_name": "Lullaby In Ragtime"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/3078a0bddb78657e202513658e2be889ac3a4d4e",
+            "track_id": "0PMIBSN9anykwYcJJvIKME",
+            "track_name": "Mack The Knife - Live In Berlin/1960"
+        }
+    ]
+}

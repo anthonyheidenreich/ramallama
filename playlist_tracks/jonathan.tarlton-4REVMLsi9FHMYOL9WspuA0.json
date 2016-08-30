@@ -1,0 +1,221 @@
+{
+    "href": "https://api.spotify.com/v1/users/jonathan.tarlton/playlists/4REVMLsi9FHMYOL9WspuA0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2EdviCe4eYJQqa6hs8Fo2Z",
+            "artist_name": "Jim Hurst",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/df98a7c66ad9b13cb09e43f38c7b7a99910c4f88",
+            "track_id": "2nIhxpJwKCr5p0QV2WjICE",
+            "track_name": "Golden Slippers"
+        },
+        {
+            "artist_id": "0TRdPkXMabkeuB8JautkEf",
+            "artist_name": "Julian Lage & Chris Eldridge",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/34b04b26b5dc3abe81ee9158ea2c9f84a3dee764",
+            "track_id": "0yw0GwNSZWuDs7mOQQViGL",
+            "track_name": "Whiskey Before Breakfast"
+        },
+        {
+            "artist_id": "1i6gZOCXJFl870flGg2RYW",
+            "artist_name": "Kenny Smith",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/195bac73bea6a1f45e25c3a3ec34aea491d8fa5f",
+            "track_id": "5T4kZw1wjv9m9c17jVPxoe",
+            "track_name": "Angeline The Baker"
+        },
+        {
+            "artist_id": "1LFHqGsLJjUP2jqIAznlLm",
+            "artist_name": "Bryan Sutton",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f34c2d6d535fd3a3695dbfaeb63f4dcc392f232",
+            "track_id": "6Vub1EvDcbP5RxoE9AlxWc",
+            "track_name": "Forked Deer"
+        },
+        {
+            "artist_id": "3c5mz1prDHB7UYEvCP5z1B",
+            "artist_name": "Scott Fore & Kenny Smith",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/db13c41575e50d14a91a1da4d1aea8bf367b0567",
+            "track_id": "1q5coO2OZLzDJ0choglaOr",
+            "track_name": "Cherokee Shuffle (Smith & Fore)"
+        },
+        {
+            "artist_id": "4YgACLaoEjPl4kVZ5WmBN9",
+            "artist_name": "Jerry Douglas",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/d1a14bd66bd6da7fb908f81c1e494bdf961ec30b",
+            "track_id": "3bwRblhAbbkQ8GoL7YatI7",
+            "track_name": "Big Sciota"
+        },
+        {
+            "artist_id": "6dnqucHuE4e95FPhiKoPsR",
+            "artist_name": "Tim May Cody Kilby",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/96d4bf2a1f9e331b64a1a073a96e094e1a9cd468",
+            "track_id": "7m2vCt3JgCoRMvvQ5ICywQ",
+            "track_name": "Lonesome Fiddle Blues (May & Kilby)"
+        },
+        {
+            "artist_id": "6N9hyojoLChEhlsS8vYnyr",
+            "artist_name": "Tony Rice",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5ebe6cabd9afffca333c3bf131a2ed51dda0534",
+            "track_id": "359pp7cd9SjKIFjh0NphUb",
+            "track_name": "Gold Rush"
+        },
+        {
+            "artist_id": "7pegCNQWY8d3F3Rvy9PkXF",
+            "artist_name": "Scott Nygaard",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/adc9d9f9a4c1a69b69244988e1e6cb0c0de7e8e0",
+            "track_id": "7zcZrQzVNlRSq2oE1urF7p",
+            "track_name": "Bury Me Beneath the Willow"
+        },
+        {
+            "artist_id": "7hWVElplEhp3zOKg7KuLr2",
+            "artist_name": "David Grier",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/4cb764726d9d04faad99d1ffb7c79acf69af4bf5",
+            "track_id": "6Mzf6Rg61LmC8O8Udr3oc3",
+            "track_name": "Smith Chapel"
+        },
+        {
+            "artist_id": "01N1aZStXA4yGvkz4vRXtJ",
+            "artist_name": "Doc Watson",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/a45b73632160d46375bb6e59aac1dbdf00f20fc0",
+            "track_id": "5Ys3TeaxdroLXxWWjI2Z68",
+            "track_name": "Black Mountain Rag"
+        },
+        {
+            "artist_id": "7dOHEXlwHl6Za0gibkscAp",
+            "artist_name": "Beppe Gambetta",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/e7360d91af187979f4e8b02a0347718279cd30bc",
+            "track_id": "3se0qMkrommYjXB0oeWhpu",
+            "track_name": "Dixie Breakdown"
+        },
+        {
+            "artist_id": "1dyGPAYZZHHW6WIqwKN5QF",
+            "artist_name": "Chris Thile",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f657ae1733549736d180c453aa771a79342408b",
+            "track_id": "058ryA2kpAwO7GK5bBrCNL",
+            "track_name": "Tennessee Blues"
+        },
+        {
+            "artist_id": "7MNoJalBLtqKoDbjvjPqt5",
+            "artist_name": "Dan Crary",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9aceef1543b1c7633a1bea39d6502e602ef5461",
+            "track_id": "146KcDOCuxNwpEoMEhaDUw",
+            "track_name": "Reuben"
+        },
+        {
+            "artist_id": "5j5gcFgwE6OH0PQj2Vdcvr",
+            "artist_name": "Andy Falco & Chris Eldridge",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/86dee56635a2eda231692973edbd61f6bb578632",
+            "track_id": "1DcNxF8OozaVaaXz3EXTZ1",
+            "track_name": "Bill Cheathum (Eldridge & Falco)"
+        },
+        {
+            "artist_id": "2EdviCe4eYJQqa6hs8Fo2Z",
+            "artist_name": "Jim Hurst",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/6578daefe97fa9871d6709891fb1609701e0c119",
+            "track_id": "4dYlbFqwRflmfosy1ICgbY",
+            "track_name": "Wheel Hoss"
+        },
+        {
+            "artist_id": "6N9hyojoLChEhlsS8vYnyr",
+            "artist_name": "Tony Rice",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c2bfe56627ca91bee95f66a25803d710545b471",
+            "track_id": "5oL67VVscjXPsiJfmFukwZ",
+            "track_name": "Cattle In The Cane"
+        },
+        {
+            "artist_id": "3rjRvOadHUMbFOZ4Fh8adZ",
+            "artist_name": "Robert Bowlin",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee6552fc9c6c4d483a31efcdfb0c650f7cfd9684",
+            "track_id": "2KUjXGdKZqsZ2bjbCYHq3x",
+            "track_name": "East Tennessee Blues"
+        },
+        {
+            "artist_id": "1HQvi0Woqu1yVsDYE9YL6d",
+            "artist_name": "Mike Marshall & Darol Anger",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/f95cd75fc43767ff6d1ff3b59574ef124c8ec06f",
+            "track_id": "6YHpAmr7UozA5jDqHBF1Gw",
+            "track_name": "In the Pines"
+        },
+        {
+            "artist_id": "0T89G6Ho2ray6jMUQ5uMDJ",
+            "artist_name": "Larry and Wyatt Rice",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/79152d50d8d436430f617823f9920bb97b7d8ca4",
+            "track_id": "6BhBFGnDmQqtxNlhHD1qNN",
+            "track_name": "Alabama Jubilee"
+        },
+        {
+            "artist_id": "1lOMxwjinS2fqStRAqbm16",
+            "artist_name": "Richard Bennett",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b3609161be62f51a9984e31753778b9f447ccb3",
+            "track_id": "0IHErXvLHAjpAqDIqOPfE1",
+            "track_name": "Dixie Hoedown"
+        },
+        {
+            "artist_id": "5kA86jQnoaPaM57DUsQOWG",
+            "artist_name": "Norman Blake",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ab9cf916a0db01c4c4bca2cf0d61dc1846d4291",
+            "track_id": "0YkgLcA5VmV40C84umBKQo",
+            "track_name": "A Maiden's Prayer"
+        },
+        {
+            "artist_id": "7dOHEXlwHl6Za0gibkscAp",
+            "artist_name": "Beppe Gambetta",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ad209d56ee0b8fc678ea3b6f8813284bdbc9684",
+            "track_id": "5ZAmxm2KGQE3QzH06u3DNb",
+            "track_name": "Randy Lynn Rag"
+        },
+        {
+            "artist_id": "5udgy2xk333j33hKnwDz8O",
+            "artist_name": "David Grisman",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c06089dba488033e6e01fae3040e4611223adce",
+            "track_id": "2HJErfyWhjJM3F6Tfyc3jf",
+            "track_name": "Wildwood Flower"
+        },
+        {
+            "artist_id": "3HNdk3o5eWx34BclNokSI8",
+            "artist_name": "Andy Falco",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b1b221c3017afb11fdeca867b552c524098b572",
+            "track_id": "3J7Ay0zZxgPjCxPYsQKjYy",
+            "track_name": "Rattlesnake Creek"
+        },
+        {
+            "artist_id": "01N1aZStXA4yGvkz4vRXtJ",
+            "artist_name": "Doc Watson",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f960cd58cf339c3d49c41d80e9717ccf155af98",
+            "track_id": "2GdGfAqj7ObEXfoqPxnUF5",
+            "track_name": "Farewell Blues"
+        },
+        {
+            "artist_id": "6N9hyojoLChEhlsS8vYnyr",
+            "artist_name": "Tony Rice",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e7c31b8034c89ff250434cf6d89e5455055ee85",
+            "track_id": "5EsoyaJKTl0jirLsCkdEaI",
+            "track_name": "Lost Indian"
+        }
+    ]
+}

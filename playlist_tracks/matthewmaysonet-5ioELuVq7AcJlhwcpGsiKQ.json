@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/matthewmaysonet/playlists/5ioELuVq7AcJlhwcpGsiKQ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7urq0VfqxEYEEiZUkebXT4",
+            "artist_name": "112",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cc538f8d54cff26d54524bd24d17c5513fd9560",
+            "track_id": "3kVIFDE3G89I2RPVkiRaRj",
+            "track_name": "Cupid"
+        },
+        {
+            "artist_id": "4O2YL4ygn6eTBC0w1hyWUM",
+            "artist_name": "Melanie Fiona",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e6f5d0510fa7b82865332c80e17d849264c43f0",
+            "track_id": "3vMIAawCfJdR6A86JGqLc5",
+            "track_name": "4AM"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1kpE1fy4XL8mNUazJF1an2",
+            "track_name": "Let's Get It On"
+        },
+        {
+            "artist_id": "47zz7sob9NUcODy0BTDvKx",
+            "artist_name": "Sade",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/607ba43228f08e24097224427a18a33759ff9e67",
+            "track_id": "4jsdqalaKwDTdPGLvps128",
+            "track_name": "By Your Side"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1245921668/playlists/6zANbh7Kik65COAZvQi8cC/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2aaLAng2L2aWD2FClzwiep",
+            "artist_name": "Dream Theater",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/98582ecc8946b2906134833221893684e4bc24d4",
+            "track_id": "4IuVWyD0fgFvX6V5CL0mHC",
+            "track_name": "The Glass Prison"
+        },
+        {
+            "artist_id": "2aaLAng2L2aWD2FClzwiep",
+            "artist_name": "Dream Theater",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec611daa7c19f6cac3557f80ca80646c0678b1b1",
+            "track_id": "2PmdqEOn4UhdPO8uCuMHww",
+            "track_name": "This Dying Soul"
+        },
+        {
+            "artist_id": "2aaLAng2L2aWD2FClzwiep",
+            "artist_name": "Dream Theater",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f9d3fb45aeaa7e594780f023113f2a4a844ba30",
+            "track_id": "09pKnVI4uEh31Vvz7lVggD",
+            "track_name": "The Root Of All Evil"
+        },
+        {
+            "artist_id": "2aaLAng2L2aWD2FClzwiep",
+            "artist_name": "Dream Theater",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/146cde7dd2c75ea65832ecc9e45987c8a0e610f1",
+            "track_id": "4lhhIUf7IYoQ7Lj8mQ8uq4",
+            "track_name": "Repentance"
+        },
+        {
+            "artist_id": "2aaLAng2L2aWD2FClzwiep",
+            "artist_name": "Dream Theater",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/580e0b26bdfd2d1efdb8dac3c2d7ed98e37e7d7d",
+            "track_id": "1p1n8qCkUwftVLVJqsuEGu",
+            "track_name": "The Shattered Fortress"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/mhanley24/playlists/3NDdulasyGyZZOLCSzgpep/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "714osTgzZrkyf3SGjggpfY",
+            "artist_name": "North Mississippi Allstars",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cf558609cfc78e31c3b19328a61378d1e5e00e9",
+            "track_id": "7JtRncm0aTxBotToJC0q5o",
+            "track_name": "Meet Me in the City"
+        },
+        {
+            "artist_id": "44M8i4BCwuBbmcQWwMaOfH",
+            "artist_name": "Stu Larsen",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3b374b2aaecf02025b25884c60195dc2071d7d8",
+            "track_id": "0s7rK6ZBik5I0t1gxSVQRg",
+            "track_name": "Thirteen Sad Farewells"
+        }
+    ]
+}

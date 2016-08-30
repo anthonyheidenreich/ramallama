@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/125130791/playlists/2y7a0bFRpdFpKX2oDrWupn/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "artist_name": "Rihanna",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b26fe99727489470523fbfbff12f9bfb5b1c164",
+            "track_id": "1bLG2x4ePXBr6TXFBOmXRk",
+            "track_name": "We Found Love"
+        },
+        {
+            "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "artist_name": "Rihanna",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/2bab6d9d6bb86164e0d822d0b9c500de5b97d7d6",
+            "track_id": "08Bfk5Y2S5fCxgxk371Eel",
+            "track_name": "S&M"
+        },
+        {
+            "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "artist_name": "Rihanna",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b26fe99727489470523fbfbff12f9bfb5b1c164",
+            "track_id": "1bLG2x4ePXBr6TXFBOmXRk",
+            "track_name": "We Found Love"
+        },
+        {
+            "artist_id": "1Cs0zKBU1kc0i8ypK3B9ai",
+            "artist_name": "David Guetta",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/24612327a14591f993bb0e2bc076fda73ba34cf7",
+            "track_id": "45PdLo6r1tME4Uhkg5h7ak",
+            "track_name": "Who's That Chick ? (feat. Rihanna) [Single Version]"
+        },
+        {
+            "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "artist_name": "Rihanna",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc57f6f213eef50c9463e1d41cf58978c217d531",
+            "track_id": "3XcCfweqtfMbZNbM7Mq0gg",
+            "track_name": "Hard"
+        },
+        {
+            "artist_id": "4RVnAU35WRWra6OZ3CbbMA",
+            "artist_name": "Kylie Minogue",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/a48c7756c4b632b2522651188a9f48e54cacbd53",
+            "track_id": "2VZ5Vtjn16RThAvaFz3sJZ",
+            "track_name": "Get Outta My Way"
+        }
+    ]
+}

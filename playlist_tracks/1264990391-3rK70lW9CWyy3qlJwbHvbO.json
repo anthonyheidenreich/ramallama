@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1264990391/playlists/3rK70lW9CWyy3qlJwbHvbO/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a24e647e575fbd53b58ab8115a466ca5705051f",
+            "track_id": "3XSczvk4MRteOw4Yx3lqMU",
+            "track_name": "Roar"
+        },
+        {
+            "artist_id": "6DIS6PRrLS3wbnZsf7vYic",
+            "artist_name": "WALK THE MOON",
+            "popularity": 87,
+            "preview_url": "https://p.scdn.co/mp3-preview/50171ad2206e8f6b2ecad2266d353472427c358e",
+            "track_id": "4kbj5MwxO1bq9wjT5g9HaA",
+            "track_name": "Shut Up and Dance"
+        },
+        {
+            "artist_id": "10exVja0key0uqUkk6LJRT",
+            "artist_name": "Vance Joy",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/0dd45171d094ca8d374219054879662fe7982462",
+            "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
+            "track_name": "Riptide"
+        }
+    ]
+}

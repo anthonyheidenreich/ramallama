@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226635310/playlists/4ggxcWu23wd6AJHn6u943s/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3Fkmpn0FHCZfBWzXbQu77B",
+            "artist_name": "Beautiful Small Machines",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/06a5e6644ddacfc4e72c7f70db33b214b0b5e5ce",
+            "track_id": "1lxCNWezXGRYwJxjCEuB6p",
+            "track_name": "So Long to U"
+        },
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/8031e5958ad324c23964d9770e75ee4786fad83c",
+            "track_id": "4AYzINWnNNRNzOKMTPQfcM",
+            "track_name": "Outrageous"
+        },
+        {
+            "artist_id": "2CvCyf1gEVhI0mX6aFXmVI",
+            "artist_name": "Paul Simon",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/629e767a654957079b2fd820c9b2a38d0bcd1caf",
+            "track_id": "46lpcIArInIqOOvLVcilBH",
+            "track_name": "Diamonds On The Soles Of Her Shoes"
+        }
+    ]
+}

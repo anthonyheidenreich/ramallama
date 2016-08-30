@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/1Lb4xPedj0uHMK7KpeKqCP/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4D75GcNG95ebPtNvoNVXhz",
+            "artist_name": "Afrojack",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa419fdc28225954bc6ce38c52be0b886469ae2d",
+            "track_id": "3oKlFN0SzQFmLBQ7XlMt2b",
+            "track_name": "Prutataaa - Original Mix"
+        },
+        {
+            "artist_id": "7CajNmpbOovFoOoasH2HaY",
+            "artist_name": "Calvin Harris",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "4DdaO9Cn2nY8an0tRGwOkd",
+            "track_name": "Im Not Alone - Deadmau5 Remix"
+        }
+    ]
+}

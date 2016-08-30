@@ -1,0 +1,141 @@
+{
+    "href": "https://api.spotify.com/v1/users/1218843405/playlists/19iLZ9yd6k1IXxuAEffarm/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5q4AzEtCoYJyXjMMoEkSU5",
+            "artist_name": "Bachman-Turner Overdrive",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "07TGd3WQ5KqcayDG10uBbc",
+            "track_name": "You Ain't Seen Nothing Yet"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/cae84783e9610a6a00ae543a4f969caa684b0f3e",
+            "track_id": "0Ir0Esfpcg0EB6Kq8VbbAh",
+            "track_name": "I Won't Back Down"
+        },
+        {
+            "artist_id": "3eqjTLE0HfPfh78zjh6TqT",
+            "artist_name": "Bruce Springsteen",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/53b8b11905628a9fe5149fed4dddb1bf010c8f2a",
+            "track_id": "2fnuoul0x4g8ZYkAYNgAgZ",
+            "track_name": "Glory Days"
+        },
+        {
+            "artist_id": "3lPQ2Fk5JOwGWAF3ORFCqH",
+            "artist_name": "John Mellencamp",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/0023ed686cd68ad59bba59bfda27146aa636ad1f",
+            "track_id": "7Glw89Hem5oee4wdhLi5AR",
+            "track_name": "Pink Houses"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d4f2de25fcd7b780d468ea0b7ceab3656f00e4e",
+            "track_id": "4AYdUGxTSIpROPuglN0XUE",
+            "track_name": "Tumbling Dice"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/92e27fc240e04df94c9854f758adf88ebd390f32",
+            "track_id": "7GkM8M2EC8OJblOxQxAR7t",
+            "track_name": "Fortunate Son"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/36d69a9c5b7a78b378f349e319ca49075993717b",
+            "track_id": "7MRyJPksH3G2cXHN8UKYzP",
+            "track_name": "American Girl"
+        },
+        {
+            "artist_id": "4MVyzYMgTwdP7Z49wAZHx0",
+            "artist_name": "Lynyrd Skynyrd",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/067bdb21591b52009f9a6608924402648aae28ae",
+            "track_id": "74QCZPlpayjvQ4yJJFljfQ",
+            "track_name": "Sweet Home Alabama"
+        },
+        {
+            "artist_id": "67ea9eGLXYMsO2eYQRui3w",
+            "artist_name": "The Who",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "5l3iCMN9GLxofclApZXcmR",
+            "track_name": "Baba O'Riley"
+        },
+        {
+            "artist_id": "3IYUhFvPQItj6xySrBmZkd",
+            "artist_name": "Creedence Clearwater Revival",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/41a8eeaf1f130ea86d666e00cf0ecd03a1a574a7",
+            "track_id": "2A0IRQ2Wq0dCoTfZGWoGkI",
+            "track_name": "Travelin' Band"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/c37cd6055e94f60fc1935b9fe565a7ee967626fe",
+            "track_id": "5GwlzxPB4ydyouhOtFkzuO",
+            "track_name": "Shattered"
+        },
+        {
+            "artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+            "artist_name": "The Allman Brothers Band",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/d69329199be2faaf40d6d193e2cd87b7ef24e01d",
+            "track_id": "3NaQTd49ftqH1XdR1DFBUM",
+            "track_name": "Whipping Post"
+        },
+        {
+            "artist_id": "4TMHGUX5WI7OOm53PqSDAT",
+            "artist_name": "Grateful Dead",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/38211bd38add47a552a0490376bbbf5cbcb16604",
+            "track_id": "1kMmDBfMsOrtIkKKzRIBA3",
+            "track_name": "Friend Of The Devil - Remastered Version"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/2728103dd3631b422c924e4c8a9d64586025b2ab",
+            "track_id": "6xqayfEwbQJh4zirijWnSl",
+            "track_name": "Hey Joe"
+        },
+        {
+            "artist_id": "6fvN9GmMCVKb5LY0WsnjFP",
+            "artist_name": "Nazareth",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c2b32aef09d0ae452526bcd96fa672ef6fc030f",
+            "track_id": "1wXE6zvNWRz8GuMfEUgETz",
+            "track_name": "Hair Of The Dog"
+        },
+        {
+            "artist_id": "00tVTdpEhQQw1bqdu8RCx2",
+            "artist_name": "Blue \u00d6yster Cult",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/3419e9f6ef5710656f6787a0abfec7a9dba41a14",
+            "track_id": "1uZOev7V8UkfhCKuMDnAdy",
+            "track_name": "Burnin' for You"
+        },
+        {
+            "artist_id": "1WRM9i067hd2ujxxi8FI3m",
+            "artist_name": "Steppenwolf",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/032ac3e2491d27483223397dd77b1362add4ece9",
+            "track_id": "6qnhXRedMi71TBYRc9jm4o",
+            "track_name": "Magic Carpet Ride"
+        }
+    ]
+}

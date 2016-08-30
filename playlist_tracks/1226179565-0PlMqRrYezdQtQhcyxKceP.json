@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/0PlMqRrYezdQtQhcyxKceP/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 36,
+            "preview_url": null,
+            "track_id": "5BSndweF91KDqyxANsZcQH",
+            "track_name": "Ho Hey"
+        },
+        {
+            "artist_id": "5ndkK3dpZLKtBklKjxNQwT",
+            "artist_name": "B.o.B",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/2fe8096385f5d814dea069123fdbf35ed9e93aed",
+            "track_id": "63ZKUKbwb6Zozlk8LJCiPB",
+            "track_name": "We Still In This Bitch (feat. T.I. and Juicy J)"
+        },
+        {
+            "artist_id": "3PhoLpVuITZKcymswpck5b",
+            "artist_name": "Elton John",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/83700fcc844b6a108b741423eb842e6ae78d145b",
+            "track_id": "5pDaRonmzAV91HPxZVeiai",
+            "track_name": "Step Into Christmas"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "0WhVvWC1OpzIZmvGfdCjUF",
+            "track_name": "Marshmellow World"
+        },
+        {
+            "artist_id": "6m9a3tDNWDe6bVR2csIjEv",
+            "artist_name": "Whilk & Misky",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/0225e40d77b8a90e68cc0487e772981a4c5b65f5",
+            "track_id": "5ndyjqPPACB114cu4PlAw9",
+            "track_name": "Clap Your Hands"
+        }
+    ]
+}

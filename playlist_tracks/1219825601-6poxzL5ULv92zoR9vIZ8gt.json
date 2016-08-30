@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/6poxzL5ULv92zoR9vIZ8gt/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3ZooCJzNMTLpmJaIRUEorI",
+            "artist_name": "Young Dro",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd3892051f1d45af8c3c05cea71aafdd201537fc",
+            "track_id": "27Har4Jai5ktc37ptEkINv",
+            "track_name": "FDB"
+        },
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "1XcQusdnAx3vQtL891EUI5",
+            "track_name": "V. 3005"
+        },
+        {
+            "artist_id": "3KV3p5EY4AvKxOlhGHORLg",
+            "artist_name": "Jeremih",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/3249b0fbe1b71709bed2b680b26c712618ae4fa9",
+            "track_id": "3dkknl96lNbFoSrWrxfAsU",
+            "track_name": "Don't Tell 'Em"
+        },
+        {
+            "artist_id": "21mKp7DqtSNHhCAU2ugvUw",
+            "artist_name": "ODESZA",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "4XADaL6Bbz8TZt3w3kbb0I",
+            "track_name": "Say My Name (feat. Zyra)"
+        },
+        {
+            "artist_id": "3ZooCJzNMTLpmJaIRUEorI",
+            "artist_name": "Young Dro",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd3892051f1d45af8c3c05cea71aafdd201537fc",
+            "track_id": "27Har4Jai5ktc37ptEkINv",
+            "track_name": "FDB"
+        }
+    ]
+}

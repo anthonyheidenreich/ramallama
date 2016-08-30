@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/122742594/playlists/3SIkX7Kqu9c0g0e8mDCSdk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1YuknfkSYTTbolRpwZBOv4",
+            "artist_name": "George Gershwin",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/091e4cf4b303c35bd243dbe37892c67f30dc4c08",
+            "track_id": "66qFfMCt1kYgWScOX9gfSH",
+            "track_name": "Rhapsody in Blue"
+        },
+        {
+            "artist_id": "1YuknfkSYTTbolRpwZBOv4",
+            "artist_name": "George Gershwin",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/9626f585460ba3bba62d26e0405942a55ce7f0b7",
+            "track_id": "76fPGePLlNmrkGfM1IYy8q",
+            "track_name": "An American in Paris"
+        },
+        {
+            "artist_id": "0tWfibobfCwFxRF5PpBVyR",
+            "artist_name": "Ferde Grof\u00e9",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/cd48b4cd66fb723cce0daa8e09c8f9cb03550456",
+            "track_id": "1a697iK54bRnRcr8Eb3TJl",
+            "track_name": "Grand Canyon Suite: I. Sunrise"
+        },
+        {
+            "artist_id": "0tWfibobfCwFxRF5PpBVyR",
+            "artist_name": "Ferde Grof\u00e9",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc025fab787b9b173cf91ab0994d26339db972d8",
+            "track_id": "2UvI0YWy97RXebLQGbhYzT",
+            "track_name": "Grand Canyon Suite: II. Painted Desert"
+        },
+        {
+            "artist_id": "0tWfibobfCwFxRF5PpBVyR",
+            "artist_name": "Ferde Grof\u00e9",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/55fbc9f47dc600276f4222bb5d439c96e00fe56a",
+            "track_id": "4daJwWIYn04HV98qt8c306",
+            "track_name": "Grand Canyon Suite: III. On the Trail"
+        },
+        {
+            "artist_id": "0tWfibobfCwFxRF5PpBVyR",
+            "artist_name": "Ferde Grof\u00e9",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef5978089612abc40377c6f50fdbb914f60ed14a",
+            "track_id": "2Hq9U18V83IkAAAV2sbOhv",
+            "track_name": "Grand Canyon Suite: IV. Sunset"
+        },
+        {
+            "artist_id": "0tWfibobfCwFxRF5PpBVyR",
+            "artist_name": "Ferde Grof\u00e9",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5a64884dba48f08c43f8e6b92a4f9660dcef2f6",
+            "track_id": "1iFfhWR9VSmY7XWfWgt6dU",
+            "track_name": "Grand Canyon Suite: V. Cloudburst"
+        },
+        {
+            "artist_id": "2LmyJyCF5V1eQyvHgJNbTn",
+            "artist_name": "Leonard Bernstein",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/82ba19c4ff737c15fbda265b7f894f4521b238c9",
+            "track_id": "4n1Ylucqt3uqymC0AQvYQZ",
+            "track_name": "Prelude, Fugue and Riffs for Solo Clarinet and Jazz Ensemble: Prelude for the Brass"
+        },
+        {
+            "artist_id": "2LmyJyCF5V1eQyvHgJNbTn",
+            "artist_name": "Leonard Bernstein",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4eaec626c256ee9d746f5f9009acd6285c62ba2",
+            "track_id": "2ciebHaETfAV6TlzpHHuGg",
+            "track_name": "Prelude, Fugue and Riffs for Solo Clarinet and Jazz Ensemble: Fugue for the Saxes"
+        },
+        {
+            "artist_id": "2LmyJyCF5V1eQyvHgJNbTn",
+            "artist_name": "Leonard Bernstein",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5bb68bc2360e26296973effc2103651be6ac475",
+            "track_id": "5qdQK9ZsWJjfhiIrDnI5Vw",
+            "track_name": "Prelude, Fugue and Riffs for Solo Clarinet and Jazz Ensemble: Riffs for Everyone"
+        }
+    ]
+}

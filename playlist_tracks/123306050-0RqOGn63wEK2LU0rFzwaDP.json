@@ -1,0 +1,669 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/0RqOGn63wEK2LU0rFzwaDP/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/252f2c791962754a62918cc8339dc101c7d0ea00",
+            "track_id": "5mQYBoGU3BOAqiFq54b51i",
+            "track_name": "Playing with the Boys"
+        },
+        {
+            "artist_id": "7CwJ4VEWs7HV7MWQt9cgyk",
+            "artist_name": "Bruce Hornsby and the Range",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/27b79604ba84d8fc8d8289433c84ce81d14143b0",
+            "track_id": "4TkT88toXstwew86C27D5o",
+            "track_name": "On the Western Skyline"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/cfa1a2239193e76469b331ea5633e5a1673b7c6f",
+            "track_id": "2D5xQtVNi4o6F3Gh1qxD3Y",
+            "track_name": "Be Good to Yourself"
+        },
+        {
+            "artist_id": "49DW3KvkyjHO35mK1JnSyS",
+            "artist_name": "The Cult",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "1HucstCKNhCc6ycINywias",
+            "track_name": "Aphrodisiac Jacket"
+        },
+        {
+            "artist_id": "3cniTumSiUysiPWXapGx1i",
+            "artist_name": "Cutting Crew",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/987b5733b466b3c07b7c69b7f7f8c995f33ef5ff",
+            "track_id": "3ohvcNp2n89HpBmQuDJ21w",
+            "track_name": "Life In A Dangerous Time"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca4fba06f5cac6e077feca94ccfdfcdd561ed507",
+            "track_id": "3hMHG6lx9QHVcfYSUr5PoM",
+            "track_name": "Danger Zone"
+        },
+        {
+            "artist_id": "4b0WsB47XCa9F83BmwQ7WX",
+            "artist_name": "The Righteous Brothers",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "1In5txwrh6PL2Mg806UILa",
+            "track_name": "You've Lost That Lovin' Feeling"
+        },
+        {
+            "artist_id": "2zyz0VJqrDXeFDIyrfVXSo",
+            "artist_name": "Jerry Lee Lewis",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "2kUKZcLQgiZ7QraycFweuj",
+            "track_name": "Great Balls of Fire"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/67cf8a1703d96ef23a57f0ce5950031c8d4625a8",
+            "track_id": "11dCfArPrM7kzYpUrFHal9",
+            "track_name": "Panama"
+        },
+        {
+            "artist_id": "4pejUc4iciQfgdX6OKulQn",
+            "artist_name": "Queens of the Stone Age",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b411b03ea66b6edf136f95cc2950034ddede3e1",
+            "track_id": "6y20BV5L33R8YXM0YuI38N",
+            "track_name": "No One Knows"
+        },
+        {
+            "artist_id": "2qk9voo8llSGYcZ6xrBzKx",
+            "artist_name": "Kings of Leon",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/8cca3506fa42dd9cc51a761386d064b502d1a4c6",
+            "track_id": "0ntQJM78wzOLVeCUAW7Y45",
+            "track_name": "Sex on Fire (X Factor Performance)"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/72d4698ee57c59e6775adc869b2ce306df5d9533",
+            "track_id": "5jdvRj8zXHJ7XpKsBKT9CZ",
+            "track_name": "Howlin' For You"
+        },
+        {
+            "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "artist_name": "Foo Fighters",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a2dc307a71393a695d69b16407cd73e1e234941",
+            "track_id": "5UWwZ5lm5PKu6eKsHAGxOk",
+            "track_name": "Everlong"
+        },
+        {
+            "artist_id": "2jzc5TC5TVFLXQlBNiIUzE",
+            "artist_name": "a-ha",
+            "popularity": 35,
+            "preview_url": null,
+            "track_id": "1nbMkRhfldXcmCyB83x8lK",
+            "track_name": "Take On Me"
+        },
+        {
+            "artist_id": "34PLzyi7CdXUekiLHYyqXq",
+            "artist_name": "Men Without Hats",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0323e619b887d0229a5286142f6fa8b9e55ec94",
+            "track_id": "41MOCUNOgWtaYBFUsGnpZ5",
+            "track_name": "The Safety Dance (Video Version) - Bonus Track"
+        },
+        {
+            "artist_id": "1LB8qB5BPb3MHQrfkvifXU",
+            "artist_name": "Cheap Trick",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/0f67a425605be1bbadaa6fb5f2f8a365c0ecbaea",
+            "track_id": "32SckiFOYb8bwYewY51WA7",
+            "track_name": "Mighty Wings - From \"Top Gun\" Original Soundtrack"
+        },
+        {
+            "artist_id": "6aq8T2RcspxVOGgMrTzjWc",
+            "artist_name": "Soft Cell",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f298bcc07fc15eb46da47aae29a981d008260e0",
+            "track_id": "44hOGg1uFg1XJZGZYNwYmM",
+            "track_name": "Tainted Love"
+        },
+        {
+            "artist_id": "5KQMtyPE8DCQNUzoNqlEsE",
+            "artist_name": "Gary Numan",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "3CKLPDN1AIOYa7QPpy6oDH",
+            "track_name": "Cars"
+        },
+        {
+            "artist_id": "6XpaIBNiVzIetEPCWDvAFP",
+            "artist_name": "Whitney Houston",
+            "popularity": 33,
+            "preview_url": null,
+            "track_id": "2k1np6GRFvKjgjYfo2g39B",
+            "track_name": "I Wanna Dance with Somebody (Who Loves Me)"
+        },
+        {
+            "artist_id": "2x9SpqnPi8rlE9pjHBwmSC",
+            "artist_name": "Talking Heads",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/432f0a07853dccc2db408fb2347633c2886c5f93",
+            "track_id": "2VNfJpwdEQBLyXajaa6LWT",
+            "track_name": "Burning Down The House (45 Version)"
+        },
+        {
+            "artist_id": "5NGO30tJxFlKixkPSgXcFE",
+            "artist_name": "The Police",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/e39a902d4a25f57e6ece55e270063359bd7fc884",
+            "track_id": "4U3Ggqyv2XgnS1u82HOGQX",
+            "track_name": "Every Breath You Take"
+        },
+        {
+            "artist_id": "6Tz0QRoe083BcOo2YbG9lV",
+            "artist_name": "Nena",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/c711d77627eec81e5abbff3a8322741efd45657a",
+            "track_id": "6HA97v4wEGQ5TUClRM0XLc",
+            "track_name": "99 Luftballons"
+        },
+        {
+            "artist_id": "0UKfenbZb15sqhfPC6zbt3",
+            "artist_name": "DEVO",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/54e68d902bd34dd943104f1d0e7c0625c169c771",
+            "track_id": "4sscDOZCkbLSlDqcCgUJnX",
+            "track_name": "Whip It"
+        },
+        {
+            "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+            "artist_name": "David Bowie",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfc954911969e6fd4ef814f5e510db95301495cb",
+            "track_id": "3WSbPM4lLcUfmvfEfuNWRE",
+            "track_name": "Let's Dance (Single Version) [2002 Remastered Version]"
+        },
+        {
+            "artist_id": "5lpH0xAS4fVfLkACg9DAuM",
+            "artist_name": "Wham!",
+            "popularity": 32,
+            "preview_url": null,
+            "track_id": "5J0S5UgpCwlmEagrqgzvoC",
+            "track_name": "Wake Me up Before You Go-Go"
+        },
+        {
+            "artist_id": "057gc1fxmJ2vkctjQJ7Tal",
+            "artist_name": "The Buggles",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d92fb4f1107172a4e9ca614f8328d72a161425b",
+            "track_id": "6t1FIJlZWTQfIZhsGjaulM",
+            "track_name": "Video Killed The Radio Star"
+        },
+        {
+            "artist_id": "1dfeR4HaWDbWqFHLkxsg1d",
+            "artist_name": "Queen",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/0842c809c8fe702359ce2a11f42341912aece99a",
+            "track_id": "1mSClObliRtgPVT399COQH",
+            "track_name": "Under Pressure"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b4895944859a1c9c62de101358d8518fc419b4e",
+            "track_id": "5arVt2Wg0zbiWwAOZef2Nl",
+            "track_name": "Higher Ground - 2003 - Remaster"
+        },
+        {
+            "artist_id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "artist_name": "Duran Duran",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/bceb1f048afe49dc6db3fc27924ef2b6c432cd57",
+            "track_id": "2HuHopKnnuGQEpGb0CssCs",
+            "track_name": "Hungry Like The Wolf"
+        },
+        {
+            "artist_id": "7wqtxqI3eo7Gn1P7SpP6cQ",
+            "artist_name": "Salt-N-Pepa",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "0GugYsbXWlfLOgsmtsdxzg",
+            "track_name": "Push It"
+        },
+        {
+            "artist_id": "3CQIn7N5CuRDP8wEI7FiDA",
+            "artist_name": "Run\u2013D.M.C.",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3595021bacf6f0b01655140c3e36e3d85c2259bd",
+            "track_id": "4lRdpZYTwaPpuKpquO6bo3",
+            "track_name": "Walk This Way"
+        },
+        {
+            "artist_id": "3qm84nBOXUEQ2vnTfUTTFC",
+            "artist_name": "Guns N' Roses",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3507a8404280c24c96849927ca6b2a88b9c6ee7a",
+            "track_id": "1u1DBObkLFscNCpRpXbYb9",
+            "track_name": "Sweet Child O' Mine"
+        },
+        {
+            "artist_id": "4KWTAlx2RvbpseOGMEmROg",
+            "artist_name": "R.E.M.",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba27d8cc96d48bd56a23f38f297645aec74a702d",
+            "track_id": "2oSpQ7QtIKTNFfA08Cy0ku",
+            "track_name": "It's the End of the World As We Know It (And I Feel Fine)"
+        },
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/b56a70770267b00ccae13c2e8c8a34ed54627d02",
+            "track_id": "1z3ugFmUKoCzGsI6jdY4Ci",
+            "track_name": "Like A Prayer"
+        },
+        {
+            "artist_id": "4QTVePrFu1xuGM9K0kNXkk",
+            "artist_name": "Dexys Midnight Runners",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/d474e8886b7af4312db5e85d0ade96efddfcb15f",
+            "track_id": "0EMmVUYs9ZZRHtlADB88uz",
+            "track_name": "Come On Eileen"
+        },
+        {
+            "artist_id": "7lzordPuZEXxwt9aoVZYmG",
+            "artist_name": "Billy Idol",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c30a5736106e88f54f92e7fb22f5c1f2d391d2b",
+            "track_id": "54HWkXBa3O7jH4vletYhc6",
+            "track_name": "Dancing With Myself - 2001 Digital Remaster"
+        },
+        {
+            "artist_id": "7Bah8E0kCETqEpAHI6CPzQ",
+            "artist_name": "Mr. Mister",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5e3b1d4b6fed0b708bcf8d159619652a3eed724",
+            "track_id": "78FHUZRbFDCG6VkRAQdFLm",
+            "track_name": "Broken Wings"
+        },
+        {
+            "artist_id": "7A9yZMTrFZcgEWAX2kBfK6",
+            "artist_name": "Huey Lewis & The News",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/6e8cd389eb8c1bc747adcd6ff0f7c829ba34bfb8",
+            "track_id": "648BMGrt98kUbLo24A4vgj",
+            "track_name": "Hip To Be Square"
+        },
+        {
+            "artist_id": "51Blml2LZPmy7TTiAg47vQ",
+            "artist_name": "U2",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/3843178aee3e928c546ef3da5e79e62a12373b16",
+            "track_id": "72AO8u6lcjKp0CBeaPZT8I",
+            "track_name": "I Still Haven't Found What I'm Looking For - Remastered"
+        },
+        {
+            "artist_id": "72OaDtakiy6yFqkt4TsiFt",
+            "artist_name": "Cher",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/b94befc5945cfe1a34864831a299c94bcb169bed",
+            "track_id": "6mYrhCAGWzTdF8QnKuchXM",
+            "track_name": "If I Could Turn Back Time"
+        },
+        {
+            "artist_id": "6H1RjVyNruCmrBEWRbD0VZ",
+            "artist_name": "Def Leppard",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/49cd7c1d341797324a07e1e48cbeb9d7ae6cc8ad",
+            "track_id": "0LN0ASTtcGIbNTnjSHG6eO",
+            "track_name": "Pour Some Sugar On Me (2012)"
+        },
+        {
+            "artist_id": "03r4iKL2g2442PT9n2UKsx",
+            "artist_name": "Beastie Boys",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/d24e224edfdbd0f4881cca22d94214b5524c413e",
+            "track_id": "2tY1gxCKslfXLFpFofYmJQ",
+            "track_name": "Brass Monkey"
+        },
+        {
+            "artist_id": "1eClJfHLoDI4rZe5HxzBFv",
+            "artist_name": "INXS",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/e749279f1682b4c8a9305671d2cccaca5c6466f0",
+            "track_id": "5eU8qMd0TpaLqTGDZJaLDs",
+            "track_name": "Need You Tonight"
+        },
+        {
+            "artist_id": "5n30a5V4ftXNMHCHChmK2h",
+            "artist_name": "Young MC",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/70d4cb00c089ccf9fdf55764e1a89116458ca8cf",
+            "track_id": "2EwS2VaAsnGrwMkpJaIjug",
+            "track_name": "Bust A Move"
+        },
+        {
+            "artist_id": "4n31svBA9GGIYxGxgrQaRK",
+            "artist_name": "George Thorogood & The Destroyers",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/ccb8675152bc3087478a8e1e4b551a8d2c256d8f",
+            "track_id": "6s0NHplywwr1IjnQpUpWJk",
+            "track_name": "Bad To The Bone"
+        },
+        {
+            "artist_id": "5gxynDEKwNDgxGJmJjZyte",
+            "artist_name": "Steve Winwood",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e846983387b62489a03504c48523b5dacc13de8c",
+            "track_id": "1vhNjOtmfgoGy4J6ijCUSS",
+            "track_name": "Higher Love - Full Album Version"
+        },
+        {
+            "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+            "artist_name": "The Cure",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/267953ba79751b4869f1a310b26a50f7f4667d20",
+            "track_id": "0X5C4WjQNubRysTkHOubz3",
+            "track_name": "Lovesong"
+        },
+        {
+            "artist_id": "08GQAI4eElDnROBrJRGE0X",
+            "artist_name": "Fleetwood Mac",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f8554c322c7b953428c4aeda982dc1b90b5b85",
+            "track_id": "15rjQH7nTcTomKwfVMd4xl",
+            "track_name": "Go Your Own Way"
+        },
+        {
+            "artist_id": "7Js6Lde8thlIHXggv2SCBz",
+            "artist_name": "Europe",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/95b70df7dda2d699957e8b068b89e233e3a5e5ee",
+            "track_id": "3MrRksHupTVEQ7YbA0FsZK",
+            "track_name": "The Final Countdown"
+        },
+        {
+            "artist_id": "0rpMdBzQXf7aYRnu5fDBJy",
+            "artist_name": "Violent Femmes",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fec74db2a1dc91410d0c8c6890becee1275825b",
+            "track_id": "5TM2eqdzfWPHklI7YnBmsD",
+            "track_name": "Blister In The Sun (Remastered Album Version)"
+        },
+        {
+            "artist_id": "43mhFhQ4JAknA7Ik1bOZuV",
+            "artist_name": "Pat Benatar",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3971f4512ec236d769ef11545eb7540313dce99",
+            "track_id": "64k3qg5AwnINfBXmCJOHA3",
+            "track_name": "Love Is A Battlefield"
+        },
+        {
+            "artist_id": "6V6WCgi7waF55bJmylC4H5",
+            "artist_name": "Gloria Gaynor",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/0f5744013a9c7464474a7c634a7880306ad1297d",
+            "track_id": "2a1MrtxYybqFV1Ow8VJ1dW",
+            "track_name": "I Will Survive - Original Version 1982"
+        },
+        {
+            "artist_id": "5PN2aHIvLEM98XIorsPMhE",
+            "artist_name": "Kim Carnes",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/92935385228d22d6ea38ba5f091871db0aeacf77",
+            "track_id": "0odIT9B9BvOCnXfS0e4lB5",
+            "track_name": "Bette Davis Eyes"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/5908f4536c2b1111045c46555811fe61112d5c26",
+            "track_id": "77NNZQSqzLNqh2A9JhLRkg",
+            "track_name": "Don't Stop Believin'"
+        },
+        {
+            "artist_id": "22bE4uQ6baNwSHPVcDxLCe",
+            "artist_name": "The Rolling Stones",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/c08c9b28e825098d2f7c87758e7ffc26177df49e",
+            "track_id": "04AEbsZ3URx5oxxNaX9doH",
+            "track_name": "Start Me Up"
+        },
+        {
+            "artist_id": "6IFXsrXBpwbIqtOUOiAa3p",
+            "artist_name": "Rick Springfield",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/756a04b27d001a10c2ecf5a287ba815c58a9ffe2",
+            "track_id": "0TF3F5Lw5apoD1zvR8LikO",
+            "track_name": "Jessie's Girl"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/386acb48d5b2f6c205200062b6ce158c4ba52647",
+            "track_id": "6pBM20jZldvNlbNcnwAX0y",
+            "track_name": "Beat It - Single Version"
+        },
+        {
+            "artist_id": "0NKDgy9j66h3DLnN8qu1bB",
+            "artist_name": "Eurythmics",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/90dbf17146e76483a9fe296d7f03001e2f07199f",
+            "track_id": "1TfqLAPs4K3s2rJMoCokcS",
+            "track_name": "Sweet Dreams (Are Made of This) - Remastered Version"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/658bbb5d3093023b31e03c311c30223715080d52",
+            "track_id": "19kuZ0IExry8qYJ4lU2A0r",
+            "track_name": "Jump - Remastered Version"
+        },
+        {
+            "artist_id": "1mZu3rO7qSD09GdDpePHhY",
+            "artist_name": "Frankie Goes To Hollywood",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "3ugkTU1CHtrsjW70yQd66X",
+            "track_name": "Relax"
+        },
+        {
+            "artist_id": "3eqjTLE0HfPfh78zjh6TqT",
+            "artist_name": "Bruce Springsteen",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b6a5b917056de1d50b31687f48098b264c0f12b",
+            "track_id": "0dOg1ySSI7NkpAe89Zo0b9",
+            "track_name": "Born in the U.S.A."
+        },
+        {
+            "artist_id": "3Z02hBLubJxuFJfhacLSDc",
+            "artist_name": "Bryan Adams",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "6cnd6UwOyvEPWUjuuDKMIP",
+            "track_name": "Summer Of '69"
+        },
+        {
+            "artist_id": "58lV9VcRSjABbAbfWS6skp",
+            "artist_name": "Bon Jovi",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/2fa81cbcbdf5f9b3f4e131450781f08ff8f314ed",
+            "track_id": "7qQnBfwXrw2tZNFG4Uf57N",
+            "track_name": "Livin' On A Prayer"
+        },
+        {
+            "artist_id": "5YsrgTpxX1RoZHUtjdUMVo",
+            "artist_name": "Rob Base",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0930fa8d0a27d3780f655e67e16b6250abc780cf",
+            "track_id": "3Yxmpx64AdWAzG3qAD4Dty",
+            "track_name": "It Takes Two"
+        },
+        {
+            "artist_id": "62sPt3fswraiEPnKQpAbdE",
+            "artist_name": "Bobby Brown",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/76b73b4e35a8a607bf3604ddaa4e009a8d2b38a5",
+            "track_id": "6wf1ljcWMX3MMWToPHkiFX",
+            "track_name": "My Prerogative"
+        },
+        {
+            "artist_id": "2Cd98zHVdZeOCisc6Gi2sB",
+            "artist_name": "Technotronic",
+            "popularity": 26,
+            "preview_url": null,
+            "track_id": "1ZtzjvhIcLoogzOpt4rKoa",
+            "track_name": "Pump Up The Jam"
+        },
+        {
+            "artist_id": "5q4AzEtCoYJyXjMMoEkSU5",
+            "artist_name": "Bachman-Turner Overdrive",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/c41967e2f659314562f752a0fba71a27765a3035",
+            "track_id": "26VzOzsJvbFwSwwRFsIWDc",
+            "track_name": "Takin' Care Of Business"
+        },
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f451d46def07f436729cd5b48d7d88a7d48dc4d",
+            "track_id": "4aVuWgvD0X63hcOCnZtNFA",
+            "track_name": "Hold the Line"
+        },
+        {
+            "artist_id": "0k17h0D3J5VfsdmQ1iZtE9",
+            "artist_name": "Pink Floyd",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "4AzyYHQKBphpQonm3Hx15E",
+            "track_name": "Breathe (In The Air) [2011 Remastered Version]"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/0771f60d83578d22517cd91984be3bf8a321fc41",
+            "track_id": "39CGrUZUozjtjgAASzzB56",
+            "track_name": "The Sounds of Silence"
+        },
+        {
+            "artist_id": "2x9SpqnPi8rlE9pjHBwmSC",
+            "artist_name": "Talking Heads",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/38771ff6fac4da1cc99f3ffb6ecdbbf537e60f6e",
+            "track_id": "1i6N76fftMZhijOzFQ5ZtL",
+            "track_name": "Psycho Killer - 2005 Remastered Version"
+        },
+        {
+            "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+            "artist_name": "Aerosmith",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d7338ca736693a3f145ef410d2050678a734dc2",
+            "track_id": "24NwBd5vZ2CK8VOQVnqdxr",
+            "track_name": "Sweet Emotion"
+        },
+        {
+            "artist_id": "35U9lQaRWSQISxQAB94Meo",
+            "artist_name": "America",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/39160b959b9c3ef5eb82314160eb168af167ac3b",
+            "track_id": "54eZmuggBFJbV7k248bTTt",
+            "track_name": "A Horse with No Name"
+        },
+        {
+            "artist_id": "70cRZdQywnSFp9pnc2WTCE",
+            "artist_name": "Simon & Garfunkel",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/4fd22080d06b561fe7720ffc68ca762f12ab1e78",
+            "track_id": "3CJ60azPXtva8OdBsxSA7a",
+            "track_name": "Mrs. Robinson"
+        },
+        {
+            "artist_id": "4tX2TplrkIP4v05BNC903e",
+            "artist_name": "Tom Petty and the Heartbreakers",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/36d69a9c5b7a78b378f349e319ca49075993717b",
+            "track_id": "7MRyJPksH3G2cXHN8UKYzP",
+            "track_name": "American Girl"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cf72f2bc788c013a10daaf22e2db6c1811ba7f7",
+            "track_id": "6ejipC6dh8CGi2WiUACOvN",
+            "track_name": "You Really Got Me"
+        },
+        {
+            "artist_id": "1LZEQNv7sE11VDY3SdxQeN",
+            "artist_name": "Bee Gees",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/67182110e9ea51f9865d439627a5c6554dfa69ea",
+            "track_id": "5cP52DlDN9yryuZVQDg3iq",
+            "track_name": "Stayin' Alive - 2007 Remastered Version Saturday Night Fever"
+        },
+        {
+            "artist_id": "6DCIj8jNaNpBz8e5oKFPtp",
+            "artist_name": "The Cars",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb5ff40f2a48840a3e8f9b7c12b902cd9f955d79",
+            "track_id": "4alHo6RGd0D3OUbTPExTHN",
+            "track_name": "Just What I Needed"
+        },
+        {
+            "artist_id": "2cnMpRsOVqtPMfq7YiFE6K",
+            "artist_name": "Van Halen",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ebda7150b87a05194e5a89cf79391e5a07ca1e6",
+            "track_id": "4UmehW6tTXGC7HsuIGujMR",
+            "track_name": "Ain't Talkin' 'Bout Love"
+        },
+        {
+            "artist_id": "1ThoqLcyIYvZn7iWbj8fsj",
+            "artist_name": "Bill Withers",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "0xt3oHUZchlHPhiWXoADM5",
+            "track_name": "Use Me - Single Version"
+        },
+        {
+            "artist_id": "6x33CmZWo2Ve4hxYl2Craq",
+            "artist_name": "Foghat",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee66dd621031b61f2936b661ef9c468879d4105d",
+            "track_id": "4MYb7NWLwXNDB7bYs3HeX8",
+            "track_name": "Slow Ride (45 Version)"
+        },
+        {
+            "artist_id": "7Akz0poR4eUgNM0ciCWqIs",
+            "artist_name": "Patricia Quinn",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/89e3e922017c772637996b2bd45fb1aa29e92719",
+            "track_id": "4WFeJTXNHIS2wURtwlAkhu",
+            "track_name": "Time Warp"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/bcbf2c53e033e4df303f4a9c90c4eada0a70216f",
+            "track_id": "46eu3SBuFCXWsPT39Yg3tJ",
+            "track_name": "Don't Stop 'Til You Get Enough - Single Version"
+        }
+    ]
+}

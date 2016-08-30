@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1210178120/playlists/0YIAlFZjcdSH3CLsk1kNlD/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4F7Q5NV6h5TSwCainz8S5A",
+            "artist_name": "Duke Ellington",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "0NkaaJCFsoVIzzXZPRt2Wv",
+            "track_name": "Caravan"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "44RzbVLHwjZ1u11zdFnEwU",
+            "track_name": "Fly Me To The Moon [The Frank Sinatra Collection] [1966 Live At The Sands Album Version]"
+        },
+        {
+            "artist_id": "5cbutZUQE7SUCA6MsEMbBv",
+            "artist_name": "Hank Mobley",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/65086c95c46ddba501988011f8e795fda799c936",
+            "track_id": "3HIO2Ysxx47gnwMGWy7dwB",
+            "track_name": "Soul Station - 1999 Digital Remaster"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0KFOKy7T9cnmASRDApG6K9",
+            "track_name": "Manhattan"
+        },
+        {
+            "artist_id": "7v4imS0moSyGdXyLgVTIV7",
+            "artist_name": "Nat King Cole",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ed1ee79b2d7bca0e6fcaed4fb431e9c05743fa0",
+            "track_id": "7E3rc13GL2I5wA6CIFXaxs",
+            "track_name": "L-O-V-E - 2000 Digital Remaster"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "70iw3Y8Kzt4MjLG0mJupd4",
+            "track_name": "You're My Thrill"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "7BGQNonPt5vGUniPVo4HUs",
+            "track_name": "Mr. Bojangles - 1993 Remastered"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "4tMPwjAb9FYZ2HHgXj24LU",
+            "track_name": "Theme From New York, New York - Remastered ) [The Frank Sinatra Collection]"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc432d0c92a8a9ab18d742b1601c04022080de9a",
+            "track_id": "6pPr1KLZit9FgFNhp7xE5m",
+            "track_name": "Cheek To Cheek"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/d99fb91de90d11f9320b887a12dfb16b0c7490c8",
+            "track_id": "59XfrHT6N1mLaqSecAHTo2",
+            "track_name": "That's Amore - 1996 Digital Remaster"
+        },
+        {
+            "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+            "artist_name": "Chet Baker",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/061a55d08fca1374caf5721f457cc8269527b7dc",
+            "track_id": "2zPANzQTt5Nbkg0eBPb7HI",
+            "track_name": "There Will Never Be Another You - Vocal"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "58Jv4N8H2FGsWtOTHHtVfE",
+            "track_name": "Summertime"
+        },
+        {
+            "artist_id": "7v4imS0moSyGdXyLgVTIV7",
+            "artist_name": "Nat King Cole",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/745bf9a5b1716fc434bce09d4e14b2dbcdd914e2",
+            "track_id": "5h1mm1R9Jy531CbvptILX7",
+            "track_name": "Unforgettable (Duet with Nat \"King\" Cole) - 2000 Digital Remaster"
+        },
+        {
+            "artist_id": "19eLuQmk9aCobbVDHc6eek",
+            "artist_name": "Louis Armstrong",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/87a0dc0d9d6a0504efa1959c8c4453d63a8f4e55",
+            "track_id": "1eQBe9xg2nnhsbPG0rlupR",
+            "track_name": "Mack The Knife"
+        },
+        {
+            "artist_id": "32LHRiof0sa4taYew9i3Fa",
+            "artist_name": "Dinah Washington",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3f720bc58013d942252c9582a14e75c69021997",
+            "track_id": "5oM9RAt1H1VAHkBTOc562V",
+            "track_name": "Is You Is Or Is You Ain't My Baby - 2002 Remastered Version"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ac819b3570f1d5ea7f5b29a0197c2c246b1ccb7",
+            "track_id": "0F4uVFLLDzkpJppPZT1bZt",
+            "track_name": "Do I Move You?"
+        },
+        {
+            "artist_id": "3rxeQlsv0Sc2nyYaZ5W71T",
+            "artist_name": "Chet Baker",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cac3d08e4898d39be66620b109ed0f7221364cf",
+            "track_id": "7HqMu6Oa7jLQVDUuWiy6v2",
+            "track_name": "Like Someone In Love - Vocal"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "0mdefZ4yfFr2DehHGIqLCX",
+            "track_name": "My Way [The Frank Sinatra Collection]"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "0Iv7WPCd4LwrdyS6ouXZYe",
+            "track_name": "Volare (Nel Blu Di Pinto Di Blu) - 1998 - Remastered"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "0B7GqwPSL0VmfEYgL0ep79",
+            "track_name": "Mambo Italiano - 1998 - Remastered"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "3dcMbvaYRwHFXnDF9CozIs",
+            "track_name": "Sway (Quien Sera) - 1997 - Remastered"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "76iz9gOPd8LrQ5wAVcAOdF",
+            "track_name": "In The Misty Moonlight - 2001 - Remastered"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "3uofatNc5yJ1cHOqoHTIDI",
+            "track_name": "You're Nobody 'Til Somebody Loves You - 1997 - Remastered"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 25,
+            "preview_url": null,
+            "track_id": "7coH7f2P7SiLxmo95b5QHX",
+            "track_name": "Ain't That A Kick In The Head - 1997 - Remastered"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Ella Fitzgerald - My Funny Valentine"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Lover Man"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Lets Do It (Lets Fall In Love)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "I'm Beginning To See The Light"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Something to Live for"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Get Happy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Begin The Beguine"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Night and Day (album version)"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1JzOFAYc1uwLZ48hSvb10w",
+            "track_name": "The Lady Is A Tramp"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5dzGAwrfHNhIWZuXlaDvRM",
+            "track_name": "The Man I Love"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/96a60fa813d4c08b94307fb23aaa4b55b8edc408",
+            "track_id": "32XQbspLpRNQEY2AEY5OVR",
+            "track_name": "Someone To Watch Over Me"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/77752e9a3dfacce4ac152f3d2774b988c6a0986e",
+            "track_id": "7q7Z9H9B2Khmr9Q0JlPT93",
+            "track_name": "Anything Goes"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dinah Washington",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cry Me A River"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dinah Washington",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Since I Fell For You"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Frank Sinatra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "I Won't Dance"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Frank Sinatra      Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Puttin' on the Ritz"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Frank Sinatra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "I've Got the World on a String"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Frank Sinatra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "They Can't Take That Away from Me"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Frank Sinatra",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Oh! Look at Me Now"
+        },
+        {
+            "artist_id": "3IZrrNonYELubLPJmqOci2",
+            "artist_name": "Nancy Sinatra",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/180085c669ccce778e47ce9ce9092d10c020ceb4",
+            "track_id": "1s2I9Q7zAE78m7aVZOq3ug",
+            "track_name": "Bang Bang - My Baby Shot Me Down"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4zueuWEyFFkem10ubWI0mV",
+            "track_name": "Blue Moon - Blue Moon"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "3R1EQZ3eXleVZ3oBTxUOvG",
+            "track_name": "I'll Be Seeing You"
+        },
+        {
+            "artist_id": "0iOVhN3tnSvgDbcg25JoJb",
+            "artist_name": "Etta James",
+            "popularity": 22,
+            "preview_url": null,
+            "track_id": "1hXIdXjAI4nWz4qnJ28iO2",
+            "track_name": "At Last"
+        },
+        {
+            "artist_id": "0iOVhN3tnSvgDbcg25JoJb",
+            "artist_name": "Etta James",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/b67f4b63be69a531312412c04c24e001dfbb1e71",
+            "track_id": "4ipQeXjtYOJ9XQSrYBGL87",
+            "track_name": "Cigarettes & Coffee"
+        },
+        {
+            "artist_id": "0FMucZsEnCxs5pqBjHjIc8",
+            "artist_name": "Stan Getz",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2e993fcf0a430a238b6c4a7567219597e74bcfc",
+            "track_id": "7DjbiNCiaIjGcJcld2hZVM",
+            "track_name": "The Girl From Ipanema"
+        },
+        {
+            "artist_id": "1YzCsTRb22dQkh9lghPIrp",
+            "artist_name": "Billie Holiday",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ae9798fbd4b86018d7cf67182bf20ca85c9e342",
+            "track_id": "7udByuhtLO28oWmTj7A7lN",
+            "track_name": "Billie's Blues (Live)"
+        },
+        {
+            "artist_id": "7rpf45DdbpweG51Acze45i",
+            "artist_name": "Kay Starr",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/1e5ee5b5e2dbbc4c4584ff50777390d001b83443",
+            "track_id": "0zIqs8nFS5eHLgL0ZprFuP",
+            "track_name": "\"It\u2019s A Good Day\""
+        },
+        {
+            "artist_id": "32LHRiof0sa4taYew9i3Fa",
+            "artist_name": "Dinah Washington",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8459fe02860640c7ad9cd9c0ccefc968ff63b6a4",
+            "track_id": "2AwOR6uXiSH1vHDbz5vVGi",
+            "track_name": "What A Diff'rence A Day Made - Single Version/Original Title"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/721b4a0b531e634c983418920ba578f876845b71",
+            "track_id": "5rBsvMV4SpOAH9ftve7wRr",
+            "track_name": "Too Marvelous For Words"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/f50f7e0ea532da2ac5b4e1ab19e2eda247420cd5",
+            "track_id": "6Th4TXr4vH8SfkaklKGiLc",
+            "track_name": "Come Rain Or Come Shine"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/b6154bdb9235566c971c8b0cce515c7a95bac820",
+            "track_id": "5ATrEakhj0redKUccnCr7R",
+            "track_name": "Get Happy"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/09e0839013bd9086f30f42ec7ceb306fcf8e603d",
+            "track_id": "1u7CMz6YoKy7nFfy1BsEcS",
+            "track_name": "Blues In The Night (My Mama Done Tol' Me)"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/efd849f8a86106745fd452d94b1d264fcfca8b66",
+            "track_id": "7rP4PwTNXovN882q5gnf8v",
+            "track_name": "'S Wonderful"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/f751406caaa51f5ed63e25e41dd025ecb0075d2e",
+            "track_id": "532nysqSmNaKLiH0Pdx2RP",
+            "track_name": "Don't Get Around Much Anymore"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/988a1a75fd2addde0b59d7634dfed128d3460c61",
+            "track_id": "7qTNViOuD7UvebT5Bb6KC7",
+            "track_name": "Satin Doll - 1956 Version"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6e297c33dd6da59fc6868b8777d47d767b2a349",
+            "track_id": "1CGWPXalOtOyAXGyApimsM",
+            "track_name": "Take The \"A\" Train"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/12475a7a98c4c4f57e6a7e22d731e74bc4f017b5",
+            "track_id": "1CcnL54ZGgR0amkvWHoaY7",
+            "track_name": "Blue Moon"
+        },
+        {
+            "artist_id": "2jFZlvIea42ZvcCw4OeEdA",
+            "artist_name": "Count Basie",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7Bc1v0Y2g9spFmVS6OD2ex",
+            "track_name": "Tea for Two"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7C431EWQXZLWq5ETdnbICw",
+            "track_name": "I Got Rhythm"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "47foZhrzcO5GeJ0l2gQxcv",
+            "track_name": "I Got It Bad (And That Ain't Good)"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2qFQtXJVUXhu2WBKhuQFgT",
+            "track_name": "Lullaby Of Birdland"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6I8LycffdxWxUJsDF3lAZX",
+            "track_name": "How High The Moon"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3jttFuP0wiktAw5l25gY6q",
+            "track_name": "My Melancholy Baby"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "14QODVKFBwRVhVbkPmmi78",
+            "track_name": "Dream a Little Dream of me"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "59iPqxfH3VVGfzIU50WThg",
+            "track_name": "Cheek to Cheek"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7be4vU3qkoIIFsp3jCIlMB",
+            "track_name": "Too Darn Hot"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/5362897ffe3222700a7f30a4f62e98a4177de741",
+            "track_id": "4w7Uwk5YUdJn8Kq2LnYoc7",
+            "track_name": "That Old Black Magic"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6wQs1IbSK1INLZkP9INoI5",
+            "track_name": "I Got Rhythm"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Various",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Ella Fitzgerald / Hey Jude"
+        },
+        {
+            "artist_id": "2ugPdplEWBmyU6EcIzlcY1",
+            "artist_name": "The Contours",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a534926147017bbacbd8b0895fd786b4407874b",
+            "track_id": "1edFHVlMWwl2LNI2RNp6NK",
+            "track_name": "Do You Love Me"
+        },
+        {
+            "artist_id": "1cjZk1xXn3YCToNg3uJpA7",
+            "artist_name": "Mary Wells",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e718a4acdcd665446d983d039e962dcc5e271abd",
+            "track_id": "5eQDErH4pyfb9ZhbyV53ly",
+            "track_name": "My Guy"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d6a0459677cc0ebce1ec4906446aae8face4124",
+            "track_id": "6EGpxNYXyIbjLJKLvWTNTL",
+            "track_name": "The Way You Do The Things You Do"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea71676c7db6ca7766818ce1d424324baa378b49",
+            "track_id": "53e6fgrEZX5D7V6neFIddC",
+            "track_name": "How Sweet It Is (To Be Loved By You)"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/c39ed8ca72a670c003f4d20a64f91c1d5b414a2f",
+            "track_id": "2SxAPT3lmcA3dlsnAj5ofu",
+            "track_name": "Get Ready"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/20df21dd88a4156248b5fdca814d0d99900f0dac",
+            "track_id": "3eNKEytzDbpJ3gehbeAAyK",
+            "track_name": "Ain't Too Proud To Beg"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/a1306575748bd9a19d7112bba252b0b91573b98c",
+            "track_id": "23vvgYCDvRsD5LS2si61C4",
+            "track_name": "Beauty Is Only Skin Deep"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d983f8cd474bfc5bc0d5e791d6f20b75b29758bd",
+            "track_id": "00fAPNgtf7QBQacuLbX9NB",
+            "track_name": "You're All I Need To Get By"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9f3c0f2207660000efee8a6ca1375247f0a7767",
+            "track_id": "68UtD4etxwmnStT24vi4qP",
+            "track_name": "I Can't Get Next To You"
+        },
+        {
+            "artist_id": "2iE18Oxc8YSumAU232n4rW",
+            "artist_name": "The Jackson 5",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea15998067be43670cf26a7440e12d2eb0575700",
+            "track_id": "0ke6ojnByX3wL68Z0MqGqW",
+            "track_name": "I Want You Back"
+        },
+        {
+            "artist_id": "2iE18Oxc8YSumAU232n4rW",
+            "artist_name": "The Jackson 5",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/68c67d2581ce4f77eef22c91d9f8203fc30568a7",
+            "track_id": "00Y6j6FJCEI9hbgXcEj2Rl",
+            "track_name": "ABC"
+        },
+        {
+            "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+            "artist_name": "Stevie Wonder",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/4af7d88ef3eebfef05b99726d6ab41f19716b8bb",
+            "track_id": "2INmwxYMfm6npxZKY87nQN",
+            "track_name": "Signed, Sealed, Delivered (I'm Yours)"
+        },
+        {
+            "artist_id": "0TF2NxkJZPQoX1H53rEFM1",
+            "artist_name": "Gladys Knight & The Pips",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/0cb10f67a36f2a876de59fcbbb1a68fa865aa84a",
+            "track_id": "1dX5B4iWn3Xswv6UX9EPOE",
+            "track_name": "If I Were Your Woman"
+        },
+        {
+            "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+            "artist_name": "Stevie Wonder",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca9b87b52d9a24ff3700b14c342aef7626674694",
+            "track_id": "1eB7A8TLlSAjKhVpBBgvF3",
+            "track_name": "Superstition"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/9055afb059e0cf89ebb1572df17c6a7827653fc3",
+            "track_id": "2ofLoOHBrO5Fap02WmXNX4",
+            "track_name": "Ain't Nothing Like The Real Thing"
+        },
+        {
+            "artist_id": "3koiLjNrgRTNbOwViDipeA",
+            "artist_name": "Marvin Gaye",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/551ad352ecf57bfd29090e855e45fc2545b31d41",
+            "track_id": "4gbR24XpCUTkoElYKZlrpO",
+            "track_name": "Ain't No Mountain High Enough - Stereo Version"
+        },
+        {
+            "artist_id": "3CDKmzJu6uwEGnPLLZffpD",
+            "artist_name": "Frankie Valli",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/39bf2d36814eb37ffa51bafb5eeba10be26b3aef",
+            "track_id": "6ft9PAgNOjmZ2kFVP7LGqb",
+            "track_name": "Can't Take My Eyes Off You"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "2A3cAEiQL28lNyLj6RDZdT",
+            "track_name": "Love Me Or Leave Me"
+        },
+        {
+            "artist_id": "6hCsqVHnBo1BVQWuIjRMkL",
+            "artist_name": "Sergio Mendes & Brasil '66",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/858f3e57dd2f9c2b7969c1b369cccc993411cf9d",
+            "track_id": "6vVfttX5GW1SsVxDedgQ8t",
+            "track_name": "Mais Que Nada"
+        },
+        {
+            "artist_id": "43ZHCT0cAZBISjO8DG9PnE",
+            "artist_name": "Elvis Presley",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4uwyVpkvgrYktbGxTpTElv",
+            "track_name": "Hound Dog"
+        },
+        {
+            "artist_id": "7jmTilWYlKOuavFfmQAcu6",
+            "artist_name": "Barbra Streisand",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/c75c9f4b59ebbd342fb124a474b28f7cd26b5ccf",
+            "track_id": "54igi8hshj93y8PjIaL5Fa",
+            "track_name": "Get Happy/Happy Days Are Here Again (Duet with Judy Garland)"
+        },
+        {
+            "artist_id": "1AwO9pWEBSBoWdEZu28XDC",
+            "artist_name": "Eartha Kitt",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5e0GEAvHfaew5146DtDk9v",
+            "track_name": "Smoke Gets In Your Eyes"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/31fc9f95c681542af33e72bda7baa4951117dccd",
+            "track_id": "72PwtNhRrZXNnYeRg5xQ46",
+            "track_name": "Feeling Good"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/865dce3fb18c593d927b6781eb76dbfc1a3c3416",
+            "track_id": "4sNBcbbwmAfiRZLaY5gZQC",
+            "track_name": "Ball of Confusion (That's What the World Is Today)"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 28,
+            "preview_url": null,
+            "track_id": "3rYTdFGNdE4rasctJsunwm",
+            "track_name": "Sinnerman"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b70a7b26e7be225adfd3d5d8b6e5212443e6193",
+            "track_id": "6ipZfr1msvNOxyroHB0s3w",
+            "track_name": "Feeling Good"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/73d3aa3cdd60005fc885de11da09ce5042263e1f",
+            "track_id": "4DKRLDVRIGojztAOEdvmXK",
+            "track_name": "I Put A Spell On You"
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/beengan/playlists/2cMlZmcZjv1qOShd4uHBHj/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "08pfvfaswGFhlXz4j50eOP",
+            "artist_name": "Aeternus",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1796b62b842d1c37a3e5295ab472f6487127822",
+            "track_id": "68tQckjFsZqjYaL2qZvmPy",
+            "track_name": "Burning the Shroud"
+        },
+        {
+            "artist_id": "0YAOC9q7XHpKplKYf7FMSp",
+            "artist_name": "Akercocke",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4VYex8dwGyGDoem4L43Y7C",
+            "track_name": "My Apterous Angel"
+        },
+        {
+            "artist_id": "0YAOC9q7XHpKplKYf7FMSp",
+            "artist_name": "Akercocke",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4y6JFSYcUEYuKYuQR9EzQg",
+            "track_name": "Man Without Faith Or Trust"
+        },
+        {
+            "artist_id": "0YAOC9q7XHpKplKYf7FMSp",
+            "artist_name": "Akercocke",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/402c0bd28240e627c529d72ab4d6e287676ecf33",
+            "track_id": "4Ax1Gz3sBzzvM8Ha1gS7wf",
+            "track_name": "Leviathan"
+        },
+        {
+            "artist_id": "0YAOC9q7XHpKplKYf7FMSp",
+            "artist_name": "Akercocke",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/8aa30ae1b768bd2e2b3571bdc63c99c4c408b6a7",
+            "track_id": "45btl51xWUCLFoLwjNGNDy",
+            "track_name": "Bathykolpian Avatar"
+        },
+        {
+            "artist_id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+            "artist_name": "Arch Enemy",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2a8P4DFQWPtimoxtYw40nQ",
+            "track_name": "Dead Eyes See No Future"
+        },
+        {
+            "artist_id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+            "artist_name": "Arch Enemy",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f1faf93e5a8d407fec3b1347f0053bb2a119b87",
+            "track_id": "7sIK8jkfU8FDKZrDsxXpTV",
+            "track_name": "Bury Me An Angel"
+        },
+        {
+            "artist_id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+            "artist_name": "Arch Enemy",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "7sb39c76SlPtk0h2zpVx0O",
+            "track_name": "Nemesis"
+        },
+        {
+            "artist_id": "6YXarbjg36ODFPez0PnOlD",
+            "artist_name": "At The Gates",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/713526f7c0a6b3cfbfd8e98f33e223dea3a569f7",
+            "track_id": "2Vy4z1ZUN7RvN7syWI2yef",
+            "track_name": "Slaughter Of The Soul"
+        },
+        {
+            "artist_id": "4LW3dUNA0zx0gbaeJOuxgX",
+            "artist_name": "Bal-Sagoth",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5476de081dd694c2b45cc88d45b08cf7b1df698",
+            "track_id": "60cCRqTw1kk8DTPRssbsoc",
+            "track_name": "Black Moon Broods Over Lemuria"
+        },
+        {
+            "artist_id": "4LW3dUNA0zx0gbaeJOuxgX",
+            "artist_name": "Bal-Sagoth",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/7ef36167b0df2801487fd2c2dd76877c26bb6812",
+            "track_id": "1p6eyb0aFgFDgGFSymD0GU",
+            "track_name": "Enthroned In The Temple Of The Serpent Kings"
+        },
+        {
+            "artist_id": "4LW3dUNA0zx0gbaeJOuxgX",
+            "artist_name": "Bal-Sagoth",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c32ae696e8dee04b8dbd4e0db2652e65f8f13621",
+            "track_id": "3tTXXi1rcPY2yIm43Pjiy4",
+            "track_name": "Shadows 'Neath The Black Pyramid"
+        },
+        {
+            "artist_id": "4LW3dUNA0zx0gbaeJOuxgX",
+            "artist_name": "Bal-Sagoth",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/1dd43b2187680a6ac5b2a4aa77349a56788732b0",
+            "track_id": "6UWLtmhJ92HRs4q0j4YMTR",
+            "track_name": "Witch-Storm"
+        },
+        {
+            "artist_id": "4LW3dUNA0zx0gbaeJOuxgX",
+            "artist_name": "Bal-Sagoth",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/9fed97756c27eed8509c3df24bd0f0bf1c0bed7b",
+            "track_id": "3PdRDi94PgrenT3iin0RAy",
+            "track_name": "The Ravening"
+        },
+        {
+            "artist_id": "1uPIYn2IU0IuPWSZ58kzyM",
+            "artist_name": "Belphegor",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d3a4f97c32d54324fcfebd310c6ef14c796fa20",
+            "track_id": "0cWnNvI09z8Iq1MHDHeKWI",
+            "track_name": "Walpurgis Rites"
+        },
+        {
+            "artist_id": "5lhaM01nwvsMZpmPY2HVER",
+            "artist_name": "Carcass",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/538e430e2fe5b2bc3a1bbc612a5408a13859339c",
+            "track_id": "1nS7bYv66OXdVnztWgC4B7",
+            "track_name": "Buried Dreams"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Cradle of filth",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Haunted shores"
+        },
+        {
+            "artist_id": "0NTSMFFapnyZfvmCwzcYPd",
+            "artist_name": "Cradle Of Filth",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/d37262012a3b3f78b1a977912e6d88f768af5ac4",
+            "track_id": "14JG4VbsqeLsFuDJlkybOT",
+            "track_name": "From the Cradle to Enslave"
+        },
+        {
+            "artist_id": "0NTSMFFapnyZfvmCwzcYPd",
+            "artist_name": "Cradle Of Filth",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/914d3bace6f6dcae2adff074173bd9ff7524f521",
+            "track_id": "15fclimRjk5ztcJMP7YAvm",
+            "track_name": "Cthulhu Dawn"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dark Tranquility",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Dark Tranquillity - Projector - 03 [ UnDo Control ].mp3"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dark Tranquility",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Dark Tranquillity - Projector - 08 [ Day to End ].mp3"
+        },
+        {
+            "artist_id": "2K3GorTixXKAiwe2t9lO89",
+            "artist_name": "Deicide",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/c938d2c7172de7eecb30a225ad2be907b48665fa",
+            "track_id": "151BJY0bBOE0pZrHXqLxrS",
+            "track_name": "Satan Spawn, The Caco Daemon"
+        },
+        {
+            "artist_id": "2K3GorTixXKAiwe2t9lO89",
+            "artist_name": "Deicide",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/c938d2c7172de7eecb30a225ad2be907b48665fa",
+            "track_id": "151BJY0bBOE0pZrHXqLxrS",
+            "track_name": "Satan Spawn, The Caco Daemon"
+        },
+        {
+            "artist_id": "2K3GorTixXKAiwe2t9lO89",
+            "artist_name": "Deicide",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c75839b449c50336e03a74322e7c1048b825a74",
+            "track_id": "0XVdEAfk3P3kSNu6fyYOdV",
+            "track_name": "Repent To Die"
+        },
+        {
+            "artist_id": "2K3GorTixXKAiwe2t9lO89",
+            "artist_name": "Deicide",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6a919eb225d2ea2ddf615f0a0732bfc745c4b05",
+            "track_id": "0wZkU5LyErxFEGSRc7H4HE",
+            "track_name": "Revocate The Agitator"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Deicide",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Satan Spawn, The Caco-Demon"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Deicide",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Deade But Dreaming"
+        },
+        {
+            "artist_id": "5d6KI8frPEo3qGsIL8Sak2",
+            "artist_name": "Destruction",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0LsWVxif5ljHZnKwtrNFO2",
+            "track_name": "Days Of Confusion"
+        },
+        {
+            "artist_id": "5d6KI8frPEo3qGsIL8Sak2",
+            "artist_name": "Destruction",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3LhA1AojgelVLEQFa51Eob",
+            "track_name": "Nailed To The Cross"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Destruction",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Thrash Till Death"
+        },
+        {
+            "artist_id": "5d6KI8frPEo3qGsIL8Sak2",
+            "artist_name": "Destruction",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/f030f554e9bb95138ffd66b2f1f4ead0d5f65515",
+            "track_id": "4rxafFobLbyXz09ktnclOl",
+            "track_name": "Devil's Advocate"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a118255b45b7d8d07aab0239a602df919e2c271",
+            "track_id": "3qkf1Y3skRm04Vxw9dfi2P",
+            "track_name": "Gateways"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd2dc11d2d746cb5a8c3c67b2ff758c7e7aec3de",
+            "track_id": "4be6dGXi8LFHntrulQyOgb",
+            "track_name": "Ritualist"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f29517613f8062fb20fe7566c00019bd519170a",
+            "track_id": "1gHNs02MsCvMhgSl9GWJsf",
+            "track_name": "A Jewel Traced Through Coal"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/1afe9a2a5dc26207040c8430ed20817b6710f34e",
+            "track_id": "7lVnV9VxsABxEQTS5EOADQ",
+            "track_name": "Allegiance"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f7eb301cdc7b4376b5bf4e4398ad30751437aa1",
+            "track_id": "2dfOnL0Xc2F7kmiDJo44HL",
+            "track_name": "Cataclysm Children"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 8,
+            "preview_url": "https://p.scdn.co/mp3-preview/e27361900d15cf558f81a0c382280ef4a27ebcb7",
+            "track_id": "4O472jem7hHqkTCrLijrur",
+            "track_name": "Unorthodox Manifesto"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "spellbound (By the devil)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "In deaths embrace"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Relinquishment of spirit and flesh"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "The night masqurade"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/88bbd567a7b3061cb9d288ec0fa10b8a48f38235",
+            "track_id": "4UNTWZ8xNGgHOWXixIt5UP",
+            "track_name": "Mourning Palace"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/3673681f15281bc82225628cc08bd9ca5d560570",
+            "track_id": "7iQqPKFEOGMexah2uCErDp",
+            "track_name": "Tormentor Of Christian Souls"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/240ce5941cf521bee71b2d451d139328d913d021",
+            "track_id": "69HI010HNnml2tYFVGFjgV",
+            "track_name": "Chaos Without Prophecy"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad1ff242670ed1f261d8a0ecda25419ae144fb90",
+            "track_id": "7He8ocm4JpRuE02zfDbCfM",
+            "track_name": "The Chosen Legacy"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fb42636547b8a3b2a7de7914a443ce0ce76d35f",
+            "track_id": "47uNMAf6TfL890sCEmb0z9",
+            "track_name": "The Sinister Awakening"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "The Heretic Hammer (US bonus track)"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/5da12028855f9ab8689fd628ff6f6a39c5323bc3",
+            "track_id": "4asNPsTQqZfhImqwhnpiN5",
+            "track_name": "Indoctrination"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/977f4a8647c0cc520273642037858a515c2f7524",
+            "track_id": "59baG7HwbkUSH6txinpO3r",
+            "track_name": "Perfection Or Vanity-Outro"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Blessings Upon The Throne of Tyranny"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5rHIvrMz0E1uDa5kBe6f5X",
+            "track_name": "Behind The Curtains Of Night-Phantasmagoria"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "59mZSupRUgNjOtLvsG7BUz",
+            "track_name": "The Promised Future Aeons"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4etrt28F7dUtmpVphIWfHS",
+            "track_name": "The Blazing Monoliths Of Defiance"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4tZrGS8YQKe64uZEODBMrU",
+            "track_name": "Grotesquery Conceiled"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "65IFWlizoEhwdkT7gquyVA",
+            "track_name": "Arcane Lifeforce Mysteria"
+        },
+        {
+            "artist_id": "6e8ISIsI7UQZPyEorefAhK",
+            "artist_name": "Dimmu Borgir",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/2758a70f69cc858506906daf4c7acffea6128c76",
+            "track_id": "3rBjxBCv0yZtITqLtH1Hnm",
+            "track_name": "Sorgens Kammer - Dell. II"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Dan Den Kristine Satte Livet til"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dimmu Borgir",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Nar Sjelen Hentes Til Helvete"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dir en Grey",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "OBSCURE"
+        },
+        {
+            "artist_id": "6qpmcQfxhmNxNMCJUrpHwe",
+            "artist_name": "Dissection",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/795602e7088666e6b8b8e98bf3aaf4674b889ac5",
+            "track_id": "1KFyjI4NAVkROj6wirMive",
+            "track_name": "Beyond The Horizon"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8257dc5a8259715e026eb4fe8b4e95c88612fdd",
+            "track_id": "5m8oCOKQy1JyPXSVbBbAGY",
+            "track_name": "Sakura No Rei"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ac0de11db9b20105f9e19e6f2360176c78e051f",
+            "track_id": "0Jy8AWbTN2mekdP0vKsuc7",
+            "track_name": "Sinister Rain"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/cfd81a4a3c12e4e348cdd8062ae75721547ebe6c",
+            "track_id": "4ubz2T5xAvXMkM3CrMntyb",
+            "track_name": "Summon The Wild"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/7498474f2807cf1dde5fc7a218fa209a98b1093a",
+            "track_id": "1tRWEht0mhhRGWGoWWlEfk",
+            "track_name": "Sea Of Whispers"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/37c569ddd0312100a96fbc4f5ce83eca6b3552e9",
+            "track_id": "4SEAnP2llZiuEpEYEWdKf2",
+            "track_name": "Midnight Bird"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/96553651ea03ea9a326f5e29701bf42ec43c20a3",
+            "track_id": "38up5E4Lm6PWkuIn9DPXKJ",
+            "track_name": "Diary Of Demonic Dreams"
+        },
+        {
+            "artist_id": "3rdFnKhyWhTivuBFSH4YT3",
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4ccbd4bd514d03c0c5474db5791e9f44d5eb87e",
+            "track_id": "1sQDqt9KcpkKfAj8OXwR4f",
+            "track_name": "When The Darkest Night Falls"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eternal Tears of Sorrow",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Heart of Wilderness"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eternal Tears of Sorrow",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Prophetian"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Blood Of Hatred"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eternal Tears Of Sorrow",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Aeon"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Forgotten Tomb",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "06 - Subway Apathy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Forgotten Tomb",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "05 - Colourless Despondency"
+        },
+        {
+            "artist_id": "73UIalJYgktSi7qQFV53Qv",
+            "artist_name": "Hypocrisy",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/72bd9cc9335f1f1dc15d30c0f05681afd49aa252",
+            "track_id": "3BaCceA00UOoJmTwBBgeMG",
+            "track_name": "Born Dead Buried Alive"
+        },
+        {
+            "artist_id": "73UIalJYgktSi7qQFV53Qv",
+            "artist_name": "Hypocrisy",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d318c537484d7ad1bbc7c4fa252f124659a863d",
+            "track_id": "2hoapBNF71wqjRFSfvZB6P",
+            "track_name": "Eraser"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Hypocrisy",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "The Depature"
+        },
+        {
+            "artist_id": "73UIalJYgktSi7qQFV53Qv",
+            "artist_name": "Hypocrisy",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/00ebe7f708426b744b2d9aa0e85931119e0ce445",
+            "track_id": "6KroyaEt8TFJkYjPhhZTW2",
+            "track_name": "Alive"
+        },
+        {
+            "artist_id": "0ImEDe9tW5n4pxHOK39zIc",
+            "artist_name": "Kittie",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/95d32dd720a487caf311e0d79ab571ed32346569",
+            "track_id": "6J8LHD8zYpglTImEam4i18",
+            "track_name": "Mouthful Of Poison"
+        },
+        {
+            "artist_id": "0ImEDe9tW5n4pxHOK39zIc",
+            "artist_name": "Kittie",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/53b1d0b512e6369d981e57702fe59e786cce760b",
+            "track_id": "1O7A4gJematHRBHsxxr6He",
+            "track_name": "Severed"
+        },
+        {
+            "artist_id": "0ImEDe9tW5n4pxHOK39zIc",
+            "artist_name": "Kittie",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/b80c2420bfc08db56aa5f0ff31953ea6d4d2edcb",
+            "track_id": "4DotKmkc1jPZO8SvtDduXk",
+            "track_name": "Wolves"
+        },
+        {
+            "artist_id": "0ImEDe9tW5n4pxHOK39zIc",
+            "artist_name": "Kittie",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/f0e5f4a07d450d6eb6cd4518a02a7a1b9aacab92",
+            "track_id": "2NL5RjA1NqTX7okb6yh5h5",
+            "track_name": "What I Always Wanted"
+        },
+        {
+            "artist_id": "7gVIcvxZLQ9mKI7k6tXQdq",
+            "artist_name": "Lord Belial",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e342fd7e0dcff93afc505ccddb11d097d0386a1",
+            "track_id": "5tz2MMgWRX8tOCo0Yursaz",
+            "track_name": "Primordial Incantation"
+        },
+        {
+            "artist_id": "7gVIcvxZLQ9mKI7k6tXQdq",
+            "artist_name": "Lord Belial",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac31f7f527fe0356eaac31a87cb930c09a94ed67",
+            "track_id": "74G5BBZUYQz2zX7Pcrzs32",
+            "track_name": "Nocturnus"
+        },
+        {
+            "artist_id": "17bYSQ9ZRnreVnJjE5X2x6",
+            "artist_name": "Moonspell",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "3lA4ttTSv1QEu6iNkOK6o6",
+            "track_name": "Opium"
+        },
+        {
+            "artist_id": "17bYSQ9ZRnreVnJjE5X2x6",
+            "artist_name": "Moonspell",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6XXxknweSdDplc0e3JMn5R",
+            "track_name": "Lustmord"
+        },
+        {
+            "artist_id": "2kz8rfKrfCGpB9mRxn2XTp",
+            "artist_name": "Ov Hell",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad50147c7955dfc4ae01fb0ad4fbae2f98dc7f15",
+            "track_id": "6YyCLTrusaca6snyDTq6hV",
+            "track_name": "Invoker\u2019"
+        },
+        {
+            "artist_id": "6JcFn4PlXFuXmhRXpOpsan",
+            "artist_name": "Pestilence",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/23ec46a0f6c80d531ca412aff7e01e47abd587ce",
+            "track_id": "0tZHnVFMSlFEwc2rgoZCXt",
+            "track_name": "Sinister"
+        },
+        {
+            "artist_id": "7wqTItc5qEyIwWw5ksN1Ya",
+            "artist_name": "Shining",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/698db334daf92598a04b7e02e214152927045b8c",
+            "track_id": "0F0KW33TYuPwtsNzLOeuHG",
+            "track_name": "L\u00e5t Oss Ta Allt Fr\u00e5n Varandra"
+        },
+        {
+            "artist_id": "5YKzmXqu3KxPoBSGIF7Yii",
+            "artist_name": "Sybreed",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/8bdbb09b0a83e2b45f599ccc5441d61d1292d3af",
+            "track_id": "0AgDwNjf7ONVbIQgCjgxvO",
+            "track_name": "A.E.O.N."
+        },
+        {
+            "artist_id": "72x1aopDWPOLIl4Q3K8Xww",
+            "artist_name": "Tidfall",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/3628839381fe919d8efa1b3bbfac79cdec782223",
+            "track_id": "20qQVSs3luSQGVLJ8rK5AR",
+            "track_name": "My Wrathful Eyes"
+        },
+        {
+            "artist_id": "0NTSMFFapnyZfvmCwzcYPd",
+            "artist_name": "Cradle Of Filth",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ddcb25d76de94c908dcca36a592e886cda1200d",
+            "track_id": "5dw11yXnRmEHKhoqHDithJ",
+            "track_name": "Tortured Sould Asylum"
+        },
+        {
+            "artist_id": "72x1aopDWPOLIl4Q3K8Xww",
+            "artist_name": "Tidfall",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/af87ad8f79e2e51ffb986c67de00df8c2db49d06",
+            "track_id": "4Ty0gsnCdCXZW8hky0C4OP",
+            "track_name": "Mind Raper"
+        },
+        {
+            "artist_id": "2ytfu1MWsf763hCBQmaQr6",
+            "artist_name": "Windir",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd70a75634ebd5b3038666b8f33df76b65b19bc9",
+            "track_id": "744QCvAlDJ79jgBsbcr5pq",
+            "track_name": "The Blacksmith And The Troll Of Lundamyri"
+        },
+        {
+            "artist_id": "0NTSMFFapnyZfvmCwzcYPd",
+            "artist_name": "Cradle Of Filth",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/940b8f2a3b9a556c5003383f6ead08618d2c3eee",
+            "track_id": "59sIVXpsJI9fEk62qFWat8",
+            "track_name": "Tortured Soul Asylum"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/698f8d1cfc0e9751477b5e8df15fc341b408a124",
+            "track_id": "4c9P7N5WdA8F3h28CXYblJ",
+            "track_name": "At Takao River"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 4,
+            "preview_url": "https://p.scdn.co/mp3-preview/27772a3fd32e720a4c778f1f8ca9d99b269e4091",
+            "track_id": "0GOLGC4hVHWNZdh1aJW3Sg",
+            "track_name": "Portals"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/de84b4e396e4c24add16eac37152cf9dce5a4838",
+            "track_id": "0lslgvqdgmq7OXv1rsMbBZ",
+            "track_name": "The Momentum"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/05069f9d93dff0ccaf29956451d40237810c4288",
+            "track_id": "19GC44z8qwUoLoWPOrkVj7",
+            "track_name": "Coffin-Shaped Heart"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/698f8d1cfc0e9751477b5e8df15fc341b408a124",
+            "track_id": "4c9P7N5WdA8F3h28CXYblJ",
+            "track_name": "At Takao River"
+        },
+        {
+            "artist_id": "4L8yMq2CGzyfPipjnhcrZB",
+            "artist_name": "Torchbearer",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/91a03fb9fc1f0dc1bdc5364408ad435300546d9a",
+            "track_id": "0w4ZQnCRR8mXiBd7aSEQ0J",
+            "track_name": "Severings"
+        }
+    ]
+}

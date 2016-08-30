@@ -1,0 +1,589 @@
+{
+    "href": "https://api.spotify.com/v1/users/125809126/playlists/7rbQzdgkQJNdOP0JfqFdL8/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca0fbca4aba6c421a95684498f80a45c5dc36c1f",
+            "track_id": "3EaFN1odBQaozUy2bSFIBh",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/cefb87d8c02aaef1f313f3531502d9f4fa188334",
+            "track_id": "6jwuR8NmVaAAjwuJuKNjKr",
+            "track_name": "O Come O Come Emmanuel"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/650e1a5c5419d34d40e8e999070da3cd1abf9bb5",
+            "track_id": "5rxLpjZX444Oy5na6oeYJH",
+            "track_name": "We're Goin' To the Country!"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a85fc530e28c514a5c149cb6345cfc8c82e80dd",
+            "track_id": "7pBB1C9FQvMPZYgptrtFFz",
+            "track_name": "It's Christmas! Let's Be Glad!"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f66b974019fbd7f2224a4b7eca3da4305abceca",
+            "track_id": "0fGAsj6IYb5DyfrRz3Oq26",
+            "track_name": "Holy Holy, etc."
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/8daf35d177a918c9c84486a5571e0b0a6cc7bf1d",
+            "track_id": "2ZiyZWNAZdF8JwlBEy709Y",
+            "track_name": "Angels We Have Heard on High"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c89ea58b3c053d9f590f5976df86f4017998033",
+            "track_id": "1RtVBkFEGcdc8KpuvzuuTZ",
+            "track_name": "Put the Lights On the Tree"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d741efb604b1f89ad17e6a5dd142c37c21ab728",
+            "track_id": "2HGauri7NDGHmTKM3C34g1",
+            "track_name": "Come Thou Fount of Every Blessing"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/a88e981faa68f5a1c16db34ae1087afb7dfe9243",
+            "track_id": "569Q8c6p8ZonNq8b0iUaaz",
+            "track_name": "Once in Royal David's City"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/5fe204523f91751a1341f52dfa0841dfb6f63d05",
+            "track_id": "5Ikyl7ppmxDAwRJBhsnUtq",
+            "track_name": "Bring A Torch, Jeanette, Isabella"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3aa55a1f7e9254ce85925afbf2a011565eb8fcb",
+            "track_id": "0oMiYjWUQm3GT9WnS6CeVF",
+            "track_name": "Ding! Dong!"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7acfb91be0e0919a4b6126d7e7c294bfb27d024",
+            "track_id": "7DN4d1msTxtey4f82YY7xS",
+            "track_name": "The Little Drummer Boy"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ebc3b0a3b4027b074f078d384ce2bcff3e4bd3f",
+            "track_id": "1tQ984TqledgOhEVsCPJZs",
+            "track_name": "Away In A Manger"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/c78cc3c67382f00f3584acae533a1d89b3b93655",
+            "track_id": "2wIcC00knzyI889QUMQy4D",
+            "track_name": "Joy To The World"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea5be10b2dadbfff31725013781f219b1b0f3065",
+            "track_id": "7HH75bOHXqzmpjtGZnyurm",
+            "track_name": "Jingle Bells"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/e32addb857e1a423c9478b9b42d33830736039e5",
+            "track_id": "78q8xtvcoidchS8tSAt8Bx",
+            "track_name": "Jupiter Winter"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3d375a8b7bfaaf3c9428ea6be35efd89e881332",
+            "track_id": "25jQYsqrFzLkEoDK52VLtl",
+            "track_name": "Do You Hear What I Hear?"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a5cbee48ba0f8729452c5f18e54ec84e5aa859b",
+            "track_id": "0p5gFfkjxF0PP9Rc2OWjIu",
+            "track_name": "It Came Upon A Midnight Clear"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/a06d64ac2803f1303b042b3439ccdbf022d9330b",
+            "track_id": "4ZMx7EfJNanVpXrlw6chC3",
+            "track_name": "The Child With The Star On His Head"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/49add2c01dc5657c3da09623b7f80b53f3ad8060",
+            "track_id": "3jGyqD6UsLzfkwtN2WUSf3",
+            "track_name": "I'll Be Home For Christmas"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/513a50de446a75327cd7eeb1956c4cdbb9f05211",
+            "track_id": "59mehFxcJXQ8yvgLhSnAzz",
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/8142045c477e027f394f98e56294897443a5963a",
+            "track_id": "5YQHPDH1Z1ZDxrobBSCsJr",
+            "track_name": "Let It Snow! Let It Snow! Let It Snow!"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/3059c9ef398223493c0adc465bfa62f42e906f7d",
+            "track_id": "1h5qSdMtpQ4YWOEzVdgsTP",
+            "track_name": "Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/1fe6c225a8e78e3e1e2e60d6418e6c38edf476d4",
+            "track_id": "3zRu00bGoy56lXFGNipYdm",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/9567f7b97d43158114994982f4f06f88c3167efb",
+            "track_id": "438e9Qcx8hD7qDXUhiSoIC",
+            "track_name": "Up On The Housetop"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/df2e89e681c9d219977d3ffd9c4d0ea052a80047",
+            "track_id": "0lLdorYw7lVrJydTINhWdI",
+            "track_name": "It's Beginning To Look A Lot Like Christmas"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd010602753203f389e32bd1c7bec2a88c020aa8",
+            "track_id": "5Ber68jZ7ytegr2UISEdb7",
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/dc576f457addeefddc613c722cedc13fcb242c17",
+            "track_id": "4qBejt9FeqLI9blHI1Nq1x",
+            "track_name": "Jingle Bells (feat. The Puppini Sisters)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec0c716e7c24d4da42f8487d4ff43b9c2d8dea91",
+            "track_id": "2gbCG4Rt9984UZ7Tc0dIFd",
+            "track_name": "White Christmas (Duet With Shania Twain)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ad25319a4859f0ace327a313202d5639c31cb10",
+            "track_id": "0xPaZrF25ltzvz1a2Pm5DQ",
+            "track_name": "All I Want For Christmas Is You"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7962fe13e7e25fcc1963373acf61d289bbcdf6d",
+            "track_id": "6tjituizSxwSmBB5vtgHZE",
+            "track_name": "Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/eea12f7c236d65e6dde49c4d4ec134e39a3e60a6",
+            "track_id": "6DwnAl6l63e83dDgIzY8P4",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/230f70e9fdad22be31a9149e3efb5894bd19b59a",
+            "track_id": "1DnSNqCQM3LUxqFuXt184Q",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd1b0d3a4b506f474701cd6c988663aa151c8afe",
+            "track_id": "66WPXyhXqMlkM1kZhyEXWK",
+            "track_name": "Christmas (Baby Please Come Home)"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/e92643e46ae0195f8f03f4a0aae35d37e4c262e5",
+            "track_id": "6B14wYcEpWhyDvxWRb9Df8",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/48bbe8ea219868fdc6d5d957bc2394a1ec26a747",
+            "track_id": "6Lh85Pe18pqvNdDoWgTVUC",
+            "track_name": "Blue Christmas"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbcc9b91380a590c5ed25c230c1ab7e57f45c09c",
+            "track_id": "4FPrAERfkPKOBKrRoyuxLu",
+            "track_name": "Cold December Night"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/56e5faaafcd03d6b963c3c599c9d597acaeacef6",
+            "track_id": "0tXPhc8LvM4dPvoRwI66XQ",
+            "track_name": "I'll Be Home For Christmas"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6ac8778d4bfffb200dfa243fdf5237a9154fb54",
+            "track_id": "3tAg5SGPaQmXuLdYlsp7QI",
+            "track_name": "Ave Maria"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/94d27216f13b7be5e7cb37f65dd46d965ec95261",
+            "track_id": "0kmrXYtFI8cgxsShrJpThx",
+            "track_name": "Mis Deseos/Feliz Navidad (Duet With Thalia)"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/2a01f7ecfdeba4c61bbd549bcd9159f5e45c03c1",
+            "track_id": "33EcmYsTQVIGRGnGPOfTwu",
+            "track_name": "Linus & Lucy"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6255cf23e078a85e5509cf1cafba44c76da15b81",
+            "track_id": "7aEjsTKJKspp01vkeVgeRr",
+            "track_name": "Christmas Time Is Here - Instrumental / Album Version"
+        },
+        {
+            "artist_id": "4phGZZrJZRo4ElhRtViYdl",
+            "artist_name": "Jason Mraz",
+            "popularity": 42,
+            "preview_url": null,
+            "track_id": "0zXjeGMMe7esPTvqJCN5d8",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/e675513651974ca107dafe2e65015076a155fde2",
+            "track_id": "4YSSB7ZtqVnbsxybS5NHJC",
+            "track_name": "Christmas Is Coming"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d278a588b912201aa7d5d7fca231991222a59d2",
+            "track_id": "7hK9jnESeCfc5fIHH76jKh",
+            "track_name": "Skating"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3e64b458ba25814fcf72a2884a341038830378e",
+            "track_id": "1LfY2vPURdcodmbHn8zRZq",
+            "track_name": "Hark, The Herald Angels Sing"
+        },
+        {
+            "artist_id": "5lpH0xAS4fVfLkACg9DAuM",
+            "artist_name": "Wham!",
+            "popularity": 45,
+            "preview_url": null,
+            "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+            "track_name": "Last Christmas - Single Version"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/8db453fcf66e10ee854b75d78694614379f5c72c",
+            "track_id": "0di0zKKJ7ZdYcsjeYfAVyR",
+            "track_name": "The Christmas Waltz"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d05e2036ce0769c964f55a3f4da1570e65d64e1",
+            "track_id": "1ZvYWgKUR1y9nbO8s34oSM",
+            "track_name": "Have Yourself a Merry Little Christmas"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/c54c7fe48bf69b8a25523520214489eb7efe35b2",
+            "track_id": "2069EXDY1YWB1NJ4BWuimG",
+            "track_name": "Sleigh Ride"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0afd2c2af0b54f5531b947208ce2042f06fc91e",
+            "track_id": "3Qbw53vz47w66gcdlsIZcD",
+            "track_name": "Rockin' Around the Christmas Tree"
+        },
+        {
+            "artist_id": "3CIRif6ZAedT7kZSPvj2A4",
+            "artist_name": "She & Him",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b854371334393531952610ae17c4b3c1594ca1e",
+            "track_id": "1FkfPShKw6e2WHe3ZsYEbk",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "3dRfiJ2650SZu6GbydcHNb",
+            "artist_name": "John Williams",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/93bf871ca3a1fd08c99f53f21c5d9a055f52e222",
+            "track_id": "4WPw9shOzxaA4cWws44Xjd",
+            "track_name": "Christmas at Hogwarts"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 90,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab4f06069148ef8510d8681164479601d4617bed",
+            "track_id": "0bYg9bo50gSsH3LtXe2SQn",
+            "track_name": "All I Want for Christmas Is You"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba17bdea559a627d9d5b731fa988be978445cd86",
+            "track_id": "1TEtGpU2sEV2VNjz5FClU2",
+            "track_name": "Merry Christmas Baby"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a64fad8bced9b9c36b95a8b4ad100d749f3c7e4",
+            "track_id": "3nafPh1oIVVSuCR2FZDOkD",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9f129b282adc6236d4821940afa4e0749509942",
+            "track_id": "2viEfz2Y3y0Bqs6jewnvYr",
+            "track_name": "Christmas In The Sand"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/c87ba0c6b205f5378309fe7682b8bf58cbe2e7d8",
+            "track_id": "2WdoRZXGnx7t2IRwTL2Ims",
+            "track_name": "Baby It's Cold Outside"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/392e4e5f4577455cfd576576271dd77ade6b1f01",
+            "track_id": "6RG0hWdBvFqES3qujX9tJV",
+            "track_name": "The Christmas Song"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8d19a250f2ac713e798305266374e394655f2b6",
+            "track_id": "2wNIeHGJKq45Ol6Rv9ytdk",
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/b621cefff3848f473ab29d395f64501afc438f2c",
+            "track_id": "1vPQfMpuGAgSXJF2I1m87I",
+            "track_name": "Every Day Is Christmas"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/492930673d79d1e5ab3f822abe2ece83acd50cbe",
+            "track_id": "1TON9jPNYyzOt5j450c6z2",
+            "track_name": "Silver Bells"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a0ec969d7dc2cf06b954516593c24e4f7ea2b1d",
+            "track_id": "3Qu1pRGS6af2R6A4DbQE5n",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/52d849d507f93c21fe8f8bea064cb841b1a266ef",
+            "track_id": "4BveoHoGwzJHuWn7TRtRrx",
+            "track_name": "Mistletoe"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ed30ef54e1754d05f3bfe5ca4973c96cbcac7bb",
+            "track_id": "55pDfJVbZeaz9IAUPPqTxk",
+            "track_name": "Happy Christmas"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/c749ccb0a2c363a3f13c1541f0bb52c9cc0bd443",
+            "track_id": "6Wo1Gj3FkWegPimuBeWzpU",
+            "track_name": "Auld Lang Syne"
+        },
+        {
+            "artist_id": "4uSftVc3FPWe6RJuMZNEe9",
+            "artist_name": "Andrew Bird",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b7128431bf678e03905fdff1b0cb67aeea1ea39",
+            "track_id": "4pNf88UmWBliI9uQA9XtsJ",
+            "track_name": "So Much Wine, Merry Christmas"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/1052f571af1843362b7cba77594e084018414bc6",
+            "track_id": "6YJdPrH3i2POzu7hdHIRrb",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c3791c11a35167eef41fc08e02448a13eb6ff89",
+            "track_id": "5xDrO9DEDJGUQGfyoHvgDJ",
+            "track_name": "Last Christmas"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/d20ef4cfab3a2e174c8018380180642489ecd011",
+            "track_id": "25tkPPlBrYCXkSIAASibtL",
+            "track_name": "Love Is Everything"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/da82c5b4cc1366ffa0df086ff7a056be1da785d2",
+            "track_id": "6Uc4EHr3ktYmLfLDY7LifJ",
+            "track_name": "Snow In California"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/25f4d9150b5332f7aacbcabbd69f2de50ae34772",
+            "track_id": "0lizgQ7Qw35od7CYaoMBZb",
+            "track_name": "Santa Tell Me"
+        },
+        {
+            "artist_id": "3UAk61T8PItbpgEi9u7ofY",
+            "artist_name": "Andrew Belle",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb03e480832b802a140f27bec59103dd82595a87",
+            "track_id": "0VJ3I1e8WKHpMXEEtx0tLN",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        }
+    ]
+}

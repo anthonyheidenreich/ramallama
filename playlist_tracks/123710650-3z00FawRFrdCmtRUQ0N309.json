@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/123710650/playlists/3z00FawRFrdCmtRUQ0N309/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6KcmUwBzfwLaYxdfIboqcp",
+            "artist_name": "Kyla La Grange",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/5a6052090dd3213dedc68351838f67f9ebad35b0",
+            "track_id": "1y4Kln6VEjQMpmHW7j9GeY",
+            "track_name": "Cut Your Teeth - Kygo Remix"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef1c6baf379e77005ea060a410d4e080d8ab88ee",
+            "track_id": "6T2BLEa8Qu8TKsIVMrwH8S",
+            "track_name": "1998"
+        }
+    ]
+}

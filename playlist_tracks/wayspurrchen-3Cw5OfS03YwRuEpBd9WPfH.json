@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/wayspurrchen/playlists/3Cw5OfS03YwRuEpBd9WPfH/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3EL1HKvsKVnzmYXOmHUYKJ",
+            "artist_name": "FDEL",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/0fe9170c6059fe6b7aaf3b575e6b6ffe6ec10296",
+            "track_id": "7FQQvpLp7jJlT0TMeZ9Gmp",
+            "track_name": "A Fuller Culture"
+        },
+        {
+            "artist_id": "3Pjo1vIMjTXaOCVI5YhB0l",
+            "artist_name": "Flevans",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/abd4a953d20a68586629142a5706c144a55909ea",
+            "track_id": "1dsua4lGtge7CUoXGl1jmD",
+            "track_name": "Sounds Good"
+        }
+    ]
+}

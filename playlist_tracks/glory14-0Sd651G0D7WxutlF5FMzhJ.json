@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/glory14/playlists/0Sd651G0D7WxutlF5FMzhJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7CajNmpbOovFoOoasH2HaY",
+            "artist_name": "Calvin Harris",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5f85536149c616a35e0136c27a65eb039e31231",
+            "track_id": "75kMrDKPJJpgEQaXVh7QMB",
+            "track_name": "Pray to God"
+        },
+        {
+            "artist_id": "1moxjboGR7GNWYIMWsRjgG",
+            "artist_name": "Florence + The Machine",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/5719e063a1b861a372b767dddc5df12307ba1c2f",
+            "track_id": "12HB8AmFTovKrFcGG36KbL",
+            "track_name": "Delilah"
+        },
+        {
+            "artist_id": "3MyFDtqB80WZvbtCZRsekM",
+            "artist_name": "Bakermat",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/485925a17f386d9024ef927bca55563ba23a1ad7",
+            "track_id": "0GSU6yLOJqO10ziQuBLWOE",
+            "track_name": "One Day (Vandaag) - Radio Edit"
+        },
+        {
+            "artist_id": "3dz0NnIZhtKKeXZxLOxCam",
+            "artist_name": "Porter Robinson",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfa3eed06926e1fd6aea66d7342ec9ce39ba507c",
+            "track_id": "1JY6B9ILvmRla2IKKRZvnH",
+            "track_name": "Sad Machine"
+        }
+    ]
+}

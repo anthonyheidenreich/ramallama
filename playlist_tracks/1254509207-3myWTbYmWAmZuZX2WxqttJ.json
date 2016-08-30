@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1254509207/playlists/3myWTbYmWAmZuZX2WxqttJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1kNQXvepPjaPgUfeDAF2h6",
+            "artist_name": "You Me At Six",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a00ed691ad75c42de3822d4ff68968bf40bfc55",
+            "track_id": "2HAIdzqGyaWd5JJBzp9Pim",
+            "track_name": "Time Is Money (feat. Winston McCall)"
+        },
+        {
+            "artist_id": "0X2BH1fck6amBIoJhDVmmJ",
+            "artist_name": "Ellie Goulding",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/a38aba171a2ab1763efa7c28a92a494d03e49515",
+            "track_id": "79fsvcjyeyPpIoIqc2TKOS",
+            "track_name": "Beating Heart - Taken From The Divergent Soundtrack"
+        }
+    ]
+}

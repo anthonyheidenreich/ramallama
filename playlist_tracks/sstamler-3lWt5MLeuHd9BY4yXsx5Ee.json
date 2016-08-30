@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/3lWt5MLeuHd9BY4yXsx5Ee/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "12Chz98pHFMPJEknJQMWvI",
+            "artist_name": "Muse",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e92bde0873c3a4aee97204c3f71543e1be59473",
+            "track_id": "3LwfE3USKwANPjPz34iGDZ",
+            "track_name": "Hyper Music"
+        },
+        {
+            "artist_id": "12Chz98pHFMPJEknJQMWvI",
+            "artist_name": "Muse",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/8aaae2e0913efe76208d58dc72aa27c66a072fb0",
+            "track_id": "0PEogXgSTxYjiL9oltS2Oc",
+            "track_name": "Citizen Erased"
+        }
+    ]
+}

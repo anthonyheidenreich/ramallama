@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/3gwqYB9BDYj336qXlsfjbG/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "4aa2ZN23JU7AW4NI5VcTVY",
+            "track_name": "Immigrants"
+        },
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "4S8fyqT2eebQc93NAba2hC",
+            "track_name": "Deep Search"
+        },
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6W08vpI8EGSXQxIiEpc2RQ",
+            "track_name": "A King Alone"
+        },
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "3zQW9qmRmDxllUWLa8jWy2",
+            "track_name": "Faces"
+        },
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6bxwCYpqeZC0yjYeKfBVL6",
+            "track_name": "Black"
+        },
+        {
+            "artist_id": "62rW7FjQy7clhBDHuumg22",
+            "artist_name": "The M Machine",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "7ygfUOT6gGnbK7NDSaJzw8",
+            "track_name": "Shadow in the Rose Garden"
+        },
+        {
+            "artist_id": "7pUnaNwiKa3p27L1EwB4X6",
+            "artist_name": "Israel Houghton",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "1IJx8wYIqtAcSymtt5FHY4",
+            "track_name": "Everywhere That I Go"
+        }
+    ]
+}

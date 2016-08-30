@@ -1,0 +1,229 @@
+{
+    "href": "https://api.spotify.com/v1/users/123481630/playlists/02dkSnLq9TIg84AapgxhY3/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": null,
+            "artist_name": "Duran Duran",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Hungry Like The Wolf"
+        },
+        {
+            "artist_id": "3PhoLpVuITZKcymswpck5b",
+            "artist_name": "Elton John",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "2utpcuRHHNADztQlIK7LN3",
+            "track_name": "Tiny Dancer"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/5908f4536c2b1111045c46555811fe61112d5c26",
+            "track_id": "77NNZQSqzLNqh2A9JhLRkg",
+            "track_name": "Don't Stop Believin'"
+        },
+        {
+            "artist_id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "artist_name": "Billy Joel",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3b37bdad05ca2e573eb096fa19521b3fe36adba",
+            "track_id": "3CSpzkoL1XgDBZ1q9aDCUV",
+            "track_name": "Uptown Girl"
+        },
+        {
+            "artist_id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "artist_name": "Cyndi Lauper",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/95063b0a5d15c5859134d844a59851b34cb20cee",
+            "track_id": "4iZkWwfz2jOesgVDTsjkKA",
+            "track_name": "Time After Time"
+        },
+        {
+            "artist_id": "0uAjBatvB4ubpd4kCfjmNt",
+            "artist_name": "A Flock Of Seagulls",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/99dd4f4c48d2ce6970ff46fc34eaf48ad9b1a39f",
+            "track_id": "10zlwR7kvVbD9OBkeZWr3L",
+            "track_name": "I Ran"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "George Michael",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Careless Whispers"
+        },
+        {
+            "artist_id": "4PpmBoqphQusNFsxuVKb6j",
+            "artist_name": "Paula Abdul",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/2aef58727efcc1ae26122988259e96a7e6be397d",
+            "track_id": "5xl5582IihbEZAnfj0xyso",
+            "track_name": "Straight Up"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f8786da0612947d48210a968e36b2f0e6e404f5",
+            "track_id": "4WSfyC9pFp0nc8OD0rHyaD",
+            "track_name": "Billie Jean - Single Version"
+        },
+        {
+            "artist_id": "0gxyHStUsqpMadRV0Di1Qt",
+            "artist_name": "Rick Astley",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0ac0R0wkioYDhzQDbCFokO",
+            "track_name": "Never Gonna Give You Up"
+        },
+        {
+            "artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+            "artist_name": "Daryl Hall & John Oates",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/c59475935aa0c931c84c3a150f83fc47efce0438",
+            "track_id": "2dlEdDEmuQsrcXaAL3Znzi",
+            "track_name": "You Make My Dreams - Remastered"
+        },
+        {
+            "artist_id": "3y24n3XhZ96wgwRXjvS17T",
+            "artist_name": "Coolio",
+            "popularity": 18,
+            "preview_url": null,
+            "track_id": "0RdpN5cjHSlC2tOmnphkF2",
+            "track_name": "Gangsta's Paradise"
+        },
+        {
+            "artist_id": "6hN9F0iuULZYWXppob22Aj",
+            "artist_name": "Simple Minds",
+            "popularity": 17,
+            "preview_url": null,
+            "track_id": "0OzwLNVnzfG43IyQB2RMPH",
+            "track_name": "Don't You (Forget About Me)"
+        },
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd78dafe31bb98f230372c038a126b8808f9349b",
+            "track_id": "2374M0fQpWi3dLnB54qaLX",
+            "track_name": "Africa"
+        },
+        {
+            "artist_id": "6aq8T2RcspxVOGgMrTzjWc",
+            "artist_name": "Soft Cell",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/8898b4e84132f2cc5c30aacce223a4bdd44115d1",
+            "track_id": "1tVzVPIcCFz5QUMGLPHJEc",
+            "track_name": "Tainted Love"
+        },
+        {
+            "artist_id": "0f3EsoviYnRKTkmayI3cux",
+            "artist_name": "Men At Work",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2a0e908126b04c92cf0f80c29242d46f2b45396",
+            "track_id": "46RVKt5Edm1zl0rXhPJZxz",
+            "track_name": "Down Under"
+        },
+        {
+            "artist_id": "4QTVePrFu1xuGM9K0kNXkk",
+            "artist_name": "Dexys Midnight Runners",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/d474e8886b7af4312db5e85d0ade96efddfcb15f",
+            "track_id": "0EMmVUYs9ZZRHtlADB88uz",
+            "track_name": "Come On Eileen"
+        },
+        {
+            "artist_id": "0Nn9YwJzcaeuU1jJL06e3r",
+            "artist_name": "The Knack",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/4af53791e6095ca0a3c406f1d21c444ed3d7a781",
+            "track_id": "1HOMkjp0nHMaTnfAkslCQj",
+            "track_name": "My Sharona"
+        },
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd78dafe31bb98f230372c038a126b8808f9349b",
+            "track_id": "2374M0fQpWi3dLnB54qaLX",
+            "track_name": "Africa"
+        },
+        {
+            "artist_id": "4bthk9UfsYUYdcFyqxmSUU",
+            "artist_name": "Tears For Fears",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/b727dd0460386b5592c9a061d85e4323a5cbb77a",
+            "track_id": "0wWNbkx0BR4CBJrTjG0sJ4",
+            "track_name": "Shout"
+        },
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/b56a70770267b00ccae13c2e8c8a34ed54627d02",
+            "track_id": "1z3ugFmUKoCzGsI6jdY4Ci",
+            "track_name": "Like A Prayer"
+        },
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/31c50f508c07f16c25097c9dc5f8f55a162dff0a",
+            "track_id": "2Iib2MV3ECFJAourgP9dlY",
+            "track_name": "La Isla Bonita"
+        },
+        {
+            "artist_id": "6tbjWDEIzxoDsBA1FuhfPW",
+            "artist_name": "Madonna",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ec0810a762af769cc126a38d86ee855f6cd4b7f",
+            "track_id": "5HktkLHDbjA6LTyRTBEzHy",
+            "track_name": "Celebration"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c55dd98f57e4b19f828aa6bbf56b3a0171b82f4",
+            "track_id": "2RtnoUsvJg3wMgMeEhG6fr",
+            "track_name": "Danger Zone"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c55dd98f57e4b19f828aa6bbf56b3a0171b82f4",
+            "track_id": "2RtnoUsvJg3wMgMeEhG6fr",
+            "track_name": "Danger Zone"
+        },
+        {
+            "artist_id": "19ra5tSw0tWufvUp8GotLo",
+            "artist_name": "George Michael",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "4fVdtkBSTaOuecdWKcXmRX",
+            "track_name": "Careless Whisper"
+        },
+        {
+            "artist_id": "5lpH0xAS4fVfLkACg9DAuM",
+            "artist_name": "Wham!",
+            "popularity": 45,
+            "preview_url": null,
+            "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+            "track_name": "Last Christmas - Single Version"
+        },
+        {
+            "artist_id": "5lpH0xAS4fVfLkACg9DAuM",
+            "artist_name": "Wham!",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e22919fb8c84dcbf5e367bf94eab5cbed33cfed",
+            "track_id": "5l1RLE94Y7nrowPN5LvAci",
+            "track_name": "Wake Me up Before You Go-Go"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/123710650/playlists/2KrWm6brzmiMz13XWgJ04j/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "08Cb5OwPZ7SrS19MNYaHqz",
+            "artist_name": "Buxxi",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad9bcdb0978c01d6890faad15842911b1ec188a6",
+            "track_id": "5g2cx0mZFmCNp4GexaifFl",
+            "track_name": "Como Tu No Hay Dos"
+        },
+        {
+            "artist_id": "3ATyg4fGC9F8trfb0GRWmX",
+            "artist_name": "Joey Montana",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/61ea69cb71b4ee7cc8160cca8534b022f3f76852",
+            "track_id": "2sH1DIngiSA8EQfkcQXpBq",
+            "track_name": "La Melodia"
+        },
+        {
+            "artist_id": "6w1XCiB8efbfnusJ2jzmvu",
+            "artist_name": "Proyecto Uno",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0e524baf5fe7ea3cfdd9f4d36a3dd8712f74329",
+            "track_id": "4xpsRevdgkpscyD5O13NwS",
+            "track_name": "Algo Contigo"
+        },
+        {
+            "artist_id": "5NS0854TqZQVoRmJKSWtFZ",
+            "artist_name": "Chino & Nacho",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/056c66b191e35349a5d74cb9d2d6f2bc64951891",
+            "track_id": "4u5xLMRN0dgKBFFN8FiNgv",
+            "track_name": "Ni\u00f1a Bonita"
+        }
+    ]
+}

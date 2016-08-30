@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/2yZXbMoSdBV8qMIdiBdMN8/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3iGPgkJna7X6sxUXCTU3nn",
+            "artist_name": "The Ruffled Feathers",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/92652ba6be011f9cd8844c8f1e6157e9a35005dd",
+            "track_id": "351LDCtIrWAfq4pO4MbL5W",
+            "track_name": "The Bird Is the Word"
+        },
+        {
+            "artist_id": "7oWSqrgMuIEyH9qp5nu2e5",
+            "artist_name": "Raffi",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/b45d22cf64ee4b9ae0f6906b3ac6a050e02a8776",
+            "track_id": "2Uu4AnnMTJpevC0IrwAuOW",
+            "track_name": "Bananaphone"
+        },
+        {
+            "artist_id": "0z5DFXmhT4ZNzWElsM7V89",
+            "artist_name": "Erasure",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e7664f80723488bdab3bdb53215952abe332d36",
+            "track_id": "5QQCp4fQiU9I2FU9FvJVV2",
+            "track_name": "Always"
+        }
+    ]
+}

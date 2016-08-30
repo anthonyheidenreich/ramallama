@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/7fvKuAGMzW3e9L6Xqa2kjq/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3h11MHQeCrcsUgRRijI1zL",
+            "artist_name": "Mark Knight",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8b1f4ad941248d42166a331c2ccb42d6758cd73",
+            "track_id": "54hoWgqeSIk05I79dIPUie",
+            "track_name": "Your Love - Original Club Mix"
+        },
+        {
+            "artist_id": "4zxvC7CRGvggq9EWXOpwAo",
+            "artist_name": "Kiesza",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cb38142999e52ec08721852faa9cae7ebd2a89d",
+            "track_id": "5Lyw6U1IpYmKQ0kAOadOj3",
+            "track_name": "Hideaway"
+        }
+    ]
+}

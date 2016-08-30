@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/0HImj70kL9BcR2xp9LI6L6/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1xU878Z1QtBldR7ru9owdU",
+            "artist_name": "Phoenix",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "1VQ6FXasIrdkshSHfX6sde",
+            "track_name": "Entertainment"
+        },
+        {
+            "artist_id": "53KwLdlmrlCelAZMaLVZqU",
+            "artist_name": "James Blake",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/a26e66652e586b8b6ab1d3da060ca5e3ea8d7ee4",
+            "track_id": "4HujwzHGxXQ9BkrqW3lIfJ",
+            "track_name": "Retrograde"
+        },
+        {
+            "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+            "artist_name": "The Strokes",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/c265d5b228fd709b03726a643c0268704af66725",
+            "track_id": "5f8NK1iMn5pgauNeSoowHM",
+            "track_name": "All The Time"
+        },
+        {
+            "artist_id": "3XHO7cRUPCLOr6jwp8vsx5",
+            "artist_name": "alt-J",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce959086c6a1a2a518365b664f6e2ce9070366eb",
+            "track_id": "3n69hLUdIsSa1WlRmjMZlW",
+            "track_name": "Breezeblocks"
+        },
+        {
+            "artist_id": "5yV1qdnmxyIYiSFB02wpDj",
+            "artist_name": "The Postal Service",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9067cea8eb82871a08861087cb2058266c163e7",
+            "track_id": "64ZutGB9OXDUDho6bcttqb",
+            "track_name": "A Tattered Line of String"
+        },
+        {
+            "artist_id": "6FfjnGXMhxSsJTuGLWBDth",
+            "artist_name": "HEALTH",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/aebc4320dff3faacc2c04b549560eebabcde065c",
+            "track_id": "4yk1OoIYOdocy7ZuHENtMu",
+            "track_name": "Crimewave"
+        },
+        {
+            "artist_id": "25hbSOMmbhgqvonjC876UJ",
+            "artist_name": "Aer",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/3db15964ada95eb3502d53efe4f58b15198edb18",
+            "track_id": "6ElytsSQGHJuZKJKpNBCfd",
+            "track_name": "Take It Wrong"
+        },
+        {
+            "artist_id": "55LHFEtIplWhsfyWZUwkf4",
+            "artist_name": "Foxygen",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "4igKl8YqB7HsDP9ZKJbUEy",
+            "track_name": "San Francisco"
+        },
+        {
+            "artist_id": "3XHO7cRUPCLOr6jwp8vsx5",
+            "artist_name": "alt-J",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "0atIu1kHzJEAaqLgVqBzua",
+            "track_name": "Something Good"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/hpatel13/playlists/4nLotO28JdEQdStoEXxBT8/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2mxe0TnaNL039ysAj51xPQ",
+            "artist_name": "R. Kelly",
+            "popularity": 71,
+            "preview_url": null,
+            "track_id": "0nmxH6IsSQVT1YEsCB9UMi",
+            "track_name": "Ignition (Remix)"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/502215a397f67ed9f19b4844d3c922739ab47938",
+            "track_id": "7JVNRVPeXFAOdMrxOHNjVv",
+            "track_name": "Blue Jeans - RAC Mix"
+        },
+        {
+            "artist_id": "60d24wfXkVzDSfLS6hyCjZ",
+            "artist_name": "Martin Garrix",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/4dab7ed43b695473e65b89995da32c1e09239337",
+            "track_id": "6JEntXLt4z98CcDtIH9sU7",
+            "track_name": "Animals"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/42058e4440bc4bb2544d6917ce1d28ea44c3082f",
+            "track_id": "5ljCWsDlSyJ41kwqym2ORw",
+            "track_name": "03' Bonnie & Clyde"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/b200c889c3a54697737e1327d5b2ab5eddef6987",
+            "track_id": "2Zb7wnGUnNPCas2E0wWSQ5",
+            "track_name": "Ni**as In Paris"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/4cc9a0f7017331c12b6e6abc5a9cb29be9ffc87d",
+            "track_id": "2gZUPNdnz5Y45eiGxpHGSc",
+            "track_name": "POWER"
+        },
+        {
+            "artist_id": "00FQb4jTyendYWaN8pK0wa",
+            "artist_name": "Lana Del Rey",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/c097c94f0ee1ce704062d1814b6786f131eb65ab",
+            "track_id": "6PUIzlqotEmPuBfjbwYWOB",
+            "track_name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] - Cedric Gervais Remix"
+        }
+    ]
+}

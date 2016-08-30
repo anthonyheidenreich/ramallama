@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from playlist.models import Playlist, Song, SongSource
+from playlist.models import Playlist, Song, SongSource, Artist, ArtistSource
 
 """
 Serializers can be used to do 2 things:
@@ -36,3 +36,13 @@ class SongSourceSerializer(serializers.ModelSerializer):
     class Meta:
         model = SongSource
         fields = ('source', 'external_id', 'preview_url', 'created_on', 'updated_on')
+
+class ArtistSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Artist
+        fields = ('name', 'songs', 'created_on', 'updated_on')
+
+class ArtistSourceSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = ArtistSource
+        fields = ('source', 'external_id', 'created_on', 'updated_on')

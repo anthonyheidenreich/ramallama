@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/4aY14hxv6F08oxuCOX19f3/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7FtVJzRtpQpU61nBwB7cKN",
+            "artist_name": "Fastball",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/482b05129a166f063ff3ab99b2a9f2deb006c282",
+            "track_id": "5awZBMKId8PN6ZrQh2Z3Rp",
+            "track_name": "You're An Ocean"
+        },
+        {
+            "artist_id": "6zFYqv1mOsgBRQbae3JJ9e",
+            "artist_name": "Billy Joel",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3b9719bc4c16fbfab40512f7ba598bed86a0601",
+            "track_id": "6oOGaU0BMVuE4skmeGjyVm",
+            "track_name": "Cross to Bear - Demo"
+        },
+        {
+            "artist_id": "2d8qhohvvVDkBacYgFSX6d",
+            "artist_name": "The Lost Souls",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "3VfK5D96Gk6EX9tCmStdj3",
+            "track_name": "My Journey's End"
+        },
+        {
+            "artist_id": "3PhoLpVuITZKcymswpck5b",
+            "artist_name": "Elton John",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a0fa0e0bd6abac44c1bd24a0b49354ce79b25d7",
+            "track_id": "3Ejt44FW3lsGhil2mkpsul",
+            "track_name": "Take Me To The Pilot"
+        },
+        {
+            "artist_id": "3PhoLpVuITZKcymswpck5b",
+            "artist_name": "Elton John",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c515e4bea72e968b3d6cce397f1bafbbdb3230f",
+            "track_id": "7jQtwJnGFGnHNCu1GDZN7t",
+            "track_name": "Border Song"
+        },
+        {
+            "artist_id": "2vDV0T8sxx2ENnKXds75e5",
+            "artist_name": "Booker T. & the M.G.'s",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/e9ed3d25e865276cc3e7139d66688daf0d5b888f",
+            "track_id": "0GnLRFM0zvrYhxBg3FRewY",
+            "track_name": "Green Onions - Single Version"
+        },
+        {
+            "artist_id": "2ScuQMRWThcifBRIvNDFDC",
+            "artist_name": "John Mayall & The Bluesbreakers",
+            "popularity": 2,
+            "preview_url": "https://p.scdn.co/mp3-preview/2959982ead4959055ae2a58bdf083d70d3cca5eb",
+            "track_id": "4gTfAFqu4eOQFnaLDGbB6f",
+            "track_name": "Ramblin' On My Mind - Mono"
+        },
+        {
+            "artist_id": "1VKDHdy3cj1YP4zmWwyOL3",
+            "artist_name": "Gangstagrass",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/90eefc34adf7615e51565a35bca04b978e498171",
+            "track_id": "3WxAgH1gaLjdLt7XSq28XU",
+            "track_name": "Gunslinging Rambler (Bonus Track) [feat. R-SON]"
+        },
+        {
+            "artist_id": "1VKDHdy3cj1YP4zmWwyOL3",
+            "artist_name": "Gangstagrass",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfcccdb3c188e4b623bce456e5abfb1c7e02438a",
+            "track_id": "5a6UJvazUhbMTeAxU0bca2",
+            "track_name": "I'm Gonna Put You Down"
+        }
+    ]
+}

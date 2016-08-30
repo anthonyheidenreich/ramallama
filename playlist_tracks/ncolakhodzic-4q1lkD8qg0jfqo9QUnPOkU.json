@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/4q1lkD8qg0jfqo9QUnPOkU/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "74ASZWbe4lXaubB36ztrGX",
+            "artist_name": "Bob Dylan",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/259192bce4d763f7aade8137f48ca30f91e41952",
+            "track_id": "4ijw7fy7LDYMZDqt6SGWIB",
+            "track_name": "Girl from the North Country"
+        },
+        {
+            "artist_id": "6AbQqiXLNLzvJSqq2383bZ",
+            "artist_name": "Adriana Caselotti",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/d217814764fe2d5e59806077b3ca36981430e5b5",
+            "track_id": "4EkE6ojKSUWPimaZqp1NHd",
+            "track_name": "Some Day My Prince Will Come - From \"Snow White And The Seven Dwarfs\" Soundtrack"
+        }
+    ]
+}

@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/1245921668/playlists/6519sfyIrJJ2riKpqpVRti/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/67771915fd956453fc774b9990d27e0001a81eff",
+            "track_id": "2m1Vddv2ZWoAnCiiTmZgvc",
+            "track_name": "Intro"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c05c6754f560fe7e900d6797299ab88f415ec81",
+            "track_id": "0qbKx8pDPBdLNfe4QO4WsO",
+            "track_name": "Talking To Girls At Bars"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f410f335cd037f473416ff6525b33b4e473ced4",
+            "track_id": "2QP8Om30nDrUSQBl7k7pDV",
+            "track_name": "Crush On A Waitress"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/180516b535dd077d7d274ec76248a10d79620e7a",
+            "track_id": "5Xr0CgoswalgInWcrMv3zF",
+            "track_name": "Texting With Girls"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbf05704cf05c80e4dbd60c48268077bfa91c229",
+            "track_id": "69gLCUhXRpRdgzAtm0477D",
+            "track_name": "I Kinda Have A Boyfriend, Is That A Problem?"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/6f2a8daf2455f8ab5b91397f3329cb2d15ba1323",
+            "track_id": "1yNNREvbDQYXf7mzFMYYTw",
+            "track_name": "I Think Too Much"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/be04a3e294327b70e52d6c259e03a26ee62921c3",
+            "track_id": "3aWuQlOGGpR1WxJYLqjvlJ",
+            "track_name": "The Macaroni And Cheese Fuckin' Days Are Over"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/187b833b9ce0d88855b67f6375a413c6e835376d",
+            "track_id": "1n5vf9meFCGS3E7QgrCLye",
+            "track_name": "Wasting Time On The Internet"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cbc9bfebe323ad2657979886b4041be08e288d6",
+            "track_id": "1ECTxgtD2XjlCMCO0RlOuU",
+            "track_name": "The Donut Video"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/6336088b7c6e1527edda4661d12ff36d54cdae79",
+            "track_id": "49NIshcNGeLTIN4WL6jY6S",
+            "track_name": "Sign Language For Jizz Everywhere (This bit not ideal for audio, sorry!)"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e2ceb6cd89bf3b3e2c972d20835fe088017bde4",
+            "track_id": "1rsxGZ7uXMY9pxmUSusr5G",
+            "track_name": "My Favorite Racial Slurs"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbda582b711944d47c4758b1d3a6508c90b90fc8",
+            "track_id": "6nSEbFrbRFAiT5R3cWR3IL",
+            "track_name": "Motley Crue Tour vs. Aziz Tour"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/a606f505b7f6ca1cd88483fd1bd00d46593a1817",
+            "track_id": "1r42BiNxlCen1yM8GcGa6u",
+            "track_name": "Toronto Customs Lady"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/285651e74df3b1b37757f5796904846f635dc51e",
+            "track_id": "4fImyxG6eWPu05AeE8IzDo",
+            "track_name": "Lady With The Puppies"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9008521feee8553e467c9447d3bcc4c3019d3bff",
+            "track_id": "6lxnVEI9Gz30ZBL7SVgYAF",
+            "track_name": "Driver That Had A Dick On His Shoulder"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/559150f3a8fecfe63a4c820c6eafc0b5b4440419",
+            "track_id": "3QwVS8Pe1In5GmmLMkdApQ",
+            "track_name": "Harris's College Essay"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/57e8e16e2e0e51f87eeae328c67cb711253e9fca",
+            "track_id": "3xLCjnRWJo49vATMxSiBv5",
+            "track_name": "50 Cent Grapefruit Story"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/b069d745d22ac58570a9ba3edb2969255f4d4a7a",
+            "track_id": "0wvR0BFLLRxtNNoJ8oSeSL",
+            "track_name": "Online Fight"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc83ee30923e1a2a51fd0265f9c6c1cf65b09743",
+            "track_id": "4aZWedhPEcYkZXAemZEHBC",
+            "track_name": "Jay-Z New Year's Story"
+        },
+        {
+            "artist_id": "4SPvdqkhRp1ARWJvxByVuA",
+            "artist_name": "Aziz Ansari",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/519e983098d185c0387b7b81c39ca36e9991b6e3",
+            "track_id": "1zqav5PRJlVCeZLZwemss5",
+            "track_name": "R. Kelly Online Video Dictionary"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/086337c5c9b9507ddd5487cab659ddf43c7cdcbe",
+            "track_id": "6LyJRyNAOxckBvpvLBLBKc",
+            "track_name": "Intro / Dead People"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4ce775d42494ebf0f594cd985c80ba7dd1c3531",
+            "track_id": "2Ter3hehVbjh8Yp2rVJcsg",
+            "track_name": "Being Single Again"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/99dc4183a448537822b1c4f4ade1593a067c87ab",
+            "track_id": "3ZsBVcedifm2toPTeBp4sW",
+            "track_name": "Hot Girls In Bars And Their Dude Counterparts"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc9ed2d701b4c045463bfac2f21001a72d76b84a",
+            "track_id": "42mW8YfRXATwhNDBBv0UqH",
+            "track_name": "Dumb Thoughts"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/acbbffef9fb7faf8d7e2ea4d8f0769cdb76e0eb9",
+            "track_id": "0VrPi4JTbSyuSgogyVK4eh",
+            "track_name": "Currency"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7e21987b62925d61c570bbd351f2086103d898d",
+            "track_id": "1Qri3ivpXDr1EDqh7HiF8E",
+            "track_name": "Cell Phones And Flying"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfca1bf5115cc668af2b08ef918090b8163888f3",
+            "track_id": "5xQmQDCbyZCwXttJtrNj4j",
+            "track_name": "The Way We Talk (Hilarious)"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/c23f2fc234c3c01aeb8fced4237f74c44a220730",
+            "track_id": "7ijYHkEr1fBVOhR1PrloqF",
+            "track_name": "Other People's Kids"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/00729e61afadc911e7193d704e418e8e6154cc9c",
+            "track_id": "2WEGEC7wGsT4wVGJOr61V9",
+            "track_name": "My 7-Year-Old Is Better Than Me"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/83b65a18b0812cc15975e487c794011a87a44333",
+            "track_id": "4IujhvFdyepduQjWj01oUF",
+            "track_name": "My 3-Year-Old Is A 3-Year-Old"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/20915c4d24f01fb9c0f5c3fc21044a78717ef0a6",
+            "track_id": "3IUblfn0uuQiyy44ppOEug",
+            "track_name": "Taking Sexual Inventory"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/80ec678a0cd8130732ef7cd7182f2830be255787",
+            "track_id": "5lBTALXGBAHtnSpjeVLWvG",
+            "track_name": "Offensive Words"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec2d83e2a776e346334f1245d4d22b3d38e82d7c",
+            "track_id": "6cW8ZN9rf89gTf3c0xSQZ3",
+            "track_name": "Processing Shame"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/495c4fc002116bb389665be3e238e686571f45d8",
+            "track_id": "5rqK3dcdydtDMH1Qxe4i5Y",
+            "track_name": "My Horrible Body"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d8f74ef8e57194eff098187392ac84e6df2d874",
+            "track_id": "5wRenI0UiiId5s6FCYZvqH",
+            "track_name": "Cinabon"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/f87e51f9fa09d473ced4fa672854521a796e62ea",
+            "track_id": "4fVpvmszeFGc8oMUuBF2SQ",
+            "track_name": "Half Dead"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/50b269a699629a71746559637a799fb930d6dc7f",
+            "track_id": "53ZmhUtqM9msZvkUrPTMyq",
+            "track_name": "Milk & Pets"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/cca81bad571d051b38133d7016f71ca672e00e37",
+            "track_id": "4NYZOO1DgBA5NnQ4FBYnuY",
+            "track_name": "I Enjoy Being White"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/47980f9384525d7234297bd6f8a463b56b218259",
+            "track_id": "4B7m2cHAuVtzcK9wLtNp1u",
+            "track_name": "I Hate deer"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/604b6b37eace503b44fe30f54dcb25f5aca27b43",
+            "track_id": "4bGGAPgIcAejmVj2AcKaEa",
+            "track_name": "A Three Year Old's secret"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d6fe4a9af14d1ced7631529eca26eeb1c519217",
+            "track_id": "6E2HniFyPoTJ5FDQBrHh7O",
+            "track_name": "Daddy I Don't Like Chicken"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/384587d8b01bf4815afa55963b6019f479f4527a",
+            "track_id": "2D39zC00KHz0TprLfPKZXH",
+            "track_name": "The Diaper"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/9550cb30e062f7536236438cd0c1288fb6d775df",
+            "track_id": "4yMhaxmmpqDJvBdTXUCZtN",
+            "track_name": "Boys Vs. Girls"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/e227697fb7cedf5eb7d3ee7cb040816e114397a6",
+            "track_id": "11VnZ3CZ4bTO2mhTcuIfkB",
+            "track_name": "Jizz On Demand"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0e7ad840945f0b89d04a9f55746a4823d14ace7",
+            "track_id": "2BgQy9tEeftadT8zKPEOFy",
+            "track_name": "39702"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/0422ac347d7d7443c2855ccf54956233ccdde0da",
+            "track_id": "5FfF6hVrviqdnfjcCYdmWd",
+            "track_name": "Girls & Women"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/107f9feda04be35c944d24f3d939004b9aded43f",
+            "track_id": "4RlxGjRP6w18KPCRjhuS8u",
+            "track_name": "4AM - Bonus Track"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/97e98bb3c1390bb36aa4b977a0dc2975262a6e68",
+            "track_id": "7MZ02bp2MNoEV2cUSd3dzO",
+            "track_name": "Sweatpants & Vodka - Bonus Track"
+        },
+        {
+            "artist_id": "4fQii15cX3Q0ZkjCdsIxkZ",
+            "artist_name": "Louis C.K.",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/f968c3915f10a8e12239ad6b6e6bf7f56f3504fb",
+            "track_id": "48yrz2djTxBrJoywf2847O",
+            "track_name": "I Like Opium - Bonus Track"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d270493bbd17200bdb0d72844b01f52e0341e30f",
+            "track_id": "0VmgQcURI2GcOXoGcWVjeQ",
+            "track_name": "Here We Go"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fab20a0351ba8b4f13304cf20821f8cadc3d58c",
+            "track_id": "25hqH6rp9wsG8NpvjxGel2",
+            "track_name": "America Has Spoken"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/719e3b4abf1c8d097458705e04f83d72442099e9",
+            "track_id": "4LBRZHhgpV5BtFFo3q8AKH",
+            "track_name": "Beautiful People And A Bridge Troll"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/8aa5215ca580f0c62e552d04e23ab72402095f8a",
+            "track_id": "0rtg55X7Q4adbSBQXel8Kc",
+            "track_name": "Clean Filth"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad982ff0e7433f9e7367bb6f28ffab98a9e2ae9f",
+            "track_id": "3E8HpEYqK5lnzpRIRoJ9IR",
+            "track_name": "The Miracle Of Childbirth"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/40694def47392e1b3fa7e4d3dfee029f1f0866f7",
+            "track_id": "3GC3sZcjAUiU3ZV7SwKNnk",
+            "track_name": "You Are Allowed 20 Birthday Parties"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/8598f9f005ef37f6a9a60c44a6b443b2a5f0e322",
+            "track_id": "6ff7YWeRtM64yVfkL3FFF0",
+            "track_name": "The Dukes Of Hazzard"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/38e6c2a874ba4338945ca84c6b6fc26304a147dc",
+            "track_id": "2D9ixggEJg5OTbAYtu7EUh",
+            "track_name": "Alternate Earth"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/deda3eb55477aecd1ab986a3396938f4b5e3de07",
+            "track_id": "43tKq1NqkABBCkL7cbg4Mq",
+            "track_name": "Best Week Never"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8d8c705899c6381b9ba2094581bf435692fd4e0",
+            "track_id": "6SpZPElyzWZPEsiZ70DrHT",
+            "track_name": "Physics For Poets"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/8873cf2935d573f758f3faa11095e9c562f91e27",
+            "track_id": "6JPme7sEKcqPjFO8CXFNgk",
+            "track_name": "At Midnight I Will Kill George Lucas With a Shovel"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/83e0e42685225a00deb4e23306cbc7564678be18",
+            "track_id": "0WCxjZTDqXWmulmVKVFTR7",
+            "track_name": "Bubble Of Sanity"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf0d090c0a2ef6e48a9eaad7c63d55aa74e84e57",
+            "track_id": "0G7yJ9WZZd3t7YllKyMarv",
+            "track_name": "Sterling, Virginia"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ebd67ea802a3169360d47e017239f207d2825cd",
+            "track_id": "7uI02v7nIKZCoVXE2eHu6T",
+            "track_name": "The Gatekeepers Of Coolness"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/163d22bb27f9cb9a3e4a4994a443757c7b83cacc",
+            "track_id": "1stbxwPbhZqLAh96jZUXJq",
+            "track_name": "Racist Cell Phones"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/a970977c39c9f05d6b1b082072f567e3875ff914",
+            "track_id": "2e9PWsz1PwiIpf76aMTywO",
+            "track_name": "The Baby In The Universe"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/1bdabf47959cb3b0dd54e9bb2389bb35621fe9cf",
+            "track_id": "7LVKFpETik1lXReRm5RdbQ",
+            "track_name": "Married & Single"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/129e63a503efa8d28493bd83d5d9bf696fc57bca",
+            "track_id": "7nlp9af2naTnJjwruozH5z",
+            "track_name": "I Tell A Story About Birth Control And Deal With A Retarded Heckler"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7cb58a3e4dbc258d99a1c939a30a2ea2bcb3aab",
+            "track_id": "2oHhbZldqSKWPE3t3YLPGP",
+            "track_name": "Great Food Is Cooked By Psychos"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/08d739bd4fd932008111fdfd3865b148541bbab6",
+            "track_id": "2QkwqPAU46VjD0LepM6mwH",
+            "track_name": "Wackity Schmackity Doo!"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/6da06a8bf6c62bad5e493dd35af064309e3297f9",
+            "track_id": "5JdDkfQCBltQ04yj7Nybmr",
+            "track_name": "Death Bed"
+        },
+        {
+            "artist_id": "6YvKo1VtZxCoT8IkbAYswy",
+            "artist_name": "Patton Oswalt",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cd5506149ec36cb380c08ff444c59aed2bb4c22",
+            "track_id": "7AfsXot5QJBVrq0W3l6hoT",
+            "track_name": "Cirque De Soleil"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/16d5f563c38beac81a64fdb6cb4de3187ff279f0",
+            "track_id": "32VSwgRdtkRI0Y3qDO3j69",
+            "track_name": "Pleased to Meet You"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/379c34af63c7cac539003abf185211376eb9459d",
+            "track_id": "6oPsQApKb0IC5KYzO6uiyv",
+            "track_name": "Standards and Practices"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/e91307e2ebf734e011bd2231691d2bc5ea2cc7ef",
+            "track_id": "5YuREaF6Hst2bQQf2LCAhC",
+            "track_name": "School Sucks"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/97be5fa28bcf277caba6f3e8d0c6e10dc038d7f9",
+            "track_id": "6kMVlS3brZPQZub6wO8Ub7",
+            "track_name": "Bad Parents"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b736b044dd43c4885608494d57a97689ed30b16",
+            "track_id": "1O4TBC3Z38MZdNWIH1B22W",
+            "track_name": "Fun Family"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cb844a8bc360ffa80371eb6e4164bf6437f04ca",
+            "track_id": "75VJonM927sxlOyE8cR8Qe",
+            "track_name": "Romance"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbecd5b34afe42615d9d9a052de1158d93f179bd",
+            "track_id": "4BbgpOwvGbZ1f1xkSKi2qW",
+            "track_name": "Seduction"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/9fbb8e7d9adf199b88c2016846037aef2b7bd693",
+            "track_id": "4c5CRcfsOMqWdlvoOfEfqs",
+            "track_name": "Odd Jobs"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/961bbe588eb03a1263548bed07c464a8614cecb2",
+            "track_id": "2a76z0yUFTzuSZK8vptsep",
+            "track_name": "Sacrilege"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/a03e5e71b47c5dad3c9da134494c04e0d3d08638",
+            "track_id": "7nK8Lp414BvfsINPGpK8Km",
+            "track_name": "Bad, Bad Things"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d4ed7a094c4351743fe843709be9d4b480480b1",
+            "track_id": "2vTbl9C14ZYBE2WoLJ5WvU",
+            "track_name": "Can't Make Fun"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/75d7ae63a2a2289a6be3d25291c228a18a68efc9",
+            "track_id": "4CHqLKTuL9J9T0hj2wmNBX",
+            "track_name": "Baby Go Bye Bye"
+        },
+        {
+            "artist_id": "320IRZ1nffhXLLcs2CSX20",
+            "artist_name": "Anthony Jeselnik",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/4453ed418d63db585e530bdb02a72a6d507039a1",
+            "track_id": "3cM2Bak63Oj05Yj0YBvULz",
+            "track_name": "Shakespeare"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e513f1122c45e2ea32aec20d023cda80b009ba3",
+            "track_id": "67nCFCRvKOa2MAOLOyQsHJ",
+            "track_name": "Introduction"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/0943f73c18463004485a5fee008401ce08594a27",
+            "track_id": "4vVIHxe9kdEsIrrTeHnHyG",
+            "track_name": "People Watching"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/f8ca5eb6f2d31281e120778a0cf7719d676c8f0b",
+            "track_id": "22ZuJbySpcQ7SZ23dHqZQp",
+            "track_name": "Names"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/31d8afd5de23241a49b8c5a06564bfc8e5084803",
+            "track_id": "4j1Pc3I3CQTg4EAE6kCpNV",
+            "track_name": "Yep"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f4527439d1803c1c49522503f41c5f3ff9ad145",
+            "track_id": "29l7yYN3U3eUMkcQrh9JSZ",
+            "track_name": "Dalmatians, Guts"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/98df0b4f1b8d99cd615a85384cc6ae1aa7d56c28",
+            "track_id": "7xu9XwOp7daR429z9KxrEc",
+            "track_name": "OK"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d9758e371e077c5dab8a5160206cbb5c1bcc141",
+            "track_id": "5PjzEPNibenrvgtRIVCIrk",
+            "track_name": "Silent Letters"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/51a78ff1cc3499bc9cf258257820dc80b81a55f1",
+            "track_id": "033fRCRUPa2QC9kRBkVNqt",
+            "track_name": "Death"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/ded2f532375862d524ab506f89c14a78381ff63d",
+            "track_id": "0KE5UoUq3hEF3dCT5Vy70g",
+            "track_name": "Senses, Halloween"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/8673b96d393219239f4404e73ae51c9bbf39dd41",
+            "track_id": "65drr8MFMGyJ1hmg90Nicw",
+            "track_name": "Concerts"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/120f484ad90a99d61ea5d3ba18be5fcb65398290",
+            "track_id": "21B023LyF8l7hsVA2KgRvv",
+            "track_name": "Flavors"
+        },
+        {
+            "artist_id": "7po1FepqIImwFFx1ZITjJp",
+            "artist_name": "Demetri Martin",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/0f725c74171ef0269470afc68273cb69d6b785f3",
+            "track_id": "6dd9ElT2Yc1q7taGUew6Rk",
+            "track_name": "Guitar Jokes"
+        },
+        {
+            "artist_id": "0uoySDfSlj0gRR8I8Xg3lY",
+            "artist_name": "Bill Hicks",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "36scJ6HLwECJnMT3cbx7Wy",
+            "track_name": "Greetings"
+        },
+        {
+            "artist_id": "0uoySDfSlj0gRR8I8Xg3lY",
+            "artist_name": "Bill Hicks",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4RupYkpaHhjJAv9QJxXUIS",
+            "track_name": "Flying Saucer Tour"
+        },
+        {
+            "artist_id": "0uoySDfSlj0gRR8I8Xg3lY",
+            "artist_name": "Bill Hicks",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "643FnPMd7OlasfXi5LFVEh",
+            "track_name": "Please Do Not Disturb"
+        },
+        {
+            "artist_id": "0uoySDfSlj0gRR8I8Xg3lY",
+            "artist_name": "Bill Hicks",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2XBsnAEfpnIGETXLJzA3OA",
+            "track_name": "Gays In The Military"
+        }
+    ]
+}

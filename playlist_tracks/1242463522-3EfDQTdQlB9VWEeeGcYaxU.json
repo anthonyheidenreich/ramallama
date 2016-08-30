@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/3EfDQTdQlB9VWEeeGcYaxU/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff321fde84be85a78c81d663b6c24d48704396b8",
+            "track_id": "1oDpnYvcjkgxNc9ytYmxQJ",
+            "track_name": "This Charming Man (2008 Remastered Version)"
+        },
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/5af7b4e05bec17ee09bdb023e3494ad8a3aa5950",
+            "track_id": "0jhukQEMC1yj47NetTlDBJ",
+            "track_name": "There Is A Light That Never Goes Out"
+        },
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/7c790fb72906a007e5438051d5ae737ebb2435a1",
+            "track_id": "5gXlabehojXdqcfFN8ncey",
+            "track_name": "How Soon Is Now? (2008 Remastered Version)"
+        },
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2acde0286bf582441cba3fc68b121a970bbbe9b",
+            "track_id": "6ylnImVpCCEmXFUD3PZySf",
+            "track_name": "Asleep (2008 Remastered Version)"
+        },
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d301d1f8da1eede957a8c9d3ab8f09a681f5fea",
+            "track_id": "0yYfk8sEcQFxjHAE4lVpG3",
+            "track_name": "Please, Please, Please Let Me Get What I Want - 2011 Remastered Version"
+        },
+        {
+            "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+            "artist_name": "The Cure",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d1156ec5b261e906f6401cce749badc76e79b38",
+            "track_id": "0ZEXLvA1oGRMZCbbfRNdky",
+            "track_name": "Friday I'm In Love"
+        },
+        {
+            "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+            "artist_name": "The Cure",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/84a195ff2a0959da5e4ad8932493e93f39b4d2fd",
+            "track_id": "2mjU27hFpwLOQYepr9pjlC",
+            "track_name": "Boys Don't Cry"
+        },
+        {
+            "artist_id": "7bu3H8JO7d0UbMoVzbo70s",
+            "artist_name": "The Cure",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/1883c7669a7c4af9a1aaa14602f22369af6c3352",
+            "track_id": "7C6NcqS3fNDXLgP5L2Kbgp",
+            "track_name": "Just Like Heaven"
+        },
+        {
+            "artist_id": "2ooIqOf4X2uz4mMptXCtie",
+            "artist_name": "Neutral Milk Hotel",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/23f5b39b7eb6b13081ec4a8705405e1c75fbd836",
+            "track_id": "4OciRObYGzPzlU40U7YRc8",
+            "track_name": "In the Aeroplane Over the Sea"
+        },
+        {
+            "artist_id": "7t0rwkOPGlDPEhaOcVtOt9",
+            "artist_name": "The Cranberries",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/d93b0a874758d441d76630490731c7c218116d8e",
+            "track_id": "0cli6LmLOFcYqx0JrqAe0k",
+            "track_name": "Dreams"
+        }
+    ]
+}

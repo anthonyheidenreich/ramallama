@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/2Hsp5dmlQ4yNlcTIySPPzU/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": null,
+            "artist_name": "Bruce Springsteen",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Santa Claus Is Coming To Town"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 48,
+            "preview_url": null,
+            "track_id": "5KdPyhcsQ5PvkvPBq6lLti",
+            "track_name": "All I Want For Christmas Is You - Original Version"
+        },
+        {
+            "artist_id": "2LB9H0px4qWbCHg9Axzhga",
+            "artist_name": "Adam Sandler",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/247b28e68aeb2093c7f34c9acb521cc29d370bbd",
+            "track_id": "6doSV1UQjyKxiNCnBnDTeG",
+            "track_name": "Chanukah Song - The"
+        },
+        {
+            "artist_id": "7obkHyv6MEWSmEcvHjMsUL",
+            "artist_name": "The Dan Band",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3glwI7NHpjkzlwRy1Lm8VA",
+            "track_name": "I Wanna Rock You Hard This Christmas"
+        }
+    ]
+}

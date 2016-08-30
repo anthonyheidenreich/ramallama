@@ -1,0 +1,109 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/0gp3B2buRjjuO84tl6KCGJ/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7jy3rLJdDQY21OgRLCZ9sD",
+            "artist_name": "Foo Fighters",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b010601616c61e01d29a3730b9f7099a93eb34f",
+            "track_id": "6HNruFQlzQx4ulL4ppRLYI",
+            "track_name": "The Pretender"
+        },
+        {
+            "artist_id": "3ni9LX95aVQksOuoHFEbEx",
+            "artist_name": "Reggie Watts",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/b21b3650be7664754f51fbe97c88cda293f55a00",
+            "track_id": "71O2cea0Y2Blk0Etjutr7p",
+            "track_name": "Fuck Shit Stack"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/51b3254f8c1f6d0d8839227f37e82a1a62a27260",
+            "track_id": "5JZcX7TTLx4l0xFIXJ3DBt",
+            "track_name": "What's My Age Again?"
+        },
+        {
+            "artist_id": "4xtWjIlVuZwTCeqVAsgEXy",
+            "artist_name": "Insane Clown Posse",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c928fe158f8d2339f10bc02f33ec0b3ca661558",
+            "track_id": "1pIEoQQxX3Kv0dRpAT9ro8",
+            "track_name": "What Is A Juggalo?"
+        },
+        {
+            "artist_id": "4xtWjIlVuZwTCeqVAsgEXy",
+            "artist_name": "Insane Clown Posse",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd07873cbd1ae727acacfec9c1363b0f441d3d73",
+            "track_id": "77HQmVe5jj7tV2TMtbxd0W",
+            "track_name": "Piggy Pie"
+        },
+        {
+            "artist_id": "0BYEp3eyHK9Wsp4t2Ad1R8",
+            "artist_name": "Toy-Box",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/74a926f483ae858dc407f5e48ab97884b002de37",
+            "track_id": "2R3gfyDoBo0uXZSwTiKysZ",
+            "track_name": "Tarzan & Jane"
+        },
+        {
+            "artist_id": "0BYEp3eyHK9Wsp4t2Ad1R8",
+            "artist_name": "Toy-Box",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/22b1d6e1dda3c121784c8f21c39ff7c06a919821",
+            "track_id": "1S0DrC9rdjTIo6PjtVWDP1",
+            "track_name": "Best Friend"
+        },
+        {
+            "artist_id": "0BYEp3eyHK9Wsp4t2Ad1R8",
+            "artist_name": "Toy-Box",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/74eee5532bd184e859a3d8e50010a3f2e488bddc",
+            "track_id": "4CwWwFPViw119ogWNakC8b",
+            "track_name": "Super-Duper-Man"
+        },
+        {
+            "artist_id": "5yG7ZAZafVaAlMTeBybKAL",
+            "artist_name": "Iggy Azalea",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ee74729f915e0d6e5cdcc855363494908d04bfe",
+            "track_id": "3oqCnpAoHf3SDFynxx7AU4",
+            "track_name": "Fancy"
+        },
+        {
+            "artist_id": "0p4nmQO2msCgU4IF37Wi3j",
+            "artist_name": "Avril Lavigne",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/394595709a16dc7d2f11a6c38b1e11a6b945cf54",
+            "track_id": "40NOI5V57KUAxMhGxXFNXH",
+            "track_name": "Hello Kitty"
+        },
+        {
+            "artist_id": "5R5MLOQbI4lb7GHYioPqoN",
+            "artist_name": "Mindless Self Indulgence",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/1bbcb4ce221415daec3a8b2dd57dd6af25472128",
+            "track_id": "7AH9Fmka4of4Y25lfhvBUC",
+            "track_name": "Shut Me Up"
+        },
+        {
+            "artist_id": "5R5MLOQbI4lb7GHYioPqoN",
+            "artist_name": "Mindless Self Indulgence",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/f370e4a6a8035917ef1b63011e5f2ee971772930",
+            "track_id": "3TF1Hiof613lWHtFGyAJ8z",
+            "track_name": "Straight To Video"
+        },
+        {
+            "artist_id": "3RNrq3jvMZxD9ZyoOZbQOD",
+            "artist_name": "Korn",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6igeiQyxomhyyXGQyV9DSd",
+            "track_name": "K@#*%!"
+        }
+    ]
+}

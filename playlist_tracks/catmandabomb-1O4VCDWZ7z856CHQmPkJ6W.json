@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/catmandabomb/playlists/1O4VCDWZ7z856CHQmPkJ6W/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba053f227216a8f3e9b33e70d5ee2e7b74a54436",
+            "track_id": "5IHTF2NIOgbBCaoxiy2GFn",
+            "track_name": "Welcome To Violence"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a3a0e28f61d1bf7ef90939a6a61130aca467ec6",
+            "track_id": "1QqWs2EkdBSO2MtAChiJp3",
+            "track_name": "Bad Character"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a3ff85ec5f20a3bdfe6135466fb80616a40ee06",
+            "track_id": "64tUuCHT5PSI3qh8ZmFtnY",
+            "track_name": "Microphone Mathematics"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d17d19e826e019ac0f41ea15593b72f925cc985e",
+            "track_id": "0GGSYsDXfaCq5qimOcGth7",
+            "track_name": "Basic Instinct"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb15122e8be206f3ebd166c5c1ed0f07bf5e9e8d",
+            "track_id": "0DZMy2bmtXXuSZoUreGE5N",
+            "track_name": "Goodmorning Sunshine"
+        },
+        {
+            "artist_id": "3HJTH25B15O97rcKi4yYvJ",
+            "artist_name": "Quasimoto, Mr. Herb",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/8954e9048b99dcb77df35d6efe6e8c5520601049",
+            "track_id": "6rhLnCsefYOZpPaIJZ9iFi",
+            "track_name": "Discipline 99 Pt. 0"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b3947654786a6b8239ec431f942d000fcf3cfad",
+            "track_id": "4FMaGGx4Qw5s1lT5hucy2X",
+            "track_name": "Low Class Conspiracy"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9e8a915f3b41544a57408de90ba6d42cb8912c9",
+            "track_id": "2nHhpCoyDFCVrw1O7SOJHA",
+            "track_name": "Return of the Loop Digga"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/b566c716d7fc60fc695b6f5c05a7fe377cb9bf2f",
+            "track_id": "0aQjNj3qRfX62Bl9NUmTak",
+            "track_name": "Real Eyes"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/7b4ac231eb47a67b053808b4b19ff6d7ffe09fe8",
+            "track_id": "2KV62x9pPMe7lbIz6zMvkp",
+            "track_name": "Come On Feet"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3a5d63c4adae044f7b176055bad683f64369bca",
+            "track_id": "27QmmjFlvFwPrU8PHCNGiy",
+            "track_name": "Bluffin"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf2ceb73d85ff18cddfc6ee97b6783e1dc8128a1",
+            "track_id": "3dJJ7E8d2vqkgwI2j5WAQC",
+            "track_name": "Boom Music"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/49473d1f87e3406028a60789d31676b02d44ecdc",
+            "track_id": "7lOk27JL20z6AD7oyo2m5j",
+            "track_name": "MHB's"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/adf067b6976682225ec5500c823ffb21f5f46fd2",
+            "track_id": "3jT2bWZDdFarQDyOHdpoxT",
+            "track_name": "Put A Curse On You"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/458f67c657bb2c91e77cc653114de44912425dc9",
+            "track_id": "1p5xMByo3GZPB5aVdYnIm0",
+            "track_name": "Astro Black"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a06592d2b5ab69b1b8045ddaa966365336780f5",
+            "track_id": "5bYgRVY6DvoaswOibxQZYJ",
+            "track_name": "Green Power"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/50761d2098ac29aecf986068ed9d0879804ee431",
+            "track_id": "2uZdnmPjlWBj7zc7eKWgAw",
+            "track_name": "Jazz Cats Pt. 1"
+        },
+        {
+            "artist_id": "4HleVpPqYq7yYlAj9UdGqs",
+            "artist_name": "Quasimoto, Medaphor",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3444af305c34d23b56010ae58604e28a2117976",
+            "track_id": "3cGFJdjq7d01d22krLmcyP",
+            "track_name": "24-7"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/e15afebed43cc5f80326f1cc0acb090fdaa85023",
+            "track_id": "2ITqE95AtAEcASSAyVESAO",
+            "track_name": "The Unseen"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c7a0a3121fe718624a5ecbce179881907b55c2d",
+            "track_id": "5WCP6LByDuytDrxWhFSL0f",
+            "track_name": "Phony Game"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb3bcb2734d71f95fab7a67a80ec462c20994d41",
+            "track_id": "3VzDKN2sFl5qB6CyBnNeVY",
+            "track_name": "Astro Travellin"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/2956eb5caa604f5f6e23bd6c70e53b0c9541928b",
+            "track_id": "40toSn0ZpBXn0M4DHQ9ODx",
+            "track_name": "Blitz"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/4493fd112fc54f07131a89f403df7e59f44f84f3",
+            "track_id": "2gh0ieYNKVRCf35Tfnx4PN",
+            "track_name": "Axe Puzzles"
+        },
+        {
+            "artist_id": "7f8kYtOfh0cECrUvBS7wwz",
+            "artist_name": "Quasimoto, Wildchild",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c12867b878fabde1820abd24420ab7f5acb35d0",
+            "track_id": "3GoK1Pdgv97eIh43MYBDhg",
+            "track_name": "Discipline 99 Pt. 1"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/798a322bebcea001176fc61be394e4e5e8daaf52",
+            "track_id": "1XDOYa46I2r2WIK2luu8EC",
+            "track_name": "Bullyshit"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/41f2bca6db347cdbe60212d0145f47427ab4a17f",
+            "track_id": "04UeIrn303P49X5h5RJH1u",
+            "track_name": "Greenery"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b16b3ef1760ef06d888823d317f467be59a7a7f",
+            "track_id": "3p86Ya0quVkHu6UJjktrxf",
+            "track_name": "Crime"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/0385854ed97b1f3074224d422342c3b139d67b81",
+            "track_id": "428jrJaMJp04gVboWhploA",
+            "track_name": "Hydrant Game"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/22fd064ff25d298681daa0c2dc65c067c77cdf29",
+            "track_id": "5cCPbovPAnv81MUytm2ndJ",
+            "track_name": "Don't Blink"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/611d11c37257baeda31f5adb6fd5c06592c7add0",
+            "track_id": "2jSDyXtrleQNybQjrONm1H",
+            "track_name": "Players of the Game"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/b76f0b7f2c08eac5cfa5df0744236d91a3538134",
+            "track_id": "1DdAQOILXNkL5x6sFFVhpA",
+            "track_name": "Bus Ride"
+        },
+        {
+            "artist_id": "46AjYVpZyG1HX8v7ovlNJf",
+            "artist_name": "Quasimoto, Madvillain",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/6fc7b16ce3a905849ec9bd4fc86df073761b426b",
+            "track_id": "2LubjZssgY0CsiLOTIaGFe",
+            "track_name": "Closer"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cd2ed3608e1ccbb69e5d5ee13ea8adf4151e405",
+            "track_id": "3ZTgCX4OUAZ88yyTWbpXQK",
+            "track_name": "Maingirl"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/8291d0cc4fd9b3658b807e57f7be053e3842f7f4",
+            "track_id": "6nTIrHeM1YSJ8CfutGi8Ts",
+            "track_name": "Civilization Day"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ab47a08d10d4b3034db11a9817e3dcb722db7a2",
+            "track_id": "4gEjG0oBJiBtaO8hJRzUVA",
+            "track_name": "Bartender Say"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bb072083cce98e573e438731c08d630c41a9479",
+            "track_id": "5dh6C7AQXyYqKNNZYbikuj",
+            "track_name": "1994"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c29122c9703578f15864144f1a0d28591d228536",
+            "track_id": "7KDYgF1XZQ7e20z0t49cf7",
+            "track_name": "Another Demo Tape"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a899fd093eaea7eb93d4f7733d03bd7c0a132ee",
+            "track_id": "5EkjYEjcRJseXgtmd9EKqo",
+            "track_name": "Raw Deal"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec46340223e65f6bf61bfff7c6b701290f6941a2",
+            "track_id": "1rFFh3XltZo0ZaV9NJ8xtQ",
+            "track_name": "Mr. Two-Faced"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/a7ce3e3df44db9e4c866f39d6c0a9c1463a946d0",
+            "track_id": "5TRc1QskCOnSjObg9k5B9U",
+            "track_name": "The Exclusive"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/31d44bdfed2acb59f96bdf9d113c2a9a389e57bd",
+            "track_id": "5rU2bKqVecWehqdKbLbzb9",
+            "track_name": "Fatbacks"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd980feae9807b490e49932e023aca689a9d8c58",
+            "track_id": "2NEsUsUC52ihGYA96jbeaC",
+            "track_name": "J.A.N."
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/01223241a2a139530aaa20ce59d525f53480e64a",
+            "track_id": "57uGxOabBRGmn1EVNOJMV7",
+            "track_name": "Shroom Music"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/6e005c4dfc7f273e6bff3ed570cfe43b24314364",
+            "track_id": "4BErNONaSimquFu3yqfZo3",
+            "track_name": "Rappcats Pt. 3"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1d9a443fbe54496037680a820c1f97295ccffa5",
+            "track_id": "6dhPqs4VhCXhIsvyo8KpdR",
+            "track_name": "Strange Piano"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/c946a99108544f5db69d07d44a9af4fdc16df41e",
+            "track_id": "08XH37B42HxVzykS7XxrDd",
+            "track_name": "Life Is\u2026"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/00fda48405e04ba3679d6ffd68535a5979a03ae0",
+            "track_id": "6BD0z6sJF0urPicEg74eCD",
+            "track_name": "The Clown (Episode C)"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/110b17db6185a19dc84057dead5b32a95ff10eb6",
+            "track_id": "1N46k6McUl2qEtH50ahyaU",
+            "track_name": "Raw Addict Pt. 2"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c225e687ae4b7cf211888d71576ca60547236b4",
+            "track_id": "3wPl8CS30OBB61is9iDjMq",
+            "track_name": "Tomorrow Never Knows"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9f1dc6ef49c5395880689a7112e8d2b36fc73f3",
+            "track_id": "5wB9CnujMHCppic8vp6POa",
+            "track_name": "Privacy"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/6046f48a0bca4fd4484e3747c2b98c2feb03f5b3",
+            "track_id": "4gG8Con8ojDTdgyHYq4e6B",
+            "track_name": "Broad Factor"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/17ae301dd76d53966680ea1fb01eac3db34b4333",
+            "track_id": "4fCEYSnyaeW5iw6sNI8tnQ",
+            "track_name": "Seasons Change"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8b699b540001de22086045371c9ddc796e083fa",
+            "track_id": "0WlrMVgbDgSZuZwP2QpwMf",
+            "track_name": "The Front"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/a572b436260fdbdbb1351cae09173c4d5fd06afb",
+            "track_id": "4sA3ZvMwkiF92RiygS5Fc7",
+            "track_name": "Youngblood"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/97f19cb9579171e4553fbe68e643eb8adabfcc65",
+            "track_id": "589T6jAZBGMoDCIVoCUpan",
+            "track_name": "Astronaut"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a5f2509575a4581c40443182f92158090b00334",
+            "track_id": "0e9PfKPIf2UH3njMqAXI8S",
+            "track_name": "Planned Attack"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a7885f1e2d811b204362d037e397ad3bc4ad041",
+            "track_id": "1lqgfrnKT6l5vIaVkmFiUv",
+            "track_name": "Brothers Can't See Me"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/4f91aadc9f34c3f3b72c8d8aac7c0fdbe0bf1666",
+            "track_id": "331OBq6Xu3D3tPldDlLCRL",
+            "track_name": "Catchin' the Vibe"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/684c38167bb32d51f71d1146bb3b40d32b0dc0e9",
+            "track_id": "5WLsAfajvm43QnQVa1aZbN",
+            "track_name": "Am I Confused?"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/25523c156e811f1c08037ce9760df10a592b4de8",
+            "track_id": "17OSBJahVbldT576FQ8xrW",
+            "track_name": "Sparkdala"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/8097ca0324a9bf266104b7d15fcc5af8a01bcf40",
+            "track_id": "2jwPEjtttLdKwA4F4aq4cW",
+            "track_name": "Green Power"
+        },
+        {
+            "artist_id": "1rJkz5vopfGxTUGFNB3o4G",
+            "artist_name": "Quasimoto",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/2110a10a5b9e94c560eb7887e7bb51d17c9c6f62",
+            "track_id": "1VQHK4d0WqsnIfmJOnzERH",
+            "track_name": "LAX to JFK"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/094d15f22694139bff1f46347b2db2592c63bffb",
+            "track_id": "29fNHsUogi2p3V4tpCbfx3",
+            "track_name": "The Illest Villains"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/18bb586bf2a14535efc4f9d93299ca1977846628",
+            "track_id": "0GIF0mcmAUMncJZFKnoywe",
+            "track_name": "Accordian"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/38304e2ff9db30f6f0a3fb1c40bff6a5105ff800",
+            "track_id": "0dIDLi5yCGx3YxnJSz7flh",
+            "track_name": "Meat Grinder"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/43f10507b9ec99ae253a88914cffa13f4565e10b",
+            "track_id": "01XyE7mEn4vFsweW7HNYo8",
+            "track_name": "Bistro"
+        },
+        {
+            "artist_id": "5ah0cdCObQT7eKe1kPc3Zz",
+            "artist_name": "Madvillain, MED aka Medaphor",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/4237e900a9ca643a4d248735a120ad9181958f4a",
+            "track_id": "5YUoidMogd9JTkomrKsL2n",
+            "track_name": "Raid"
+        },
+        {
+            "artist_id": "06jWe4ODOjmG3ocpdUZk9b",
+            "artist_name": "Madvillain, Lord Quas",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/88652072149b17fa6fd6cce5687d5b99d467f4d8",
+            "track_id": "2PxUCszL5M8nfsSeFbIPlS",
+            "track_name": "America's Most Blunted"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/744049e95898ebffba253edcc897e037dc7aec0d",
+            "track_id": "42uZxesoDXL7cLXBPXWNFJ",
+            "track_name": "Sickfit"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/0978fff335b0aad447ab17ca97ee32ebe5577ec3",
+            "track_id": "7aheCJTgZydWp7D0BWgrpc",
+            "track_name": "Rainbows"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/194a476bbea0279ecdb162c0c8a8a3f2ac13b192",
+            "track_id": "3T06pIOmXJ6EkJmVRN2sv6",
+            "track_name": "Curls"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9d926b0a604264312ae98561781cf3ec3e7599b",
+            "track_id": "2CdEj3nORFFiHtxeUdRYFo",
+            "track_name": "Do Not Fire!"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/7fd686a495866bb07b3a994fef321843520aa7d2",
+            "track_id": "6TO0wnNQn2nyBFNQcpNgRs",
+            "track_name": "Money Folder"
+        },
+        {
+            "artist_id": "06jWe4ODOjmG3ocpdUZk9b",
+            "artist_name": "Madvillain, Lord Quas",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e098feb1b1978a5241249d7c9ac60302121fefd",
+            "track_id": "4aECVYTqWqNMWJYL6fjsyD",
+            "track_name": "Shadows Of Tomorrow"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/64d474e268d311311b83665aa491c68b7255ae24",
+            "track_id": "5b4AhEfumec0f0Q5Uv9n6q",
+            "track_name": "Operation Lifesaver aka Mint Test"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/da7be44ec629a763096619b0db2bfef60e6164a4",
+            "track_id": "6wqzg4axkxnpdmVOG3FHfc",
+            "track_name": "Figaro"
+        },
+        {
+            "artist_id": "0Eq8hmnA7IGnZwZMk2p8HZ",
+            "artist_name": "Madvillain, Wildchild",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/2aeb22bb9d5352aa3d13b28e741b522f9afa14eb",
+            "track_id": "0qqx27UzjB3vlUYM5tcymi",
+            "track_name": "Hardcore Hustle"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/f011eb0d8f1e23084d1c36d4b3d28628f8fb3925",
+            "track_id": "4MORAdzD45RckawkQ7McPZ",
+            "track_name": "Strange Ways"
+        },
+        {
+            "artist_id": "5YejzrdqUPqvZTrhHbiZJs",
+            "artist_name": "Madvillain, Viktor Vaughn",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f10c3b8d454e7ff495a3e20ea5f50d0f20aab2d",
+            "track_id": "5eV5egvbCQZMixZWQZVLHo",
+            "track_name": "Fancy Clown"
+        },
+        {
+            "artist_id": "10J9L7iDBWNRolLfWUUMM1",
+            "artist_name": "Madvillain, Stacy Epps",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/67dcfe3b6bf24b9d51537b69ad380b5570810309",
+            "track_id": "7ySV3f5niWtwddDLUFLwIZ",
+            "track_name": "Eye"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/e925660a2f25044554b3050c64ec95fa4f0cac96",
+            "track_id": "4DkZw9ez4OacQK7iQRYPvE",
+            "track_name": "Supervillain Theme"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7ee5e4e4e3e77b9146fb93651c39cec1048aa54",
+            "track_id": "1BAJpa7mrs0A8cHsA2enqx",
+            "track_name": "All Caps"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a426b958a96ef58d6fe66ccbe3189b8501c9ec2",
+            "track_id": "6vsrCq7ItX2URzc2lagsQR",
+            "track_name": "Great Day"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/5575e8bd4f535356ca0e45e6b5ec3f3f89007daa",
+            "track_id": "4zCZ5qYRatKifKX5VfJYxT",
+            "track_name": "Rhinestone Cowboy"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/14eb3931f6fd3f8f069791d8236577b3f1a5dcd4",
+            "track_id": "0oCNGqHSxIxUHatvIHEIrG",
+            "track_name": "Da Antidote"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/1efcf4b8109c72077f66e0dce7cfabf0c703346f",
+            "track_id": "2jMhGGcHL6fjH88AAlD6AW",
+            "track_name": "Questions"
+        },
+        {
+            "artist_id": "4AGllKXEyOZBJMUffNPawr",
+            "artist_name": "Lootpack, Dilated Peoples",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/37eb20deac8072c2a95d118d6d8702ce8ced0252",
+            "track_id": "32y4wnpGfYZs5DuXyrRrUX",
+            "track_name": "Long Awaited"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/73daedbda029598745badc7d329cf21032b4850e",
+            "track_id": "1lY89ISxLjHbuiXGiBI2xU",
+            "track_name": "B-Boy Theme"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b23c7219aed0e029fee3dee157bce13e990e332",
+            "track_id": "3uNt1Ct5V5d73Cwu4yQpcA",
+            "track_name": "Whenimondamic"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/9475d99d22b9df987d28eec2570cae0fdd397984",
+            "track_id": "2RxQ24EYDszWqtcQcpH9t8",
+            "track_name": "The Anthem"
+        },
+        {
+            "artist_id": "1K0K3ciNMsqF2yfpUsCnYr",
+            "artist_name": "Lootpack, Oh No, Medaphor",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/44a588b851fc675ec55022b1a5a055a8c7ff45fd",
+            "track_id": "5tCelZHC98ISfBF9atZQgh",
+            "track_name": "Level Zero"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/783801846640104cc2031899a5b9cb650fd1a70b",
+            "track_id": "00LiPqfGA1YuI82RV1aTnF",
+            "track_name": "Crate Diggin'"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/4be7e1cea48a96b6223f4e8d7485f916c8b4ffef",
+            "track_id": "46J7to6q3aYYy7pF8jttjI",
+            "track_name": "Law Of Physics"
+        },
+        {
+            "artist_id": "7Hk2dMdyTpj2qJaZeabN8E",
+            "artist_name": "Lootpack, Kazi",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/a00dcfb2504871775538d133521419f68a3069b5",
+            "track_id": "0LpLgeWkFLkoJHJ84JfwN6",
+            "track_name": "Frenz Vs. Endz"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/f340531cd3482b3e0217c475b4a86355e8ed6c04",
+            "track_id": "2GfUtBAqr9uIj1OArXWQ55",
+            "track_name": "Interview With Kurt"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/419977f2bbaa998b6a8e58b276b4c40dbe9b7266",
+            "track_id": "11QrwFfdpAeB61AlyIWqbd",
+            "track_name": "Speaker Smashin'"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/57ea266bf644f29f44933548ecc66ff9b73a1469",
+            "track_id": "1EYlLPF6IfeX3yzI5A5kmp",
+            "track_name": "New Year's Resolution"
+        },
+        {
+            "artist_id": "6iGuMrb4TPprZGjFTJW39m",
+            "artist_name": "Lootpack, Quasimoto",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/4de39aea86d89d924289265fc73f436cd70aba14",
+            "track_id": "6AnMMxdJ85RFmKpMLioXsS",
+            "track_name": "Answers"
+        },
+        {
+            "artist_id": "0enPOiDmt6k7ZEjdS9CKWA",
+            "artist_name": "Lootpack, Alkaholiks, Defari",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/2995af407772d68fe3aa008f6eec2137c3f4d7a5",
+            "track_id": "4qlsGf5vt00gThJNvduSiB",
+            "track_name": "Likwit Fusion"
+        },
+        {
+            "artist_id": "2D0NqDyt2R9RVar9MNs8kP",
+            "artist_name": "Lootpack",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/034ede6c4d775b0e1045854634165fecdf4a3dd3",
+            "track_id": "3eppmRzUBBVCagicqjl1VF",
+            "track_name": "Hityawitdat"
+        }
+    ]
+}

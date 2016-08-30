@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/121672770/playlists/79gktBXJI4jt8pgmlpk9id/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6evKD5JWJON3qPBJtUEmtY",
+            "artist_name": "G-Unit",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/81357cb3349fbc20757c015a75f26c8d8e8ede55",
+            "track_id": "6mU3a8GcwOt1FiT06TiTFF",
+            "track_name": "Wanna Get To Know You"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab0909f2f07868b156e175a0686548c270b1ee31",
+            "track_id": "6glsMWIMIxQ4BedzLqGVi4",
+            "track_name": "So Fresh, So Clean"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/36ade9974fa85079e996dd9aca93af62c4e88711",
+            "track_id": "0I3q5fE6wg7LIfHGngUTnV",
+            "track_name": "Ms. Jackson"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/b451e1a37d16658c39c5d4e3583ab9f223f21279",
+            "track_id": "6bUNEbXT7HovLW6BgPCBsb",
+            "track_name": "Roses"
+        },
+        {
+            "artist_id": "1G9G7WwrXka3Z1r7aIDjI7",
+            "artist_name": "OutKast",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6668e71999f3b077f19325868d476c371f387bf",
+            "track_id": "5z7mYFfhw6N6f23VwrokJD",
+            "track_name": "The Way You Move - Club Mix"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/a007b4cabe8441d6d878da45bc3b71471848101e",
+            "track_id": "3jagJCUbdqhDSPuxP8cAqF",
+            "track_name": "Work It - Promo"
+        },
+        {
+            "artist_id": "2wIVse2owClT7go1WT98tk",
+            "artist_name": "Missy Elliott",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4c616ccfce9d4627b7bc78235ba6fc64b042116",
+            "track_id": "1ulAlG3x3jWtCCK2SI4qyL",
+            "track_name": "Lose Control (feat. Ciara & Fat Man Scoop)"
+        },
+        {
+            "artist_id": "4tujQJicOnuZRLiBFdp3Ou",
+            "artist_name": "Xzibit",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/df941a89f67af3a2d854a66b0e2b4e8e5621e26e",
+            "track_id": "5stZnlPMYz3Ba8Hbo3ajlP",
+            "track_name": "\"X\""
+        },
+        {
+            "artist_id": "4tujQJicOnuZRLiBFdp3Ou",
+            "artist_name": "Xzibit",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/da26d458c0be4f9b85a75a666aed51315f9d6031",
+            "track_id": "7frbz32hdzsMjjIQQjKrkc",
+            "track_name": "Hey Now - Mean Muggin - Xplicit Album Version"
+        },
+        {
+            "artist_id": "4tujQJicOnuZRLiBFdp3Ou",
+            "artist_name": "Xzibit",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a24392f05df0a9a06bde8fe4586339dea076f20",
+            "track_id": "3x9WAJIEhsY8Eg5lwu1Z4A",
+            "track_name": "Multiply"
+        },
+        {
+            "artist_id": "4tujQJicOnuZRLiBFdp3Ou",
+            "artist_name": "Xzibit",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb92cb5badfd74be2c25e493d7155ead03f2a86f",
+            "track_id": "24S7rWWB6ohk2j5ABrm5DJ",
+            "track_name": "My Name"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/113f9bfdef6c23aec55213c092c1241d153044ff",
+            "track_id": "1CYyIsAaTrnmJ8MO2rec5f",
+            "track_name": "What Up Gangsta"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/575c10ddb74104fc7b6adb3763a8df0c352c0517",
+            "track_id": "3ORfa5ilEthp2U0TRcv7kv",
+            "track_name": "Patiently Waiting"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/9f4c85ee2b9fe75fd979c25e7aa78fcc18babad8",
+            "track_id": "2I9foKseoFQh07p6sD2voE",
+            "track_name": "Many Men (Wish Death)"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/54633fb1c75af27495e491a0889ddf02ec3ad25e",
+            "track_id": "4RY96Asd9IefaL3X4LOLZ8",
+            "track_name": "In Da Club"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ceed19bb9d23071ec337ec923d7bacc43d91be3e",
+            "track_id": "7nFlzPTW9WGNJ2y9t3Tfvw",
+            "track_name": "High All The Time"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ef7625d54b22becfd3012999e2bf850c1962c64",
+            "track_id": "7JeKXMQKm6GoLGTkNy2jZ0",
+            "track_name": "If I Can't"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7e685ccc787bffc979651f983ed6de90aebaa2b",
+            "track_id": "6rbfsPyc6fpoDv1NEuHXyq",
+            "track_name": "Blood Hound"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d936a2244bc88d863d0ec944d12d0b510c730f9",
+            "track_id": "3EjmNhVqZ4FjK8ZyVKWKM6",
+            "track_name": "Back Down"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/bdc678a822e82ec7909e7714ff2c8d25cb88e3a0",
+            "track_id": "2D1hlMwWWXpkc3CZJ5U351",
+            "track_name": "P.I.M.P."
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/9562374f81bc96aaee80d6f84514ace5fc36c061",
+            "track_id": "2DiWbgsN7153raeyqXw4x8",
+            "track_name": "Like My Style"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf24622e9cb8d4eed1029f03eaa7184f583f55bb",
+            "track_id": "41bIQPBE1lFN0mmw6Lmssz",
+            "track_name": "21 Questions"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/cac6eb439b12077caff13e6253b1df089a3708ce",
+            "track_id": "4pmiIC65ustS2XeeJwQvAU",
+            "track_name": "Don't Push Me"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/3687b185e8dca4a9466695f8bfd6b60691863e6d",
+            "track_id": "6rpNe6gSkmiYW6BfSFATi5",
+            "track_name": "Wanksta - From \"8 Mile\" Soundtrack"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ea8b6c70f1e39ea004630654532603cf540d1bd",
+            "track_id": "3X5tOT7Aif4l4ZjRj217pa",
+            "track_name": "In My Hood"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/479ac6614c73017a76d43ed528fd155563600961",
+            "track_id": "0u8iiPBZ5OqK1mbq1cZc0c",
+            "track_name": "This Is 50"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7ce20c9e9516559a9c93540f32be74e5e380add",
+            "track_id": "6dWNtdXVsT4t5oqN4rpN2U",
+            "track_name": "Outta Control"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5ca2a100773d0aa78317437ac47ad0b0d10acca",
+            "track_id": "4nmBEd13jgjtV8Pc90JDDn",
+            "track_name": "Get In My Car"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/bbdb8e7954cf5bd6856a844debe7d6a3c854c368",
+            "track_id": "0BRBDRdjgP4Iw8coBDAeeT",
+            "track_name": "Ski Mask Way"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/33d10325e3b7a865855411b3b9b884a21602ba0c",
+            "track_id": "2UPiF4dyPTBKJYrvekbbis",
+            "track_name": "Ryder Music"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/83ca67174759a4ceaaecba71cb18e45633b5f32b",
+            "track_id": "69bHJ9qs5FrUJbKP8xU8uZ",
+            "track_name": "Disco Inferno"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8683b7a758391158f24bc7e677bbb8b2e6e0445",
+            "track_id": "4nva9EpKntUTs6CRSGBCn9",
+            "track_name": "Just A Lil Bit"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/203b61828cb1830773fc2a751ab69b7d6f423273",
+            "track_id": "52wETCk0o87LhIGFdngdQL",
+            "track_name": "Position Of Power"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ad7ca12167e61a14e568dcc2cf2cd3c53727539",
+            "track_id": "4hXMVtFRjxOQrAnkCqsO1c",
+            "track_name": "Build You Up"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/a9cfc7080e7ba1c8bc2264f6482cd220a511567c",
+            "track_id": "5NoB3TXQDvVClLnC1lXdPt",
+            "track_name": "God Gave Me Style"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/aed0c0c50a181f319d6fc2c1de2645e934ac15b1",
+            "track_id": "6NvtFmyLeyMA8S7xzuIVDz",
+            "track_name": "So Amazing"
+        },
+        {
+            "artist_id": "3q7HBObVc0L8jNeTe5Gofh",
+            "artist_name": "50 Cent",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/22bc8a9fc82d9119a5d8ec290b70cb62cd1412ab",
+            "track_id": "6TYPoBrn53njY2C0WwdmA1",
+            "track_name": "Hate It Or Love It (G-Unit Remix)"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f437bb616b465ec75bb36145c4c9efeb3ecb6de",
+            "track_id": "4h68l8dL3jBc9l1fxDKOt6",
+            "track_name": "My Life"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/77ccb43ec6f48f65af29e33d22e7bb7c59c09d39",
+            "track_id": "29MhHSuH7hsOuqwvJkUQtz",
+            "track_name": "Money"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4d37313f994650ffcaadc77c5e8a5d471d978ad",
+            "track_id": "2hyi4bnBfsLz6fR1t8bFDX",
+            "track_name": "Cali Sunshine"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc7f7bb50187e81860ae21527226c783df757c93",
+            "track_id": "6omdG5rzmQRbFqJeOKL6CO",
+            "track_name": "Touchdown"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c3e34f7137d2902f6fa4a59cf99b9bb72acfa8b",
+            "track_id": "6NjW3d0NRMuZkH7UxbJy8e",
+            "track_name": "Angel"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/12cd9b68bff320a551e5adac44c36f287eee7f63",
+            "track_id": "78IZoWbm5c2HUFM6eSYm7t",
+            "track_name": "Game's Pain"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/6523e393013262ed7e4c413148b02af12690e634",
+            "track_id": "6LkOdaFd7seTIKHVrmvPrB",
+            "track_name": "Letter To The King"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/d13545ac5505aff2c35a61a09f9222e3d9afc6b6",
+            "track_id": "5hg3xm9mxcz9Xb6r59y9Ow",
+            "track_name": "It's Okay (One Blood)"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/03731c1c01eabe2fca1a24b7302e91bbca9f47c0",
+            "track_id": "4JKwW0A2OQeAUpYZd99Lfo",
+            "track_name": "Let's Ride"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e2a0dd893e4a3f7c3c159c5b64eab7a5b0afc65",
+            "track_id": "39yRhjDdSTP4A7VehxBXDb",
+            "track_name": "Wouldn't Get Far"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/4442556dd10e5b4a6c3dc9533f739fcb4b91050a",
+            "track_id": "6xMRTippHBo7DI7CcnAoTK",
+            "track_name": "Too Much"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d369514027611ee2b66a5bff93256bd74a9e458",
+            "track_id": "3N3l8HShT1JrStOjjszU1L",
+            "track_name": "Ol' English"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/862a5b8832bc44363f460c20749c3894d091b7bb",
+            "track_id": "4rZDEv1NfYXkut281NtCnE",
+            "track_name": "California Vacation"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/049a600dfb52354de871ca9b0a5a41a8dc535517",
+            "track_id": "20V5XZHW2rqw2oK6Mr859z",
+            "track_name": "One Night"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa4366bb3928f5f71e19f14f383bd844fc7494eb",
+            "track_id": "0lOe1dR2TNkJMCjIcRuw6T",
+            "track_name": "Westside Story"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/34292b6b3c736028b56d6d16d72dadc60d4ffa02",
+            "track_id": "5F7caGhe84C6ONva5S8yXF",
+            "track_name": "Dreams"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/e4bdc21f9fbf155f5832db85e42c15c3564cfdc4",
+            "track_id": "2wGSgTmgSF3xjRrHkTc25R",
+            "track_name": "Hate It Or Love It"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/bfd82a74fcd66651071534ed9ecae03edd0005b1",
+            "track_id": "4PmMVdIFpJTB9WQbmILf4p",
+            "track_name": "How We Do"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8358c678490d0783e43749235aa538a63019349c",
+            "track_id": "0e7S689mFbBnIWTWtjc4b4",
+            "track_name": "Put You On The Game"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fd4a2ed214d4f150f216025ca35bc03d1ab1ead",
+            "track_id": "5NmRqFVe2V1e0wUrYhes9a",
+            "track_name": "No More Fun And Games"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d9ed25028fef865176012690fdc6674a568d277",
+            "track_id": "5QvXScsmiZcYvNyRimWWEN",
+            "track_name": "Where I'm From"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/35450a7acd778d3028f9ec90a20663cfc9e5dfd5",
+            "track_id": "3DeJgPGR2SjxncjnPAcwBW",
+            "track_name": "Like Father, Like Son"
+        },
+        {
+            "artist_id": "0YWxKQj2Go9CGHCp77UOyy",
+            "artist_name": "Fabolous",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/56a28e7695a6077c3f965f9cc6d8b5470cb0b41f",
+            "track_id": "6lrRIfQDcikJ5y5DtyZPuJ",
+            "track_name": "Can't Let You Go (feat. Mike Shorey & Lil' Mo)"
+        },
+        {
+            "artist_id": "0YWxKQj2Go9CGHCp77UOyy",
+            "artist_name": "Fabolous",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb6fe7da91a8b09634f79e0dc042e175a621191f",
+            "track_id": "7fuoqve1SOEBmhc2PoQTF0",
+            "track_name": "Breathe"
+        },
+        {
+            "artist_id": "3WilJWdCNLSU7fpYjiKb7v",
+            "artist_name": "Cassidy",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/d1265ecabfd5a8c19f5e06ad86b6c55f80288a33",
+            "track_id": "4hHXhCRSnOKd6nMGaivmD0",
+            "track_name": "Hotel"
+        },
+        {
+            "artist_id": "3WilJWdCNLSU7fpYjiKb7v",
+            "artist_name": "Cassidy",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/b72ed2157e70108631a9bcf30419067a3fb77ace",
+            "track_id": "41D6aNNTmUUd7fWlVNWMN8",
+            "track_name": "I'm A Hustla - Street Mix/ Dirty Version"
+        },
+        {
+            "artist_id": "3WilJWdCNLSU7fpYjiKb7v",
+            "artist_name": "Cassidy",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/98f8185f5b8378550bf2963590907cb89445b1c4",
+            "track_id": "2TXB3vQ1IdfQ8u1S0tyLvU",
+            "track_name": "My Drink N' My 2 Step"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfa1aba9136c7e0490330acef1f7fbf0adb8a65f",
+            "track_id": "6I1grglWqsjYkbaujSZm2d",
+            "track_name": "Always On Time"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/5915c15511408b1c068fb72da835eddcc135a3bc",
+            "track_id": "6gHPuyZ0QccKxaQQPzbu9K",
+            "track_name": "Mesmerize"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/2763686e6bef96f21d0c896246592dfd7ff2214d",
+            "track_id": "7GG80qG8X7tiKHnFw7oKjX",
+            "track_name": "Clap Back"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c2a65dc1cab91b237c0aff0396091d2f804d6a3",
+            "track_id": "73wT7lZXZQmWfT28WTRYit",
+            "track_name": "New York"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f276d78d7f7969ebaf0f9d349edd4794fa6c06c",
+            "track_id": "34zXLiDiryv5rFC88M2JY3",
+            "track_name": "Wonderful"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/43b16ea63af288daef7c6a463dba2777f77a18cc",
+            "track_id": "5Bi7SC49g4neuXwzgXBeFy",
+            "track_name": "Ain't It Funny"
+        },
+        {
+            "artist_id": "1J2VVASYAamtQ3Bt8wGgA6",
+            "artist_name": "Ja Rule",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/77b8fa7247c89dbce567e478eed4b27765a91e12",
+            "track_id": "4Z69sHFf60gZbdgdd9sBBq",
+            "track_name": "Down A** B**ch"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa5570819613579b9d9bd5fe91ea136e096dd62e",
+            "track_id": "4Ew4HyNmZkSH91EPzjuTu4",
+            "track_name": "Party Up"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/64f3f8e6ef2c0f6b1cb679234cd76148bfe202d8",
+            "track_id": "32SFvZODywPBVDYSYtqxCj",
+            "track_name": "Ruff Ryders' Anthem"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/efaf275acbeb7dd6684e98d670af0deaac028e28",
+            "track_id": "4GyjcWah0pbgHf248WPQju",
+            "track_name": "Where The Hood At"
+        },
+        {
+            "artist_id": "1HwM5zlC5qNWhJtM00yXzG",
+            "artist_name": "DMX",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e63a5469f4ab8e8fe8699dee4cb5ad2ca891839",
+            "track_id": "4tXA1TUmKvz7CbUT9LUHDx",
+            "track_name": "X Gon' Give It To Ya"
+        },
+        {
+            "artist_id": "5pnbUBPifNnlusY8kTBivi",
+            "artist_name": "Jadakiss",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0cbd59222fd69b9a3add3f7f5681d6800bf081c",
+            "track_id": "58LflM1owDAzQkYIL7ayCX",
+            "track_name": "Why"
+        },
+        {
+            "artist_id": "7iMvwE8qANp3aIfAGKEAwS",
+            "artist_name": "Cam'Ron",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/224e0ff010e879906ff54f33c0e2d7aacaf4b777",
+            "track_id": "4gdQ8QShlC3toP9Mkc8DwB",
+            "track_name": "Oh Boy"
+        },
+        {
+            "artist_id": "7iMvwE8qANp3aIfAGKEAwS",
+            "artist_name": "Cam'Ron",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/a61f0913fffbd5fbc2a3a73bf4b0f499c3f6fb18",
+            "track_id": "5mEwhCsqadBZIE7SSrv1gC",
+            "track_name": "Down And Out"
+        },
+        {
+            "artist_id": "7iMvwE8qANp3aIfAGKEAwS",
+            "artist_name": "Cam'Ron",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2802a7ba3f1dc1d32a5eacd2221fa8fba386dd47",
+            "track_id": "6lH67bGdVbYWuthCi4iqH4",
+            "track_name": "What Means The World To You"
+        },
+        {
+            "artist_id": "7iMvwE8qANp3aIfAGKEAwS",
+            "artist_name": "Cam'Ron",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/33d1143734589b9dab824f8cbf66067ad6256e55",
+            "track_id": "7dRnfBnacXyYmT6y00FjxE",
+            "track_name": "Sports, Drugs & Entertainment"
+        },
+        {
+            "artist_id": "6AMa1VFQ7qCi61tCRtVWXe",
+            "artist_name": "Jim Jones",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab4c2ba033f665a77786f316ec11bf7454d121d8",
+            "track_id": "5blkgkItJK6s3ZhVxn6hqB",
+            "track_name": "We Fly High"
+        },
+        {
+            "artist_id": "0P8YNJXX7QeQ8iZIUCXJgi",
+            "artist_name": "The Diplomats",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ac1ba32a50b1baadc66c9231815b538efc3d693",
+            "track_id": "3rvM0obwHthpskrZKQxYLa",
+            "track_name": "Dipset Anthem"
+        },
+        {
+            "artist_id": "44PA0rCQXikgOWbfY7Fq7m",
+            "artist_name": "Ying Yang Twins",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd0a1e5d145ca7da0911584a6161cfe38d4bfa9b",
+            "track_id": "0r2Bul2NuCViraT2zX1l5j",
+            "track_name": "Get Low"
+        },
+        {
+            "artist_id": "2OqENqJFXPORP4BUGnu2Qq",
+            "artist_name": "Youngbloodz",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa9b9ff0464a50c5ebf4ebf2fb089a96ff40d5c4",
+            "track_id": "6o3s08kk2fQI37vxGZDrJ1",
+            "track_name": "Snap Yo Fingers"
+        },
+        {
+            "artist_id": "3Mcii5XWf6E0lrY3Uky4cA",
+            "artist_name": "Ice Cube",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d9383baa375b8e60bbafe14faffa57aeedae908",
+            "track_id": "3Feec7M9kLXDHag4iZcBxU",
+            "track_name": "Go To Church - feat. Snoop Dogg & Lil Jon"
+        },
+        {
+            "artist_id": "0TnOYISbd1XYRBk9myaseg",
+            "artist_name": "Pitbull",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6794835d9872b5c8190842a4e54f93a3115cc6e",
+            "track_id": "6TVhP2a7ESba4pR5ePflRw",
+            "track_name": "The Anthem"
+        },
+        {
+            "artist_id": "3ciRvbBIVz9fBoPbtSYq4x",
+            "artist_name": "Lil Jon & The East Side Boyz",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/545eb9e4042509a1b1aae1e7d92f412ec7a9623f",
+            "track_id": "1bTphHXspys3RvvRxfzzIc",
+            "track_name": "What U Gon' Do (feat. Lil Scrappy)"
+        },
+        {
+            "artist_id": "3FsQX7FsrZAzTU9ah45P7O",
+            "artist_name": "Disturbing Tha Peace",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/16a3f59f63c87f3a5f19ba2d9aca4736cb676f80",
+            "track_id": "1Q9b6CeMcDuO0uq5OJCrqu",
+            "track_name": "Move Bitch"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e2a7f4eaf8fcce83bbac4d8d879fa4d135c05e3",
+            "track_id": "6WwFEKri9xXWyAEulFMsu6",
+            "track_name": "Grew Up A Screw Up"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb2f4c0804184c6645ac0234abeb770359d5db49",
+            "track_id": "2JpUkUR0OsOlUUfm6iS8ic",
+            "track_name": "Money Maker"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/974c54ef2e54b07cba96a401339cf8c49eca20eb",
+            "track_id": "67knAI0fZboxWdJi4VOpJs",
+            "track_name": "War With God"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f6193636997bb3948fd4037dd1d49b14af22961",
+            "track_id": "4Oany7rm9uIi7TLlaBjouD",
+            "track_name": "Georgia"
+        },
+        {
+            "artist_id": "4gpDA7R5796e6zbvZxGNga",
+            "artist_name": "Shawnna",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd52a2c02204ad63aed1489708d2daa34cfddd2f",
+            "track_id": "0OV2bt36Ol5aRVcybGGbjF",
+            "track_name": "Gettin' Some"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a422b48a64202ce63cc3bdee5034dae99b2a599",
+            "track_id": "5SV9SnHkuHMh446QsgQtry",
+            "track_name": "Number One Spot"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/5dd70e556fbfbb3cfc6586512d8f3e42aaee4d01",
+            "track_id": "3njpLvANriMsdv3dgADEad",
+            "track_name": "Get Back"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/72aa949f44575ce9a46a46f553f3cea54b271e4c",
+            "track_id": "26liGJfeDiHLVn0qTETkt1",
+            "track_name": "Blueberry Yum Yum"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/bd31ee2ad0f940d55d01519d8166814ee756430b",
+            "track_id": "4zXMw51RgLPRE3vPDuqBvt",
+            "track_name": "The Potion"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9e8975e41e363df6ef1338244b827ccdaebe49f",
+            "track_id": "5oatBoHH0N582TwhmWibui",
+            "track_name": "Who Not Me"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbbf32692e7a60d3d3b7587ca293a236e947d083",
+            "track_id": "6VixoRqnikN4QqegoKUSbH",
+            "track_name": "Pimpin' All Over The World"
+        },
+        {
+            "artist_id": "3ipn9JLAPI5GUEo4y4jcoi",
+            "artist_name": "Ludacris",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/676015341a7c506bbedecf72d47fc5ec254dc74f",
+            "track_id": "0zLHRhBm4NC8MK75lnt9mN",
+            "track_name": "Virgo"
+        }
+    ]
+}

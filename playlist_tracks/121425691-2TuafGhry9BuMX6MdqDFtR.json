@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/121425691/playlists/2TuafGhry9BuMX6MdqDFtR/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2WX2uTcsvV5OnS0inACecP",
+            "artist_name": "Birdy",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/b383277697465b1737ed511714764255eb97c42f",
+            "track_id": "25bNp65gYbwMevo5V1KoCA",
+            "track_name": "Wings"
+        },
+        {
+            "artist_id": "7c0XG5cIJTrrAgEC3ULPiq",
+            "artist_name": "Ty Dolla $ign",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/32701b0b651e9c18d65b3fc116f8385149792f37",
+            "track_id": "1rEHQCkmLYY0CDrIborSoF",
+            "track_name": "Paranoid (feat. B.o.B)"
+        },
+        {
+            "artist_id": "36QJpDe2go2KgaRleHCDTp",
+            "artist_name": "Led Zeppelin",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/da57b9497b855355f1874eac17817d25eb90b71d",
+            "track_id": "51pQ7vY7WXzxskwloaeqyj",
+            "track_name": "Stairway To Heaven"
+        },
+        {
+            "artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+            "artist_name": "The Allman Brothers Band",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/5edc92e146b6c32c0cf100c14df2c2a2fe5fd71b",
+            "track_id": "7a014uMHF3nlqzXCxV551C",
+            "track_name": "Soulshine"
+        },
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/4694288ca857726b8d049da1d2102b969ffbe24d",
+            "track_id": "3jzkxEq9poR5RCAPJKFVD6",
+            "track_name": "HYFR (Hell Ya F***ing Right) - Album Version (Edited)"
+        },
+        {
+            "artist_id": "1dWEYMPtNmvSVaDNLgB6NV",
+            "artist_name": "Saint Motel",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/47bc52f317117eb27c6cb974a418b5685bbbc428",
+            "track_id": "2Iq6HhIquO7JKr0KfTNLzU",
+            "track_name": "My Type"
+        },
+        {
+            "artist_id": "4LLpKhyESsyAXpc4laK94U",
+            "artist_name": "Mac Miller",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba630b579a7db8ffa5a57ce756841bf66b244209",
+            "track_id": "6GnhWMhgJb7uyiiPEiEkDA",
+            "track_name": "Weekend (feat. Miguel)"
+        }
+    ]
+}

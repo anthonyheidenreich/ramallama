@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/123306050/playlists/7KIy4xFZ26AJydaahsW22m/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "085pc2PYOi8bGKj0PNjekA",
+            "artist_name": "will.i.am",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/b315c125f8eb65dd1226b104a38e673b358f82af",
+            "track_id": "5MLQWQRbUmx388EMW04YQY",
+            "track_name": "Feelin' Myself"
+        },
+        {
+            "artist_id": "085pc2PYOi8bGKj0PNjekA",
+            "artist_name": "will.i.am",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ffe6dc99d500ce4c31357d82ee3955df4334234",
+            "track_id": "01TuObJVd7owWchVRuQbQw",
+            "track_name": "#thatPOWER"
+        },
+        {
+            "artist_id": "085pc2PYOi8bGKj0PNjekA",
+            "artist_name": "will.i.am",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/a21a7f5b410195f36a5930948b63f0aea6a42fda",
+            "track_id": "5sn8kTcYEFZ0QcnYKEi9Qc",
+            "track_name": "T.H.E (The Hardest Ever)"
+        },
+        {
+            "artist_id": "1YXGHQqcA8fph4ovRYXQLB",
+            "artist_name": "Starting Six",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/08b5dfe6cb96f87b27bb560e77edda288c450c00",
+            "track_id": "12Nd9XldCCFrvReRZSW21k",
+            "track_name": "This Ain't Water - Explicit"
+        },
+        {
+            "artist_id": "6UBA15slIuadJ8h2lPRPos",
+            "artist_name": "Tech N9ne",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/04620567689706410fbc62c5becbc87e8ce168e5",
+            "track_id": "1mytsIyjBx3Pp1wiZ8NwgU",
+            "track_name": "Caribou Lou"
+        },
+        {
+            "artist_id": "4LLpKhyESsyAXpc4laK94U",
+            "artist_name": "Mac Miller",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/638db8b8d4db52308ba53f7658ba18a77f93808a",
+            "track_id": "5aQmsZCESbhasWW5VARdS8",
+            "track_name": "Loud"
+        },
+        {
+            "artist_id": "2Eg0o1Mok66akOkuOiGdEv",
+            "artist_name": "Zack Hemsey",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9845713642dc7b020cf31ef5fbd6844d6eb9262",
+            "track_id": "0eOyvQ2SeejSS0zJmLS4Wq",
+            "track_name": "See What I've Become"
+        }
+    ]
+}

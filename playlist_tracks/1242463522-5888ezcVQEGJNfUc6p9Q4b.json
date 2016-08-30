@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242463522/playlists/5888ezcVQEGJNfUc6p9Q4b/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "60Y72PE5Bw5B5iwB3apKpM",
+            "track_name": "Little By Little"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "4pld3u5X1kPCzU3U0xhNWS",
+            "track_name": "Lotus Flower"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/0owBkXJvd6oX5sGjNOEfm1/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0aDq59Z2MJTahQmYIX3kBY",
+            "artist_name": "Austin Peralta",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/57cd171342007297d70df87c793c603b032bd366",
+            "track_id": "76dNn0YACjoHjhnQYSJ16u",
+            "track_name": "Lapis"
+        },
+        {
+            "artist_id": "5H6KAuCOwgEpQXx6WKYCcN",
+            "artist_name": "Heidi Vogel",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5EHFi4w2VKsjjYYe0KbVJJ",
+            "track_name": "Love Dance"
+        },
+        {
+            "artist_id": "5H6KAuCOwgEpQXx6WKYCcN",
+            "artist_name": "Heidi Vogel",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2NOP11qxFy3TyiFLHLlGSX",
+            "track_name": "Dindi"
+        },
+        {
+            "artist_id": "4HOFHQ9Y5Q1E8KKjnjkA0O",
+            "artist_name": "Baraka",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/981ccd905d91017ce884b0b657d87f3e4cb1f57c",
+            "track_id": "5E5dwhGdvi8IAw4fnbopjS",
+            "track_name": "Time to Leave (Austin Peralta)"
+        }
+    ]
+}

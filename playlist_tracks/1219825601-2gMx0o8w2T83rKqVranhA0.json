@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/2gMx0o8w2T83rKqVranhA0/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1Zz6NBe8UIZjm88TvehFtx",
+            "artist_name": "LE YOUTH",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/49e70f48c693f0671616ad61d647d5c22a2b9a34",
+            "track_id": "4L0HMiE70JyFSfOsnoHGbj",
+            "track_name": "C O O L"
+        },
+        {
+            "artist_id": "041iTeoMIwXMlShuQPIVKo",
+            "artist_name": "Klangkarussell",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/97787245ab71a0d4ce0213c29ce3e09ce9fc93db",
+            "track_id": "3ZMoW9Y3Zr8zJ8wck9TYYz",
+            "track_name": "Sonnentanz"
+        },
+        {
+            "artist_id": "1yqxFtPHKcGcv6SXZNdyT9",
+            "artist_name": "MK",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "2uJTlAH6NChvWXlg1YCdF1",
+            "track_name": "My Head is a Jungle"
+        },
+        {
+            "artist_id": "3dz0NnIZhtKKeXZxLOxCam",
+            "artist_name": "Porter Robinson",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ba5e0fa407c0c51b8274bfaa6fd6eda0fee6ef8",
+            "track_id": "18cCBvygH6yEFDY0cYN3wT",
+            "track_name": "Divinity"
+        },
+        {
+            "artist_id": "3dz0NnIZhtKKeXZxLOxCam",
+            "artist_name": "Porter Robinson",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7719b746bf80364004e869685973e4a65aababe",
+            "track_id": "2lNFWUrxuNaQsf5I1pDTPr",
+            "track_name": "Sea Of Voices"
+        },
+        {
+            "artist_id": "3dz0NnIZhtKKeXZxLOxCam",
+            "artist_name": "Porter Robinson",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/284994f78beb0fdc7efd493bbffc6a657473d513",
+            "track_id": "6BivCuyKJtgLa9ooFsvUoZ",
+            "track_name": "Flicker"
+        },
+        {
+            "artist_id": "2gsggkzM5R49q6jpPvazou",
+            "artist_name": "Jessie J",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea51100cce3d6c1228bd763cbaab784b520f570d",
+            "track_id": "2RwOcDEeUWw6XXaLBH0vbA",
+            "track_name": "Burnin' Up - Don Diablo Remix"
+        }
+    ]
+}

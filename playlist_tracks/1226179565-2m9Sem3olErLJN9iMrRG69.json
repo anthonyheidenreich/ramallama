@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/1226179565/playlists/2m9Sem3olErLJN9iMrRG69/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6DPYiyq5kWVQS4RGwxzPC7",
+            "artist_name": "Dr. Dre",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/acb83376c7593a8170d91b9d8e0911dceed133dc",
+            "track_id": "2g9E9UyZ3pdJ1eqUQW0tfQ",
+            "track_name": "Xxplosive"
+        },
+        {
+            "artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+            "artist_name": "A Tribe Called Quest",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/69a99eb8fcba69a348e8018b06832ad78722d04b",
+            "track_id": "4lIyYuC3f68DZjeIfo6BrM",
+            "track_name": "Midnight Marauders Tour Guide"
+        },
+        {
+            "artist_id": "2aoFQUeHD1U7pL098lRsDU",
+            "artist_name": "Madvillain",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/38304e2ff9db30f6f0a3fb1c40bff6a5105ff800",
+            "track_id": "0dIDLi5yCGx3YxnJSz7flh",
+            "track_name": "Meat Grinder"
+        },
+        {
+            "artist_id": "09hVIj6vWgoCDtT03h8ZCa",
+            "artist_name": "A Tribe Called Quest",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/fe3bfef489488877d62227f0edeb2ca493d5207a",
+            "track_id": "0tBlp6zZ4j238CbdXCYy7A",
+            "track_name": "8 Million Stories"
+        },
+        {
+            "artist_id": "20qISvAhX20dpIbOOzGK3q",
+            "artist_name": "Nas",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "0pbOwzCpQCCdwr1EZVhrgM",
+            "track_name": "Halftime"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/123710650/playlists/35pzTIADqrYsXvvJkVGgQ3/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+            "artist_name": "Herbie Hancock",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ef4b6dbebfd56aa98e0b2ec13e4a987eb317a99",
+            "track_id": "7wGx08b8HOKxnppqcoq4ea",
+            "track_name": "Watermelon Man"
+        },
+        {
+            "artist_id": "2ZvrvbQNrHKwjT7qfGFFUW",
+            "artist_name": "Herbie Hancock",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b9765a445727d3bee6bdf6a0fb4bad59ed6fcf2",
+            "track_id": "4Ce66JznW8QbeyTdSzdGwR",
+            "track_name": "Chameleon"
+        },
+        {
+            "artist_id": "162DCkd8aDKwvjBb74Gu8b",
+            "artist_name": "Weather Report",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/728a36478ff07e779766ae70288378da5fd81196",
+            "track_id": "7nJc3vqcU2em6FH0c3Geox",
+            "track_name": "Birdland"
+        },
+        {
+            "artist_id": "3NUsiT2JSyaWAnWaXxDzhQ",
+            "artist_name": "Dexter Gordon",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5d4eb2ecef2bbcd514d9b2a03afc932c68c51ef",
+            "track_id": "5KQ6uddno2Hht84gJDHsPF",
+            "track_name": "A Night In Tunisia - 2003 Digital Remaster"
+        },
+        {
+            "artist_id": "6eEsIl4wosvhuWI0mfXxAF",
+            "artist_name": "Rare Earth",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbe35ba39aa393cc00f301e37621c332e6426afa",
+            "track_id": "06ahXfNkTO6Tu289M5PUeI",
+            "track_name": "Get Ready"
+        },
+        {
+            "artist_id": "3tx8fyu3c4OBP5nejYtUOb",
+            "artist_name": "Average White Band",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4fda755cd6f467fd20143b610bf931516724e89",
+            "track_id": "2x1LQq8lsUzAA2wNj8yjC9",
+            "track_name": "Pick Up The Pieces"
+        },
+        {
+            "artist_id": "6ykfXAed2KOLOMI3R0TZdz",
+            "artist_name": "Art Blakey & The Jazz Messengers",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f797db75f295e0c7053783e373d5687a34e7b84f",
+            "track_id": "4Tq2fWpX1nLCkMSOPkYb1Y",
+            "track_name": "Moanin'"
+        },
+        {
+            "artist_id": "3iDD7bnsjL9J4fO298r0L0",
+            "artist_name": "Chicago",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb7cdb911bd109c57573f1cc9371857fb48b9b51",
+            "track_id": "7GqIDx2QVGOpd4r1fZaUUW",
+            "track_name": "25 Or 6 To 4 - Remastered"
+        },
+        {
+            "artist_id": "3iDD7bnsjL9J4fO298r0L0",
+            "artist_name": "Chicago",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/262100440da4387443917ca3c30ff4fb3713d2b8",
+            "track_id": "3Id3XHPbWFgK2H2vySXuTI",
+            "track_name": "Make Me Smile"
+        },
+        {
+            "artist_id": "1Mxqyy3pSjf8kZZL4QVxS0",
+            "artist_name": "Frank Sinatra",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "4DrZFVfcuHxFYc6drP41qc",
+            "track_name": "That's Life"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/1162898832/playlists/7khhGrJSuiILH0G29MjKmq/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "2ARO60gI5do88ho6azmzab",
+            "artist_name": "Django Django",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b843dcac8d0a9261dcf8dda45f8ace74614a2fb",
+            "track_id": "3H9in623FpisWqhLaFIrye",
+            "track_name": "Shake and Tremble"
+        },
+        {
+            "artist_id": "2ARO60gI5do88ho6azmzab",
+            "artist_name": "Django Django",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/70ee892aa6b2436b073eab080e42d1fcddef7cd6",
+            "track_id": "08mqYor0z667rqNVk4tIwx",
+            "track_name": "First Light"
+        },
+        {
+            "artist_id": "2ARO60gI5do88ho6azmzab",
+            "artist_name": "Django Django",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1737ad97aff36953caaadc0067baa3f11f0257f",
+            "track_id": "6INizVcPiATcLF1YlooycF",
+            "track_name": "Reflections"
+        },
+        {
+            "artist_id": "2ARO60gI5do88ho6azmzab",
+            "artist_name": "Django Django",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/326f637cf70e03890cbad23734f8db97e1ec83ac",
+            "track_id": "0iesponWw5cQ7wecJDPvt1",
+            "track_name": "Beginning to Fade"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1246917672/playlists/3Ny7NeeVZYHVuVcELtdl1l/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0KkJoXozXmbRdmpy7zCmYA",
+            "artist_name": "William Grant Still",
+            "popularity": 1,
+            "preview_url": "https://p.scdn.co/mp3-preview/69f05f52c895da22f34b83d3231fed97d0903786",
+            "track_id": "6bOe18BxO3p6J88ZijQrwx",
+            "track_name": "Folk Suite No. 3: I. Inca Dance (Peru)"
+        },
+        {
+            "artist_id": "0KkJoXozXmbRdmpy7zCmYA",
+            "artist_name": "William Grant Still",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc5c8e039f3b960e5c7b5b8544f1404fa0b60905",
+            "track_id": "06ONAfIZzlaM3UTPMyTcH7",
+            "track_name": "Folk Suite No. 3: II. Inca Song (Peru)"
+        },
+        {
+            "artist_id": "0KkJoXozXmbRdmpy7zCmYA",
+            "artist_name": "William Grant Still",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/c5714081650920fbfa1750c8ec545ebb56fd3e38",
+            "track_id": "2PUSxSos6oArjZx42pBnvI",
+            "track_name": "Folk Suite No. 2: IV. Peruvian Melody (Peru)"
+        },
+        {
+            "artist_id": "6UxYW4p6OoRf85fNMupsfV",
+            "artist_name": "Ronan Hardiman",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/33aed3fe03dacda9fb174175c0c216a698e6fc71",
+            "track_id": "5dJEtsRcGgHEC2zvPrIL1B",
+            "track_name": "Gypsy"
+        },
+        {
+            "artist_id": "3ZvmmlF8EMEpnnK90jfuJv",
+            "artist_name": "Moya Brennan",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/22381f7c8993994ffd4ef22db1745e527a6c118b",
+            "track_id": "35OVGdSOIfuumj5I5BchKD",
+            "track_name": "Many Faces"
+        },
+        {
+            "artist_id": "5vOUL6pyKVnJmfv5uhkwXW",
+            "artist_name": "Kim Robertson",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/e49f21dc06e1bec002dd17674b217ec5250fa56c",
+            "track_id": "3baO8mYgN9XpZL5WQFaJrX",
+            "track_name": "Robertson's Rant"
+        },
+        {
+            "artist_id": "1q1wfzh2xtpj27TnIAqIvd",
+            "artist_name": "Karl Jenkins",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/e6f354dd838967c3879495a4ef7d62521dc481b5",
+            "track_id": "2QqIeBlZq9ktbZsnbpQXHc",
+            "track_name": "Ceridwen's Curse"
+        }
+    ]
+}

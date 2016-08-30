@@ -1,0 +1,373 @@
+{
+    "href": "https://api.spotify.com/v1/users/thebandito/playlists/7LH6JMsV8U83krxbAahUSm/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/c529e2bb2738488fd52f39883d058230c5735d89",
+            "track_id": "7zbUgqjEKxM0RbWPz1SeNO",
+            "track_name": "A Praise Chorus"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/6db82dafc02b8a7a972434c730e10ebff0a01ce0",
+            "track_id": "5WlGOU9WVSW9fZXoVfHNsZ",
+            "track_name": "Odd Soul"
+        },
+        {
+            "artist_id": "2bcrMsFlF632EQ6VZERWFu",
+            "artist_name": "The Bravery",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/44ef748d51f93d4ed6745c74ce9629dedeece534",
+            "track_id": "59bLwOEATLohieEmpeZNAb",
+            "track_name": "Bad Sun"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/41e4290d6510b03449d7dd162bf9cb2486da4ccf",
+            "track_id": "1F7aFfcT0hXmGFLM6xEAC8",
+            "track_name": "This Fire"
+        },
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "5SATsbVNtnaPjGLdaCvvTY",
+            "track_name": "Hear You Me"
+        },
+        {
+            "artist_id": "7xklw3WodFZiNNmQt3DIgp",
+            "artist_name": "Angels & Airwaves",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/31c0d48114b29854d85c3d6942e643276f1448e5",
+            "track_id": "3I7IGPFe0DoNXZI9JDYa5P",
+            "track_name": "Everything's Magic"
+        },
+        {
+            "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+            "artist_name": "The Strokes",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/83703b4cc3b487fa0773635bb98def1b7fc89cb0",
+            "track_id": "56NkIxSZZiMpFP5ZNSxtnT",
+            "track_name": "Someday"
+        },
+        {
+            "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+            "artist_name": "The Strokes",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/93b2162121b87bfac75dd5f4ac6dcf14fd07abe2",
+            "track_id": "6u0x5ad9ewHvs3z6u9Oe3c",
+            "track_name": "Under Cover of Darkness"
+        },
+        {
+            "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+            "artist_name": "The Strokes",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/77f69b9c40583236a412ef7a4c6fbd309f6146f6",
+            "track_id": "69YCkfZS0aOjEUPwQ4zCZ9",
+            "track_name": "Gratisfaction"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/197da975d380b7b1f7e8eb3b53abac0b774a6d5e",
+            "track_id": "5dKBaysNJtfpyNTRa5lqDb",
+            "track_name": "A-Punk (Album)"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0e4ddaf05d757adee1844e83f6105eeebd401a5",
+            "track_id": "22d5vvCijMTue7PvUrGiz9",
+            "track_name": "Horchata"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/4081d2f4a72464d229d1e4460a3d002f6bcfd7ec",
+            "track_id": "1SXP53Ue7P7ZBiDeRUG9H4",
+            "track_name": "Ulysses"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/03b3eddb4ccd824ba45c35addf1d143b6f85193f",
+            "track_id": "0ancVQ9wEcHVd0RrGICTE4",
+            "track_name": "Take Me Out"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "09TpJe9jnom4mB2DDhZKkB",
+            "track_name": "Do You Want To"
+        },
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cee75812a5d1d23c546063ca34d7bd5b4429ccf",
+            "track_id": "1GCrBvm2LVf0uf2uWAJAhx",
+            "track_name": "Always Be"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/3521be609ab88363fd96b921c1aa8b44ddc1ae3f",
+            "track_id": "37CBHPCzV1rizPrxRUyR72",
+            "track_name": "No You Girls"
+        },
+        {
+            "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+            "artist_name": "Arctic Monkeys",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "20fdsKwT2UQGKB1WjF8LfI",
+            "track_name": "I Bet You Look Good On The Dancefloor"
+        },
+        {
+            "artist_id": "7Ln80lUS6He07XvHI8qqHH",
+            "artist_name": "Arctic Monkeys",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f119e50d967ebd5f07c5893b93382f349b29244",
+            "track_id": "0e9kNyQTDcmkGEQ0bT3t8W",
+            "track_name": "Dancing Shoes"
+        },
+        {
+            "artist_id": "7MhMgCo0Bl0Kukl93PZbYS",
+            "artist_name": "Blur",
+            "popularity": 31,
+            "preview_url": null,
+            "track_id": "4F64QXRV1EGHSm5jIeMmcQ",
+            "track_name": "Song 2"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc9e5ca89d1da16bd3349a5fd02525ea2599a13e",
+            "track_id": "5wTMQjEx9LWeFwLjolPCUy",
+            "track_name": "What's My Age Again?"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cfc81e69729feb607f561754e536269be5018e0",
+            "track_id": "3dz9xZ18IF5o3wIxpJJ1OL",
+            "track_name": "Snake Charmer"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/827b0e782895add2511e6c6e9b09949a1dd47048",
+            "track_id": "3AOFclLnvH6qKJj7wevRHn",
+            "track_name": "Always"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/7192325c1e574b6344220049c0d13027ea2e52bb",
+            "track_id": "2dM3803quujZOCs9I4auDZ",
+            "track_name": "Prytania"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ebe4b131aec57969213dab413058f9b7c595f94",
+            "track_id": "6x2mtDO5pXEUjR0m0Ko6u8",
+            "track_name": "What Gets You Off"
+        },
+        {
+            "artist_id": "2bcrMsFlF632EQ6VZERWFu",
+            "artist_name": "The Bravery",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/08f37a5d28788dba731e7f7136607da19bc619c9",
+            "track_id": "12d7zOCGENeo5v2XF295sA",
+            "track_name": "Time Won't Let Me Go"
+        },
+        {
+            "artist_id": "63MQldklfxkjYDoUE4Tppz",
+            "artist_name": "M83",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "484hkZCF4RpdZmyMjkBp2z",
+            "track_name": "Couleurs"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8ba1b5bd8eacbf20a412835ba62cd15826b0448",
+            "track_id": "6YX4TgG7dOFC931bICwE3O",
+            "track_name": "Typical"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7160ce1b087d5e62677684b6692fbc1e65409a8",
+            "track_id": "3S9yn5ESR8OZg4qPXYImPN",
+            "track_name": "Annie Use Your Telescope"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6aa64e553d4a0105ef22ba3ef074b9cbccb8581",
+            "track_id": "18WGOPbU4FN3VY12BWKb2q",
+            "track_name": "The Mixed Tape"
+        },
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/163c25cab66205e7181a5f67879075dc8a81729a",
+            "track_id": "0YQfhg5OhBajiuMbtQFxPs",
+            "track_name": "Sweetness"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/0211d349242138904932f83bdb3e428baaf02d74",
+            "track_id": "1IJzsFooQKD4x1tnU7MXyH",
+            "track_name": "Blood Pressure"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/4958f08aa3845adc82f8d6b5efd66256cdead6e8",
+            "track_id": "0EI2WiPwU1zd5ijWErHDD6",
+            "track_name": "Television"
+        },
+        {
+            "artist_id": "0DK7FqcaL3ks9TfFn9y1sD",
+            "artist_name": "Box Car Racer",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/57ac5bf6021729567a6a74eba8fa53978576e671",
+            "track_id": "3oQggzwBp8hqUwgoUcb3wJ",
+            "track_name": "There Is"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/84a4bb8ed603ea94212923fe1356a1987cda814d",
+            "track_id": "6ND39R7e3l1CQOCBEGyOGn",
+            "track_name": "Drop Out - The So Unknown"
+        },
+        {
+            "artist_id": "2bcrMsFlF632EQ6VZERWFu",
+            "artist_name": "The Bravery",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/9729557862d7c6d760bc88ae8efbb5d0fad1cb72",
+            "track_id": "4KieLdb9GEHBGV2qOH3CpW",
+            "track_name": "The Spectator"
+        },
+        {
+            "artist_id": "1J9Z9bhqkgyqseEi85cbyx",
+            "artist_name": "Mutemath",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/c63f2e9e3fe658b686acf2e435e602e37dae6907",
+            "track_id": "7fFdQHKL3DkesePFFbPkvJ",
+            "track_name": "Plan B"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/c818eeb1c65163af77fa16efef56ca7049081aed",
+            "track_id": "77iavZiMeosPYjBoWHIN0r",
+            "track_name": "Crashin"
+        },
+        {
+            "artist_id": "7gkRNHOOt7QfhhXf0rEnmj",
+            "artist_name": "+44",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/24bf44ac5d56581606a47f37d8b1207234c15db7",
+            "track_id": "1VpTwecl7EbQiGyVsvwFQE",
+            "track_name": "When Your Heart Stops Beating"
+        },
+        {
+            "artist_id": "42aeGx2I3uXINpGqC8L0LD",
+            "artist_name": "Jack's Mannequin",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/3405c5e3413441e7ca331fe5beb30ecc6a7caa72",
+            "track_id": "6GHYC5wFfCWKlZBNZ2t2ex",
+            "track_name": "My Racing Thoughts"
+        },
+        {
+            "artist_id": "0XNa1vTidXlvJ2gHSsRi4A",
+            "artist_name": "Franz Ferdinand",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/3521be609ab88363fd96b921c1aa8b44ddc1ae3f",
+            "track_id": "37CBHPCzV1rizPrxRUyR72",
+            "track_name": "No You Girls"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "7emyMM3g0FzmnD63w3TNoE",
+            "track_name": "Lazy Eye"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "2MadCwJX7HVtlWcrc78OX9",
+            "track_name": "Panic Switch"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6iW6ZstIqfpWZH9Cjp4Nof",
+            "track_name": "The Royal We"
+        },
+        {
+            "artist_id": "6qyi8X6MdP1lu6B1K6yh3h",
+            "artist_name": "Silversun Pickups",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/f07e24714170a0790d4556c250420143ebd34b76",
+            "track_id": "5C2utGpaHgxVgLc35sUIIL",
+            "track_name": "Panic Switch"
+        },
+        {
+            "artist_id": "0W2XAE5AnBWqcGNhfupEOU",
+            "artist_name": "The Sounds",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2aVsgjeVE8hYP4MXUVTmRP",
+            "track_name": "Dance With Me"
+        },
+        {
+            "artist_id": "4MlrZKzgi3UuZi2iDKjOar",
+            "artist_name": "Art vs Science",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4ecbc173abec3f0529fb2ce4481089cc7220015",
+            "track_id": "3nFBUKmh1KCaE1P6vVGXQ9",
+            "track_name": "I See Red"
+        }
+    ]
+}

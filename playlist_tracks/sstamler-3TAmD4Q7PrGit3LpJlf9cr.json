@@ -1,0 +1,29 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/3TAmD4Q7PrGit3LpJlf9cr/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "31TPClRtHm23RisEBtV3X7",
+            "artist_name": "Justin Timberlake",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb64753af60c7e3c609dad20b4c325eef3bd722b",
+            "track_id": "2vmxF4cWxi9v9Lv055SfXt",
+            "track_name": "Take Back the Night"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d387086bed2b96a4279142b1bae9b2997e3f052",
+            "track_id": "6pyd5aclfM9Lb1uvoIIpXt",
+            "track_name": "3 Minutes of Watts (feat. Jay Rock)"
+        },
+        {
+            "artist_id": "1Wk4mJaVIO1EGgIJPtNCkS",
+            "artist_name": "Thom Y feat. Ariel Curtis",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2SYGc4pN0JX8F70YpIDbbT",
+            "track_name": "Atoms for Peace"
+        }
+    ]
+}

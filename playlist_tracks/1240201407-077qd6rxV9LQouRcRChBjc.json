@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1240201407/playlists/077qd6rxV9LQouRcRChBjc/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3UvcmAOZt64oKpP95f6MMM",
+            "artist_name": "Big Star",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/df6f177d7a966cf6109ec12afe03d4414343ff5f",
+            "track_id": "14bdkfiD8UAYJalXKFwcwb",
+            "track_name": "Thirteen"
+        },
+        {
+            "artist_id": "16rJDrSGCHMXjPUuKwQcvp",
+            "artist_name": "Lea Michele",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/080131f428e4fafc664ec113c45cd7dacc2a9928",
+            "track_id": "3yqvUrjx9ZuAfbmVx0DUOK",
+            "track_name": "Battlefield"
+        },
+        {
+            "artist_id": "4R2Uq6auSG3ZSkBHA0ONQb",
+            "artist_name": "Bear Attack!",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f16bb8a5b6b3a04794a3450045e2b70971ef177",
+            "track_id": "6O55F5DmlUkAVK8OMZ4fhr",
+            "track_name": "The Backpack Song"
+        },
+        {
+            "artist_id": "5pKCCKE2ajJHZ9KAiaK11H",
+            "artist_name": "Rihanna",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b26fe99727489470523fbfbff12f9bfb5b1c164",
+            "track_id": "1bLG2x4ePXBr6TXFBOmXRk",
+            "track_name": "We Found Love"
+        },
+        {
+            "artist_id": "364ovD0MRp9ezaNTkRoLeA",
+            "artist_name": "Gavin Mikhail",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c86c9bf212499c548a70c3b171953cd68cec0fc",
+            "track_id": "3vVqmNanflx8R8p7TiQtmF",
+            "track_name": "Some Die Young"
+        },
+        {
+            "artist_id": "5jbP6txZCMe5l7QLZ1pmJ3",
+            "artist_name": "Katie Herzig",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d16eb6ddfdb8e233b313739818cfdd4cbaf726d",
+            "track_id": "6I12kd6HCDGwi9VnoPBfc2",
+            "track_name": "I Hurt Too"
+        },
+        {
+            "artist_id": "0YrtvWJMgSdVrk3SfNjTbx",
+            "artist_name": "Death Cab for Cutie",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "13RxFU8T36aUmWXhLFGMD8",
+            "track_name": "The Ice Is Getting Thinner"
+        },
+        {
+            "artist_id": "7hcDQU85uaQ8eSUAhQcwPx",
+            "artist_name": "Morgan Taylor Reid",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/e5bb6e340b198ac25e651bbf79519e7ca104936e",
+            "track_id": "3w9RqH88TFWrtYi1hRyuf5",
+            "track_name": "Where Do I Even Start?"
+        },
+        {
+            "artist_id": "159i8UuMslltrv50OXt3YC",
+            "artist_name": "Ry Cuming featuring Sara Bareilles",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ae1a11e81f0586e817e099a84d3c824af5e216e",
+            "track_id": "5cX0iDSomDaTj9tktRDu4Y",
+            "track_name": "Always Remember Me"
+        }
+    ]
+}

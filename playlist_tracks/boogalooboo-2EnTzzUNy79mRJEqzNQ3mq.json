@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/boogalooboo/playlists/2EnTzzUNy79mRJEqzNQ3mq/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3C6chBmZ9wzisBhoh8G2nK",
+            "artist_name": "Naked Eyes",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cf1b38776b9f74fa40c8f5a6c90850fe273e079",
+            "track_id": "2aAdkx06gMGpHbkwlNhfeL",
+            "track_name": "Always Something There To Remind Me"
+        },
+        {
+            "artist_id": "6hN9F0iuULZYWXppob22Aj",
+            "artist_name": "Simple Minds",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/298a0c9832f3ae37ad6f97c1b2731c9a7f1a1c00",
+            "track_id": "2dEprOQSAHeOhDAoQZxIBT",
+            "track_name": "Don't You (Forget About Me)"
+        },
+        {
+            "artist_id": "7ohlPA8dRBtCf92zaZCaaB",
+            "artist_name": "Crowded House",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/72d3fe3383692290bb70bb01df89668876d7b40d",
+            "track_id": "3o6VazvGVIsUcwjrFlI7T7",
+            "track_name": "Don't Dream It's Over"
+        },
+        {
+            "artist_id": "6kz53iCdBSqhQCZ21CoLcc",
+            "artist_name": "Culture Club",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/bed77c04627aa35ef2d7dfec4767cac9f4a667fa",
+            "track_id": "5hJEuHnEoA39xpA0GDlO4t",
+            "track_name": "Karma Chameleon"
+        },
+        {
+            "artist_id": "0L9xkvBPcEp1nrhDrodxc5",
+            "artist_name": "Level 42",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/30781bb414289f15a56e90b64ae2d50a278e5d9e",
+            "track_id": "2uXewDKMktNkkMfotqSxN6",
+            "track_name": "Something About You - Single Version"
+        },
+        {
+            "artist_id": "7lzordPuZEXxwt9aoVZYmG",
+            "artist_name": "Billy Idol",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/bc0497fea7e016ae510802f3106e342416d51ce6",
+            "track_id": "0QqqWYRQKI7ADDpodsfLPa",
+            "track_name": "White Wedding - Part 1 - 2001- Remaster"
+        },
+        {
+            "artist_id": "4tpUmLEVLCGFr93o8hFFIB",
+            "artist_name": "Blondie",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebaa1d8f682ef320227827f0c18a61e3d470defc",
+            "track_id": "78wmvvvJ6deNaPdbsnaVGx",
+            "track_name": "Call Me"
+        },
+        {
+            "artist_id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "artist_name": "Duran Duran",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/07771efa34049b4d40cd1812390c99d795a489a3",
+            "track_id": "2kHwIWFVwkAGYZZsewMIFD",
+            "track_name": "Rio"
+        },
+        {
+            "artist_id": "2TPyCsRoh2tjeZLTQ2ojlj",
+            "artist_name": "John Waite",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b2622af8508a5cc165236f7367fac4cb5ac9f97",
+            "track_id": "41Cks9lF6kI3J6SMo0PG50",
+            "track_name": "Missing You"
+        },
+        {
+            "artist_id": "3cniTumSiUysiPWXapGx1i",
+            "artist_name": "Cutting Crew",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e0803bf7f5db045ad38c6e089c61f9b768b63ff9",
+            "track_id": "6zb9gTiv8jXZ5c4giNCF4F",
+            "track_name": "(I Just) Died in Your Arms"
+        },
+        {
+            "artist_id": "2Uz58cSxlJgefDaSikxYQ7",
+            "artist_name": "Thomas Dolby",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/052ed9c77d574d9f68aec88eed69836c5cdc4a0c",
+            "track_id": "1mjgdZvGsf81ApGq2lbrqk",
+            "track_name": "She Blinded Me With Science"
+        },
+        {
+            "artist_id": "7A9yZMTrFZcgEWAX2kBfK6",
+            "artist_name": "Huey Lewis & The News",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff47f6acf06b202dcb6080df71d40fefe3110560",
+            "track_id": "5MTlWJ0ZqwPr8uEohT92Tt",
+            "track_name": "If This Is It - 2006 Digital Remaster"
+        },
+        {
+            "artist_id": "2urZrEdsq72kx0UzfYN8Yv",
+            "artist_name": "Spandau Ballet",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/0df8fd8861356919ac8932a06354961fd2d29d37",
+            "track_id": "1l9w9Ml2pYQ3tyMjYpKOJL",
+            "track_name": "True"
+        },
+        {
+            "artist_id": "43mhFhQ4JAknA7Ik1bOZuV",
+            "artist_name": "Pat Benatar",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8a11a9c6571198719c5cfaa25b9e3d642431f85",
+            "track_id": "5kfKCyPgHayOv9wVw2J5j2",
+            "track_name": "We Belong - 2002 - Remaster"
+        },
+        {
+            "artist_id": "2sIx6SmAMw9IBySG3Uj0jf",
+            "artist_name": "Soul II Soul",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee8492acb66e5c3f02fa31613d8157f5484d3d91",
+            "track_id": "2vS1ubvMQGcAVoY39QbyMk",
+            "track_name": "Back To Life (However Do You Want Me) - Accapella;feat. Caron Wheeler"
+        },
+        {
+            "artist_id": "3Fz2GbraVXhcpXnoi2Oe1r",
+            "artist_name": "Billy Squier",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9d6348bb0e5ea1ef811a55c3c3f82d15f47e149",
+            "track_id": "4rh4cYNI1cmfAWDkWRfvl9",
+            "track_name": "The Stroke"
+        },
+        {
+            "artist_id": "2TzHIUhVpeeDxyJPpQfnV3",
+            "artist_name": "Katrina & The Waves",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/bdb75dcb9058c35b55d6ee2f0731dafdcdaff5c1",
+            "track_id": "1n0oxt8ciyVrkRHKW1aGkT",
+            "track_name": "Walking On Sunshine"
+        },
+        {
+            "artist_id": "0lZoBs4Pzo7R89JM9lxwoT",
+            "artist_name": "Duran Duran",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/a62c52f1a0808a2165b7f4b090e2897728588f7f",
+            "track_id": "1y0gJduq85lUxYH8OYq1jc",
+            "track_name": "Hungry Like the Wolf"
+        },
+        {
+            "artist_id": "69MEO1AADKg1IZrq2XLzo5",
+            "artist_name": "UB40",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8dbae43e3dae934a9f33c3ff3c83d8fd1103413",
+            "track_id": "6moEgzKv1JSFrdDv4hW0ZJ",
+            "track_name": "Red Red Wine - Edit"
+        },
+        {
+            "artist_id": "1fBCIkoPOPCDLUxGuWNvyo",
+            "artist_name": "Poison",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/54f9d29e22c4b3e499a6004f9b7f90f1371f8951",
+            "track_id": "1fd4TuyR5VNETLpTpUBZBN",
+            "track_name": "Every Rose Has Its Thorn - 2003 - Remaster"
+        },
+        {
+            "artist_id": "7Fo8TAyGJr4VmhE68QamMf",
+            "artist_name": "Talk Talk",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/c59693143a939931bb89fa3bb41c89acca11dd72",
+            "track_id": "4YWahhkpmfhoyHnaCOsDuN",
+            "track_name": "It's My Life"
+        },
+        {
+            "artist_id": "0smy8yDrRoI4CnhpOuthg0",
+            "artist_name": "Corey Hart",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b1075e85a92765b397d14539208c380f5d3ea25",
+            "track_id": "52cbC1Ibwy5iZnfD7PAlhg",
+            "track_name": "Sunglasses At Night - 1992 - Remaster"
+        },
+        {
+            "artist_id": "69Mj3u4FTUrpyeGNSIaU6F",
+            "artist_name": "The J. Geils Band",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/ca4dc21e7079295019170f88e0a600280eb2cfde",
+            "track_id": "2LL7xutPiuzoRACyfHPoMj",
+            "track_name": "Centerfold"
+        },
+        {
+            "artist_id": "0fYPQBOx0vsRMmjUba9HgF",
+            "artist_name": "Modern English",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/abb6a008947a176a7b48457527169ac5d1dedcab",
+            "track_id": "1CDX9A7Gw2PJOVNij6z0Rx",
+            "track_name": "I Melt With You"
+        },
+        {
+            "artist_id": "1A92IAcd7A6npCA33oGM5i",
+            "artist_name": "The Proclaimers",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8dc6ecfaab9b4cdc9079afd16110984626873b2",
+            "track_id": "2abwjITP8egjvMMjp8NuWl",
+            "track_name": "I'm Gonna Be (500 Miles)"
+        },
+        {
+            "artist_id": "43mhFhQ4JAknA7Ik1bOZuV",
+            "artist_name": "Pat Benatar",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/47af6da9687dc06a113aeee298a42dc94e9d08d3",
+            "track_id": "68mtYirMYr3yGgeLaPWiKL",
+            "track_name": "Love Is A Battlefield - 2005 Digital Remaster"
+        },
+        {
+            "artist_id": "0oSGxfWSnnOXhD2fKuz2Gy",
+            "artist_name": "David Bowie",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d7078ae24f00c1dfa2fcbe690b7b7ede29d3dcb",
+            "track_id": "5wS7KpQTQaUFPU3NKnXTyj",
+            "track_name": "Let's Dance - Single Version;2002 - Remaster"
+        },
+        {
+            "artist_id": "47qTcvYlqJGAEsCI7BcENC",
+            "artist_name": "T'Pau",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/7168497d7574f1d070283166d2a00bd8f85b81c3",
+            "track_id": "7HW7ZM5qAWhwf7SgwP9kJ1",
+            "track_name": "Heart and Soul"
+        },
+        {
+            "artist_id": "5PN2aHIvLEM98XIorsPMhE",
+            "artist_name": "Kim Carnes",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab31fa77af70ec4f8fc6f61b09dd1eaea222d7b0",
+            "track_id": "2NiB8N1QYVCWAQ0hGOUfhx",
+            "track_name": "Bette Davis Eyes"
+        },
+        {
+            "artist_id": "1C4zTmHRkm3XRJSex4vTiZ",
+            "artist_name": "Billy Griffin",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "0I53PgQyRy0C9zS7NNUwn1",
+            "track_name": "Hold Me Tighter In The Rain"
+        },
+        {
+            "artist_id": "7LTzUnZaptYfAFmvqW5M6D",
+            "artist_name": "Limahl",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "79yPlcjbwRebGO32kz8Bkv",
+            "track_name": "Never Ending Story"
+        },
+        {
+            "artist_id": "5b4SvpTqll0LSqJWPpXya5",
+            "artist_name": "Odyssey",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1owsNgDEFM01DVaID4szBy",
+            "track_name": "Use It Up, Wear It Out"
+        },
+        {
+            "artist_id": "0y6KR72CWZyrsYZr8iAq4G",
+            "artist_name": "Miquel Brown",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "382CRbHWCgPG4djOGQqGfO",
+            "track_name": "Close To Perfection"
+        },
+        {
+            "artist_id": "6iTD167bhyfYwEd7fd2bGn",
+            "artist_name": "Sugar Minott",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "5wSc3IvC0TD61marYZl7dy",
+            "track_name": "We've Got A Good Thing Going"
+        },
+        {
+            "artist_id": "4PpmBoqphQusNFsxuVKb6j",
+            "artist_name": "Paula Abdul",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4b016e4f18a77d46089429da1337e68b9f6cd9c",
+            "track_id": "41j8OEcWcYmHxPyY1clx4l",
+            "track_name": "Straight Up - Single Version"
+        },
+        {
+            "artist_id": "2zpFG5cvw00QmrYTUsjApa",
+            "artist_name": "The Three Degrees",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4i8Pbk2RxvrmyoUhUFnggK",
+            "track_name": "The Heaven I Need"
+        },
+        {
+            "artist_id": "75kLmYtlRn22zKp7FnM4nU",
+            "artist_name": "Paul Young & The Q-Tips",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6kXwXaPxOP82Pvs40flDcr",
+            "track_name": "The Tracks Of My Tears"
+        },
+        {
+            "artist_id": "43mhFhQ4JAknA7Ik1bOZuV",
+            "artist_name": "Pat Benatar",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/3474212c870975a2849b4e902f8e5e8de7bfd82a",
+            "track_id": "6ePxI73NHtyLImCEmo4hgv",
+            "track_name": "Hit Me With Your Best Shot - 2002 - Remaster"
+        },
+        {
+            "artist_id": "3oZa8Xs6IjlIUGLAhVyK4G",
+            "artist_name": "Irene Cara",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "6mB778cqowxJuPmvlunIiK",
+            "track_name": "Flashdance...What A Feeling"
+        },
+        {
+            "artist_id": "0GShYlUdyLahdsvgKdselx",
+            "artist_name": "Bad Manners",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "444ROnaxJqiqzY0ngOgsve",
+            "track_name": "Can Can"
+        },
+        {
+            "artist_id": "5xJfSowQoxaxY4DCVLTfr5",
+            "artist_name": "Sabrina",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "0WALRL5q2TaZ0Y0r0c3wl9",
+            "track_name": "Boys"
+        },
+        {
+            "artist_id": "5ZfzzHE7rxONfoksJsLXrX",
+            "artist_name": "Bucks Fizz",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6xjAWGSdorueXEAzKOQeaK",
+            "track_name": "The Land Of Make Believe"
+        },
+        {
+            "artist_id": "5HP4SpcujgIKC6tHBwfy42",
+            "artist_name": "Hazell Dean",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "26wfjcEBhqnF3HrG0XVpPT",
+            "track_name": "Maybe We Should Call It A Day"
+        },
+        {
+            "artist_id": "4RREsGLwQNfpiQQ6cID4KR",
+            "artist_name": "Barbara Pennington",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "46Y14J0eohMKvTlJjGslcy",
+            "track_name": "Fan The Flame"
+        },
+        {
+            "artist_id": "3S34Unhn5yRcaH5K9aU5Et",
+            "artist_name": "Candi Staton",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "5FOgjChiug0baWD44ACbJN",
+            "track_name": "Suspicious Minds"
+        },
+        {
+            "artist_id": "6gkWznnJkdkwRPVcmnrays",
+            "artist_name": "Sister Sledge",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "2wEZr0SkwgimeX1N8PIGM1",
+            "track_name": "Frankie"
+        },
+        {
+            "artist_id": "32vWCbZh0xZ4o9gkz4PsEU",
+            "artist_name": "Dolly Parton",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/4419b02be8ebc50788ef4a5616332986e68d82c5",
+            "track_id": "7t6CSNsOxD9gWU9aInlXlX",
+            "track_name": "9 to 5"
+        },
+        {
+            "artist_id": "4QQgXkCYTt3BlENzhyNETg",
+            "artist_name": "Earth, Wind & Fire",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/d220f234563ef8f8e38d7cb78a0b002d4bb9505d",
+            "track_id": "4SZ8X52UVYOhzPUlysYsOa",
+            "track_name": "Let's Groove"
+        },
+        {
+            "artist_id": "77tT1kLj6mCWtFNqiOmP9H",
+            "artist_name": "Daryl Hall & John Oates",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5d70069d62b3b649b8006124cfe913ea514c6bb",
+            "track_id": "5C4MbbMRyIG7pEPKr9rWNY",
+            "track_name": "I Can't Go for That (No Can Do)"
+        },
+        {
+            "artist_id": "1n2LWYgwtGp7EzDapUoniE",
+            "artist_name": "Tommy Tutone",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6a0fbf60e8a6dc09ec37666ee4d284d661a85b6",
+            "track_id": "3I8qfTfl9Uj1LC2j43WFxB",
+            "track_name": "867-5309 / Jenny"
+        },
+        {
+            "artist_id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "artist_name": "Cyndi Lauper",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/33cee45cfe5d62e38729867cc4e7efb12d22dea9",
+            "track_id": "2jfQVrkq1yxAZccpWb95Kd",
+            "track_name": "Girls Just Want to Have Fun"
+        },
+        {
+            "artist_id": "1dLWg6m8RRhizsdqJbhyj3",
+            "artist_name": "Quiet Riot",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/5039650bd2e102fafdda6ff7ecbfde66db5828a7",
+            "track_id": "7JvSgoCvho4qCjOi1QFTVW",
+            "track_name": "Cum on Feel the Noize"
+        },
+        {
+            "artist_id": "3RFGnJaDVOyxL9YcFaKatu",
+            "artist_name": "Scandal",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/f81e04c02cee0848db959dd886bdbde68d1fbf03",
+            "track_id": "4fnC54gyhIa1LfJPG1m7Zm",
+            "track_name": "The Warrior"
+        },
+        {
+            "artist_id": "2kreKea2n96dXjcyAU9j5N",
+            "artist_name": "The Pointer Sisters",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae45a126a2e9bdef9fdfcbccbe114712c38c18e2",
+            "track_id": "6mapXxghXk17cJyGYGUirk",
+            "track_name": "I'm so Excited"
+        },
+        {
+            "artist_id": "2Gop8SbSVt5SaJzuaRFa7D",
+            "artist_name": "Gloria Estefan And Miami Sound Machine",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/43be2e6fb4017c4162d893bbba49ec66b4cf6c75",
+            "track_id": "4e34ZEXM74fcXpetUU9rvd",
+            "track_name": "Conga"
+        },
+        {
+            "artist_id": "7Bah8E0kCETqEpAHI6CPzQ",
+            "artist_name": "Mr. Mister",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ce8d14736176887e27566e803b123cc186eed7b",
+            "track_id": "64DxoZ3vPgS6CEVPLqPSFy",
+            "track_name": "Broken Wings"
+        },
+        {
+            "artist_id": "7uhvDINTTiD0XBrP9fquN1",
+            "artist_name": "The Hooters",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea6bb01e22ff361e3ffdac70b911e727fae15c62",
+            "track_id": "7suk80MqjgOPpfTwmNlqzI",
+            "track_name": "And We Danced"
+        },
+        {
+            "artist_id": "3CQIn7N5CuRDP8wEI7FiDA",
+            "artist_name": "Run\u2013D.M.C.",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/74960c8bbc6c9e31fd51a85be5df2996def4b05b",
+            "track_id": "1R73VIAtTnD3DawcFwQcwJ",
+            "track_name": "Walk This Way"
+        },
+        {
+            "artist_id": "1zxDewzd2j1ZdSBGaYcr0y",
+            "artist_name": "The Outfield",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb199cc5fcc04ed9b2fa293fbf2a042af66717b3",
+            "track_id": "1jgduJJCQ1m4X617KmhH5w",
+            "track_name": "Your Love"
+        },
+        {
+            "artist_id": "1vgjN6nIPNKiiQGE9PtzTT",
+            "artist_name": "Lisa Lisa & Cult Jam",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/d03c5612902d9019a68c08ee2b02b0caadacf147",
+            "track_id": "3akPUcnjSeKg6bbSIS2DfG",
+            "track_name": "Head to Toe"
+        },
+        {
+            "artist_id": "55qiaow2sDYtjqu1mwRua6",
+            "artist_name": "New Kids On The Block",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed8d333eb892cf48117179dfe4f3609e13db15c7",
+            "track_id": "3E3UMWyMrDhFS0PisIf6I6",
+            "track_name": "You Got It (The Right Stuff)"
+        },
+        {
+            "artist_id": "58U0OwuIViimy39WEbRbXh",
+            "artist_name": "Ray, Goodman & Brown",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0b98553904e975264c5f1e46c722d06eff0c90c",
+            "track_id": "2BUZGtfcMCEV0cp7kZKp53",
+            "track_name": "Special Lady"
+        },
+        {
+            "artist_id": "3gMaNLQm7D9MornNILzdSl",
+            "artist_name": "Lionel Richie",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/1dc3faeefe8460619572cd44bd23fdc76bb8dbf9",
+            "track_id": "6DqX8eW3Gl0VN5NnFvzBFH",
+            "track_name": "All Night Long (All Night) - Single Version"
+        },
+        {
+            "artist_id": "4n7L1vYXp4Dt0HfxaLBj9l",
+            "artist_name": "Dazz Band",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/a520f8bb595d4ffc2eefce34414de33be788518e",
+            "track_id": "72oUFe74PKoNavPIWpMhQE",
+            "track_name": "Let It Whip - Extended 7\" Mix"
+        },
+        {
+            "artist_id": "0rJcrQfLLtWSJAKbZPk6NV",
+            "artist_name": "Yarbrough & Peoples",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad4245e9cc143c5c4fd20c6b6bd0f5a85fbc4dad",
+            "track_id": "0DVevhcLPiHoLaVyl6dSGr",
+            "track_name": "Don't Stop The Music"
+        },
+        {
+            "artist_id": "702AvACMk5mieXIYlC2Gxx",
+            "artist_name": "Pebbles",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/c3eee6e20616d00cfd9823d669821ad97a0f4779",
+            "track_id": "7ETvGW4DrxnocSxcrJOL90",
+            "track_name": "Girlfriend - Radio Edit"
+        },
+        {
+            "artist_id": "62sPt3fswraiEPnKQpAbdE",
+            "artist_name": "Bobby Brown",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a71c0925801825a30fbc5eae25f499c830bd09c",
+            "track_id": "6DCramAMzmwfx5g1TFjqhh",
+            "track_name": "My Prerogative - Single Version"
+        },
+        {
+            "artist_id": "1xcuvl9Q3S7Q3b2b0dTJca",
+            "artist_name": "Oran Juice Jones",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/07d7766fd5ca7f537b890b2f060fe14a2ba747a7",
+            "track_id": "1XRvWlza5f2VfloU8p5hrI",
+            "track_name": "The Rain"
+        },
+        {
+            "artist_id": "545idYhdloaSlLGBY8E9u2",
+            "artist_name": "Cameo",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b3c875f672da4e7e2205e4b06a23beb87725ca5",
+            "track_id": "3tmvGj6RIWMrb73A6f06ja",
+            "track_name": "She's Strange - Single Version"
+        },
+        {
+            "artist_id": "0h9smro0z3HqUbD94jotU8",
+            "artist_name": "Smokey Robinson",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/95973737ff5cc694ec79ae0989efcbba4cec7750",
+            "track_id": "2fQyaE2JgmThEy4KhlIkj5",
+            "track_name": "Being With You - Single Version"
+        },
+        {
+            "artist_id": "2eogQKWWoohI3BSnoG7E2U",
+            "artist_name": "Donna Summer",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/edf40ba46f8b614ad170c9c55041aa08beaed401",
+            "track_id": "46zu58Q3hGtlJbL8DNOSko",
+            "track_name": "She Works Hard For The Money"
+        },
+        {
+            "artist_id": "6h29EZDlc2NTvmCUe4yoXV",
+            "artist_name": "Ready For The World",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/100ae3ec1ab40561c7d58b71aa3173dbe5fdb6d6",
+            "track_id": "7wsKS8FnVOZIzvoBanA7ZC",
+            "track_name": "Love You Down - Extended Version"
+        },
+        {
+            "artist_id": "1mFX1QlezK1lNPKQJkhwWb",
+            "artist_name": "New Edition",
+            "popularity": 17,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4d9bf634b6ffbcc20c644f8fbf365e72e9c8de0",
+            "track_id": "24zvBDtzrLCsf8DNn3JXAi",
+            "track_name": "Can You Stand The Rain - Radio Edit"
+        },
+        {
+            "artist_id": "71aKjsWKYqASAffyIQaocZ",
+            "artist_name": "Jody Watley",
+            "popularity": 16,
+            "preview_url": "https://p.scdn.co/mp3-preview/72219c5030199c6708b606a8cff68bf100a41f9a",
+            "track_id": "5Wgcrm6DbfSn7xhR21fUvE",
+            "track_name": "Looking For A New Love"
+        },
+        {
+            "artist_id": "01Wck2m10xhdxUrLaMq60y",
+            "artist_name": "Rene & Angela",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/070463421c9d97877ae5acf3c528d36f904e1f64",
+            "track_id": "0BIDuR6qnCZZvTHeTc6Wqq",
+            "track_name": "Save Your Love (For #1)"
+        },
+        {
+            "artist_id": "0ty0xha1dbprYIUAQufkFn",
+            "artist_name": "Patti LaBelle",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9f6cd6a9caa350c79c1453f318f7c1d1e58d579",
+            "track_id": "4aSY7v3trDw7kAPC8n5Ofv",
+            "track_name": "New Attitude"
+        },
+        {
+            "artist_id": "2ju2ZxMe9yBOnt1MkWo32t",
+            "artist_name": "Jennifer Holliday",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/064ce3006f2450c11f01bb2d150c62d5ae3f3e15",
+            "track_id": "7EbmAiWk30iRGC9njlrwC1",
+            "track_name": "And I'm Telling You I'm Not Going"
+        },
+        {
+            "artist_id": "7wJ9NwdRWtN92NunmXuwBk",
+            "artist_name": "Orchestral Manoeuvres In The Dark",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "0Des4gyZ2Z9jq6VA8VPwGE",
+            "track_name": "If You Leave"
+        },
+        {
+            "artist_id": "3X0tJzVYoWlfjLYI0Ridsw",
+            "artist_name": "Suzanne Vega",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "0oUIAW6qqSpPEWuVjDfNdZ",
+            "track_name": "Left Of Center"
+        },
+        {
+            "artist_id": "0O0lrN34wrcuBenkqlEDZe",
+            "artist_name": "The Psychedelic Furs",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6dMTErrChMf9jUmANoeBSd",
+            "track_name": "Pretty In Pink"
+        },
+        {
+            "artist_id": "0fgYKF9Avljex0L9Wt5b8Z",
+            "artist_name": "Echo & the Bunnymen",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "2jGAnk4wKOlvotJGoXEQol",
+            "track_name": "Bring On The Dancing Horses"
+        },
+        {
+            "artist_id": "3yY2gUcIsjMr8hjo51PoJ8",
+            "artist_name": "The Smiths",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "6En5PwlpE1H8eNKInsN58n",
+            "track_name": "Please Please Please Let Me Get What I Want"
+        },
+        {
+            "artist_id": "6GKVXdXGEOPzpilArcqBun",
+            "artist_name": "Sigue Sigue Sputnik",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/700d66aafa5022b79948c27fc0ec15f6acd94d0e",
+            "track_id": "4MUNIBQHE5y6DuR6qJmmoR",
+            "track_name": "Love Missile F1-11"
+        },
+        {
+            "artist_id": "0rvjqX7ttXeg3mTy8Xscbt",
+            "artist_name": "Journey",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/40506797905dc0116bf9ff8db9ab6239a137a57e",
+            "track_id": "1E2iehquphUsbmj8VTzWdQ",
+            "track_name": "Only the Young"
+        },
+        {
+            "artist_id": "1JVoO5bwfU8GNuAZLpBoHe",
+            "artist_name": "The Dream Academy",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0cad497a529d61e4221e96e952175db5c92a2ef",
+            "track_id": "0ZljhJQbm611zf5ttHz43n",
+            "track_name": "The Edge of Forever"
+        },
+        {
+            "artist_id": "530Sdm7eqqzWBdDmILMgnu",
+            "artist_name": "Robert Palmer",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/f60fca759b64d2efe6f9e882e50ed52c990533d4",
+            "track_id": "5qUliRaqliPfqrG3oQrp72",
+            "track_name": "Addicted To Love - Edit"
+        },
+        {
+            "artist_id": "530Sdm7eqqzWBdDmILMgnu",
+            "artist_name": "Robert Palmer",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6d7bfe951a11180a9cca94b531a2dd8a5a79514",
+            "track_id": "0bSr5pybJSlgG5OZH441gF",
+            "track_name": "Simply Irresistible"
+        },
+        {
+            "artist_id": "5dbuFbrHa1SJlQhQX9OUJ2",
+            "artist_name": "Don Henley",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/8488c26daeb4e46a73564741647ce66f7fcea002",
+            "track_id": "4I3VMhZDVr12BW2VCslDXm",
+            "track_name": "All She Wants To Do Is Dance"
+        },
+        {
+            "artist_id": "7A9yZMTrFZcgEWAX2kBfK6",
+            "artist_name": "Huey Lewis & The News",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/817654e62acbb940f8c80a67dcff7962eb5ee9bd",
+            "track_id": "1lr7QGyV5RohlODzAqnuZA",
+            "track_name": "Back In Time - 2006 Digital Remaster"
+        },
+        {
+            "artist_id": "5CZ7oUAqi1RHO1hO5AJ6GH",
+            "artist_name": "Studio Group",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1Ksv4RLPgVRjJsJf84dEqo",
+            "track_name": "Blue Hotel - Sound-A-Like As Made Famous By: Chris Isaak"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "1GYYqJlTVKrz6NUMbokAYm",
+            "track_name": "Danger Zone"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5e793KAwkGkwm4oPkxsTkr",
+            "track_name": "Playing With The Boys"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "2ILCAFAALHHslGAFc2NhmZ",
+            "track_name": "Footloose"
+        },
+        {
+            "artist_id": "3Y3xIwWyq5wnNHPp5gPjOW",
+            "artist_name": "Kenny Loggins",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/ad63f94a9d2c4ae7575e3d42794eab7c3bb1814a",
+            "track_id": "2xfdvnGUikUfZZipwVw8nO",
+            "track_name": "I'm Alright (Theme from \"Caddyshack\")"
+        },
+        {
+            "artist_id": "7qT1EPkli4RDJ2KNynkQyQ",
+            "artist_name": "Stan Bush",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/88cd2add1b4c3e4d35a3159f0ac8728ed281785e",
+            "track_id": "2QyGSbGdT9suKuDKwnjwH9",
+            "track_name": "The Touch"
+        },
+        {
+            "artist_id": "5QrhSuPUQ0vDFWdb38YPHN",
+            "artist_name": "Alisha",
+            "popularity": 22,
+            "preview_url": "https://p.scdn.co/mp3-preview/7804b31de2860cca237c681b0f2238de244f320c",
+            "track_id": "07gKujZEtDitwaJr3BSjjV",
+            "track_name": "All Night Passion (Original Version)"
+        },
+        {
+            "artist_id": "1r3bb9hTIXRWwvtYaKzNzP",
+            "artist_name": "Gerard McMann",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/aaa72634897385da3dbf892e24b4259557439f03",
+            "track_id": "1IA1bevX8DfUY86sN3o3CH",
+            "track_name": "Cry Little Sister [Theme From Lost Boys]"
+        },
+        {
+            "artist_id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "artist_name": "Cyndi Lauper",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "5tzbM8m70V977Ezpfk8IPS",
+            "track_name": "Time After Time"
+        },
+        {
+            "artist_id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "artist_name": "Cyndi Lauper",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/58222a48f57666c44df71d803b03ffb80d048aa0",
+            "track_id": "0uqOqX59mgWBqfPAdX0BDK",
+            "track_name": "Girls Just Want to Have Fun"
+        },
+        {
+            "artist_id": "2BTZIqw0ntH9MvilQ3ewNY",
+            "artist_name": "Cyndi Lauper",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf2d8a6842b48713585bb016a9c33fd3569777b5",
+            "track_id": "1hY60LJWE6B9gHV1Oi9kE5",
+            "track_name": "The Goonies 'R' Good Enough"
+        }
+    ]
+}

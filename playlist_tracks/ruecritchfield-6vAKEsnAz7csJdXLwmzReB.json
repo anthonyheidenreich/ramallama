@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/ruecritchfield/playlists/6vAKEsnAz7csJdXLwmzReB/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3Nb8N20WChM0swo5qWTvm8",
+            "artist_name": "Tennyson",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec9d2ac080359b2ccb9125d4ccd4f3aaabd020b7",
+            "track_id": "4VSDGgNKnvln23aPjX6Pgn",
+            "track_name": "Lay-by"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/c4a2bd2188230a442b8dfba28f4bbaa61fabdf79",
+            "track_id": "0aIcFRGr88cGtlEJBuDub6",
+            "track_name": "Do I Move You?"
+        }
+    ]
+}

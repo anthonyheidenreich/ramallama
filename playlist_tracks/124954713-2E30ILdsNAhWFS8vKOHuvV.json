@@ -1,0 +1,53 @@
+{
+    "href": "https://api.spotify.com/v1/users/124954713/playlists/2E30ILdsNAhWFS8vKOHuvV/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6xS3zemJD9h94iueQvGqVk",
+            "artist_name": "Gold Panda",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "0tVZk9Cg8jjMHWbAyoJ7JB",
+            "track_name": "You"
+        },
+        {
+            "artist_id": "5zS8r5hRRk1jzD41yYS1NO",
+            "artist_name": "Baths",
+            "popularity": 30,
+            "preview_url": null,
+            "track_id": "6IKNeMqF1V1gmNkiZh1MmZ",
+            "track_name": "Aminals"
+        },
+        {
+            "artist_id": "1TtJ8j22Roc24e2Jx3OcU4",
+            "artist_name": "Purity Ring",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/1916e2723291c5a98f5435b3f5ab2fc9cf0b1fe8",
+            "track_id": "7Bq7rXavz0REWsqLdMiDce",
+            "track_name": "Obedear"
+        },
+        {
+            "artist_id": "0KydPQPUUoTNhmiHKOg5Er",
+            "artist_name": "Neon Indian",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/f35695a15536154d065f1aa79b6ba1133c4bd306",
+            "track_id": "2JGSZk5y65ZF79mtDz0o9r",
+            "track_name": "Polish Girl"
+        },
+        {
+            "artist_id": "0WbqAlM1WvfUD6dF7omThd",
+            "artist_name": "Yelle",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0df75d78e9e8f76c04b45c1fc3d8f335d7ec726",
+            "track_id": "2KjJhGtseXQBI5Cg6ZZdc9",
+            "track_name": "Ce jeu"
+        },
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ea06eba00370c4d94f89f20b764990b857fbff3",
+            "track_id": "3VpdIi5XK2m8AaCXSVW320",
+            "track_name": "Goldie"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/124954713/playlists/7tcIsNoeSRWHbC5l2JUzDT/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6cadOIa5DTh6a5mGo5r4bh",
+            "artist_name": "Trent Reznor and Atticus Ross",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/1412016dff2fec40cd83bdf0540b18b134c05c8a",
+            "track_id": "1v0uVPU6BWcbog5BiWLWVa",
+            "track_name": "Hand Covers Bruise"
+        },
+        {
+            "artist_id": "459INk8vcC0ebEef82WjIK",
+            "artist_name": "Erik Satie",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/99b733ba6de156cedbcd92d2c81dcb495a5f99c7",
+            "track_id": "1jQUjKDjWsVPIYyLANEThG",
+            "track_name": "3 Gymnop\u00e9dies: Gymnopedie No. 1"
+        },
+        {
+            "artist_id": "1Uff91EOsvd99rtAupatMP",
+            "artist_name": "Claude Debussy",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "2MPwBZqUjva3NuS6qproFt",
+            "track_name": "Clair De Lune"
+        },
+        {
+            "artist_id": "6UUrUCIZtQeOf8tC0WuzRy",
+            "artist_name": "Sigur R\u00f3s",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "5qquUzl3oD066fXfOdLjGG",
+            "track_name": "Staralfur"
+        },
+        {
+            "artist_id": "5cQYq4eJmOwUGCAjhajFg7",
+            "artist_name": "Nick Cave & Warren Ellis",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "7lgJwN0BuZFtKv3v1jH3eR",
+            "track_name": "What Must Be Done"
+        },
+        {
+            "artist_id": "0hk8VgR64voU5ueK96W2DI",
+            "artist_name": "DeVotchKa",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6aJs97HMJHuO6CRcgrDPzy",
+            "track_name": "How It Ends"
+        },
+        {
+            "artist_id": "63MQldklfxkjYDoUE4Tppz",
+            "artist_name": "M83",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4VKv51juI2yjg1V7EiS66E",
+            "track_name": "Midnight Souls Still Remain"
+        },
+        {
+            "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+            "artist_name": "Sufjan Stevens",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4nAJAv0l37AmYRpc1hb6Yi",
+            "track_name": "Out of Egypt, into the great laugh of Mankind, and I shake the dirt from my sandals as I run"
+        },
+        {
+            "artist_id": "6imbHAlhHrFwtsOgqpeBK2",
+            "artist_name": "The Middle East",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f53423a6028ec94e2dcc82e93b09be544cef90d",
+            "track_id": "13yuX1iqobZtQtq5lr8UoC",
+            "track_name": "Blood"
+        }
+    ]
+}

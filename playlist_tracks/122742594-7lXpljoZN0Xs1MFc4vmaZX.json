@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/122742594/playlists/7lXpljoZN0Xs1MFc4vmaZX/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "67ea9eGLXYMsO2eYQRui3w",
+            "artist_name": "The Who",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/907fe8de9ffd7f3e9f1eba841aa6b0142e60973d",
+            "track_id": "1XWzRnYyCVQQdiBf8vpB3q",
+            "track_name": "I Can See For Miles"
+        },
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/516af54a5925368f3d351a65537155246f29ad2c",
+            "track_id": "2CFCY18NgxHc2tuJGgRE7e",
+            "track_name": "This Is the New Year"
+        },
+        {
+            "artist_id": "4j56EQDQu5XnL7R3E9iFJT",
+            "artist_name": "Young the Giant",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/65d2fa7efa38eaa25f0823ae1b90b8fffec7e773",
+            "track_id": "1KDYN3odJHnj9pqGHN3FVs",
+            "track_name": "My Body"
+        },
+        {
+            "artist_id": "23OknxGcY1i5xX1TRPilMj",
+            "artist_name": "Grace Potter & The Nocturnals",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/93da3fcc9130d5d4b54343e690ff6fac76b7cbf4",
+            "track_id": "34saS5yPSyoZ6QYwC7YGfe",
+            "track_name": "Paris (Ooh La La)"
+        },
+        {
+            "artist_id": "5MmVJVhhYKQ86izuGHzJYA",
+            "artist_name": "MIKA",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/e8416162458981613e33bd8e94ab3db03b38737d",
+            "track_id": "4gaLgd3q0Qc0qEvKfHleMv",
+            "track_name": "Blame It On The Girls"
+        },
+        {
+            "artist_id": "4rGrN4XDYhP6dUAZMvcuHr",
+            "artist_name": "Caesars",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/f794e7bd72371934e689a956d728908210be1b64",
+            "track_id": "0O8XCrGlVsaKnErfcTSSFU",
+            "track_name": "Jerk It Out - Original Mix"
+        },
+        {
+            "artist_id": "4QQgXkCYTt3BlENzhyNETg",
+            "artist_name": "Earth, Wind & Fire",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/376d54b6453e501366bf0c40e32a552cb95c78fc",
+            "track_id": "3Hp66WUQ6yu69jMrirhSRs",
+            "track_name": "Sing a Song"
+        },
+        {
+            "artist_id": "0Grjlu7ncIuCaSYvCs9fcd",
+            "artist_name": "New Radicals",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ba51ce1ca56b6462ac604f94126d5b456ede2da",
+            "track_id": "32lF1rsInDTdK6Av3KdfaY",
+            "track_name": "You Get What You Give"
+        },
+        {
+            "artist_id": "3hv9jJF3adDNsBSIQDqcjp",
+            "artist_name": "Mark Ronson",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/88a794d97fcb4475f72a27be7baf71b94d5a9dda",
+            "track_id": "57n3qOwXcoRMyGFjeqC1Rh",
+            "track_name": "Uptown Funk"
+        }
+    ]
+}

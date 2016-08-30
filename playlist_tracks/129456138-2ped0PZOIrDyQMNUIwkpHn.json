@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/129456138/playlists/2ped0PZOIrDyQMNUIwkpHn/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7FY5V3XMwlNBPitEjXowHQ",
+            "artist_name": "Darius Rucker",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7ca71317c9329750df2ade96adf535443af54cc",
+            "track_id": "17ofcyKTlwRgnUEEzIv2KV",
+            "track_name": "Southern Style"
+        },
+        {
+            "artist_id": "39NR3AUhpbbqKM33vWn2fp",
+            "artist_name": "Brothers Osborne",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/93dca4046c5fea4708c9769fd4a39c477242cbd2",
+            "track_id": "6rqxivjFHp8K0yMiefG56g",
+            "track_name": "Stay A Little Longer"
+        },
+        {
+            "artist_id": "0xxJO75NeIAF5jYruLYIDT",
+            "artist_name": "Tracy Byrd",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/527dad0441d65aa975ed390fa0632c976649828f",
+            "track_id": "7BB3emVX0QaFVddCHiO9wt",
+            "track_name": "Drinkin' Bone"
+        },
+        {
+            "artist_id": "2bA6fzP0lMAQ4kz6CF61w8",
+            "artist_name": "Toby Keith",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/116944c4364a4a0c0ef5b7cc437dfdbc8fd5876e",
+            "track_id": "1Zocw1rD4cBv1rRRsFI0Pj",
+            "track_name": "Should've Been A Cowboy"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/60305dfe2549fbfebba71ce79cf9962d06af1ad2",
+            "track_id": "0yaFTATcDksHOfyOkckqir",
+            "track_name": "Real Good Man"
+        },
+        {
+            "artist_id": "3tkZthBATD0S45hm1DmB2O",
+            "artist_name": "Sammy Kershaw",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/a70ce43e1d0d9cef7d822afceab313954424f9e9",
+            "track_id": "2653w6bJ1hFavaz9mGE9aT",
+            "track_name": "She Don't Know She's Beautiful"
+        },
+        {
+            "artist_id": "2qgvmDsc4jrqbAbjq1HGM2",
+            "artist_name": "Rodney Atkins",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/68ada98035c00ef2e879469923463eb8ccc5bf09",
+            "track_id": "7uP8EdxzkWALJWz8q0MFAC",
+            "track_name": "Farmer's Daughter"
+        },
+        {
+            "artist_id": "1UTPBmNbXNTittyMJrNkvw",
+            "artist_name": "Blake Shelton",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a72653e9d2286331d1f4988144dd14ffe744a53",
+            "track_id": "289hx4t6fH2BBe8p6cnXo1",
+            "track_name": "Neon Light"
+        },
+        {
+            "artist_id": "0a1gHP0HAqALbEyxaD5Ngn",
+            "artist_name": "Rascal Flatts",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d8f8e3bc1013e56a5ed875bea335493926b35ad",
+            "track_id": "0DAVCurdi9ZqkVUKIuikzm",
+            "track_name": "Prayin' For Daylight"
+        },
+        {
+            "artist_id": "1XhhO2dTs2fKyhILj0aam6",
+            "artist_name": "Phil Vassar",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/4231297afafb04cbb011b2630854fc1300090b83",
+            "track_id": "23qDMWnwf8p0pr5slljB6i",
+            "track_name": "Six-Pack Summer"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6e9a82c1847901fa8c333ffbca2ffaa2771f6bd",
+            "track_id": "4QoZGQ8woaho94v629kVl1",
+            "track_name": "Out Last Night"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/87cc5bfee73edf4f0558ee88cd641e57b17cdd2a",
+            "track_id": "1wvfh9nzwgaiqms1dF5UpM",
+            "track_name": "Got A Little Crazy"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/f1bb938aab4cdd17e71f83cf97ea5a12f1bdb53e",
+            "track_id": "11N2PwvgEERszxuEsgyL62",
+            "track_name": "Just Not Today"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/de71466d4d5b23ef3308d8c428f27f0361882015",
+            "track_id": "1JtYfT7sJF3jojvLo1Vl7c",
+            "track_name": "Shiftwork - Duet With George Strait"
+        },
+        {
+            "artist_id": "5vngPClqofybhPERIqQMYd",
+            "artist_name": "George Strait",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d72c507f726ce15b9dae3f744c5cca3558828e3",
+            "track_id": "6iy4PoAuZBMvtrlDX4VxC7",
+            "track_name": "Check Yes Or No"
+        },
+        {
+            "artist_id": "3VStI6m5Ig9FAyUaa0lYAP",
+            "artist_name": "James Otto",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc7f0436924b8237c1ca8747180826b2366ec13a",
+            "track_id": "6JHQBkPuKXCM6j4I2tPqcl",
+            "track_name": "Just Got Started Lovin' You"
+        },
+        {
+            "artist_id": "4AgQTHagFdBq8VL791lSXz",
+            "artist_name": "Keith Anderson",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/469f1a970a907ab6a1269016941446ee9e1f4e29",
+            "track_id": "6MoyiRPmFwVnkhaZhkyksG",
+            "track_name": "Pickin' Wildflowers"
+        },
+        {
+            "artist_id": "6eKWqnckwdIlSnjaYgIyxv",
+            "artist_name": "Eli Young Band",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/16d0474eb6d6520438ee4f56499fdf3fe2b3e99a",
+            "track_id": "3RFwzA2lXqIzoXHVbeLH1d",
+            "track_name": "Always The Love Songs"
+        },
+        {
+            "artist_id": "4MPkNgar5uTd8Sqvrr7par",
+            "artist_name": "Clay Walker",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/03a447d53386050cba839f2afd67a295ae82e3ff",
+            "track_id": "3GevD5JYoN7rQXPSaecExb",
+            "track_name": "She Won't Be Lonely Long"
+        },
+        {
+            "artist_id": "3cMyqwpNT2D8f0WuaRzzZX",
+            "artist_name": "Billy Dean",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/9325e7ced6a4a04e70b3edf437864674844a1bed",
+            "track_id": "00ICqiFJafsHkpJa5N9XSF",
+            "track_name": "Thank God I'm A Country Boy"
+        },
+        {
+            "artist_id": "0dvKgSdNB2U1gfp6ZcekYi",
+            "artist_name": "Frankie Ballard",
+            "popularity": 54,
+            "preview_url": null,
+            "track_id": "6YWvgL06rVQ1TLzbT5EQLB",
+            "track_name": "Sunshine & Whiskey"
+        },
+        {
+            "artist_id": "7x8nK0m0cP2ksQf0mjWdPS",
+            "artist_name": "Dierks Bentley",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/334ec777acd8bc6436b02457cec3c52748138c2f",
+            "track_id": "1soxUgYIZb1qx1c7o1Lc7z",
+            "track_name": "Drunk On A Plane"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 36,
+            "preview_url": null,
+            "track_id": "61tRRrJoargpHwT0uAEpuY",
+            "track_name": "American Kids"
+        },
+        {
+            "artist_id": "3b8QkneNDz4JHKKKlLgYZg",
+            "artist_name": "Florida Georgia Line",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/715238cd3296e8362666092ae8846d7b91faab44",
+            "track_id": "4IjGEOOCVNCYHKJDXnAMZQ",
+            "track_name": "Sun Daze"
+        },
+        {
+            "artist_id": "7FY5V3XMwlNBPitEjXowHQ",
+            "artist_name": "Darius Rucker",
+            "popularity": 23,
+            "preview_url": null,
+            "track_id": "5mv0E9VfdpuwNX4fMznxjs",
+            "track_name": "Homegrown Honey"
+        },
+        {
+            "artist_id": "3b8QkneNDz4JHKKKlLgYZg",
+            "artist_name": "Florida Georgia Line",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ed21ea03ede4661b3c0a944f3a49b32c315541c",
+            "track_id": "2TR7A4ulH9R1PNwMyd8o8U",
+            "track_name": "This Is How We Roll"
+        },
+        {
+            "artist_id": "0qSX3s5pJnAlSsgsCne8Cz",
+            "artist_name": "Brett Eldredge",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/e021dff355e789913a29a238fe9553cdec277d2f",
+            "track_id": "3Qe097eJNp9MfpT2PieEw0",
+            "track_name": "Don't Ya"
+        },
+        {
+            "artist_id": "47izDDvtOxxz3FzHYuUptd",
+            "artist_name": "McFly",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "4Kw9pEX9maikYP94uFJusB",
+            "track_name": "Love Is On The Radio"
+        },
+        {
+            "artist_id": "6x2LnllRG5uGarZMsD4iO8",
+            "artist_name": "Thomas Rhett",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/0474a3ef0ccc1d32805b8ecd6fc6997fdc194a35",
+            "track_id": "4O1CExxinEpKZi3861NlTK",
+            "track_name": "Get Me Some Of That"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/c723b80efe9b79bceb65ecb8f8146151b675c80a",
+            "track_id": "7J52z4ecA3OIWF0tviXCv4",
+            "track_name": "Surefire Feeling"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/9826f4668350d480038a8ec937caca074e0b2549",
+            "track_id": "5fqclhBCkOrqDwE84JxUWZ",
+            "track_name": "Tipsy"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2b824d27258f3e99674fdd0cd6415d5a07016f6",
+            "track_id": "4XvBkUfdKFQZiWLVpDMp46",
+            "track_name": "Sure Feels Right"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/572b9a37a59844ff5d0c08083d2cb88dec9d4da8",
+            "track_id": "32C5of1pAeU7IeEbGiLWAo",
+            "track_name": "Yee Haw"
+        },
+        {
+            "artist_id": "0RKP52f5PNDCRZ9Luq2Sr7",
+            "artist_name": "Jerrod Niemann",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/c20dc6c16a99b3892441cf7b81227f0ba7c8cc39",
+            "track_id": "6UPqfap2EXscDh72W4S8ZN",
+            "track_name": "Beach Baby"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/b357d4e657d8adaab4b04e9c3ffb1163ba910910",
+            "track_id": "6trTeBK2mn4QNPRIi7JIIW",
+            "track_name": "Good Lookin' Girl"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/bdbdab59f4eb7a921d9830a7444213103b463c68",
+            "track_id": "5Y8rlC6yWgQk2Y4ZflQnF8",
+            "track_name": "Like We Ain't Ever"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/7287fadc55bd0828933693cf928d94b6ccdab733",
+            "track_id": "08zqxRvGo8zwPuTQZXp42S",
+            "track_name": "She Get Me High"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/62d7e3b63cc81de98cdc9b437ef311b9c2116629",
+            "track_id": "0s77V2jfwyd8Mz5YHFXPJi",
+            "track_name": "Summer Jam (feat. Florida Georgia Line)"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ad33be7e24c15cf5c8bd43ebf7c40e5960a98d7",
+            "track_id": "5nUw3xroioloZIZrJv2DR4",
+            "track_name": "Steal My Kisses"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/254d6d184b9f8cfb7259694adf206f36d8ebb896",
+            "track_id": "2bZI07vyPDjlh0MI2judp3",
+            "track_name": "Every Reason I Go Back"
+        },
+        {
+            "artist_id": "0a1gHP0HAqALbEyxaD5Ngn",
+            "artist_name": "Rascal Flatts",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1f35d687b22e22e827192f184bc06f9f441201e",
+            "track_id": "3gz4UBairZaiIRTti4AqSm",
+            "track_name": "Rewind"
+        },
+        {
+            "artist_id": "1mfDfLsMxYcOOZkzBxvSVW",
+            "artist_name": "Cole Swindell",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "43PgXnV1R5JM5Ru85NEoNz",
+            "track_name": "Chillin' It"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9c61954fda84e70353dc3f7aa70ee31e8297674",
+            "track_id": "7pkpJKAySqquRwWGRaRRTX",
+            "track_name": "Tall Glass of Something"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac83046efdc4075786e9bc9bb321f80988e7160b",
+            "track_id": "1o4GudIOavXLhzmgFbvPgr",
+            "track_name": "1972"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/358148ecc21e6e56b9ea83af147609dbaa143595",
+            "track_id": "5dNGORzxFb5z3v7vSAFkTU",
+            "track_name": "Beachin'"
+        },
+        {
+            "artist_id": "3b8QkneNDz4JHKKKlLgYZg",
+            "artist_name": "Florida Georgia Line",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bdc8a6934d5100afc3a0ad0d9a06186f398abdc",
+            "track_id": "7a5CgCG59F1gE3lMqKu84q",
+            "track_name": "Hell Raisin' Heat Of The Summer"
+        },
+        {
+            "artist_id": "3b8QkneNDz4JHKKKlLgYZg",
+            "artist_name": "Florida Georgia Line",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/333b42d7548e79f25c2c89880ec6e8473087e2ae",
+            "track_id": "7ayDPcMisPI8HpnVrQjcdE",
+            "track_name": "Here's To The Good Times"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/65bb1a01e7bed346f1f728f2aeba9ae78ddde627",
+            "track_id": "2HiXyVv2tfjIGJh02brVDY",
+            "track_name": "Suntan City"
+        },
+        {
+            "artist_id": "30e8DmahrEamvLbFRPdWmk",
+            "artist_name": "Justin Moore",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/01519e962d7f3f4408c2c98cd3abf26793728e6b",
+            "track_id": "5LSJS0HDpqsPzinG8LygXP",
+            "track_name": "Point At You"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "4bMmkfnWVqr8yanQPDt6xh",
+            "track_name": "Days of Gold"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/ee897ef1114043ec714111391baebb2fac4d8104",
+            "track_id": "0j2r2jGG0IJVdUboypMFYO",
+            "track_name": "When I See This Bar"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9ded2bb6a8648624f1845eaa110ded17051cf0e",
+            "track_id": "29AR5X5yKPd4DBIAiqUMDy",
+            "track_name": "Southern Girl"
+        },
+        {
+            "artist_id": "6yJCxee7QumYr820xdIsjo",
+            "artist_name": "Zac Brown Band",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d54255cf973098775921d0edb8cb1b731504d6e",
+            "track_id": "6yIMatK8OCXC3GuIlwHxuM",
+            "track_name": "Jump Right In"
+        },
+        {
+            "artist_id": "56x8mYvS3cyDGAi8N2FxbB",
+            "artist_name": "Randy Houser",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ba8a2abf7bcd761f406ef42a5fedd42532683f1",
+            "track_id": "6IGJOv3Mka9Cvb9lBQAvwG",
+            "track_name": "Shine"
+        },
+        {
+            "artist_id": "56x8mYvS3cyDGAi8N2FxbB",
+            "artist_name": "Randy Houser",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/a101507747f1e3526124ee956912a5b1df9b0899",
+            "track_id": "5n7DdFRCCdb4VgX2CFOb1G",
+            "track_name": "Growin' Younger"
+        },
+        {
+            "artist_id": "4aJTB79uwT4sP0Nb8QGWHc",
+            "artist_name": "Joe Nichols",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/8cec0910620f66870ccf45e27fa8b8d42932a613",
+            "track_id": "4bT9arnOOeRLIn52sLjTIh",
+            "track_name": "Gimmie That Girl"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "1Zpi7VHGVXaLnSgpd7wdzV",
+            "track_name": "Something Like That"
+        },
+        {
+            "artist_id": "1UTPBmNbXNTittyMJrNkvw",
+            "artist_name": "Blake Shelton",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2dd8749f931dc803a6ab28b7e78f02999fb33710",
+            "track_id": "2u4HPOoNe1ILHEq6rXVl0k",
+            "track_name": "I Still Got A Finger"
+        },
+        {
+            "artist_id": "1UTPBmNbXNTittyMJrNkvw",
+            "artist_name": "Blake Shelton",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/07ad5c423125c75b6ea64e601bb00d0c657120c9",
+            "track_id": "1fmuowoQBIIthGEokf4I9l",
+            "track_name": "Country On The Radio"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/e5419282873e663d973d108a99da06e2e18b6f56",
+            "track_id": "7yziyp0vKmMd19uQO9gOqF",
+            "track_name": "You Make Me Want To"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "38CLNfnKWFVBJN5f0vcw4E",
+            "track_name": "Pirate Flag"
+        },
+        {
+            "artist_id": "7x8nK0m0cP2ksQf0mjWdPS",
+            "artist_name": "Dierks Bentley",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c36dc80ca7d103078d9ea60f1d2b8e70ae609e5",
+            "track_id": "2G634xynj7ev8r5c0sAL3T",
+            "track_name": "Tip It On Back"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/603bcbbcf041d3aaf3ce69ddf2f3c704f549472e",
+            "track_id": "6OXSbIXoa3rsCGOt9CwlqD",
+            "track_name": "Cherry On Top"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/6b3e126d32da3a36a472fcc66386a2f1e6b7da3b",
+            "track_id": "6hcUcx11FDxIAbXSAHB3GB",
+            "track_name": "Easy Does It"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d9f40c7c6d6e334b83ad94c63339de1b251e818",
+            "track_id": "2kmP39dnNi6suhDnylWfP9",
+            "track_name": "Settin' The World On Fire"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/45e376d926315bdc064e9afad9fa94e546f50f21",
+            "track_id": "4zD1xwm81u5YDjnMTfmSCT",
+            "track_name": "Apple Pie Moonshine"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd2c4c560d097d079ed0b347743afa8f13402670",
+            "track_id": "4u5D3bBhlIVvnrSdNqKyER",
+            "track_name": "Keepin' It Country"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/236b37cf5a9ec18cd1d4fa54a16964d0ea90aaf1",
+            "track_id": "2yWtLaPCOUDyi7f1lOXCn5",
+            "track_name": "Anywhere With You"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 22,
+            "preview_url": null,
+            "track_id": "1UafwyGQRo7BXijO1h3nGR",
+            "track_name": "One Of Those Nights - Radio Edit"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "2cHyXcvbK1d4Gu2FxNNMSa",
+            "track_name": "Southern Comfort Zone"
+        },
+        {
+            "artist_id": "1UTPBmNbXNTittyMJrNkvw",
+            "artist_name": "Blake Shelton",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/b80fdb28e51d9bf3b39d2ad3c324aa8451294b6c",
+            "track_id": "7haN4XreV4WkoBQmkYM709",
+            "track_name": "Drink On It"
+        },
+        {
+            "artist_id": "6eKWqnckwdIlSnjaYgIyxv",
+            "artist_name": "Eli Young Band",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/acd2d45c650d3869596940a507b021829987f6e0",
+            "track_id": "0Nu9WA8kEbBWEsay2s8Q0U",
+            "track_name": "Even If It Breaks Your Heart"
+        },
+        {
+            "artist_id": "03a5eVjzFyQlR4XyVSwt4t",
+            "artist_name": "Love and Theft",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/1fbed336f18548519a3d84ea7f218ce8706dcab3",
+            "track_id": "49ZvmqGuVEI2jpG6HRIS6R",
+            "track_name": "Girls Look Hot In Trucks"
+        },
+        {
+            "artist_id": "070kGpqtESdDsLb3gdMIyx",
+            "artist_name": "Easton Corbin",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "5wGoiP1sneTRftlJkaJfT4",
+            "track_name": "Lovin' You Is Fun"
+        },
+        {
+            "artist_id": "2COi3lJPZHP2CjJBfofGwh",
+            "artist_name": "Greg Bates",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/5587d71bc5eb758eb776c6f848146172df545340",
+            "track_id": "0621F7y1cX0hJoQFIrrUaZ",
+            "track_name": "Did It For The Girl"
+        },
+        {
+            "artist_id": "7AKlIvLsIJNq4xv8Nl6o5A",
+            "artist_name": "JT Hodges",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/40b96aad6e6f170881485da147d5da0039aba4d5",
+            "track_id": "4qiphrVnSARGmz5K1LaPQz",
+            "track_name": "Hunt You Down"
+        },
+        {
+            "artist_id": "0u2FHSq3ln94y5Q57xazwf",
+            "artist_name": "Keith Urban",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/9455d1fc6ca9622779b08c7c236c6d2e33455358",
+            "track_id": "5B25Jpgu62IX8w1YtLibuA",
+            "track_name": "You Gonna Fly"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/452acf3ad5caaa251b5a4fc5628b228e2f1c585f",
+            "track_id": "1t2hJFgJyUPD2crOafMUEk",
+            "track_name": "You and Tequila"
+        },
+        {
+            "artist_id": "6ktyNEnEukKzskQEiXgCFD",
+            "artist_name": "Craig Morgan",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7ef1cb1fda4805b85fdc79f98fb4ecf8aacb37b",
+            "track_id": "5zWytgeAf6efbCgHGxyOgM",
+            "track_name": "Little Bit of Life"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff02c9662008194eface28aebd1eb84088be3778",
+            "track_id": "5wKaxpvqXq95IaoAVPLgoi",
+            "track_name": "Alcohol"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/8884b0044af619e459a7765097779f4f0fa06f80",
+            "track_id": "0GneFCOVzvi6ok0oRC7Kfu",
+            "track_name": "Start a Band"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e6f3892f49892eab9572061c3026f191463a94f",
+            "track_id": "0X0zDB7RqpWOIwCHGr2Whu",
+            "track_name": "Reality"
+        },
+        {
+            "artist_id": "2IvkS5MXK0vPGnwyJsrEyV",
+            "artist_name": "Eric Church",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/820613ce3f85755fec906d1a80c6f0562011b467",
+            "track_id": "05ZACkzW8YbRq3eFgIfSNB",
+            "track_name": "Springsteen"
+        },
+        {
+            "artist_id": "4BYxqVkZyFjtik7crYLg5Q",
+            "artist_name": "Chris Young",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/a356a9ac8b731be6bbb8092dd2436937bf70d312",
+            "track_id": "3VCWhe7AtBrkhour9t6dq6",
+            "track_name": "You"
+        },
+        {
+            "artist_id": "30e8DmahrEamvLbFRPdWmk",
+            "artist_name": "Justin Moore",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/e8e1056b004d43de87604b9e87c4a3f2fb13e091",
+            "track_id": "6cAxSUPzHyywECgGSvoLyf",
+            "track_name": "Bait A Hook"
+        },
+        {
+            "artist_id": "6yJCxee7QumYr820xdIsjo",
+            "artist_name": "Zac Brown Band",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/f6e8c491a6b3c9fe1de5fb1aefa7f1c3c297cfab",
+            "track_id": "0IZCh5UqgLpCHpySM7fEXD",
+            "track_name": "Knee Deep (feat. Jimmy Buffett)"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a05c7ce62dbb84c907a04d75ca10d8c29144e46",
+            "track_id": "1sR3kJi14jA8Gau3a0yXAo",
+            "track_name": "The Good Stuff"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Billy Currington",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Pretty Good At Drinkin' Beer"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Brad Paisley",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Water"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Brad Paisley",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "I'm Still a Guy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Brooks & Dunn",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Cowgirls Don't Cry"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Chris Young",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Voices"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Craig Morgan",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Redneck Yacht Club"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Darryl Worley",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Nothin' But a Love Thang"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Dierks Bentley",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Free And Easy (Down The Road I Go)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Eric Church",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Smoke A Little Smoke"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Keith Urban",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Days Go By"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Keith Urban",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Better Life"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Keith Urban",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Long Hot Summer"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Keith Urban",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Where The Blacktop Ends"
+        }
+    ]
+}

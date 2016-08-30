@@ -1,0 +1,189 @@
+{
+    "href": "https://api.spotify.com/v1/users/1218843405/playlists/3F0kk6PjXPFLT3QKro6Lsu/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1l7ZsJRRS8wlW3WfJfPfNS",
+            "artist_name": "Christina Aguilera",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "7GQqj9jRtDkMp8zByehXQI",
+            "track_name": "Lady Marmalade - Moulin Rouge/Soundtrack Version"
+        },
+        {
+            "artist_id": "1l7ZsJRRS8wlW3WfJfPfNS",
+            "artist_name": "Christina Aguilera",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ecee53143507b9426fbc056eb2666a866e54a0d",
+            "track_id": "6onLnWywmbSnXDFPVY1mM6",
+            "track_name": "Genie in a Bottle"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/2390ad94a7ec4cd659864d8aef0d2608f677cfaa",
+            "track_id": "3IcIIZMMS7UArJJPtEHXG8",
+            "track_name": "Obsessed"
+        },
+        {
+            "artist_id": "3DiDSECUqqY1AuBP8qtaIa",
+            "artist_name": "Alicia Keys",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3dea0edd6e1e3a122f11903463de8d2d9ff3044",
+            "track_id": "3unsLiH5FXmaDWtT5Imolu",
+            "track_name": "Fallin'"
+        },
+        {
+            "artist_id": "65ckf4sYU1HQKQsRU4ttLO",
+            "artist_name": "Royalty",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1NtOHrnD6I0KdokcDFDBnt",
+            "track_name": "Brown Eyed Girl"
+        },
+        {
+            "artist_id": "20s0P9QLxGqKuCsGwFsp7w",
+            "artist_name": "Mario",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3",
+            "track_id": "3ibKnFDaa3GhpPGlOUj7ff",
+            "track_name": "Let Me Love You"
+        },
+        {
+            "artist_id": "1XkoF8ryArs86LZvFOkbyr",
+            "artist_name": "Mary J. Blige",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/eb53f868c0b18ca0bc113df800d461bef33d0ec4",
+            "track_id": "39DVaoOyXiXRtQfnuRY2xQ",
+            "track_name": "Family Affair - Radio Edit"
+        },
+        {
+            "artist_id": "26dSoYclwsYLMAKD3tpOr4",
+            "artist_name": "Britney Spears",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "36sAHywEsh50kaM6CpENHp",
+            "track_name": "(You Drive Me) Crazy"
+        },
+        {
+            "artist_id": "2NdeV5rLm47xAvogXrYhJX",
+            "artist_name": "Ciara",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/ebc79c6e835bd18a744307d51c942a749e3ad2ca",
+            "track_id": "7uKcScNXuO3MWw6LowBjW1",
+            "track_name": "One, Two Step"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/71e5a551be7b2d12c0649fa29c49855a512dca50",
+            "track_id": "1nl09AjkuO7BBRF3BFAPsC",
+            "track_name": "Man in the Mirror - Remastered Version"
+        },
+        {
+            "artist_id": "2jzc5TC5TVFLXQlBNiIUzE",
+            "artist_name": "a-ha",
+            "popularity": 35,
+            "preview_url": null,
+            "track_id": "1nbMkRhfldXcmCyB83x8lK",
+            "track_name": "Take On Me"
+        },
+        {
+            "artist_id": "6LqNN22kT3074XbTVUrhzX",
+            "artist_name": "Ke$ha",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/c012808108db4b59dcbec997ca0da14e370ecd32",
+            "track_id": "5FQazQxWUHsJ8QDaXLdFzR",
+            "track_name": "Blow"
+        },
+        {
+            "artist_id": "6LqNN22kT3074XbTVUrhzX",
+            "artist_name": "Ke$ha",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/2709e43830223f7ad5628910f100c56e57deff19",
+            "track_id": "5E7Vp81YT3RA3gtloCO8t5",
+            "track_name": "Blind"
+        },
+        {
+            "artist_id": "6LqNN22kT3074XbTVUrhzX",
+            "artist_name": "Ke$ha",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/d13d78e391e3b27216026a6793a8cc575b7f3696",
+            "track_id": "2KtiCEhHce9fwSPx1Eo8fO",
+            "track_name": "Animal"
+        },
+        {
+            "artist_id": "6LqNN22kT3074XbTVUrhzX",
+            "artist_name": "Ke$ha",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/6bbd16df5a43c6c4e033c21f31cae421c115d051",
+            "track_id": "4mlS87qNy3ngmg5OvqHg2Q",
+            "track_name": "Blah Blah Blah"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 25,
+            "preview_url": null,
+            "track_id": "0uslfroVWg7qGWhdduwC0K",
+            "track_name": "California Gurls - feat. Snoop Dogg"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 12,
+            "preview_url": null,
+            "track_id": "5BlTeDPwFKgFFYwfMh9O9W",
+            "track_name": "Part Of Me"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/a31e25d975760ab2dfccee1d99ea2cc811d4b312",
+            "track_id": "0CINJz55gaKzuAsqhZ0hEU",
+            "track_name": "Waking Up In Vegas"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/089cc221211dba75751e752b6e7f7f5a873cc514",
+            "track_id": "4Dd3A5e9TfXp2p9tcqG1iH",
+            "track_name": "Teenage Dream"
+        },
+        {
+            "artist_id": "0PFtn5NtBbbUNbU9EAmIWF",
+            "artist_name": "Toto",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "2LKPCm25tP68EP8w5SczZH",
+            "track_name": "Africa"
+        },
+        {
+            "artist_id": "2urZrEdsq72kx0UzfYN8Yv",
+            "artist_name": "Spandau Ballet",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d9cd11b1b826e2335ef5cb8a6c78d839cab0a0b",
+            "track_id": "6eDYgjKl4vUgRusxb7THDu",
+            "track_name": "True"
+        },
+        {
+            "artist_id": "1zuJe6b1roixEKMOtyrEak",
+            "artist_name": "Tina Turner",
+            "popularity": 31,
+            "preview_url": null,
+            "track_id": "4QjjabJx7K14tHwxEVI0Xc",
+            "track_name": "What's Love Got To Do WIth It - 1997 Digital Remaster"
+        },
+        {
+            "artist_id": "4QTVePrFu1xuGM9K0kNXkk",
+            "artist_name": "Dexys Midnight Runners",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/d474e8886b7af4312db5e85d0ade96efddfcb15f",
+            "track_id": "0EMmVUYs9ZZRHtlADB88uz",
+            "track_name": "Come On Eileen"
+        }
+    ]
+}

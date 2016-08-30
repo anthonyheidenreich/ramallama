@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/123481630/playlists/5JyLz0lquy6YB88fD2c7wN/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1caBfBEapzw8z2Qz9q0OaQ",
+            "artist_name": "Asking Alexandria",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "0EkcHw68ZPfpH3I4eK0LIL",
+            "track_name": "To The Stage"
+        },
+        {
+            "artist_id": "1caBfBEapzw8z2Qz9q0OaQ",
+            "artist_name": "Asking Alexandria",
+            "popularity": 2,
+            "preview_url": null,
+            "track_id": "0EkcHw68ZPfpH3I4eK0LIL",
+            "track_name": "To The Stage"
+        },
+        {
+            "artist_id": "6qO6LhD6FuXK5e2PtfAIMz",
+            "artist_name": "We Came As Romans",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/14d83876db5960df6bde06737bd049e89ffb61fc",
+            "track_id": "4YGnGSn8wgkeJHxC43KsS9",
+            "track_name": "What I Wished I Never Had"
+        },
+        {
+            "artist_id": "0NbQe5CNgh4YApOCDuHSjb",
+            "artist_name": "The Devil Wears Prada",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/60304165b55e1fe49ccc7b00a3bb0be9ebc34be7",
+            "track_id": "78BAHRUJrZjk986Y03Y4Zt",
+            "track_name": "HTML Rulez DOOd"
+        }
+    ]
+}

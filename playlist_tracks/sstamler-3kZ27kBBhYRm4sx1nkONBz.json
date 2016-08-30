@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/3kZ27kBBhYRm4sx1nkONBz/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/0571e0a6b6f3b76fc4a122b5509ee04c5a3f7e23",
+            "track_id": "7qywQP5kpLKN72yZmzxI0j",
+            "track_name": "Airbag"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/57e83ce9f250dfb1a999de877750a60af2893c1a",
+            "track_id": "3kXsKdJCVw7IGjP4mg13jc",
+            "track_name": "Pearly"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/8c6a82f681bf806e531cabcd6ab6f977cbbd32a9",
+            "track_id": "3FsuOdQvh0Xo4xJ1Tcro0T",
+            "track_name": "Meeting In The Aisle"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/84e0e9691b9184bac63ab1bda77a56522a160fa1",
+            "track_id": "6VS9H9vFGeILFqWDcr3vDJ",
+            "track_name": "A Reminder"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/73c6e4c2c281eaa118fd6534e670c5ec880c71a7",
+            "track_id": "2dqzHKPD0ubI1xB96wvFZD",
+            "track_name": "Polyethylene (Parts 1 & 2)"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f629e623bc82965773c2d534bff137879c05b33",
+            "track_id": "09ofOxgriApRsZk5Q4AWyx",
+            "track_name": "Melatonin"
+        },
+        {
+            "artist_id": "4Z8W4fKeB5YxbusRsdQVPb",
+            "artist_name": "Radiohead",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/baee1f1d88cec972d595b2cb457430301796386b",
+            "track_id": "4buFkANZPR9yzjHrVtTbRY",
+            "track_name": "Palo Alto"
+        }
+    ]
+}

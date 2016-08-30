@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/thebandito/playlists/5aNC26Q0EgveV6bc89ZuJf/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "artist_name": "Bon Iver",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "2Hd94AzLe2ISE0ghQkCr6q",
+            "track_name": "Beth/Rest"
+        },
+        {
+            "artist_id": "5l2EAkfckNPYZbEDbQtEkO",
+            "artist_name": "Pete Yorn",
+            "popularity": 4,
+            "preview_url": null,
+            "track_id": "7JusXY2ZstcNqZ8RhV2Wl2",
+            "track_name": "I Don't Know What To Do - ()"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/163c4a52808aeaf67b1461e5d71b164369805ab1",
+            "track_id": "35TKxUnX5aDSiCPv5WZUkD",
+            "track_name": "Country Road - Album Version- Santa Barbara, CA"
+        },
+        {
+            "artist_id": "7fSnislKgW9Mz0YIqWQmGt",
+            "artist_name": "San Fermin",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/319a88d4e51bc47d67472f104580e1807c3e7108",
+            "track_id": "5GasHrWqCL4ZKfJSpJkq8x",
+            "track_name": "Methuselah"
+        },
+        {
+            "artist_id": "3Ayl7mCk0nScecqOzvNp6s",
+            "artist_name": "Jimmy Eat World",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cee75812a5d1d23c546063ca34d7bd5b4429ccf",
+            "track_id": "1GCrBvm2LVf0uf2uWAJAhx",
+            "track_name": "Always Be"
+        },
+        {
+            "artist_id": "1GLtl8uqKmnyCWxHmw9tL4",
+            "artist_name": "The Kooks",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e9089b295ec1bfc16a394f079daa2aff997d8885",
+            "track_id": "4lMwlBtIrYootJyUTTs3SE",
+            "track_name": "Taking Pictures Of You"
+        },
+        {
+            "artist_id": "0e9H8oaYYRCKFXOVv848nt",
+            "artist_name": "Bad Books",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/95de4d1933b5c72a43f871c299f4fbacee09a579",
+            "track_id": "738DxiABu0fM8IAXJQdGvc",
+            "track_name": "I Begged You Everything"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd114093d501e899d62e95910aac4996f3f4e242",
+            "track_id": "48iXZPw4Rw5EcZLnR4Ler0",
+            "track_name": "Slow Dancing in a Burning Room - Acoustic"
+        },
+        {
+            "artist_id": "6FBDaR13swtiWwGhX1WQsP",
+            "artist_name": "blink-182",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/dc0fbe647c0f6f007936b97880f1209ded5779e2",
+            "track_id": "3o92kVrL1UWiHS6C8MvUyO",
+            "track_name": "Wishing Well"
+        },
+        {
+            "artist_id": "1WvvwcQx0tj6NdDhZZ2zZz",
+            "artist_name": "Future Islands",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "4kxfCf1hGuQZLTHNYOTnOI",
+            "track_name": "The Fountain"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/963a6f11e19667d6dba8e567bb0963bce1e4a369",
+            "track_id": "1KCIdlq5yQ7kAD3CGabj3C",
+            "track_name": "Home - Honolulu, HI"
+        },
+        {
+            "artist_id": "3dBVyJ7JuOMt4GE9607Qin",
+            "artist_name": "T. Rex",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/69f6085be874201df7262f15d801eca39a576618",
+            "track_id": "5CuGeM6n3uGfh33S5CnCZ9",
+            "track_name": "Planet Queen - Acoustic Version / bonus track"
+        },
+        {
+            "artist_id": "7gjAu1qr5C2grXeQFFOGeh",
+            "artist_name": "Passion Pit",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/e6d099757941ad92a0a2b4bef6c93faac410f431",
+            "track_id": "4jmADw2rRriDjzSruTySZ7",
+            "track_name": "Swimming In The Flood"
+        },
+        {
+            "artist_id": "65c0gzsw9JsPUxm09QPjQj",
+            "artist_name": "ALO",
+            "popularity": 6,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf229f123b8ce5267989557afba76d8c48513b2d",
+            "track_id": "2Gepj3uefeOYAZ2d59T8ad",
+            "track_name": "Girl, I Wanna Lay You Down - International Version"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6mITuUp3se0lQ0G4WIzlOH",
+            "track_name": "Everything"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ben Harper & Jack Johnson",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "High Tide or Low Tide"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Ben Harper",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Forever"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/32e86384caa181f8d1d176fa8a9d79a6017851a3",
+            "track_id": "5eD2RAP9pkW2ppLjzP5Zm3",
+            "track_name": "Breakdown"
+        },
+        {
+            "artist_id": "6cSxzHrQgGc4I4Ck5Gewej",
+            "artist_name": "Sons Of The East",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa60717add10148158e8cd3c03a9eab997002ff3",
+            "track_id": "46BuJdwxV43a6qLrICP27l",
+            "track_name": "California"
+        },
+        {
+            "artist_id": "0QTnH6UEP2jbZEVO6g6Vfe",
+            "artist_name": "Said The Whale",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/739acab8d9770ffacfe21c339c3b45b68ded3f14",
+            "track_id": "3l4TUxYRkoBHozu6S66hs3",
+            "track_name": "Little Bird"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/33dd1be3e68a2c868d4a618774b5fe6bb2a9087f",
+            "track_id": "1BiJWoCw1xoYcZ76EO3IKV",
+            "track_name": "Waiting on the World to Change - featuring Ben Harper"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "1hNlOvGE3hCykRdQ1HDDT1",
+            "track_name": "Thistle & Weeds"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cddc35e0eed2ad30a61cf307d14054481269977",
+            "track_id": "4DedZEOIzHXHylmKIHHy3s",
+            "track_name": "Belle / Banana Pancakes - Album Version- Paris, France"
+        },
+        {
+            "artist_id": "45lorWzrKLxfKlWpV7r9CN",
+            "artist_name": "Ben Harper",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/2dacffd3af39a6a4e7851beef1672989e0b11076",
+            "track_id": "3iiiGE0oiq7KqOGoHCPpui",
+            "track_name": "Sexual Healing - Live"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/a30ecee5ed05e38554f8a91f8cc0beb4d026f923",
+            "track_id": "5W0Q5cmJhZJ7uce2TG8es1",
+            "track_name": "Angel / Better Together - Album Version - Paris, France"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "John Mayer",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Dreaming with a Broken Heart"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "2urH03ELyB9iXkpsSphLtM",
+            "track_name": "I Gave You All"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3hLfKjcAQKsQQgWUBPHdNI",
+            "track_name": "Always On My Mind"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/212a7a499f4752a9025cdd427a4c9e6b97f3ce2e",
+            "track_id": "2YHVtOlOIEWyFE8RpcRY6i",
+            "track_name": "Turn Your Love"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/0c9e0a91d96050499bd6b9759cadee13f6c9decb",
+            "track_id": "30deoxryDJaDzWs4AHsnWq",
+            "track_name": "Quiet - EP Version"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/846f67b4c679424e974216a6a08caf997387c5eb",
+            "track_id": "7Frm7Ixn7WvN0I9lLp9Bly",
+            "track_name": "What You Thought You Need - Album Version- Honolulu, HI"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0e4ddaf05d757adee1844e83f6105eeebd401a5",
+            "track_id": "22d5vvCijMTue7PvUrGiz9",
+            "track_name": "Horchata"
+        },
+        {
+            "artist_id": "7gjAu1qr5C2grXeQFFOGeh",
+            "artist_name": "Passion Pit",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ae0925a64c5cad6f26c95a1cdad72dc66d42fc0",
+            "track_id": "2Ca8ruXRZhZe81W5Loh0Ob",
+            "track_name": "Moth's Wings - Stripped Down Version"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/75c18a19e260d74292ee9bcf75dfdf10775713c6",
+            "track_id": "5FhEuxdiP5rY2gVoS5BIuj",
+            "track_name": "Split Screen Sadness"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/5a09d504201b4f54a150e70808b546518b0d639b",
+            "track_id": "3SuMeuGbhZGLJUiMHCPLGw",
+            "track_name": "Times Like These - Album Version- Santa Barbara, CA"
+        },
+        {
+            "artist_id": "5l2EAkfckNPYZbEDbQtEkO",
+            "artist_name": "Pete Yorn",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3cLynmeEDh2IOgFR04OOdq",
+            "track_name": "Someday"
+        },
+        {
+            "artist_id": "06HL4z0CvFAxyc27GXpf02",
+            "artist_name": "Taylor Swift",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4h0EXpatqJImv4VRgvX6po",
+            "track_name": "Last Kiss"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "4nAJTL3PoD1MWDKLkziDpD",
+            "track_name": "Tomorrow Morning"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/a827b6bc44d9f2d8ddea404e76412be86de0e4ac",
+            "track_id": "54AFQPVHQq5y0lVhsNkWQj",
+            "track_name": "Stop This Train"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "3n9c1mgu8asYVUMXmiL8Fa",
+            "track_name": "Lover of the Light"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3ba554b8d8dfac72fc3af3a5cabd53468071c07",
+            "track_id": "6Q1TPzd83aChouJ5p9GJse",
+            "track_name": "Flake"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7HVfB1u1pHWzGIXKcRGJh8",
+            "track_name": "A Pirate Looks At Forty - iTunes Original Version"
+        },
+        {
+            "artist_id": "7gjAu1qr5C2grXeQFFOGeh",
+            "artist_name": "Passion Pit",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/bda552d2cdba51fcadd029b9292107d3e3e9c241",
+            "track_id": "3BCMOdo8pH1CdxycrlIA1G",
+            "track_name": "I've Got Your Number"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c484964cb5b844eab451c6a99bc95fda292f53ab",
+            "track_id": "3daDd8yhWLgeWyCeZp9eIj",
+            "track_name": "You And Your Heart"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "3uJxOhwJjf8NTml3KHxQeQ",
+            "track_name": "Classy Girls"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/079519d74fd9a089549ff183330caade993215d5",
+            "track_id": "3mviFPGc1IiY0KIZWTFoRp",
+            "track_name": "Sitting, Waiting, Wishing - Barcelona, Spain"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/0cd77585f16aa12bac9acb54fdc3a9bc1ef455b9",
+            "track_id": "1DllSr1QGkvGHhyHEnKsBt",
+            "track_name": "Something's Missing - Live in Ohio"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e39f1ee737ff52eb1199a11c0c8d480e258d596f",
+            "track_id": "6vtnIxkfffMA6Y3NvveDVs",
+            "track_name": "Good People - Manchester, TN"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/6bbaa9e892b778ee4ebc9b177a7da2bf54334ec5",
+            "track_id": "0HLWvLKQWpFdPhgk6ym58n",
+            "track_name": "Who Says"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3hsxWfYPPdGnsyIezoyVYm",
+            "track_name": "Lost"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e32dfac15914744ff1cd6ec1ae277df2c559bb8",
+            "track_id": "78rg6AZS4RRc0SJdsZHnsM",
+            "track_name": "Not Myself"
+        },
+        {
+            "artist_id": "7gP3bB2nilZXLfPHJhMdvc",
+            "artist_name": "Foster The People",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/5ef87203dc9a6ac69d495ef3a0b6a1306d14aa90",
+            "track_id": "3u1Er1rkjn1oSz1xdZH3ZD",
+            "track_name": "Call It What You Want"
+        },
+        {
+            "artist_id": "0RdRumkn2UydUjqytNJ2Cp",
+            "artist_name": "White Denim",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "7xTvJH40S6OUC0YRtUjV8R",
+            "track_name": "Street Joy"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c8f9637e5efc79580d57afb6dc118eeb8aa41ad",
+            "track_id": "4TzIQNOFds3o8my1pmWCGm",
+            "track_name": "The Upsetter"
+        },
+        {
+            "artist_id": "7kXpvrS3xtr0nGzNFGuuQq",
+            "artist_name": "Rhythms Del Mundo",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5YTzIMx2awyijOgXfR2yDf",
+            "track_name": "Timshel [feat. Mumford & Sons] - Africa Mix"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "0Z1jSa9OzaVXERNOpH3F9J",
+            "track_name": "Lovers' Eyes"
+        },
+        {
+            "artist_id": "4M2gGLzKCo0rPyn224PsoN",
+            "artist_name": "Marc Bolan",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/d48aa1b9c6521bb30e7dd7c6d852ddf7fbec92b0",
+            "track_id": "6q3PjPPvvbONGlZEU64Nt8",
+            "track_name": "Cat Black"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/814ba0347b23558d7c4477458dbb68ab8b8f4baf",
+            "track_id": "2jdAk8ATWIL3dwT47XpRfu",
+            "track_name": "Slow Dancing in a Burning Room"
+        },
+        {
+            "artist_id": "7gjAu1qr5C2grXeQFFOGeh",
+            "artist_name": "Passion Pit",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/1ae0925a64c5cad6f26c95a1cdad72dc66d42fc0",
+            "track_id": "2Ca8ruXRZhZe81W5Loh0Ob",
+            "track_name": "Moth's Wings - Stripped Down Version"
+        },
+        {
+            "artist_id": "3nnQpaTvKb5jCQabZefACI",
+            "artist_name": "Jeff Buckley",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/b277685d9b40ca4934dd0c3226f3b8698e012357",
+            "track_id": "59p1P04VvpPCn6oIPvUdvH",
+            "track_name": "Last Goodbye"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/93a6d79082ea7458de579d43b8bf1e4b01f226ed",
+            "track_id": "3I11VMdEveVNC8Da7hWFiM",
+            "track_name": "Gravity"
+        },
+        {
+            "artist_id": "4LEiUm1SRbFMgfqnQTwUbQ",
+            "artist_name": "Bon Iver",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5bTb62ZZchErgC4CPPT0sY",
+            "track_name": "Come Talk to Me"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "3T7SxterTU2KMvdcOYXzSj",
+            "track_name": "Charlie Boy"
+        },
+        {
+            "artist_id": "3UAk61T8PItbpgEi9u7ofY",
+            "artist_name": "Andrew Belle",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cf551ebc42f8ce7bea79d4e24db2066cdf0a06f",
+            "track_id": "3e5UDAmMzMUM95PqjVHC4L",
+            "track_name": "The Ladder"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "0GYu3Htt9NM5mGFDcAMQlT",
+            "track_name": "Flapper Girl"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2cf3973189555c5755fff44b28792f323200061",
+            "track_id": "02CwqROylBG7H1gDnrbun9",
+            "track_name": "Fever - Live"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/814ba0347b23558d7c4477458dbb68ab8b8f4baf",
+            "track_id": "1LCFKtT1l1Eq8dUXzIo3QL",
+            "track_name": "Slow Dancing in a Burning Room"
+        },
+        {
+            "artist_id": "0id62QV2SZZfvBn9xpmuCl",
+            "artist_name": "Aloe Blacc",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2a140e2005f1f3fd389f15689b117b35a4fb3d0",
+            "track_id": "3JtLcaiJrY3NhlPjOECsy6",
+            "track_name": "I'm Beautiful"
+        },
+        {
+            "artist_id": "4M2gGLzKCo0rPyn224PsoN",
+            "artist_name": "Marc Bolan",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "6Nsl6B7GYuk20AEJEV4Zkt",
+            "track_name": "Cosmic Dancer - WBAI Radio, New York, 8th Apr. 1971"
+        },
+        {
+            "artist_id": "5oOhM2DFWab8XhSdQiITry",
+            "artist_name": "Tycho",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "3x1QE1uiG9wqYL7oBW4C8Z",
+            "track_name": "Daydream"
+        },
+        {
+            "artist_id": "2YKp8Odp8GGbAkVU60Yk2Y",
+            "artist_name": "Coconut Records",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1OObCEtrlcG1BuG4Rx05FU",
+            "track_name": "Summer Day"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/825cc1910ed243fef3b882b86430ea10f1df4870",
+            "track_id": "5jx8tCxiO0uIbo2uNia23K",
+            "track_name": "The One That Got Away - Acoustic"
+        },
+        {
+            "artist_id": "5hE6NCoobhyEu6TRSbjOJY",
+            "artist_name": "Fever Ray",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0LE3YWM0W9OWputCB8Z3qt",
+            "track_name": "When I Grow Up - D. Lissvik Version"
+        },
+        {
+            "artist_id": "3dBVyJ7JuOMt4GE9607Qin",
+            "artist_name": "T. Rex",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "3Jy93tbL9Lf6ZU4fqmQrnK",
+            "track_name": "Spaceball Ricochet"
+        },
+        {
+            "artist_id": "16GcWuvvybAoaHr0NqT8Eh",
+            "artist_name": "Alabama Shakes",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "5L7eBMFFYKi9cfZpMfQrRf",
+            "track_name": "Boys & Girls"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/bda98797947efc82109fbec2826960278dcb94cf",
+            "track_id": "570ocPyYy6lgJPnPAo66cZ",
+            "track_name": "Young Lion"
+        },
+        {
+            "artist_id": "4M2gGLzKCo0rPyn224PsoN",
+            "artist_name": "Marc Bolan",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5nJPhFG5JP5MErii0rL6Au",
+            "track_name": "Planet Queen - WBAI Radio, New York, 8th Apr. 1971"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/357304c61ab9eacfea5215325a197c768ef42429",
+            "track_id": "6CLXNJOATC0KzI18aJkvyI",
+            "track_name": "In Repair"
+        },
+        {
+            "artist_id": "6cSxzHrQgGc4I4Ck5Gewej",
+            "artist_name": "Sons Of The East",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/53a7cfbfb30af861d4c00fae6e8b98e56b7a39ba",
+            "track_id": "2ABGvp4kxOCN6cahYSHOg2",
+            "track_name": "Miramare"
+        },
+        {
+            "artist_id": "7azp9wRyXcxIq5vZnJgYvt",
+            "artist_name": "Dexter Wansel",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7vA6nhTrbXBHCxBhrtr69F",
+            "track_name": "Life On Mars"
+        },
+        {
+            "artist_id": "3dBVyJ7JuOMt4GE9607Qin",
+            "artist_name": "T. Rex",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "69yIToL5vBTBUeSVlQNw8G",
+            "track_name": "Broken Hearted Blues"
+        },
+        {
+            "artist_id": "7IIlyj0xIngEdanrbGok1c",
+            "artist_name": "Ryan Mitchell Grey",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ffe9964d8b823e0c394fafa764e8e526d858943",
+            "track_id": "5TmsEiXR4mWp1sm2rLxgTo",
+            "track_name": "Canyon"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/f3c3164f34b00a087573a55b5b9b29167e28512d",
+            "track_id": "6ai3SzMMXjIGMHuIXbwTJi",
+            "track_name": "Something's Missing"
+        },
+        {
+            "artist_id": "0L8ExT028jH3ddEcZwqJJ5",
+            "artist_name": "Red Hot Chili Peppers",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/1e00474e049866ae3c465c2b138eb4d3edac42b3",
+            "track_id": "0xAjq4KAQdJvUyCM7fFZ9K",
+            "track_name": "Hey"
+        },
+        {
+            "artist_id": "5o206eFLx38glA2bb4zqIU",
+            "artist_name": "Bright Eyes",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/47cdcbdb38106defe6018457533b8236ffc55e8a",
+            "track_id": "5OiaAaIMYlCZONyDBxqk4G",
+            "track_name": "First Day Of My Life"
+        },
+        {
+            "artist_id": "0X2BH1fck6amBIoJhDVmmJ",
+            "artist_name": "Ellie Goulding",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/e206717cf7253882ac014db37fe9871286746855",
+            "track_id": "0ZPfDxZn5O0L84wvPSN2iG",
+            "track_name": "How Long Will I Love You - Bonus Track"
+        },
+        {
+            "artist_id": "5Rr15NSbi1Xjno1AEP9u21",
+            "artist_name": "Dan Croll",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "5XrQfm0pHsX1H6zHFLX6Uu",
+            "track_name": "Only Ghost"
+        },
+        {
+            "artist_id": "4I2BJf80C0skQpp1sQmA0h",
+            "artist_name": "Belle & Sebastian",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/ff6706f129e71417cbda465d7e8d9b0f87728755",
+            "track_id": "4v9pY7IdOPHf1395tXOB4W",
+            "track_name": "Get Me Away from Here, I\u2019m Dying"
+        },
+        {
+            "artist_id": "6DoH7ywD5BcQvjloe9OcIj",
+            "artist_name": "Ray LaMontagne",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5f2131f085247e59bcb1463ad937878ee4642bd",
+            "track_id": "7C87cnbE6D7NiW0HHJlKn1",
+            "track_name": "Lavender"
+        },
+        {
+            "artist_id": "45lorWzrKLxfKlWpV7r9CN",
+            "artist_name": "Ben Harper",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/e9e6bbf2371ba8d1d8c34c197b18f11a13ef51fb",
+            "track_id": "2RBVvW1wZ6OgetXf0kTLiv",
+            "track_name": "A House Is A Home"
+        },
+        {
+            "artist_id": "5BvJzeQpmsdsFp4HGUYUEx",
+            "artist_name": "Vampire Weekend",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/3eb1c8dce4f0fdb31f6ed8887b1cfefd66a62336",
+            "track_id": "3t87C08isN6yw2DnWOorLm",
+            "track_name": "Hannah Hunt"
+        },
+        {
+            "artist_id": "16oZKvXb6WkQlVAjwo2Wbg",
+            "artist_name": "The Lumineers",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "56ptMHpMlRSIHGm2OeE9MK",
+            "track_name": "This Must Be the Place (Na\u00efve Melody)"
+        },
+        {
+            "artist_id": "2wY79sveU1sp5g7SokKOiI",
+            "artist_name": "Sam Smith",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/622c3c72fd87824ad62536876a715a650ee61bcf",
+            "track_id": "3XyU03WycJQ02kExHb9dqW",
+            "track_name": "Latch - Acoustic"
+        },
+        {
+            "artist_id": "1buzCmyYZE4kcdLRudsb8V",
+            "artist_name": "Mikky Ekko",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/8e72fe5c64810ae53951f73db0c5e666781ee27a",
+            "track_id": "6fs3GbtJ3PCf0uYX2MlmG4",
+            "track_name": "Smile"
+        },
+        {
+            "artist_id": "3gd8FJtBJtkRxdfbTu19U2",
+            "artist_name": "Mumford & Sons",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6341eba096a3a76edf3b51567df5282fd30e3085",
+            "track_id": "33w9PGt1ySrMi8ZRugVjZI",
+            "track_name": "Ghosts That We Knew"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/a09ca05757d60bb8ef317c520ce5483285085724",
+            "track_id": "5szmwG86IFASvYrca21MEz",
+            "track_name": "Work Song"
+        },
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/a0c82bec8d5ca31b1e4fc97b74cfee18ec0eab93",
+            "track_id": "5Aq5TIy9jVK70aL7xcE9oa",
+            "track_name": "Dear Marie"
+        },
+        {
+            "artist_id": "0Q2mYJ2ur4Hb0AmZjcGMIl",
+            "artist_name": "Iwan Rheon",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ec632a76431c41e10ddf4ba2b1a0cc3c7d16be0",
+            "track_id": "7q6nrbS4kDy8h6WwijaKfp",
+            "track_name": "Bang!Bang!"
+        },
+        {
+            "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "artist_name": "Ed Sheeran",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/12eb90aa64be1b349b479f8dde7ca7175ac11513",
+            "track_id": "5ubHAQtKuFfiG4FXfLP804",
+            "track_name": "Lego House"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Collin McLoughlin",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Someone Like You / The One That Got Away / We Found Love"
+        }
+    ]
+}

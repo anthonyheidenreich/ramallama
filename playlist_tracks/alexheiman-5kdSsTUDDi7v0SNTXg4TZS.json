@@ -1,0 +1,85 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/5kdSsTUDDi7v0SNTXg4TZS/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7EGwUS3c5dXduO4sMyLWC5",
+            "artist_name": "Houndmouth",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/154415cf7987175eea72d7c63831bec45da12042",
+            "track_id": "5WJqECOEDt5F759vvexse5",
+            "track_name": "Penitentiary"
+        },
+        {
+            "artist_id": "7EGwUS3c5dXduO4sMyLWC5",
+            "artist_name": "Houndmouth",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/d46c64dfa8e24ddef5471b94004163067ed1f9b8",
+            "track_id": "0Ja8hGjNaq22wMUmLYhSxm",
+            "track_name": "On the Road"
+        },
+        {
+            "artist_id": "6ueGR6SWhUJfvEhqkvMsVs",
+            "artist_name": "Janelle Mon\u00e1e",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/67d39936c0ce07e6fad206283636c1228970eeb5",
+            "track_id": "3dUMuxNadGxCE3qXuhCwqa",
+            "track_name": "Dance Apocalyptic"
+        },
+        {
+            "artist_id": "0id62QV2SZZfvBn9xpmuCl",
+            "artist_name": "Aloe Blacc",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/b62368e6a2765da6b559f0ffbf583560e3626c58",
+            "track_id": "19KlLuxA7AxvQpoQYx7zhG",
+            "track_name": "I Need A Dollar"
+        },
+        {
+            "artist_id": "4U33udokhmKATsu8UoqUEN",
+            "artist_name": "The Sheepdogs",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/182ce7600595adbdb32c1413dff430477f461f2f",
+            "track_id": "4pJdnwJWBhR6juiDcV93pa",
+            "track_name": "Please Don't Lead Me On"
+        },
+        {
+            "artist_id": "5kuJibJcwOC53s3OkoGMRA",
+            "artist_name": "The Revivalists",
+            "popularity": 5,
+            "preview_url": null,
+            "track_id": "38BcXxeU6tBQaQrxE1QdES",
+            "track_name": "Soulfight"
+        },
+        {
+            "artist_id": "6wWT7zLNVgTHbRh17E0tTk",
+            "artist_name": "The Mynabirds",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/6235abc53f9744e620ff36b496ec181c5fabac2c",
+            "track_id": "4ukoAKSwykQVMHFHi2Rdks",
+            "track_name": "Ways Of Looking"
+        },
+        {
+            "artist_id": "2jUEbzY3ihXrzqOaTV6jTF",
+            "artist_name": "Terraplane Sun",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/8df26219ebbfe2253430a48be909ecb399a5bf17",
+            "track_id": "4Fb5Z7sMoFqdisaJBq7Q4u",
+            "track_name": "Get Me Golden"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/171243bf2c05759ae7a8dd0d4c3b54b6f273573c",
+            "track_id": "294vBlXfZYspeI29SXZaON",
+            "track_name": "Wake Me Up"
+        },
+        {
+            "artist_id": "0id62QV2SZZfvBn9xpmuCl",
+            "artist_name": "Aloe Blacc",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "3vQ9lvyNcLlqntGyas6q51",
+            "track_name": "Wake Me Up - Acoustic"
+        }
+    ]
+}

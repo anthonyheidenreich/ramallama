@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/spotify/playlists/6jOKJ9uMXxnGM9Bh3rujY3/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5zzbSFZMVpvxSlWAkqqtHP",
+            "artist_name": "Brown Bird",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ff9ce429494c91edde2d066255e8604fc76d94e",
+            "track_id": "05wB0mSpDASexc98oKZCOw",
+            "track_name": "Bilgewater"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/039bca2251d540bd94e728b0d0b94e9ebcd7447c",
+            "track_id": "13CyXxYgWD9N5KwWqRYU1U",
+            "track_name": "It Will Come Back"
+        },
+        {
+            "artist_id": "1OlzK1kHcdTcduXcdXHYXn",
+            "artist_name": "Lucette",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/11ed9ff8bac261371bb67e021bb6b42a1826d3f3",
+            "track_id": "10WBKR8tDk416oDMm6wshS",
+            "track_name": "Bobby Reid"
+        },
+        {
+            "artist_id": "2Iua0nuwiUuEpXR4qOS4xe",
+            "artist_name": "Bruce Peninsula",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4334adb4b5d28366593471c995ae324aca86520",
+            "track_id": "3tRg3SxzjV3NnDCbsKCzCv",
+            "track_name": "Crabapples"
+        },
+        {
+            "artist_id": "0MASTEXfUt3bpiyGOoEaur",
+            "artist_name": "Parker Millsap",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/e6edca395456bdab80a44d4ba461105776f47e50",
+            "track_id": "4zm37YNRt5XrbFOTPk0jBp",
+            "track_name": "Old Time Religion"
+        },
+        {
+            "artist_id": "2G2yuocG4yAnSREBFHWtLn",
+            "artist_name": "The Orphan Brigade",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/716649248f42baafbc954d0578577ab3a488ea67",
+            "track_id": "7oSprBa5AKuzB0Yw5lTtHf",
+            "track_name": "Trouble My Heart (Oh Harriet)"
+        },
+        {
+            "artist_id": "72PnPUc1qv9UjRPaGVZ1jq",
+            "artist_name": "The Handsome Family",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/60c0756cb3736d41c0f20550b4e9c5cac8a42d3d",
+            "track_id": "4B4xOuj22g8WAMvTzPV7Bq",
+            "track_name": "Far From Any Road"
+        },
+        {
+            "artist_id": "1tpXaFf2F55E7kVJON4j4G",
+            "artist_name": "Black Rebel Motorcycle Club",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/617e3958219b8c6058f2358c23833ac990210f88",
+            "track_id": "466LASOuTbWDkrwZ3Ylxvv",
+            "track_name": "Beat The Devil's Tattoo"
+        },
+        {
+            "artist_id": "6IOvhXyk5edbA2DVaeP9Up",
+            "artist_name": "Dorothy",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "6OZr3Bg0KoN15FVedQNr1v",
+            "track_name": "Gun In My Hand"
+        },
+        {
+            "artist_id": "0fhRF7RN2smrrRXlB1S2GM",
+            "artist_name": "Odetta Hartman",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8678041969629c76c30ebac2f7a48203533e51f1",
+            "track_id": "7uXwbnpGfGRwlB7CWeC6Aw",
+            "track_name": "Dreamcatchers"
+        },
+        {
+            "artist_id": "6J7rw7NELJUCThPbAfyLIE",
+            "artist_name": "The Civil Wars",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/21a36db04ac51bb0225dc069b20b63b0d9710aa0",
+            "track_id": "4qoD4IJbbir3hsAu4IowiG",
+            "track_name": "Devil's Backbone"
+        },
+        {
+            "artist_id": "7LOJ56d8VmOebynlV01KfU",
+            "artist_name": "Crooked Still",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf9734c589f26fc380c053ae7f7af857c51e816e",
+            "track_id": "33gHvO5eLnhxKHgGDu6xu9",
+            "track_name": "Ain't No Grave"
+        },
+        {
+            "artist_id": "2Fwqnm1kpxK4BZgWrsG5qm",
+            "artist_name": "Cary Ann Hearst",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "1BNm9pxX5cmZOq15o0mNEl",
+            "track_name": "Hell's Bells"
+        },
+        {
+            "artist_id": "251UrhgNbMr15NLzQ2KyKq",
+            "artist_name": "Rayland Baxter",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/120de4fb3fd92b57db5d8fb9c9b7c8440ccaa737",
+            "track_id": "3lwBgpUnYL2pnPGRlWEkd9",
+            "track_name": "Bad Things"
+        },
+        {
+            "artist_id": "0iidQFemlPhkoHqFroz2my",
+            "artist_name": "Delta Rae",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/0af6ba84343babfa86de70543641a288468ae266",
+            "track_id": "279D0iY34aVyZWTxsAPYUd",
+            "track_name": "Bottom Of The River"
+        },
+        {
+            "artist_id": "3VSHFjwG94ubNcoST9hfxX",
+            "artist_name": "Hugo",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2d633a391b7adb9a098856d788383775c9d0e95",
+            "track_id": "7hN5TKSdRb56uytwIpcUES",
+            "track_name": "99 Problems"
+        },
+        {
+            "artist_id": "0OzR8yVFsezkr01beN2ec0",
+            "artist_name": "Monica Heldal",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/1db25735d59f53c7b03a8fcfab45b8654c0bd60d",
+            "track_id": "6DyVRSZzPC67XnsXJR2XIq",
+            "track_name": "Conman Coming"
+        },
+        {
+            "artist_id": "3SIjUKYSRchIKIoFO9vBjm",
+            "artist_name": "Kaia Kater",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/ead4157452ff520dcf8a33d64fb1076ade712db6",
+            "track_id": "0ocOl2Z35YlNbPRRMEgpd2",
+            "track_name": "Sun to Sun"
+        },
+        {
+            "artist_id": "6kACVPfCOnqzgfEF5ryl0x",
+            "artist_name": "Johnny Cash",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/34cbca69ede1688f4a9d24a1cf3b62efb5271b5e",
+            "track_id": "5dcwiQFqn0mTcWewYIv7MV",
+            "track_name": "Personal Jesus"
+        },
+        {
+            "artist_id": "1Zd2jFygzaM9fyijiieSI7",
+            "artist_name": "Anna & Elizabeth",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/16b942d2187368964677acb2489a15956766ca26",
+            "track_id": "65GlvrOfL2tArX1jJv36Sr",
+            "track_name": "Long Time Travelin'"
+        },
+        {
+            "artist_id": "2X3rGYJyh8oBkRKMzIQaLe",
+            "artist_name": "Desert Noises",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "390taocGJx2gn52h8MrCNh",
+            "track_name": "Dime in My Pocket"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/a09ca05757d60bb8ef317c520ce5483285085724",
+            "track_id": "5szmwG86IFASvYrca21MEz",
+            "track_name": "Work Song"
+        },
+        {
+            "artist_id": "5zzbSFZMVpvxSlWAkqqtHP",
+            "artist_name": "Brown Bird",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/0fdcc11c47b2c935b22153dc7fcdabc46c928ce4",
+            "track_id": "5g3vDbjW1S08XRb2AZ1rkV",
+            "track_name": "Fingers To The Bone"
+        },
+        {
+            "artist_id": "6IOvhXyk5edbA2DVaeP9Up",
+            "artist_name": "Dorothy",
+            "popularity": 21,
+            "preview_url": null,
+            "track_id": "452bdu2uD7u4gJNEMIx0la",
+            "track_name": "After Midnight"
+        },
+        {
+            "artist_id": "2FsZnS8gQ8jG1HGnPYNlm9",
+            "artist_name": "Jamie N Commons",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c37fdefbf8cec93ca98b983f5cbc75803ef0eb5",
+            "track_id": "0oURTzCixsBNe6jnYuYtay",
+            "track_name": "Wade In The Water - Live At Spotify House"
+        },
+        {
+            "artist_id": "2L3kwZFd16zjHz9a5kEPAm",
+            "artist_name": "Ane Brun",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/583cbe54467f4723fa3bdb633e132a43477e8526",
+            "track_id": "2UZ8C6abrCuhjelaK1MFz1",
+            "track_name": "All My Tears"
+        },
+        {
+            "artist_id": "5zzbSFZMVpvxSlWAkqqtHP",
+            "artist_name": "Brown Bird",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea2e4d53cf8f702b51901b72aa9f9e484cae80e6",
+            "track_id": "2VUA9RXQluo3013YNhDeez",
+            "track_name": "Danger and Dread"
+        },
+        {
+            "artist_id": "21XbnrbEMUTZelIfoV12hC",
+            "artist_name": "J. Tillman",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a9cb555082138337848ef9842b3862b703fe149",
+            "track_id": "6Yz0WhXdqzH1jWVViV8MdU",
+            "track_name": "Three Sisters"
+        },
+        {
+            "artist_id": "4M5nCE77Qaxayuhp3fVn4V",
+            "artist_name": "Iron & Wine",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/a6d75d4e8ca6430ff7b2ef3f38af0df029000d71",
+            "track_id": "2itCFwpM6veR9DlRcKDKo9",
+            "track_name": "Slow Black River"
+        },
+        {
+            "artist_id": "0LyfQWJT6nXafLPZqxe9Of",
+            "artist_name": "Various Artists",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/7c11bced8842fc79f780b1d1c984663bee140b45",
+            "track_id": "7l884pLH6Q30XQgjrOx7T5",
+            "track_name": "Ben Miller Band - Southern Gothic Intro"
+        },
+        {
+            "artist_id": "692LYMl7s0bV6X3iduX5rG",
+            "artist_name": "Ben Miller Band",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/6720eba55c124274be49ac4d5b22251d0296bd5a",
+            "track_id": "5qX4r5vT9bY8xMsiKuZhQn",
+            "track_name": "Get Right Church"
+        },
+        {
+            "artist_id": "1LJtIL5oefyNjM2r2FomZ3",
+            "artist_name": "Rose's Pawn Shop",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/5005d27b46edc9b8b612a4997615e9184500b498",
+            "track_id": "4902sigaZA0IflQ6FdWmtk",
+            "track_name": "Country Blues"
+        },
+        {
+            "artist_id": "0UiSKMMZHzAvON7xNNeTnh",
+            "artist_name": "The Hat",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/8fa2aa2da885e9c43f8e9f976e0841304acc2d7e",
+            "track_id": "1gZmLcA6IqI4YGhKIfFO8E",
+            "track_name": "The Angry River (feat. Father John Misty and S.I. Istwa) [Theme From the HBO\u00ae Series True Detective]"
+        },
+        {
+            "artist_id": "31tFvcJUWjclZjXiJ9C67e",
+            "artist_name": "Vaudeville Etiquette",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/c32376481426f3e4ee43ca3ef508d36c6348fd6b",
+            "track_id": "6D0xrEtK9dNepW4tjlPwj5",
+            "track_name": "Devil's Daughter"
+        },
+        {
+            "artist_id": "5QXLMdpKeByOo5ypH9gT13",
+            "artist_name": "Fantastic Negrito",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "37C9PC2PjE2oURNjOyzof4",
+            "track_name": "An Honest Man"
+        },
+        {
+            "artist_id": "2N91y9Uko6gWwugdCpxJYH",
+            "artist_name": "Whiskey Shivers",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/d165b74e13e1ac950484898cd522dd18d4641d2d",
+            "track_id": "33BhBFID7OBU3ie0KccF9B",
+            "track_name": "Graves"
+        },
+        {
+            "artist_id": "4Cedjq5BQL3MhapRvDpFED",
+            "artist_name": "Neko Case",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/35b681c36dad8fcba0151c05aac9e922e9170ecf",
+            "track_id": "1GMphu4rFfW80ME1EN8IJo",
+            "track_name": "Things That Scare Me"
+        },
+        {
+            "artist_id": "6O3XESr2bixxsS9dTY99Rf",
+            "artist_name": "Isobel Campbell & Mark Lanegan",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/352e94f1bfaa8f98e480cc8b8c35f1f0de843dcf",
+            "track_id": "0ki12WtT63xUQCYkVpRZGZ",
+            "track_name": "Snake Song"
+        },
+        {
+            "artist_id": "5Gu7iDoQjE7anHIbCXckC8",
+            "artist_name": "Vudu Sister",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ec1790cfc935dde0f40cee127b0cf28d7176a65",
+            "track_id": "4Q4qJYgs4zZ1FFHX2nleB9",
+            "track_name": "Psalms"
+        },
+        {
+            "artist_id": "6J7rw7NELJUCThPbAfyLIE",
+            "artist_name": "The Civil Wars",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/79d855253bf6a5c4417407b3be11945965425a5f",
+            "track_id": "2ZheGCM31EbCwUfGs0WJB1",
+            "track_name": "Barton Hollow"
+        },
+        {
+            "artist_id": "22tQF7y3PwRuU6ZWAV2oTM",
+            "artist_name": "honeyhoney",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd9aed7f40f1cdf73af5303e99f1d7fb2726058b",
+            "track_id": "1haOmT0ndDABp11zNK92ot",
+            "track_name": "God Of Love"
+        },
+        {
+            "artist_id": "02YLJJnWC7YQVixkjEBRn7",
+            "artist_name": "Billie Marten",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd78943e9467de67ae7217fa56848115829ac7b5",
+            "track_id": "5bR0R96OeLHG8mVS1SRh6I",
+            "track_name": "Ribbon"
+        },
+        {
+            "artist_id": "5ammRFhN6wQXM30xlhndC5",
+            "artist_name": "Goodnight, Texas",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d8634aff34bff2465bb6d6983fba242f78f1acb",
+            "track_id": "1Z0FpIlGRGQrC7rz2uwX6I",
+            "track_name": "The Railroad"
+        },
+        {
+            "artist_id": "4ovISfvdFHqGNI4ZuHzh69",
+            "artist_name": "Amelia Curran",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/448db55c92127cebbec56664d719e87230fbbd51",
+            "track_id": "4YJpXSRosOLGssNpjIYsUk",
+            "track_name": "Devils"
+        },
+        {
+            "artist_id": "62r8B0snN5IPw8SwCJTEXR",
+            "artist_name": "Brother Dege",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce9859323f17a55acf3c9c9931580266d0ed4ed6",
+            "track_id": "3B9CVXsyyFRVQwCPYbhS9m",
+            "track_name": "Too Old to Die Young"
+        },
+        {
+            "artist_id": "5G3roNfDuGmWf5cL3L3z2b",
+            "artist_name": "The Dirty River Boys",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8aec81f5271d576b75adb03ff04618e0f9c72de",
+            "track_id": "1JDDXUhFhwqu6mjZzQH6Yn",
+            "track_name": "Down by the River"
+        },
+        {
+            "artist_id": "13MdjUqnWNyfY4qKYQ9OPl",
+            "artist_name": "Quiet Life",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/337c63db06737d4edfc153452392515b258e81f6",
+            "track_id": "5gogtHCaImFgzzSNZxCPeQ",
+            "track_name": "Waiting Around to Die"
+        },
+        {
+            "artist_id": "7G1GBhoKtEPnP86X2PvEYO",
+            "artist_name": "Nina Simone",
+            "popularity": 28,
+            "preview_url": null,
+            "track_id": "3rYTdFGNdE4rasctJsunwm",
+            "track_name": "Sinnerman"
+        },
+        {
+            "artist_id": "1OlzK1kHcdTcduXcdXHYXn",
+            "artist_name": "Lucette",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c2ab09bb4d923677bd9eb06a99bf59b3a405013",
+            "track_id": "73HQSD2qTu24jGVAF4Utxq",
+            "track_name": "Muddy Water"
+        },
+        {
+            "artist_id": "4MoGkOmfK6oKi1Isc8Iv9m",
+            "artist_name": "Bowerbirds",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/020b2f5985dda7bd3e4afcbc7589f9cd9a2fe7d1",
+            "track_id": "1wG0T0Gc9na4tZW3soquGC",
+            "track_name": "In Our Talons"
+        },
+        {
+            "artist_id": "72XY3HrDdFfZXNZFCT9Zh1",
+            "artist_name": "Blitzen Trapper",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/3cb980023c4f99d91f1774e2ca26df73764646c1",
+            "track_id": "2g6X5RxW11AWjnC02bwSBw",
+            "track_name": "Valley of Death"
+        },
+        {
+            "artist_id": "02KeGV8345Zm6WfWdCiD2i",
+            "artist_name": "The Henry Girls",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3b32e321578e025abc0781275892453bcf4f2c3",
+            "track_id": "4Dwuv0XbjXqpYcc5F9IBf7",
+            "track_name": "James Monroe (feat. the Bog Neck Brass Band)"
+        },
+        {
+            "artist_id": "7B2edU3Q7btJoNsoHCNohM",
+            "artist_name": "Laura Marling",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/64abbea24bd95e3bc0c973a1f955ee04c91603ae",
+            "track_id": "4dqhnjsX69qGQ7DCMSTY7v",
+            "track_name": "Devil's Spoke"
+        },
+        {
+            "artist_id": "4UXJsSlnKd7ltsrHebV79Q",
+            "artist_name": "Nick Cave & The Bad Seeds",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/998fee9164a88873850f73637b3da109bebe24fb",
+            "track_id": "7HrpPxCR5OYislYvUT4h79",
+            "track_name": "Red Right Hand"
+        },
+        {
+            "artist_id": "244AFgFclA9c1IcjWOAqoV",
+            "artist_name": "Joshua Burnside",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/123750d5c871e5da0464e5cd26cfb7663637ffde",
+            "track_id": "7h0TNtloK2rFT1DwErSbYn",
+            "track_name": "Black Dog Sin"
+        },
+        {
+            "artist_id": "3I6e2ZqqoxQhXc9z7Tp5ci",
+            "artist_name": "Rising Appalachia",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/d751e907ce2a750b69d4421b9348cf4b72369f8b",
+            "track_id": "74Fd1uz6wiTaqDXyWK7AXl",
+            "track_name": "Filthy Dirty South"
+        },
+        {
+            "artist_id": "6M5FR3JkFFVDkgwtO6Vtz6",
+            "artist_name": "Micah P. Hinson",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/483f4f95599ad8c61cad6145b0bbdb362751f4bb",
+            "track_id": "7vlxnv7ltMD5ZmCi1Eqspv",
+            "track_name": "Diggin A Grave"
+        },
+        {
+            "artist_id": "3KPP9ZbN4Yu5mEQj2UWRqn",
+            "artist_name": "Paper Bird",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/cfe9c241f2f81d2a201cfbffd231acb5197fba92",
+            "track_id": "1fhcTpn9fvemLo60JesY2W",
+            "track_name": "Lost Boys"
+        },
+        {
+            "artist_id": "2H5elA2mJKrHmqkN9GSfkz",
+            "artist_name": "Gillian Welch",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/34a317411c6aaebbc253baba28f40dd69bc06385",
+            "track_id": "4oGtTW6RoaK9tMCNT5ZJcY",
+            "track_name": "The Devil Had A Hold Of Me"
+        },
+        {
+            "artist_id": "23OknxGcY1i5xX1TRPilMj",
+            "artist_name": "Grace Potter & The Nocturnals",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b7afc69fc3e6c2085c0260129fc9c253da48e71",
+            "track_id": "4f9F6CSTaJeMyvn1Plu89U",
+            "track_name": "Nothing But The Water (I)"
+        },
+        {
+            "artist_id": "3SP3zwx9ot2sOEf80VJA5A",
+            "artist_name": "Vandaveer",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/3b1991b380b6a7b6d6b20f0acd3925c3302818c3",
+            "track_id": "5ZCSxBtSpyvHvEvGuXuTEr",
+            "track_name": "Pretty Polly"
+        },
+        {
+            "artist_id": "47DQBkDU2VieRG0aJUcPJs",
+            "artist_name": "Jace Everett",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/81ec23981bf497bd34dddcede88b8524c95e483e",
+            "track_id": "3H0XRfbPaBqLd1UjzRMVnt",
+            "track_name": "Bad Things"
+        },
+        {
+            "artist_id": "3fV14PAU0MWFaj0Kt8MDWx",
+            "artist_name": "Kail Baxley",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/a454a25a3b37a6fd68928042150f0b100ba27e5a",
+            "track_id": "42OJayD1LtDiqQxueAjUeq",
+            "track_name": "Boy Got it Bad"
+        },
+        {
+            "artist_id": "6IOvhXyk5edbA2DVaeP9Up",
+            "artist_name": "Dorothy",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "4pF0B8Fae3dQrsuWds2iQ9",
+            "track_name": "Bang Bang Bang"
+        },
+        {
+            "artist_id": "3x6If6dI3TOVEN4aUukab3",
+            "artist_name": "The American Spirit",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/e26c12ff3f3eaf133147d280658e24eb2b020d97",
+            "track_id": "42r1v4tT0xfteQq0pNMaf9",
+            "track_name": "Sons & Daughters"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/4d842692698e90bfc52d9fd78f35575d69f6f4b8",
+            "track_id": "1UWhx0pFZccP4jdCIZsj7U",
+            "track_name": "Arsonist's Lullabye"
+        },
+        {
+            "artist_id": "6LQfYurqiaL6tB19ynez50",
+            "artist_name": "Barnaby Bright",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/6ba3a3439a7e75463bf83b116d289d1382e99088",
+            "track_id": "3HHOqY088OPzIknqOC1hNn",
+            "track_name": "Highway 9"
+        },
+        {
+            "artist_id": "22tQF7y3PwRuU6ZWAV2oTM",
+            "artist_name": "honeyhoney",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/2e9230be426c0964ce3f61cbe70a22f6166216ca",
+            "track_id": "1jgr7hrjegI0n8fEcY06vy",
+            "track_name": "Thin Line"
+        },
+        {
+            "artist_id": "51RfVK8q11xKW7bi7bcMpJ",
+            "artist_name": "Elliott Brood",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/281fd8ecc7274cfe58a15cd44a8ec4d2d769b0d6",
+            "track_id": "6EqH6OTtC3KMxRsU2OGF9A",
+            "track_name": "Cadillac Dust"
+        },
+        {
+            "artist_id": "4AZab8zo2nTYd7ORDmQu0V",
+            "artist_name": "The Dead Weather",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/dc96c63dabcca8109958c7e7e368444250eeb799",
+            "track_id": "3Bx2b6DkK0lOLuwnLVaULP",
+            "track_name": "Will There Be Enough Water?"
+        },
+        {
+            "artist_id": "4s7QvzBMTW4BKWI5pVO2mY",
+            "artist_name": "The Silent Comedy",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "08zdIWzfOrJj8noBBAbfrV",
+            "track_name": "Bartholomew"
+        },
+        {
+            "artist_id": "1dKwL2D1YxwQqN0BsvMPGj",
+            "artist_name": "Whiskey Folk Ramblers",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/d359d2b0e6ac18937efb3ba1bdda109fe3ce29ff",
+            "track_id": "4SzeCnM4d39PAMxBDIViod",
+            "track_name": "Gambling Preacher and His Daughter"
+        },
+        {
+            "artist_id": "0qPDkDToiabkQi2YhNFt4d",
+            "artist_name": "Josh Farrow",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/14db15a3f6bca7d69ccd4b901cc853ca86adfc56",
+            "track_id": "5UKMxE8Ec8pa8YLXlqDkSZ",
+            "track_name": "Devil Don't You Fool Me"
+        },
+        {
+            "artist_id": "1tpXaFf2F55E7kVJON4j4G",
+            "artist_name": "Black Rebel Motorcycle Club",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/bb8bd80f85d2eb1f433b7569bad027798c69acd0",
+            "track_id": "20hLTXbjj0jhiyOQFwIqa0",
+            "track_name": "Fault Line"
+        },
+        {
+            "artist_id": "3ZWab2LEVkNKiBPIClTwof",
+            "artist_name": "Townes Van Zandt",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffa0ffa4c061a1ee9c551425a9c03efc3f8b6542",
+            "track_id": "1p3ZBdx6XCXZEu7OoO0zW2",
+            "track_name": "Lungs"
+        },
+        {
+            "artist_id": "4G0XDEk7RbA4BBCTs917U9",
+            "artist_name": "Sun Kil Moon",
+            "popularity": 13,
+            "preview_url": null,
+            "track_id": "6nHHqLOs5oyhizlaWgoLBq",
+            "track_name": "Heron Blue"
+        },
+        {
+            "artist_id": "2Ya197LjC2pz0ZXl0rwAgl",
+            "artist_name": "The Howlin' Brothers",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0f71c240d9e4cdf3e8d3712f756bc87c4c9d5b9",
+            "track_id": "4zwZZnlqLRkAQQwJ8P0KAa",
+            "track_name": "Troubled Waltz"
+        },
+        {
+            "artist_id": "4uk9cWBqeiel7tO1w9MPe0",
+            "artist_name": "Maggie Bjorklund",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/ea6b0adbfb265521847da6837ecb0d3960fd8b08",
+            "track_id": "37H2CfPAljdCi1eSQqj6JQ",
+            "track_name": "Ashes"
+        },
+        {
+            "artist_id": "1aTDTChWWyiJH3SEnYrdVp",
+            "artist_name": "Taj Mahal",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d752e9b84412bf01d487b4c08c3b03723c91329",
+            "track_id": "0EbkHfs6ejgvaTL8TAVevp",
+            "track_name": "Tear This Cabin Down"
+        },
+        {
+            "artist_id": "2UBTfUoLI07iRqGeUrwhZh",
+            "artist_name": "Steve Earle",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/c0f867a81d1c28f9df5e06cf0b74f3156ba9be4a",
+            "track_id": "4qIY8BJt2qBDZT8lm2eFkv",
+            "track_name": "Meet Me In The Alleyway"
+        },
+        {
+            "artist_id": "3SIjUKYSRchIKIoFO9vBjm",
+            "artist_name": "Kaia Kater",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/ccbcf1df97ba205eefc3029b9f12f3415894df33",
+            "track_id": "4qWfC3YqUVlJSOpyOvqBU0",
+            "track_name": "Maggie May"
+        },
+        {
+            "artist_id": "0vYQRW5LIDeYQOccTviQNX",
+            "artist_name": "Kris Kristofferson",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d52a5fe008f75e0d3024f64064d4d594ae1d581",
+            "track_id": "4qqkMiRfK6c7L8rDIZ9mFV",
+            "track_name": "How Many Days"
+        },
+        {
+            "artist_id": "0dpglhdTlof5BS5LX7uJmg",
+            "artist_name": "Wovenhand",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a51b0ee596c554828bdc770d78b1a5ccb198cd6",
+            "track_id": "0HG9rgzpLiuNCDni1A2xsH",
+            "track_name": "Sinking Hands"
+        },
+        {
+            "artist_id": "1hFvZy3pBf5pOSmJULL4sG",
+            "artist_name": "Graham Lindsey",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/a2aa32d975a275d80eac346c8ec1119bdfd03b99",
+            "track_id": "4QWnQIa20uqK8uR5RVSRoh",
+            "track_name": "No Way Out But Down"
+        },
+        {
+            "artist_id": "7x83XhcMbOTl1UdYsPTuZM",
+            "artist_name": "Tom Waits",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "4qNG4sbrKhudFT2mq7WWr4",
+            "track_name": "How's It Gonna End"
+        },
+        {
+            "artist_id": "5fIZHCg2de8322HZodBDWL",
+            "artist_name": "The Secret Sisters",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/e020ccd32c4b66043ad71310f7f9362db2c33a70",
+            "track_id": "1jzfEz82pQL6I6S3QnkKET",
+            "track_name": "Iuka"
+        },
+        {
+            "artist_id": "0XKPHX4BZDrtSEr3Pd1Q4k",
+            "artist_name": "Karen Elson",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/252ef9be913edc0265643195538d0a41c508cacb",
+            "track_id": "4HTek0mdGceNdnhw5IXGTV",
+            "track_name": "Stolen Roses"
+        },
+        {
+            "artist_id": "599W9qxs3LzkiiEmkoK6Kx",
+            "artist_name": "Mirel Wagner",
+            "popularity": 11,
+            "preview_url": null,
+            "track_id": "2xqpprcQPzknH33EbyJm6i",
+            "track_name": "Oak Tree"
+        },
+        {
+            "artist_id": "5tIXFM4sGNRR4Oo3hLbFdf",
+            "artist_name": "Mick Flannery",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/2429f0e5a805cfcd0cc7d55652e5e03ab8997459",
+            "track_id": "5eNhIzwEPKnZZNItD5l8ke",
+            "track_name": "Get What You Give"
+        },
+        {
+            "artist_id": "5zzbSFZMVpvxSlWAkqqtHP",
+            "artist_name": "Brown Bird",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/10060001547e4fe534f91787407605c550ea63a0",
+            "track_id": "0O0T1NHzuTa12tNZ1hZ7db",
+            "track_name": "Chairkickers"
+        },
+        {
+            "artist_id": "2iuqXpyyC67z6S2pq2m0gV",
+            "artist_name": "Basia Bulat",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/97d40e19596bcfe747eac86af149a2174917deea",
+            "track_id": "1mqk8DNti1zvdd1GY5quDS",
+            "track_name": "Heart Of My Own"
+        },
+        {
+            "artist_id": "5Gu7iDoQjE7anHIbCXckC8",
+            "artist_name": "Vudu Sister",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/a902fd616180186b8c350d1301d9e4455d7547a7",
+            "track_id": "1SbnUcfbqd0EdkczKJbEDK",
+            "track_name": "Dead Man's Pocket"
+        },
+        {
+            "artist_id": "28EZDIpcw7WOOmOJ3Jlg4E",
+            "artist_name": "Hillstomp",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa82ecbb7f2d6f4d1f5dc147e2f45d5e602d51e8",
+            "track_id": "3PMJ94ANR9Z80xltUPo6kL",
+            "track_name": "Banjo Song #1"
+        },
+        {
+            "artist_id": "4Ajgo7nAsTzjSFymIfBjZ1",
+            "artist_name": "The Felice Brothers",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b7a1067c1805e5e426e47afa976e9b124237cd4",
+            "track_id": "3Wkuz2Gfsj8R7RBn3knIkA",
+            "track_name": "Goddamn You, Jim"
+        },
+        {
+            "artist_id": "5HFE1NUz1561kJM2lHI6AF",
+            "artist_name": "Hard Working Americans",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4c6eb6492d9f6791932e1dab03221d1ad27870b",
+            "track_id": "1WM2z5ygjXsQ3m7c4wOnCm",
+            "track_name": "Blackland Farmer"
+        },
+        {
+            "artist_id": "06W84OT2eFUNVwG85UsxJw",
+            "artist_name": "Caroline Rose",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/c912e11aad2a6018252eaf92f575a68002cf2f5b",
+            "track_id": "44jvsGC1upCUvdhPQJMuYS",
+            "track_name": "At Midnight"
+        },
+        {
+            "artist_id": "1L6KS1S1ClX4Gjeg66YLw7",
+            "artist_name": "Pony Boy",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/68719437e83909f208441085d62fc4232af631d1",
+            "track_id": "2IXszkwPHtyOMRqbviZ8gu",
+            "track_name": "Marquee Man"
+        },
+        {
+            "artist_id": "0k9TGdML3mCpuY0nhAEn5o",
+            "artist_name": "Bellstop",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/45567f1f1b3ad3f09f19beaebb8df36beefd59c8",
+            "track_id": "6B0LkhI0pKXmzQAoCkEhKZ",
+            "track_name": "Trouble"
+        },
+        {
+            "artist_id": "0q9jV5Ht9bBTX6pHgzRjRg",
+            "artist_name": "The Lowest Pair",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/77691151a498e7994d3366f635e3de56f17b93b5",
+            "track_id": "5IrrRSLUoUsEjEKjQAyWVb",
+            "track_name": "Scavenger Hunt"
+        },
+        {
+            "artist_id": "2Iua0nuwiUuEpXR4qOS4xe",
+            "artist_name": "Bruce Peninsula",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/0044cbfe0c82b47425b966702f753dec2a93d53c",
+            "track_id": "07JyD08sM6AbyV4b15AExB",
+            "track_name": "Rosie"
+        }
+    ]
+}

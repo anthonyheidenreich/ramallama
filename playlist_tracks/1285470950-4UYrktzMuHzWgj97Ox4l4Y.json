@@ -1,0 +1,349 @@
+{
+    "href": "https://api.spotify.com/v1/users/1285470950/playlists/4UYrktzMuHzWgj97Ox4l4Y/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5Hc9oDGvStNGmnj44m8sHg",
+            "artist_name": "Tyler Ward",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/52b8cadd32ee638d9956efbdb61240a1f0245381",
+            "track_id": "0sCmHB88Puh1LP7xzcusVN",
+            "track_name": "Hoopty Hoop"
+        },
+        {
+            "artist_id": "3mJ9GlkLzj8Ka7Z7EQaCMi",
+            "artist_name": "Watsky",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/809de647928e5cb99c3e2713a575bf621278f996",
+            "track_id": "2eCxHvPxt8tsmJrqrMALLd",
+            "track_name": "Strong As an Oak"
+        },
+        {
+            "artist_id": "54oCsBdudffTnw4HWEqN8T",
+            "artist_name": "The Collective West",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/6768fdd28bdfbd8684ef0eb4f02d20547b9901fd",
+            "track_id": "6FsDIKKbk0xFv4lIBX17wv",
+            "track_name": "Lighthouse"
+        },
+        {
+            "artist_id": "4phGZZrJZRo4ElhRtViYdl",
+            "artist_name": "Jason Mraz",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/7535364378c8f6f3fadba1e6c79504e8ba34605f",
+            "track_id": "3FKp7QAJoLHPsywOp6UvMH",
+            "track_name": "Curbside Prophet"
+        },
+        {
+            "artist_id": "6DIS6PRrLS3wbnZsf7vYic",
+            "artist_name": "WALK THE MOON",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/c9f15b921617d5608b09aeaa1b55c1b7085f74a1",
+            "track_id": "3e0yTP5trHBBVvV32jwXqF",
+            "track_name": "Anna Sun"
+        },
+        {
+            "artist_id": "59oA5WbbQvomJz2BuRG071",
+            "artist_name": "Jungle",
+            "popularity": 24,
+            "preview_url": null,
+            "track_id": "6J8SONJwAIizCJm0QhEi4Y",
+            "track_name": "Busy Earnin'"
+        },
+        {
+            "artist_id": "3Rge90vTSlldCXm8AFKZmJ",
+            "artist_name": "Harlem Shakes",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/381db8b35fd52f2c746b0f1a0c25e698964b7b3a",
+            "track_id": "6X4mvCzZSim0NDJaBR8ZFz",
+            "track_name": "Strictly Game"
+        },
+        {
+            "artist_id": "7F4HcalxCMC4DctguvnoFY",
+            "artist_name": "Ace Wilder",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8bca3766ae98ca2ce4904b815df0334266c9731",
+            "track_id": "16PCNO5WUWQQJXnj0ySn3O",
+            "track_name": "Busy Doin' Nothin'"
+        },
+        {
+            "artist_id": "0MlOPi3zIDMVrfA9R04Fe3",
+            "artist_name": "American Authors",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/622d9ad049c927de967b25f8d8eae7c60241ba8f",
+            "track_id": "63jtv6OVPH2SPb03icmiVo",
+            "track_name": "Love"
+        },
+        {
+            "artist_id": "2O9XW1nnGRMkMV1wpK8IiS",
+            "artist_name": "Peace",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/664a4e9e6bac610efff3ef8f1dbd9f8d29bca7f6",
+            "track_id": "4gjddrRqOV1STpc6Tr8jKE",
+            "track_name": "Lovesick"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/2157ddf46cf110ed3e61e4d7c540e6cce4dedfdb",
+            "track_id": "6GrrkiCRO3HYdgRpO4eKEL",
+            "track_name": "Swing Life Away"
+        },
+        {
+            "artist_id": "3RbyaF3Pq6iDUKNp04AIcU",
+            "artist_name": "New Politics",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8d690afaa48a5b15e06c1544554b93f48317990",
+            "track_id": "573latfTMO7SpGtStVrQx5",
+            "track_name": "Harlem"
+        },
+        {
+            "artist_id": "1UxNUybRFdtksz3l5HtCEG",
+            "artist_name": "Casey Abrams",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/8b3a68facbd74e92293ff08fa9f09dd88faeb61a",
+            "track_id": "3XUKAzSuLQjgAlAXY2pQoC",
+            "track_name": "Simple Life"
+        },
+        {
+            "artist_id": "3O1yzH0AIaRLZBuJHB0Abe",
+            "artist_name": "All Mankind",
+            "popularity": 12,
+            "preview_url": "https://p.scdn.co/mp3-preview/af7cb045da821e8e1ff9c0e3bc6f3425b6468f18",
+            "track_id": "1qeRNyFjIXHh4AkDWly2Z3",
+            "track_name": "This is a Miracle"
+        },
+        {
+            "artist_id": "0aeLcja6hKzb7Uz2ou7ulP",
+            "artist_name": "Noah And The Whale",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/8f41f40938253fee32b08d0ebd52a7c35452743a",
+            "track_id": "0EKEO3DVLXItrn9JOHXscN",
+            "track_name": "L.I.F.E.G.O.E.S.O.N."
+        },
+        {
+            "artist_id": "3RbyaF3Pq6iDUKNp04AIcU",
+            "artist_name": "New Politics",
+            "popularity": 15,
+            "preview_url": null,
+            "track_id": "0BAoNo4799TRKGWhgg7hMy",
+            "track_name": "Everywhere I Go (Kings and Queens)"
+        },
+        {
+            "artist_id": "2FXC3k01G6Gw61bmprjgqS",
+            "artist_name": "Hozier",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/79d27e551fcde07fcbb06b3cac162712f0c70c5e",
+            "track_id": "0PywzrV955BnXDC8FHAf0n",
+            "track_name": "Jackie and Wilson"
+        },
+        {
+            "artist_id": "382aq8Pij5V2nE2JMHMoxl",
+            "artist_name": "Hoodie Allen",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/43451eabb15cfdbde4463a786857c3e4afd64c0f",
+            "track_id": "0JmMBsV5WUjNYU34U07fBN",
+            "track_name": "Overtime"
+        },
+        {
+            "artist_id": "382aq8Pij5V2nE2JMHMoxl",
+            "artist_name": "Hoodie Allen",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/089cd55841709b2d29c38719013a384b1b111c51",
+            "track_id": "5lQTU18v1FCAHx7epzQzIx",
+            "track_name": "Act My Age"
+        },
+        {
+            "artist_id": "3yQxGz288i3AqOxq7LYHUU",
+            "artist_name": "Oh Honey",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/489ca1bef7999104caaedff6ce101ca06ad93a20",
+            "track_id": "7AonnmPTczSzmqPs32Po69",
+            "track_name": "Be Okay"
+        },
+        {
+            "artist_id": "2bA2YuQk2ID3PWNXUhQrWS",
+            "artist_name": "Johnny Marr",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/56fe94f4d2e81d9b385aac95544a58d040d175fd",
+            "track_id": "0fPJXQm1HSCJYai87MPiIz",
+            "track_name": "Easy Money"
+        },
+        {
+            "artist_id": "3sk9GNYRthjLjrZDflxhiB",
+            "artist_name": "Priory",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/097c4372f9c1c70a932ef4c8cc69158e45bf56ed",
+            "track_id": "6Drh25cclvIvKj2xyzqiwp",
+            "track_name": "Weekend"
+        },
+        {
+            "artist_id": "6AGUQK1EWK6nvN4pLIDQDQ",
+            "artist_name": "The Mowgli's",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/af13264a090282a57cdd2f2d1717bc336daa593d",
+            "track_id": "7Ld15g9uCZ65YJrmiFvFCD",
+            "track_name": "Time"
+        },
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/a35e8cceca3193e020f689628eb0de8f43c69274",
+            "track_id": "33caYRuBFGkI5JaFMUeydz",
+            "track_name": "Shorty Don't Wait"
+        },
+        {
+            "artist_id": "5nfow6tv4Dtm6K4WHzczBI",
+            "artist_name": "Catey Shaw",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b8d2c78ad34f60812c69483b4a4120838a063e1",
+            "track_id": "2t784IdD5Ol0agQFQjm0R5",
+            "track_name": "Run, Run, Run"
+        },
+        {
+            "artist_id": "1GAS0rb4L8VTPvizAx2O9J",
+            "artist_name": "Atmosphere",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/108351e3398caa32a51152b80bb208cfaf46f413",
+            "track_id": "1WPQ1MfGc8KYi4eu0JwjlR",
+            "track_name": "The Best Day"
+        },
+        {
+            "artist_id": "3W0scuhlfxxG8erhM5vMBq",
+            "artist_name": "Fancy Reagan",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/8677559efb01ef55bbc161da44cb83df64534b4f",
+            "track_id": "4AExn2roFJPUOfdUbSkkc5",
+            "track_name": "Knock Me Out"
+        },
+        {
+            "artist_id": "6Shas1ACrMl25XHgTrzxeo",
+            "artist_name": "Hedley",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/4c6af32f2467e4cb8c33f7773446c7ddda054380",
+            "track_id": "5kiD3qnsuhV2YwH4bq93Yc",
+            "track_name": "Anything"
+        },
+        {
+            "artist_id": "3YQKmKGau1PzlVlkL1iodx",
+            "artist_name": "Twenty One Pilots",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/46c19d324587898577a1974b8bdc2d5db88a5c65",
+            "track_id": "2YhTaUiQ0m5QMwaRDEP1TV",
+            "track_name": "Tear In My Heart"
+        },
+        {
+            "artist_id": "5xKp3UyavIBUsGy3DQdXeF",
+            "artist_name": "A Great Big World",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/b53324ad07e4bf034487c4ee2ea33e63d7a08be8",
+            "track_id": "27Xlqkl3rtEzAOaN4VM7zd",
+            "track_name": "I Really Want It"
+        },
+        {
+            "artist_id": "2iUbk5KhZYZt4CRvWbwb7S",
+            "artist_name": "Lunchmoney Lewis",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/0e02a1a7085ee40893ac6450e9cda35e396438c6",
+            "track_id": "7mQZWQirTR4cr2LtVv2Lpy",
+            "track_name": "Bills"
+        },
+        {
+            "artist_id": "3sk9GNYRthjLjrZDflxhiB",
+            "artist_name": "Priory",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/287e7877c68e5fb3af8922231882d36ea48e2708",
+            "track_id": "3hpxeIsKYNKIzbPOFvYGuu",
+            "track_name": "Big Love"
+        },
+        {
+            "artist_id": "3sk9GNYRthjLjrZDflxhiB",
+            "artist_name": "Priory",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/d3971637ffb76df02543039e5cf42ca6b1676219",
+            "track_id": "5K0qB39Io74lauOnWfTgfQ",
+            "track_name": "Mother Mary"
+        },
+        {
+            "artist_id": "0gadJ2b9A4SKsB1RFkBb66",
+            "artist_name": "Passenger",
+            "popularity": 6,
+            "preview_url": null,
+            "track_id": "1N5dZ2TY2i1T5XtCMMLjf3",
+            "track_name": "Scare Away the Dark"
+        },
+        {
+            "artist_id": "07YZf4WDAMNwqr4jfgOZ8y",
+            "artist_name": "Jason Derulo",
+            "popularity": 25,
+            "preview_url": "https://p.scdn.co/mp3-preview/24a22036eeae4b8fb9ac244f4bf22a50ec9df5a9",
+            "track_id": "1kq4Map1RWwiiKnQi39Yzq",
+            "track_name": "Broke (feat. Stevie Wonder & Keith Urban)"
+        },
+        {
+            "artist_id": "1n2pb9Tsfe4SwAjmUac6YT",
+            "artist_name": "Jake Owen",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cad4cf43b6d7b218dc83206f1e11a9e21cf3edb",
+            "track_id": "5NUvj4WX2tAQGxOF4CWJ7I",
+            "track_name": "Real Life"
+        },
+        {
+            "artist_id": "3NPpFNZtSTHheNBaWC82rB",
+            "artist_name": "X Ambassadors",
+            "popularity": 83,
+            "preview_url": "https://p.scdn.co/mp3-preview/f195be9a4f0904e066d5c32743b8a6f40db01613",
+            "track_id": "0fYVliAYKHuPmECRs1pbRf",
+            "track_name": "Renegades"
+        },
+        {
+            "artist_id": "6Xk7kGyfSdpeuvIlMHx8ys",
+            "artist_name": "The Tragic Thrills",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/cf3abb66374056caa30a9b462e25ccac04e0ee12",
+            "track_id": "1CwNtBXENsedHjZc8zN8Jc",
+            "track_name": "Creeps & Strangers"
+        },
+        {
+            "artist_id": "21aa4pj9BvbFB2iT8kRpnq",
+            "artist_name": "Michael Schulte",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f415b4f28f660693980c2c97f6d1f24a82c733b",
+            "track_id": "1IIe4WKcbxBUpnYoQr1acy",
+            "track_name": "The Maze"
+        },
+        {
+            "artist_id": "6ZUjdwG0NvY6MT7vvmluhV",
+            "artist_name": "Young Rising Sons",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/f9160b542d070fe2c5eec73006f2e41feccd13de",
+            "track_id": "7om9AA7nbASF0vzS2u5cDz",
+            "track_name": "Turnin'"
+        },
+        {
+            "artist_id": "1ShZZUjkbXCjhwrb18BA8I",
+            "artist_name": "Bryce Vine",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/38c5d11fb261bf4b45b87e5798068a7e16b09f2c",
+            "track_id": "1Pyxh8ERS8aouSSOQVvVsz",
+            "track_name": "Sour Patch Kids"
+        },
+        {
+            "artist_id": "3WOOglGBDGvr6c2WBeMAWn",
+            "artist_name": "Urban Cone",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/93aa580e0d1142243d5b6e73793cb477ac461472",
+            "track_id": "28OBjsObwOY6JY86C2dalp",
+            "track_name": "Come Back To Me"
+        },
+        {
+            "artist_id": "6eUKZXaKkcviH0Ku9w2n3V",
+            "artist_name": "Ed Sheeran",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/10559d5846846d42c717e5470663880e9f807a06",
+            "track_id": "0NJDrEZdTbVPMKC0Zbglgn",
+            "track_name": "New York"
+        }
+    ]
+}

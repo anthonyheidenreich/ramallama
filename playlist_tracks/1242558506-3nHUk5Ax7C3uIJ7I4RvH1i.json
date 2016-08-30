@@ -1,0 +1,77 @@
+{
+    "href": "https://api.spotify.com/v1/users/1242558506/playlists/3nHUk5Ax7C3uIJ7I4RvH1i/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0hEurMDQu99nJRq8pTxO14",
+            "artist_name": "John Mayer",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a11f49c0d443fbf20afe8abba12a3720237dce4",
+            "track_id": "2IeLL7fQccz9DyNAsK3KBF",
+            "track_name": "Wildfire"
+        },
+        {
+            "artist_id": "5DYAABs8rkY9VhwtENoQCz",
+            "artist_name": "Gavin DeGraw",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/b9193d5cb11b4b4e444621327c3174ea13992029",
+            "track_id": "3GT6eLQhtvmFu30StsjB1L",
+            "track_name": "Best I Ever Had"
+        },
+        {
+            "artist_id": "5Pwc4xIPtQLFEnJriah9YJ",
+            "artist_name": "OneRepublic",
+            "popularity": 29,
+            "preview_url": null,
+            "track_id": "1fh2TfUOtOoXEE8qQynYEC",
+            "track_name": "Counting Stars"
+        },
+        {
+            "artist_id": "5Pwc4xIPtQLFEnJriah9YJ",
+            "artist_name": "OneRepublic",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a532d5dba04a06b444be56f9d3ecfb7e2278b6c",
+            "track_id": "6nmVeODcBpsGKx5RPv003D",
+            "track_name": "Feel Again"
+        },
+        {
+            "artist_id": "7tpoUeXq6RlClRlq2ithVu",
+            "artist_name": "Brandon & Leah",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/6429d0ee2f23cfab1e83e4e487cd8047e08812d0",
+            "track_id": "2Et7zuKHDbuXollVNWgIkH",
+            "track_name": "Life Happens"
+        },
+        {
+            "artist_id": "2Sqr0DXoaYABbjBo9HaMkM",
+            "artist_name": "Sara Bareilles",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/20cffa039f5579b6202442d5cbe90a7f14bcda7f",
+            "track_id": "6Uy6K3KdmUdAfelUp0SeXn",
+            "track_name": "Brave"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a24e647e575fbd53b58ab8115a466ca5705051f",
+            "track_id": "3XSczvk4MRteOw4Yx3lqMU",
+            "track_name": "Roar"
+        },
+        {
+            "artist_id": "1vCWHaC5f2uS3yhpwWbIA6",
+            "artist_name": "Avicii",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/111256313f35a8b2a3e1628a83504330b489f04f",
+            "track_id": "4QRZirU4s1f30iDHzuKncj",
+            "track_name": "Wake Me Up"
+        },
+        {
+            "artist_id": "4AK6F7OLvEQ5QYCBNiQWHq",
+            "artist_name": "One Direction",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c25ec054e7b6e5beb0e60efe2dc35a069115693",
+            "track_id": "4VL2XUsn5dHQYdf5nPHGdM",
+            "track_name": "Best Song Ever"
+        }
+    ]
+}

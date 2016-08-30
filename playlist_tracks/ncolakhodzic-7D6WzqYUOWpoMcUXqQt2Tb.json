@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/ncolakhodzic/playlists/7D6WzqYUOWpoMcUXqQt2Tb/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "3TVXtAsR1Inumwj472S9r4",
+            "artist_name": "Drake",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3a34b7c3ed7cdce640f8c9834c721870b72b6b9",
+            "track_id": "75L0qdzRnhwV62UXoNq3pE",
+            "track_name": "Up All Night"
+        },
+        {
+            "artist_id": "6O74knDqdv3XaWtkII7Xjp",
+            "artist_name": "Boyz II Men",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/1b92f729aeff55a5b09082cfdf6db7e058977bd8",
+            "track_id": "1c48FSKfpobDF3VzopU10V",
+            "track_name": "End Of The Road"
+        },
+        {
+            "artist_id": "1sBkRIssrMs1AbVkOJbc7a",
+            "artist_name": "Rick Ross",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/fd4372b9d5449db958f1f3ff25aeacce617492eb",
+            "track_id": "5W7xC99N2Zzfh69r7I7zWK",
+            "track_name": "Aston Martin Music"
+        },
+        {
+            "artist_id": "7CCn4PFRRRZF127jtCBAUe",
+            "artist_name": "The Lovin' Spoonful",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/36b67cc5d1b12efee2b176dd4ab449ecf7dbf684",
+            "track_id": "3WnvXncCC2nERn5myOmKdE",
+            "track_name": "Do You Believe in Magic"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ce89e5486e80ac476159749cbf90eb67f01577c",
+            "track_id": "4LGMSdeKOUoy5Wf75Je0Hl",
+            "track_name": "Can I Get A..."
+        },
+        {
+            "artist_id": "1sBkRIssrMs1AbVkOJbc7a",
+            "artist_name": "Rick Ross",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7abaef74f91e569a1c29922097b2c67c23619d9",
+            "track_id": "0nq6sfr8z1R5KJ4XUk396e",
+            "track_name": "Stay Schemin"
+        },
+        {
+            "artist_id": "5K4W6rqBFWDnAN6FQUkS6x",
+            "artist_name": "Kanye West",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/7bc0d60991fca4e26bf902119b1bfe6a0ac3e1e3",
+            "track_id": "4qikXelSRKvoCqFcHLB2H2",
+            "track_name": "Mercy"
+        }
+    ]
+}

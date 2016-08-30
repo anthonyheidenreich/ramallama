@@ -1,0 +1,805 @@
+{
+    "href": "https://api.spotify.com/v1/users/lnards/playlists/5VEVUXGvcop8mnFJ5yoQ9e/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0hYxQe3AK5jBPCr5MumLHD",
+            "artist_name": "Sugarland",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/3bdc0c08ad6110993ae1017bc9795fcf8570ba50",
+            "track_id": "5x6zdbGeaOpX3XeZmz4wck",
+            "track_name": "Baby Girl - 2nd Version/Remix/Album Version"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/33f9800b7886669f44b5a5dad06cc07b4ba80ddb",
+            "track_id": "736KP0gdltJQWPKk0wVL7l",
+            "track_name": "Ticks"
+        },
+        {
+            "artist_id": "7D88nWclkJZ8IWid7otoaj",
+            "artist_name": "Faith Hill & Tim McGraw",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/10630a0a0f913c986a71b905851c240a0f4416fb",
+            "track_id": "0i0EezZjtGz0gsd8zBP7vR",
+            "track_name": "Let's Make Love"
+        },
+        {
+            "artist_id": "2M4Yt7oKGoYd0wqU44k4i2",
+            "artist_name": "Travis Tritt",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/67e1eedcad1f20a589a04a0490d9b663184df0aa",
+            "track_id": "3oW6SWwGqiZSPTiAp7ZQoH",
+            "track_name": "It's A Great Day To Be Alive"
+        },
+        {
+            "artist_id": "0aqrM7Fo3Ml66Kc5JAzmjt",
+            "artist_name": "Deana Carter",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/72d97bc3152e2ead4597561df660bb9747bc20fd",
+            "track_id": "3ODF56f90W3qxDqxHAUi3v",
+            "track_name": "Strawberry Wine"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/d579853b0590418be99f367b7a68af3a803532ac",
+            "track_id": "4BXkf6yww23Vdju7E1fUrn",
+            "track_name": "Whiskey Lullaby (feat. Alison Krauss)"
+        },
+        {
+            "artist_id": "2gBjLmx6zQnFGQJCAQpRgw",
+            "artist_name": "Nelly",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/26f6acfc72762a5bbffdc613ed8a212b6e32a97c",
+            "track_id": "2b8QQqf8Vwb7bfz22ja8Fk",
+            "track_name": "Over And Over - Album Version / Explicit"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Alabama",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "If You're Gonna Play in Texas"
+        },
+        {
+            "artist_id": "6rJqqRce0Kvo2dJUXoHleC",
+            "artist_name": "Alabama",
+            "popularity": 18,
+            "preview_url": "https://p.scdn.co/mp3-preview/c23ddf8d6aaf8dfeecaf505d39345171a70ee9cf",
+            "track_id": "7yEgZHjBCahWtVyxO5mEdf",
+            "track_name": "Song of the South"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Alison Krauss",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "When You Say Nothing at All"
+        },
+        {
+            "artist_id": "0oBEeN6BCxEgMogzThqrPf",
+            "artist_name": "Big & Rich",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/0707535356bdc73990149a63d804728c742e6a8e",
+            "track_id": "5s7m2xNZWgz5FqVSIvJcGA",
+            "track_name": "Save A Horse (Ride A Cowboy)"
+        },
+        {
+            "artist_id": "0XKOBt59crntr7HQXXO8Yz",
+            "artist_name": "Brooks & Dunn",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/b89a9fd5d7b46446af5c7db8b360de06a22dc376",
+            "track_id": "60d87cpIhLJFc6hYcxKnIO",
+            "track_name": "Boot Scootin' Boogie"
+        },
+        {
+            "artist_id": "5sVu3ObJTpiln7yRQkMuje",
+            "artist_name": "Bucky Covington",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/21f8851bcd5953234d09605d39aa0ba1c636f185",
+            "track_id": "1IPFnPe6YsyzGePYS3ME2v",
+            "track_name": "A Different World"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/b61f1fd8811b6c9bd9d5d0b47c35175aba787201",
+            "track_id": "0ZUo4YjG4saFnEJhdWp9Bt",
+            "track_name": "Before He Cheats"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Clint Black",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Desperado"
+        },
+        {
+            "artist_id": "7x8nK0m0cP2ksQf0mjWdPS",
+            "artist_name": "Dierks Bentley",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/56c6eef3cacd84f8c9c99af2187f84fb97a588e8",
+            "track_id": "3JrD5PQbOAgGTKhts9Te6d",
+            "track_name": "Free And Easy (Down The Road I Go)"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "John Denver",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Thank God I'm A Country Boy"
+        },
+        {
+            "artist_id": "0u2FHSq3ln94y5Q57xazwf",
+            "artist_name": "Keith Urban",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5692b66f7081f9b4f25ada0f746f0acc5c0d808",
+            "track_id": "68Iw932AjRCDEPLIzpmOtF",
+            "track_name": "You'll Think Of Me"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 31,
+            "preview_url": "https://p.scdn.co/mp3-preview/58456931da8f8e7e4db18fd5a95dd6ecc5088384",
+            "track_id": "5vLonpxn4VN0A8GtQOBSG0",
+            "track_name": "When the Sun Goes Down"
+        },
+        {
+            "artist_id": "7dOBabd5O4CvKrg4iriHTM",
+            "artist_name": "Kid Rock",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d604c2b63276e0295a6bf3de123d65d43477f31",
+            "track_id": "69j0KoPJuwpnbGWrfn7Yll",
+            "track_name": "Picture (feat. Sheryl Crow)"
+        },
+        {
+            "artist_id": "3qbnxnvUqR14MJ9g8QwZJK",
+            "artist_name": "Lonestar",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/263c5f57cf0b3833170690feab03aa66495fb8d8",
+            "track_id": "6qc34bnVOyqGDPni8H5W0U",
+            "track_name": "Amazed"
+        },
+        {
+            "artist_id": "3P33qFNGBVXl86yQYWspFj",
+            "artist_name": "Martina McBride",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/d72036bacdb2468fcce7fa63121f6a2edf1b76cf",
+            "track_id": "1nVoLxz8C0uGgMKfywy0vf",
+            "track_name": "Independence Day"
+        },
+        {
+            "artist_id": "0HLOP0AdsaWe5Pt5TNueGC",
+            "artist_name": "Terri Clark",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/40c49a15a6dee7c0f4617829a950ee57030fff81",
+            "track_id": "0asAC0s0njDN4oWFrDraK7",
+            "track_name": "Girls Lie Too - Greatest Hits Version"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Toby Keith",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Should've Been a Cowboy"
+        },
+        {
+            "artist_id": "02rd0anEWfMtF7iMku9uor",
+            "artist_name": "Reba McEntire",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/6c77549611a0570fb32371a76bdafcb9ee51c641",
+            "track_id": "2MiXC2LfpsoeUP5RvMGEQ3",
+            "track_name": "The Night The Lights Went Out In Georgia"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ddcc9847cab51943a02ecd6ea883a7b8f1c247c",
+            "track_id": "5HGibWoxnkYSkl6mHmAlOE",
+            "track_name": "That's My Kind Of Night"
+        },
+        {
+            "artist_id": "0a1gHP0HAqALbEyxaD5Ngn",
+            "artist_name": "Rascal Flatts",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce29578cbb22361db1cf763f23c5c7d25445fcd6",
+            "track_id": "4bVuIlGQBMWS7vIhcx8Ae4",
+            "track_name": "What Hurts The Most"
+        },
+        {
+            "artist_id": "0a1gHP0HAqALbEyxaD5Ngn",
+            "artist_name": "Rascal Flatts",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/913659f57657f2efb8e6a6455ac7a5964701a6d0",
+            "track_id": "1Mxl69ygEVGdc155dYiHmr",
+            "track_name": "Life Is A Highway - Remastered Version"
+        },
+        {
+            "artist_id": "0a1gHP0HAqALbEyxaD5Ngn",
+            "artist_name": "Rascal Flatts",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/d85275cb4b2ba2ee2b74fbff867e24d2e791480d",
+            "track_id": "4YjjNHtEsTX6Af4mCTupT5",
+            "track_name": "Bless The Broken Road"
+        },
+        {
+            "artist_id": "0u2FHSq3ln94y5Q57xazwf",
+            "artist_name": "Keith Urban",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/f96596b52f6f5baf59988aff4f1b978c8af2aa5a",
+            "track_id": "0qup7d7G2WffwARHKrqT2x",
+            "track_name": "Somebody Like You"
+        },
+        {
+            "artist_id": "0u2FHSq3ln94y5Q57xazwf",
+            "artist_name": "Keith Urban",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/080b606579daf40afdefbe38ca245ae892b1e4af",
+            "track_id": "6MMAUZfcDKtjbljNowTCuf",
+            "track_name": "Days Go By"
+        },
+        {
+            "artist_id": "0u2FHSq3ln94y5Q57xazwf",
+            "artist_name": "Keith Urban",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/db037b1d65b30781b99c85f3da4bc3127c581f37",
+            "track_id": "0Sg5kWoILCs2zBoIHIsDAa",
+            "track_name": "Making Memories Of Us"
+        },
+        {
+            "artist_id": "7EK1bQADBoqbYXnT4Cqv9w",
+            "artist_name": "John Denver",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b07741fc6885a9dd53d813cd634924b7fb6ce8f",
+            "track_id": "0eZcFq1zvOh6buqrL4VBhP",
+            "track_name": "Take Me Home, Country Roads"
+        },
+        {
+            "artist_id": "7EK1bQADBoqbYXnT4Cqv9w",
+            "artist_name": "John Denver",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/42f5e030a96ba8d36b5e3deb80702352af5376da",
+            "track_id": "1qYsHkUBFSRrGEQqkogO6U",
+            "track_name": "Leaving, on a Jet Plane"
+        },
+        {
+            "artist_id": "4mxWe1mtYIYfP040G38yvS",
+            "artist_name": "Alan Jackson",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d68d537053d7aa1d6fb898c3584aed2347de5a5",
+            "track_id": "1A0I5aiVZRwecRlbQcweBh",
+            "track_name": "Gone Country"
+        },
+        {
+            "artist_id": "4mxWe1mtYIYfP040G38yvS",
+            "artist_name": "Alan Jackson",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/235e8af3a26f3d8eec0fd8d2345d1030703a0188",
+            "track_id": "5oHHMDcVOmPSFrCgdbHPdb",
+            "track_name": "It's Five O' Clock Somewhere"
+        },
+        {
+            "artist_id": "13YmWQJFwgZrd4bf5IjMY4",
+            "artist_name": "Brad Paisley",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/04c3666bc6b1ed488c33bb36a637c3d6f91483f9",
+            "track_id": "2rQyI7A1yTvTXJ9J4qFmmN",
+            "track_name": "Mud On the Tires"
+        },
+        {
+            "artist_id": "0XKOBt59crntr7HQXXO8Yz",
+            "artist_name": "Brooks & Dunn",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/3967e64320079acbe2a720bebde9edc5faa86110",
+            "track_id": "5QHElgktygMkgRdpPhXfn2",
+            "track_name": "Red Dirt Road"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/77d6fbe4508d0e4c17983bd0bd22939dd3eab6a5",
+            "track_id": "0vFMQi8ZnOM2y8cuReZTZ2",
+            "track_name": "Blown Away"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/8805c74415cc026ab0a30e5044d5b03850bb4820",
+            "track_id": "41NSrKm33WLGX1xIJgU6Np",
+            "track_name": "Cowboy Casanova"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/a150f4acd78de8e3ba8d028a3cb28209ff30fc73",
+            "track_id": "3lec3CzDPAxsZokPph5w87",
+            "track_name": "Jesus, Take the Wheel"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d65db8239d88915f10f1fd2af1a202e996fd4e6",
+            "track_id": "2dRPQFwPqAmc42mDRnsDQu",
+            "track_name": "All-American Girl"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f3f6d5f4aa3ae19d4fd4a269730074014371a3d",
+            "track_id": "25ry9EyyRsp1dDctlAclin",
+            "track_name": "Inside Your Heaven"
+        },
+        {
+            "artist_id": "4xFUf1FHVy696Q1JQZMTRj",
+            "artist_name": "Carrie Underwood",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e363643482dcc5e59fa6d15f60e16ac6eff1736",
+            "track_id": "1ePtWetZ9PTQhQHjm7I3oQ",
+            "track_name": "Last Name"
+        },
+        {
+            "artist_id": "0aqrM7Fo3Ml66Kc5JAzmjt",
+            "artist_name": "Deana Carter",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/6721999b56c281bc2cde83554b3b7d8e965e402b",
+            "track_id": "4fOFOwrAHA9PdhOL7lciok",
+            "track_name": "We Danced Anyway"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/60f1e4e97302864b45d0335c7f078a40b6d126bc",
+            "track_id": "0NJpYuKZ7LaRtVPEIVpRES",
+            "track_name": "Telluride"
+        },
+        {
+            "artist_id": "3grHWM9bx2E9vwJCdlRv9O",
+            "artist_name": "Kenny Chesney",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a0ef449b0dbcc4289c86420b3e63253db4f0c82",
+            "track_id": "58dRbjabfppvKsQlV0timz",
+            "track_name": "Beer in Mexico"
+        },
+        {
+            "artist_id": "4MVyzYMgTwdP7Z49wAZHx0",
+            "artist_name": "Lynyrd Skynyrd",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/142c22ef696470ff370e56e9cfe4909742a4e392",
+            "track_id": "7r45JFRfUkMjj5PHdAmRYk",
+            "track_name": "Sweet Home Alabama"
+        },
+        {
+            "artist_id": "7dOBabd5O4CvKrg4iriHTM",
+            "artist_name": "Kid Rock",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/7e95d66128d1e1b1b26bf6b97192b59edfa88a08",
+            "track_id": "5rX6C5QVvvZB7XckETNych",
+            "track_name": "All Summer Long"
+        },
+        {
+            "artist_id": "3qbnxnvUqR14MJ9g8QwZJK",
+            "artist_name": "Lonestar",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/15b6c99a32e3c79acfb5c04a7e4c58f7674163e5",
+            "track_id": "34Vn9nKfztyLco9lJazy4j",
+            "track_name": "I'm Already There"
+        },
+        {
+            "artist_id": "3qbnxnvUqR14MJ9g8QwZJK",
+            "artist_name": "Lonestar",
+            "popularity": 10,
+            "preview_url": null,
+            "track_id": "26bU3evxcKShxn6YB87PL7",
+            "track_name": "My Front Porch Looking In"
+        },
+        {
+            "artist_id": "3qbnxnvUqR14MJ9g8QwZJK",
+            "artist_name": "Lonestar",
+            "popularity": 9,
+            "preview_url": null,
+            "track_id": "4O2rNw1EvjcwiPCIp9ntZz",
+            "track_name": "Mr. Mom"
+        },
+        {
+            "artist_id": "3qbnxnvUqR14MJ9g8QwZJK",
+            "artist_name": "Lonestar",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/dcfda3c0a34ee95e7c9bcddda8429a3a0879dfb5",
+            "track_id": "3c9WJhG3QvTtHmwKb5wz3i",
+            "track_name": "Walking In Memphis"
+        },
+        {
+            "artist_id": "0BvkDsjIUla7X0k6CSWh1I",
+            "artist_name": "Luke Bryan",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/49a832958dc85936165b9aec38abc637937dd556",
+            "track_id": "0yD66650JxhqKbW76C2qCo",
+            "track_name": "Country Girl (Shake It For Me)"
+        },
+        {
+            "artist_id": "1MXwwmS2JpmsHZhdMeOL2s",
+            "artist_name": "Pure Prairie League",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1237f142430f97e69da92df5c7d8b3cd91dc185",
+            "track_id": "1mqydO6xMtyTPa8yo1SdVr",
+            "track_name": "Amie"
+        },
+        {
+            "artist_id": "4vpDg7Y7fU982Ds30zawDA",
+            "artist_name": "The Band",
+            "popularity": 27,
+            "preview_url": null,
+            "track_id": "2UgZeV435iztRTLrUeOrtk",
+            "track_name": "The Weight"
+        },
+        {
+            "artist_id": "4MVyzYMgTwdP7Z49wAZHx0",
+            "artist_name": "Lynyrd Skynyrd",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/1795aadb2d9d8c6e5fc42a87fcc9ee87de2388a0",
+            "track_id": "4e6kP7g8MUCqHcld1yeHYA",
+            "track_name": "Free Bird"
+        },
+        {
+            "artist_id": "3P33qFNGBVXl86yQYWspFj",
+            "artist_name": "Martina McBride",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/59e1a5d2c8411ec9d646b70edef7493f59243d33",
+            "track_id": "01CnYyPXMFRzOFVQBU8WMb",
+            "track_name": "This One's for the Girls"
+        },
+        {
+            "artist_id": "0hYxQe3AK5jBPCr5MumLHD",
+            "artist_name": "Sugarland",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/998ba5b7c89dce4b32628b490b62912a06c4b35a",
+            "track_id": "0JcKdUGNR7zI4jJDLyYXbi",
+            "track_name": "Stuck Like Glue"
+        },
+        {
+            "artist_id": "0hYxQe3AK5jBPCr5MumLHD",
+            "artist_name": "Sugarland",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa748ac1802825f45f92da35034bdac49fcc2e15",
+            "track_id": "1mJ05BN0So26a14iib85aI",
+            "track_name": "All I Want To Do"
+        },
+        {
+            "artist_id": "0HLOP0AdsaWe5Pt5TNueGC",
+            "artist_name": "Terri Clark",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/44b05f180fea923e4b439fbcd0ab9e5a981331f3",
+            "track_id": "3BcCqaxGznRqmB1BIerea2",
+            "track_name": "I Just Wanna Be Mad"
+        },
+        {
+            "artist_id": "0HLOP0AdsaWe5Pt5TNueGC",
+            "artist_name": "Terri Clark",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/ede55cdb13cffdaf1e2d4110bc95a3deb7012a17",
+            "track_id": "6HQIvR2Yt1paZq1Z8GCW9k",
+            "track_name": "Poor, Poor Pitiful Me"
+        },
+        {
+            "artist_id": "2bA6fzP0lMAQ4kz6CF61w8",
+            "artist_name": "Toby Keith",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed5a14351cee0951b75f137e4b5a5b872b788bdc",
+            "track_id": "47nm8czanMUzIqHsnr5x61",
+            "track_name": "Red Solo Cup"
+        },
+        {
+            "artist_id": "2bA6fzP0lMAQ4kz6CF61w8",
+            "artist_name": "Toby Keith",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/5dafe2c89e411f3d780d91c7bb25687009462e65",
+            "track_id": "7pWSdjUXBKksqggB49v0RE",
+            "track_name": "Beer For My Horses"
+        },
+        {
+            "artist_id": "2bA6fzP0lMAQ4kz6CF61w8",
+            "artist_name": "Toby Keith",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/7bff9ee9864a5b3b258b687f7b1f9893f4f949f1",
+            "track_id": "7G6l2FtQyRhQgYgut2I6i8",
+            "track_name": "As Good As I Once Was"
+        },
+        {
+            "artist_id": "2bA6fzP0lMAQ4kz6CF61w8",
+            "artist_name": "Toby Keith",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3aec9385f4e72d47135749d368ddec8d5936ead",
+            "track_id": "2EZWdLnLPwL97JcfNlBoM1",
+            "track_name": "I Love This Bar"
+        },
+        {
+            "artist_id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+            "artist_name": "Willie Nelson",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/db580b100e880f0b2f95cf6829e12a842b8e654b",
+            "track_id": "51wQovDO0hf05pkZYvu1GI",
+            "track_name": "On the Road Again"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/9b73e1776132292a8014266a6530fd28c25bb743",
+            "track_id": "5uaTGZyDMK1iZ9eW1qeBEX",
+            "track_name": "Live Like You Were Dying"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/85826330fe77a8a1db604a691dfbcd314b9c91ff",
+            "track_id": "28efjJXBm1CuCmqle5HK2w",
+            "track_name": "Just To See You Smile"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/65c699904ee47dd5769cf0686d4e54bb629547ee",
+            "track_id": "1zG6cEmeo4rv7Old8XD7vC",
+            "track_name": "Something Like That"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/bbfc2c79344a0f9b737b9ded00dc62050cacc031",
+            "track_id": "2iTRea118VRKRUzrGjjlHP",
+            "track_name": "Don't Take The Girl"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/3f737d0c1fdacd67eb2a11e709edab1ee7456816",
+            "track_id": "7N1ho6YJz28yPTyAN8GpOR",
+            "track_name": "It's Your Love"
+        },
+        {
+            "artist_id": "3XlIhgydjvC4EniPFZT20j",
+            "artist_name": "Trisha Yearwood",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "1iQig2DL2VjllOtmQUhcVD",
+            "track_name": "In Another's Eyes"
+        },
+        {
+            "artist_id": "3XlIhgydjvC4EniPFZT20j",
+            "artist_name": "Trisha Yearwood",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/cbaf2e2ab0d1e0fd1d940b6c13eab835166d461a",
+            "track_id": "4EJvW4NHAk7TrIeX44jjXF",
+            "track_name": "She's In Love With The Boy"
+        },
+        {
+            "artist_id": "25NQNriVT2YbSW80ILRWJa",
+            "artist_name": "Faith Hill",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/0b2cda61cb73c04084ff8f669dac6601480b0d24",
+            "track_id": "3y4LxiYMgDl4RethdzpmNe",
+            "track_name": "Breathe"
+        },
+        {
+            "artist_id": "25NQNriVT2YbSW80ILRWJa",
+            "artist_name": "Faith Hill",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5199c99b4ebe9490bde1163f61bb8c300a922fd",
+            "track_id": "6vgN6KGstss0GnBbKlMNK9",
+            "track_name": "The Way You Love Me"
+        },
+        {
+            "artist_id": "5vngPClqofybhPERIqQMYd",
+            "artist_name": "George Strait",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/a7bb7c4140b5de74b9b1d2b4513f0edaec5b407f",
+            "track_id": "61FfiL8hYFXh5qe7tuBsar",
+            "track_name": "All My Ex's Live In Texas"
+        },
+        {
+            "artist_id": "25NQNriVT2YbSW80ILRWJa",
+            "artist_name": "Faith Hill",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/56bac6b3dd1ab33722d912261542057df16e15c4",
+            "track_id": "79YeQbd1p7MsuT7wHQLRYY",
+            "track_name": "Mississippi Girl"
+        },
+        {
+            "artist_id": "25NQNriVT2YbSW80ILRWJa",
+            "artist_name": "Faith Hill",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/9fd840ac38c3bc1770efd6a1ddde15a6b8518a3a",
+            "track_id": "5tdbsJQ86BVvjmpTikVP7q",
+            "track_name": "Like We Never Loved At All"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/79d1a6de9554216abc2fc682e5a43477bbaeb153",
+            "track_id": "0KvLsZYwodakWxOQUYAR5I",
+            "track_name": "That Don't Impress Me Much"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/f5f9aa30fda26aec06bdc2721ba0b7d02f0c0af8",
+            "track_id": "7wCH9DbgRs7ujHeqNy6oAS",
+            "track_name": "You're Still The One"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5097afa9cca9d02ce4c1013786ae48ef5964e0c",
+            "track_id": "6Agiwgwq5BtflpNynGYsUv",
+            "track_name": "Man! I Feel Like A Woman!"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/f7b9e450953858805df791e604e0a2b631efb65e",
+            "track_id": "0Rcm3eyf9ALtx69QUldYIf",
+            "track_name": "Any Man Of Mine"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/cb140ff6d1296173bb20262a55777a74227fd3b6",
+            "track_id": "7aDcS8ufyLrf6IqTloqfI1",
+            "track_name": "From This Moment On"
+        },
+        {
+            "artist_id": "5e4Dhzv426EvQe3aDb64jL",
+            "artist_name": "Shania Twain",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/9164f1b964712e0f0921e4730a6102c71f3dfdb2",
+            "track_id": "6RH9SBaImgPfLCPEjpniVH",
+            "track_name": "I'm Gonna Getcha Good! - Red Single Edit"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc237b987e1e9c335aebdb07be4358af6a55f258",
+            "track_id": "3rXCZRMiMZp0feGcYXpwYX",
+            "track_name": "Cowboy Take Me Away"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/191a6d5cb2e9956ce124c1ea46bdd220766e6bb9",
+            "track_id": "65nCVhtlWYUzNvcM1MYp4l",
+            "track_name": "Landslide"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b43cbc27cade313fdfeb57c1dd4da106bc3a1f3",
+            "track_id": "5dPfweC4kFNvS45Hke0FBF",
+            "track_name": "Not Ready to Make Nice"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/b44445fa88e9b490bb1f4e0c97bdf2ec852a07c5",
+            "track_id": "0iEKsU36M5OYW0D1YCO1RO",
+            "track_name": "Wide Open Spaces"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/166b610527d01dba4ae8e50fd530e14875ad2a37",
+            "track_id": "6hRZ6K5MzPMKxUoEqHjBW0",
+            "track_name": "Goodbye Earl"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/2cc2e6db60211e7c1a6b9e80d926ab616e0ae634",
+            "track_id": "7uS5Sin6kgaupRtgYZDntE",
+            "track_name": "Ready to Run"
+        },
+        {
+            "artist_id": "25IG9fa7cbdmCIy3OnuH57",
+            "artist_name": "Dixie Chicks",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/1886684564604e37aacf8f82c4f4cb99bec1d5aa",
+            "track_id": "5txn76i4JdbDINtXtgSMVr",
+            "track_name": "There's Your Trouble"
+        },
+        {
+            "artist_id": "5vngPClqofybhPERIqQMYd",
+            "artist_name": "George Strait",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/2ab1e437b344e5aa949b9bcb8128cc6339373494",
+            "track_id": "5dHTF27CQvA7ktMvytr0Qc",
+            "track_name": "Write This Down"
+        },
+        {
+            "artist_id": "5vngPClqofybhPERIqQMYd",
+            "artist_name": "George Strait",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/26c49ef28e57b8d9636ec5f7efe10622d022da95",
+            "track_id": "2gsWK9fOkV2C7z7zPneO30",
+            "track_name": "All My Ex's Live In Texas"
+        },
+        {
+            "artist_id": "4tw2Lmn9tTPUv7Gy7mVPI4",
+            "artist_name": "Kenny Rogers",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc1df94001f015dfa236185b102ecf5d59bab395",
+            "track_id": "5KqldkCunQ2rWxruMEtGh0",
+            "track_name": "The Gambler"
+        },
+        {
+            "artist_id": "4tw2Lmn9tTPUv7Gy7mVPI4",
+            "artist_name": "Kenny Rogers",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/6668504f74c3531b83f811be54b4b9dd556c4dd7",
+            "track_id": "4WrwO9Un3ji5wnNySDGHwQ",
+            "track_name": "Islands In The Stream"
+        },
+        {
+            "artist_id": "738OS3zrCO782uDiUN9pet",
+            "artist_name": "Lee Ann Womack",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/af02b1bb7d643c35ca7f2a1dc10fed0b8d4df1bc",
+            "track_id": "65B1tEOv5W294uCKbmEcFV",
+            "track_name": "I Hope You Dance"
+        },
+        {
+            "artist_id": "6roFdX1y5BYSbp60OTJWMd",
+            "artist_name": "Tim McGraw",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/715fb4ba05fa389b8a2c36adccb345d371f7b492",
+            "track_id": "0Bn3zS1aaIhrMu4OFMnApX",
+            "track_name": "My Next Thirty Years"
+        },
+        {
+            "artist_id": "7qvsLYsYP0MHD7jkdv6DAG",
+            "artist_name": "Sara Evans",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/89378827c184a24f4704dfcec01903036f119c98",
+            "track_id": "3kGYLi6txRaQk4etwh3l3p",
+            "track_name": "My Heart Can't Tell You No"
+        },
+        {
+            "artist_id": "7qvsLYsYP0MHD7jkdv6DAG",
+            "artist_name": "Sara Evans",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/cac20e4e50df8818243d964d478b7c10c8e28369",
+            "track_id": "6NhpIdjYoufuNNlBsgOztc",
+            "track_name": "Suds in the Bucket"
+        }
+    ]
+}

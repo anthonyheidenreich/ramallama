@@ -1,0 +1,69 @@
+{
+    "href": "https://api.spotify.com/v1/users/dboyd435/playlists/3TtnlAvrd9lWXKnXEFGOFC/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/671db608dcfc419477bf54d62d394b0a1eb9c527",
+            "track_id": "2q5zd5u4A4JzAbes2VDPjk",
+            "track_name": "Blame It On the Tetons"
+        },
+        {
+            "artist_id": "2ooIqOf4X2uz4mMptXCtie",
+            "artist_name": "Neutral Milk Hotel",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/23f5b39b7eb6b13081ec4a8705405e1c75fbd836",
+            "track_id": "4OciRObYGzPzlU40U7YRc8",
+            "track_name": "In the Aeroplane Over the Sea"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/0d741d740ea0e449057d326439a47e974447e86d",
+            "track_id": "2lwwrWVKdf3LR9lbbhnr6R",
+            "track_name": "Float On"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/5dbfa371597735f887c7ec4d9d3d0e8841e77ca7",
+            "track_id": "4asjU3sDnn3002bTJIg2vZ",
+            "track_name": "Missed the Boat"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/55dc86159bb5df24e72d69ec1d471dc1057f1015",
+            "track_id": "1fBO9S4vo5cfCfRK1Ofaxa",
+            "track_name": "The Good Times Are Killing Me"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/36c6c638c83a759ceb5f69daee9f87a059ae36ee",
+            "track_id": "604fgWYaIUfr9UtBe9bj1p",
+            "track_name": "Satin In A Coffin"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/13f436de5768db951676bb10f65a727cd77e8999",
+            "track_id": "0UhIdavKe4EQSJCTPd6wQa",
+            "track_name": "Black Cadillacs"
+        },
+        {
+            "artist_id": "1yAwtBaoHLEDWAnWR87hBT",
+            "artist_name": "Modest Mouse",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a14d2408c8da1395707e1f0ef5b466228c002fe",
+            "track_id": "3ydXDfJ7hRPAKePR1l0IGZ",
+            "track_name": "Fly Trapped In a Jar"
+        }
+    ]
+}

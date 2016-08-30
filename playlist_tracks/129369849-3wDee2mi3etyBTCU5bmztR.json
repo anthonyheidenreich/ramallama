@@ -1,0 +1,37 @@
+{
+    "href": "https://api.spotify.com/v1/users/129369849/playlists/3wDee2mi3etyBTCU5bmztR/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "7b85ve82Sh36a3UAx74wut",
+            "artist_name": "Twisted Sister",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/e6582057bc30ec71148b7010fa9813489d4e434e",
+            "track_id": "7zLC4HAY11GvvKsZHNrkAp",
+            "track_name": "I Wanna Rock (Remastered Album Version)"
+        },
+        {
+            "artist_id": "7Ey4PD4MYsKc5I2dolUwbH",
+            "artist_name": "Aerosmith",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8d7971797e5d917ee589ade9962ea9196fae562",
+            "track_id": "2vX5WL7s6UdeQyweZEx7PP",
+            "track_name": "Walk This Way"
+        },
+        {
+            "artist_id": "14pVkFUHDL207LzLHtSA18",
+            "artist_name": "Pantera",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/14e66cb261d6027f14d31e7d247b2281b9e79e71",
+            "track_id": "7fcfNW0XxTWlwVlftzfDOR",
+            "track_name": "Walk"
+        },
+        {
+            "artist_id": "27T030eWyCQRmDyuvr1kxY",
+            "artist_name": "Scorpions",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/79088e7f45e7e9f3b9c3456a3feb48d45797c739",
+            "track_id": "0XIvZ82aDF7JiSi3ZE320u",
+            "track_name": "Rock You Like A Hurricane"
+        }
+    ]
+}

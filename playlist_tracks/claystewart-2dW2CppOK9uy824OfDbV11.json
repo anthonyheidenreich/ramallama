@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/claystewart/playlists/2dW2CppOK9uy824OfDbV11/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0f3EsoviYnRKTkmayI3cux",
+            "artist_name": "Men At Work",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/e2a0e908126b04c92cf0f80c29242d46f2b45396",
+            "track_id": "46RVKt5Edm1zl0rXhPJZxz",
+            "track_name": "Down Under"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/5002e02aca86fdd65d4b6d9b0098001e44b3000a",
+            "track_id": "1igW25R8lnb5ze9GWbuVsl",
+            "track_name": "Will You Be There"
+        },
+        {
+            "artist_id": "3PMd2F6ALdzVDUx8ZbBe9g",
+            "artist_name": "Monahans",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/45decc2acd4870f2dfb0e12734a1f9d77744d704",
+            "track_id": "4B4LGN4lVFSfWYAZdWWMGP",
+            "track_name": "Slow Burn"
+        },
+        {
+            "artist_id": "5Pwc4xIPtQLFEnJriah9YJ",
+            "artist_name": "OneRepublic",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/21256560b4de3a574fb311b5207d860e313cc46b",
+            "track_id": "6OtCIsQZ64Vs1EbzztvAv4",
+            "track_name": "Good Life"
+        },
+        {
+            "artist_id": "0oeUpvxWsC8bWS6SnpU8b9",
+            "artist_name": "The Naked And Famous",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/d9fe49214d0cea4c1832912e91c24e1588b28476",
+            "track_id": "25nzKGDiua1lE9Qo5V19GL",
+            "track_name": "Young Blood"
+        }
+    ]
+}

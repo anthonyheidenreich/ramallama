@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/123277527/playlists/1HAtq085xjEkh66coXpGPk/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "0rf8whOpWQjuBqQwPbtLma",
+            "track_name": "Wings"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Macklemore",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Penis Song"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Otherside feat. Ryan Lewis"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/17a32044a1b431a252b5e9a04ddf86e7887ec37d",
+            "track_id": "1FCQEg7wOK9IIBuxx63krr",
+            "track_name": "And We Danced (feat. Ziggy Stardust)"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 8,
+            "preview_url": null,
+            "track_id": "6PwfLLwtXhCcp1PiBpjJkJ",
+            "track_name": "Can't Hold Us (feat. Ray Dalton)"
+        },
+        {
+            "artist_id": "3JhNCzhSMTxs9WLGJJxWOY",
+            "artist_name": "Macklemore",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/bde4658f7d27a910a773e3180fc9632920db4043",
+            "track_id": "78wkOLqITJnDlAhvAclsb1",
+            "track_name": "The Town"
+        },
+        {
+            "artist_id": "5BcAKTbp20cv7tC5VqPFoC",
+            "artist_name": "Macklemore & Ryan Lewis",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/334922a509ebb9352e09b57e459ecda181efabbd",
+            "track_id": "14lkom0xjCyp4H7CAOU7pI",
+            "track_name": "Irish Celebration (P Smoov Remix)"
+        }
+    ]
+}

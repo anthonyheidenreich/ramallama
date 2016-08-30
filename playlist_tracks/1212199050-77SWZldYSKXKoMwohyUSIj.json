@@ -1,0 +1,101 @@
+{
+    "href": "https://api.spotify.com/v1/users/1212199050/playlists/77SWZldYSKXKoMwohyUSIj/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4F84IBURUo98rz4r61KF70",
+            "artist_name": "The White Stripes",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/175b0de44d9a813b1dca14903a34c3bb38f403e9",
+            "track_id": "1GTHfNDbLFT6pgDFJvPFxu",
+            "track_name": "Ball And Biscuit"
+        },
+        {
+            "artist_id": "7mnBLXK823vNxN3UWB7Gfz",
+            "artist_name": "The Black Keys",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e97685dc0946527308022682749b18d08dcbca3",
+            "track_id": "3nGEE4pU3gXWa8bZ9FOaXy",
+            "track_name": "Keep Me"
+        },
+        {
+            "artist_id": "462T0buQ5ScBUQCRpodDRf",
+            "artist_name": "Charles Bradley",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/8dd5a0d5c7dee0b82894a7ca696fea2df3634c5a",
+            "track_id": "3N2FglYF3MGNntecAnVyeG",
+            "track_name": "Dusty Blue (feat. Menahan Street Band)"
+        },
+        {
+            "artist_id": "2gCsNOpiBaMNh20jQ5prf0",
+            "artist_name": "Buddy Guy",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "2IqSoswS4J6Y7gFn3sPEld",
+            "track_name": "The Price You Gotta Pay featuring Keith Richards"
+        },
+        {
+            "artist_id": "5xLSa7l4IV1gsQfhAMvl0U",
+            "artist_name": "B.B. King",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/05fe7cb2265a9696f392856cf7b23eb4aa0699d3",
+            "track_id": "3gSnHliiFKAqyt4xDT2i45",
+            "track_name": "Call It Stormy Monday"
+        },
+        {
+            "artist_id": "1tpXaFf2F55E7kVJON4j4G",
+            "artist_name": "Black Rebel Motorcycle Club",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/308bcc54247010e0d354c9e2fde8ecb4a447f260",
+            "track_id": "57XbiF3mXSAXDntyEw57lW",
+            "track_name": "Ain't No Easy Way"
+        },
+        {
+            "artist_id": "2bmixwMZXlkl2sbIbOfviq",
+            "artist_name": "Bo Diddley",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/279a7cbb21db8e90ef55d33684a0d7f396211faf",
+            "track_id": "6lXeiMvUgvlyI7dQKmvIKR",
+            "track_name": "I'm A Man - Single Version"
+        },
+        {
+            "artist_id": "22WZ7M8sxp5THdruNY3gXt",
+            "artist_name": "The Doors",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/10a370a3344827fcea10d80acffcb7b7c9de8901",
+            "track_id": "6DmfWj5kOa1fX8AwN9byOn",
+            "track_name": "L.A. Woman"
+        },
+        {
+            "artist_id": "3Ngh2zDBRPEriyxQDAMKd1",
+            "artist_name": "Matchbox Twenty",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/2b81dcf3b01ce4062c3abd513f2fa1c613bfc162",
+            "track_id": "6Bm6qUCSatPAqkQllFL7oA",
+            "track_name": "Unwell"
+        },
+        {
+            "artist_id": "6TcnmlCSxihzWOQJ8k0rNS",
+            "artist_name": "Third Eye Blind",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/da6695279f59c190fd1ee02cb5729f6f56b8415f",
+            "track_id": "3Uvx1TO0Kg5HgGPk58lHXv",
+            "track_name": "How's It Going To Be"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/95cb9df1b056d759920b5e85ad7f9aff0a390671",
+            "track_id": "75JFxkI2RXiU7L9VXzMkle",
+            "track_name": "The Scientist"
+        },
+        {
+            "artist_id": "4gzpq5DPGxSnKTe4SA8HAU",
+            "artist_name": "Coldplay",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1640815319b2df5ddfac27a28f016319a281468",
+            "track_id": "7LVHVU3tWfcxj5aiPFEW4Q",
+            "track_name": "Fix You"
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "href": "https://api.spotify.com/v1/users/jonathan.tarlton/playlists/6TUC1MVLwQEZzUtEgcZzWM/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "0ECwFtbIWEVNwjlrfc6xoL",
+            "artist_name": "Eagles",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/d8393c90573d9d7049519e5adfe3983b221bc78a",
+            "track_id": "6gXrEUzibufX9xYPk3HD5p",
+            "track_name": "Life In The Fast Lane"
+        },
+        {
+            "artist_id": "7j9PMegEgVN1fNp8NZXNCI",
+            "artist_name": "The Edgar Winter Group",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/79e833846631dd402bf28ad3693fe40bdb3786da",
+            "track_id": "4aK0vJsPXFsFdBUh8hPaDT",
+            "track_name": "Frankenstein"
+        },
+        {
+            "artist_id": "5hfOHpGMsi8O3DA0ROLGqF",
+            "artist_name": "James Gang",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/d84672d84bf5da3c1bcb0275f54eefc36f507230",
+            "track_id": "5QuuPGj0DNzcyLAOVB8F0t",
+            "track_name": "Funk #49"
+        },
+        {
+            "artist_id": "2AM4ilv6UzW0uMRuqKtDgN",
+            "artist_name": "ZZ Top",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d39fb3e3fd8718f4c6c72fcf6f86b6b55cc3253",
+            "track_id": "0FMhMAFPLg8EljnROSoVnj",
+            "track_name": "La Grange"
+        },
+        {
+            "artist_id": "39T6qqI0jDtSWWioX8eGJz",
+            "artist_name": "The Doobie Brothers",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/2c518566d9f4feab08836b76e48848e751e7aee9",
+            "track_id": "4nXkbcTj3nyww1cHkw5RAP",
+            "track_name": "Long Train Runnin'"
+        },
+        {
+            "artist_id": "7j9PMegEgVN1fNp8NZXNCI",
+            "artist_name": "The Edgar Winter Group",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/25e5c70576124535247f93aec2387017e978ff1c",
+            "track_id": "4DhbiXEuV7JxSR0wuqetTa",
+            "track_name": "Free Ride"
+        },
+        {
+            "artist_id": "776Uo845nYHJpNaStv1Ds4",
+            "artist_name": "Jimi Hendrix",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/127cfd13188ff70ab699edfee31c6fc23e7ea655",
+            "track_id": "7oVqbYLuql1XFKTpQQKn5s",
+            "track_name": "Crosstown Traffic"
+        },
+        {
+            "artist_id": "4wQ3PyMz3WwJGI5uEqHUVR",
+            "artist_name": "The Allman Brothers Band",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/a1fdead4f7254366de72bf753034a4f957b5c6d3",
+            "track_id": "0jg2KUI9Qv3lyJilY5gVH0",
+            "track_name": "Jessica"
+        },
+        {
+            "artist_id": "2UZMlIwnkgAEDBsw1Rejkn",
+            "artist_name": "Tom Petty",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/0bb541152b9fa889419d2d83c13817a28b45402b",
+            "track_id": "4AiMaeCXwsldpwvA5wu5gM",
+            "track_name": "Runnin' Down A Dream"
+        },
+        {
+            "artist_id": "7MhMgCo0Bl0Kukl93PZbYS",
+            "artist_name": "Blur",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfa055d3831ac3ec60cf66d92bda9ab68e302dbd",
+            "track_id": "3GfOAdcoc3X5GPiiXmpBjK",
+            "track_name": "Song 2"
+        },
+        {
+            "artist_id": "6x33CmZWo2Ve4hxYl2Craq",
+            "artist_name": "Foghat",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/80507a3557d6fc001464496c2851b3762b2b12d8",
+            "track_id": "48MQDFkvHlGnRQyUx6ZXVe",
+            "track_name": "I Just Want To Make Love To You"
+        },
+        {
+            "artist_id": "21ysNsPzHdqYN2fQ75ZswG",
+            "artist_name": "Ted Nugent",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/07d22041a96d95a6b7895767908ac26860e24cc1",
+            "track_id": "4qKhCrZNezDfYuNer2TQc3",
+            "track_name": "Motor City Madhouse"
+        },
+        {
+            "artist_id": "33MM9GE3xkoG9IL9IePpdu",
+            "artist_name": "Dixie Dregs",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/e32164e0f84a0a42a49e8058cafdad25f69ecbe7",
+            "track_id": "3BPdG1irJzrDGOMlt7icnn",
+            "track_name": "Take It Off The Top"
+        },
+        {
+            "artist_id": "5zoKOcTDI9EMOhGNaxL708",
+            "artist_name": "Gov't Mule",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/44a90023363f3fcd774851262059c859325ebc17",
+            "track_id": "0J7W6f3S8CienuTyjZOGzh",
+            "track_name": "Bad Little Doggie"
+        },
+        {
+            "artist_id": "5fsDcuclIe8ZiBD5P787K1",
+            "artist_name": "Stevie Ray Vaughan",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/e017ebce54e66801b2f1a3abf71f517d094b7623",
+            "track_id": "18PhtDBBYxE0vN4YvsZnMy",
+            "track_name": "Scuttle Buttin'"
+        },
+        {
+            "artist_id": "2SNzxY1OsSCHBLVi77mpPQ",
+            "artist_name": "Joe Bonamassa",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/94b5bdcffb5b8a116d6c377fccb0fa95ecb2241f",
+            "track_id": "37LhDdQILGn6XCk6ETEpW7",
+            "track_name": "Travellin' South"
+        },
+        {
+            "artist_id": "0AD4odMWVQ2wUSlgxOB5Rl",
+            "artist_name": "Jeff Beck",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/ffdb4652b1c2c159d32227d2b8944d57b6d0018b",
+            "track_id": "6slpf7Uiw5DHRUvaHeIZGZ",
+            "track_name": "Freeway Jam"
+        },
+        {
+            "artist_id": "4wo1267SJuUfHgasdlfNfc",
+            "artist_name": "The Raconteurs",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/22bfc7729f4009ad991a29275bb35af9168c152c",
+            "track_id": "0ydgFPcYrxaHgVuLd17mjh",
+            "track_name": "Salute Your Solution"
+        },
+        {
+            "artist_id": "36QJpDe2go2KgaRleHCDTp",
+            "artist_name": "Led Zeppelin",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/5e8185aa8110219375d4fc83ed6efb2081c2baae",
+            "track_id": "0h2gzJQBt6duqZD6kWiz4s",
+            "track_name": "Moby Dick"
+        },
+        {
+            "artist_id": "568ZhdwyaiCyOGJRtNYhWf",
+            "artist_name": "Deep Purple",
+            "popularity": 26,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b8ab7db0281a79ad744d020918f393457d7dc9c",
+            "track_id": "5xYrOWCMbGrHwV9llkykLb",
+            "track_name": "Highway Star - Remastered"
+        },
+        {
+            "artist_id": "320TrJub4arztwXRm7kqVO",
+            "artist_name": "Dr. John",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/c87af0e1c43fa372cc2d27fbb1ce625d49f1f042",
+            "track_id": "0I2ELF6uHlL4ABu9aFiou7",
+            "track_name": "Right Place Wrong Time"
+        },
+        {
+            "artist_id": "2ODUxmFxJSyvGiimNhMHbO",
+            "artist_name": "Johnny Winter",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "1biljmmcdcO3LfuerOguGE",
+            "track_name": "Rock N Roll Hootchie Koo"
+        },
+        {
+            "artist_id": "0VdoLGGpWcDZnzep6SSTdP",
+            "artist_name": "Montrose",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/1eac582a31b881a35818a2f0a99b12d3151e1494",
+            "track_id": "2U7U8xdoEn74xG2umc7FHi",
+            "track_name": "Bad Motor Scooter"
+        },
+        {
+            "artist_id": "3i9hP422d2KMjaupTzBNVS",
+            "artist_name": "The Spencer Davis Group",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/935b46d634d41c88dc55df89ca36774726b7b9c9",
+            "track_id": "0e7GqIo8VprrozIcG3CZY9",
+            "track_name": "Gimme Some Lovin' - Remastered 2010"
+        },
+        {
+            "artist_id": "6biWAmrHyiMkX49LkycGqQ",
+            "artist_name": "Thin Lizzy",
+            "popularity": 21,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa16edca320ebce5ee4179eab848b4a0723e0ace",
+            "track_id": "2VehCyhc0t9csOpz3JYXql",
+            "track_name": "The Rocker"
+        }
+    ]
+}

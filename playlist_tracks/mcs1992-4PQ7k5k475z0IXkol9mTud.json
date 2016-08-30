@@ -1,0 +1,397 @@
+{
+    "href": "https://api.spotify.com/v1/users/mcs1992/playlists/4PQ7k5k475z0IXkol9mTud/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/239c2eb433aaecb8821d72d74dc8d0a54eae4ca4",
+            "track_id": "2IuUMx3uxxJAHcH41aYtn0",
+            "track_name": "Winter Wonderland - 2006 - Remaster"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 81,
+            "preview_url": "https://p.scdn.co/mp3-preview/25f4d9150b5332f7aacbcabbd69f2de50ae34772",
+            "track_id": "0lizgQ7Qw35od7CYaoMBZb",
+            "track_name": "Santa Tell Me"
+        },
+        {
+            "artist_id": "0MHgLfmQdutffmvWe5XBTN",
+            "artist_name": "Burl Ives",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/00ff2d4934755bc1b5e705757b0b620e6e79ea26",
+            "track_id": "5NJ8M8qilAzKVNOcjXfTJb",
+            "track_name": "A Holly Jolly Christmas"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/fbf3d50d1755079ac24be79b1cbe5a0909876afd",
+            "track_id": "54K9GOVJqIaDZNXLnnxiKc",
+            "track_name": "Mistletoe"
+        },
+        {
+            "artist_id": "38EmEgXkgK51MT2tPY0EoC",
+            "artist_name": "Bobby Helms",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/71e9c6980da0b5b506d1e695da001a4ac4ec49bb",
+            "track_id": "74u8cWJGP8d8xsdD0pFoWg",
+            "track_name": "Jingle Bell Rock"
+        },
+        {
+            "artist_id": "79D4dipwR6scV8AN3dm7gW",
+            "artist_name": "Seth MacFarlane",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/c28bf3368915dc1dceefafaf46ec2eee8080bea4",
+            "track_id": "5BYz6McvNTXD60vRFLkIMw",
+            "track_name": "Baby, It's Cold Outside"
+        },
+        {
+            "artist_id": "7v4imS0moSyGdXyLgVTIV7",
+            "artist_name": "Nat King Cole",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/b5ebbceac27fbe2a74b159b88bf26c757e939d78",
+            "track_id": "6NMz3Cjvod2qnJjakiRDA8",
+            "track_name": "The Christmas Song (Merry Christmas To You)"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/c445e0a936625f3f6835f418e8ee1791c57f53a8",
+            "track_id": "6ESF1frEsRUZ8lbvZue1Nl",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "4ytkhMSAnrDP8XzRNlw9FS",
+            "artist_name": "Vince Guaraldi Trio",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf39f4734967b510f091b323ea494505afcadc19",
+            "track_id": "5nP6hkDb2ZOnI4ohGGO4tY",
+            "track_name": "Skating"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/4b827d036bdc5d1d09c21492e1234bc399e7e26f",
+            "track_id": "5CaBRn7C7jttA1wWd8eBaH",
+            "track_name": "Sleigh Ride"
+        },
+        {
+            "artist_id": "1GxkXlMwML1oSg5eLPiAz3",
+            "artist_name": "Michael Bubl\u00e9",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/df2e89e681c9d219977d3ffd9c4d0ea052a80047",
+            "track_id": "0lLdorYw7lVrJydTINhWdI",
+            "track_name": "It's Beginning To Look A Lot Like Christmas"
+        },
+        {
+            "artist_id": "4cPHsZM98sKzmV26wlwD2W",
+            "artist_name": "Brenda Lee",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/0689d409eb699d08c62864b82b15ba431c3ad883",
+            "track_id": "28fuXrmmF9dYWx25dMW9dP",
+            "track_name": "Rockin' Around The Christmas Tree"
+        },
+        {
+            "artist_id": "4iHNK0tOyZPYnBU7nGAgpQ",
+            "artist_name": "Mariah Carey",
+            "popularity": 90,
+            "preview_url": "https://p.scdn.co/mp3-preview/d43e6f68e6c260d0dec151f7a78bbb121c8490b2",
+            "track_id": "7nQrUXVzVeYb0hAuabfmaP",
+            "track_name": "All I Want for Christmas Is You"
+        },
+        {
+            "artist_id": "6G9bygHlCyPgNGxK2l3YdE",
+            "artist_name": "Vanessa Hudgens",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/2d2033ff1e4405bf7657730c9be2280e1af0de04",
+            "track_id": "10t1vzFgmi6HBoJZ4v56wh",
+            "track_name": "Winter Wonderland"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/da82c5b4cc1366ffa0df086ff7a056be1da785d2",
+            "track_id": "6Uc4EHr3ktYmLfLDY7LifJ",
+            "track_name": "Snow In California"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/2de89850c6b9a50c7583a561db0b5247533cf21f",
+            "track_id": "5aDoUmxBsbdpS16alksb5Z",
+            "track_name": "Do You Hear What I Hear? - 2006 - Remaster"
+        },
+        {
+            "artist_id": "3BmGtnKgCSGYIUhmivXKWX",
+            "artist_name": "Kelly Clarkson",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/122c50fb99af75daaec22a213fa479473cc806c0",
+            "track_id": "42X0uRpzqXXHJzX0mzThGL",
+            "track_name": "Please Come Home for Christmas (Bells Will Be Ringing)"
+        },
+        {
+            "artist_id": "2wY79sveU1sp5g7SokKOiI",
+            "artist_name": "Sam Smith",
+            "popularity": 79,
+            "preview_url": "https://p.scdn.co/mp3-preview/462297934e10da6de19114aa8d04ff36e4363b5e",
+            "track_id": "1Qi2wh8fFgDV7tl4Sj3f2K",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "3RwQ26hR2tJtA8F9p2n7jG",
+            "artist_name": "The Temptations",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/da0df2570c0e18a54d5c8a4d6e735f8201cb028f",
+            "track_id": "36w3m4plTI8ZZNB9ziecAM",
+            "track_name": "Silent Night"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/6131c52406fc32e8554fa48faaa9712b8be9acf1",
+            "track_id": "1lq31ZbKSc9MSFQXAVFt6Y",
+            "track_name": "Christmas Eve"
+        },
+        {
+            "artist_id": "3MdG05syQeRYPPcClLaUGl",
+            "artist_name": "Diana Ross",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/572d2174a75fcad94e5e9796743dd7575232d93b",
+            "track_id": "5prPrADlI1knClFJycXv0b",
+            "track_name": "This Christmas"
+        },
+        {
+            "artist_id": "5oWOx0BBDSMoFB8JDrjQre",
+            "artist_name": "Katharine McPhee",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/b8d39030169f1245994dc423c3a3b85e608be933",
+            "track_id": "0v2aHmurBe6Eu782SaVe4w",
+            "track_name": "Jingle Bells"
+        },
+        {
+            "artist_id": "3fMbdgg4jU18AjLCKBhRSm",
+            "artist_name": "Michael Jackson",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/85572a6b332d1af2d5530ac589e0157bc4ca5775",
+            "track_id": "4D0it492qavZ0LZw7YVEiW",
+            "track_name": "Little Christmas Tree"
+        },
+        {
+            "artist_id": "5Pwc4xIPtQLFEnJriah9YJ",
+            "artist_name": "OneRepublic",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d2ba1c2b28988163e6025bbdaf86f207a9f2040",
+            "track_id": "031160CYV5Bl87bc77MiwK",
+            "track_name": "Christmas Without You"
+        },
+        {
+            "artist_id": "4x1nvY2FN8jxqAFA0DA02H",
+            "artist_name": "John Lennon",
+            "popularity": 85,
+            "preview_url": "https://p.scdn.co/mp3-preview/89d56d1603c9fcb22f0f98f405103a8abae637db",
+            "track_id": "3zJw3rugfpVrmBeDDnUYzy",
+            "track_name": "Happy Xmas (War Is Over) - 2010 Digital Remaster"
+        },
+        {
+            "artist_id": "6aZyMrc4doVtZyKNilOmwu",
+            "artist_name": "Colbie Caillat",
+            "popularity": 46,
+            "preview_url": null,
+            "track_id": "57ZRgwURSuMKwyHAp6A1M6",
+            "track_name": "Mistletoe"
+        },
+        {
+            "artist_id": "0G74PWccc2UbEEHNKVVaKB",
+            "artist_name": "Andreas Weise",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/58e69dcbff69def0bf82f366a295255d6485e2a9",
+            "track_id": "6tUMdozpJETJYMjbk54LjA",
+            "track_name": "Christmas Dream"
+        },
+        {
+            "artist_id": "1uNFoZAHBGtllmzznpCI3s",
+            "artist_name": "Justin Bieber",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/5f0de7e609da6e6c57ecf0d2391727b3eb29beb8",
+            "track_id": "4Z0l8dIngsalL0QdCun5CE",
+            "track_name": "The Christmas Song (Chestnuts Roasting On An Open Fire)"
+        },
+        {
+            "artist_id": "3OpnoUqoRIHWbsFs4Nw0NQ",
+            "artist_name": "Nat King Cole Trio",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/a42799c8f890cd3af49ebf4fb920ffb091cf90d4",
+            "track_id": "4xXMJbzVQSCyprr4PG5sBj",
+            "track_name": "All I Want For Christmas (Is My Two Front Teeth) - 1997 Digital Remaster"
+        },
+        {
+            "artist_id": "04gDigrS5kc9YWfZHwBETP",
+            "artist_name": "Maroon 5",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/db1d133b3234aa7f088bf87d51a03d3a9d66afaa",
+            "track_id": "6R1L7XoVK27F0heZe1yvfO",
+            "track_name": "Happy Christmas (War Is Over)"
+        },
+        {
+            "artist_id": "5V0MlUE1Bft0mbLlND7FJz",
+            "artist_name": "Ella Fitzgerald",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/85fb5bc07e3892cc42f9b2018fd3753f6b6d6636",
+            "track_id": "76nIlhb7sx9W9ceQKVKreg",
+            "track_name": "Frosty The Snowman"
+        },
+        {
+            "artist_id": "3GBPw9NK25X1Wt2OUvOwY3",
+            "artist_name": "Jack Johnson",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/593db199a7ec110273bca0eb216775dce8b99d18",
+            "track_id": "6ShAxK5egTFaalJMty15Si",
+            "track_name": "Someday At Christmas"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/85085255c9c37a8fc03214b9d3027cd5f730f6b4",
+            "track_id": "01h424WG38dgY34vkI3Yd0",
+            "track_name": "White Christmas"
+        },
+        {
+            "artist_id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "artist_name": "Ariana Grande",
+            "popularity": 74,
+            "preview_url": "https://p.scdn.co/mp3-preview/8d2bb02866503381fb6e3a7017286be5af5feb1a",
+            "track_id": "41XCLKG0xl01mGprBDtTNS",
+            "track_name": "Santa Baby"
+        },
+        {
+            "artist_id": "7guDJrEfX3qb6FEbdPA5qi",
+            "artist_name": "Stevie Wonder",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/6bfc0724cc44731fb79707f05e7d6b861b3773cf",
+            "track_id": "6ym2XshEkO0VDN0QJCW6Yb",
+            "track_name": "One Little Christmas Tree"
+        },
+        {
+            "artist_id": "7H55rcKCfwqkyDFH9wpKM6",
+            "artist_name": "Christina Perri",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/4ebfe88da9c6f1adee397b781d2cf772baa89229",
+            "track_id": "6brLwOYFXw7rkGOcLntcPZ",
+            "track_name": "merry christmas darling"
+        },
+        {
+            "artist_id": "3oDbviiivRWhXwIE8hxkVV",
+            "artist_name": "The Beach Boys",
+            "popularity": 78,
+            "preview_url": "https://p.scdn.co/mp3-preview/43040750d6ec320bd4efbfb7df3886685ddf8249",
+            "track_id": "5xlS0QkVrSH7ssEbBgBzbM",
+            "track_name": "Little Saint Nick"
+        },
+        {
+            "artist_id": "0B2SlMW40Hs9mijOi1cDyf",
+            "artist_name": "Mr Little Jeans",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/03c7089c5988f60ef8093297e5fba0167a78a088",
+            "track_id": "6U8QFYAKBNbAl1HOVW0xch",
+            "track_name": "Dear Santa"
+        },
+        {
+            "artist_id": "49e4v89VmlDcFCMyDv9wQ9",
+            "artist_name": "Dean Martin",
+            "popularity": 34,
+            "preview_url": null,
+            "track_id": "228ayOZtmyrmYw4FDwQ8QZ",
+            "track_name": "I've Got My Love To Keep Me Warm - 2002 - Remastered"
+        },
+        {
+            "artist_id": "4RVnAU35WRWra6OZ3CbbMA",
+            "artist_name": "Kylie Minogue",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/c1f8684b1a86a3bc00966b452610734551cd3776",
+            "track_id": "2LbOgZOd6n7wG3TRxGndaX",
+            "track_name": "Let It Snow"
+        },
+        {
+            "artist_id": "6KWcxMWVNVIYbdOQyJtsSy",
+            "artist_name": "The Platters",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/9d7cb2a34d06f113d2b143905f3de8bf4abf1841",
+            "track_id": "5bziXdftjfxCFOeLCFqEXf",
+            "track_name": "Christmas Time"
+        },
+        {
+            "artist_id": "2y8Jo9CKhJvtfeKOsYzRdT",
+            "artist_name": "Rod Stewart",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4e73502606079fbc170d0f15bd1ee6e83b0d90c",
+            "track_id": "6Ue1jI61Tt6gdXS1b3HncL",
+            "track_name": "Have Yourself A Merry Little Christmas"
+        },
+        {
+            "artist_id": "08ct2eZF5lUPdJpHwNKWof",
+            "artist_name": "Hootie & The Blowfish",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/d4491c9cbc89c768a2019fdba5d8ebd5cdd4f372",
+            "track_id": "5O46QJx2jSNacJkV4HRl4F",
+            "track_name": "The Christmas Song"
+        },
+        {
+            "artist_id": "2Kx7MNY7cI1ENniW7vT30N",
+            "artist_name": "Norah Jones",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/ccaf3a355d6ca94cb7c0bbca082786131b7d1b2f",
+            "track_id": "7ztutwSX28DJkKCzppV2oM",
+            "track_name": "Peace"
+        },
+        {
+            "artist_id": "6ZjFtWeHP9XN7FeKSUe80S",
+            "artist_name": "Bing Crosby",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/b7d5b7923ae5f57c1d653f117b913e90ce94fbb9",
+            "track_id": "0pAT3JUEjIiqUkwxE0vbBQ",
+            "track_name": "The Little Drummer Boy - 2006 - Remaster"
+        },
+        {
+            "artist_id": "6jJ0s89eD6GaHleKKya26X",
+            "artist_name": "Katy Perry",
+            "popularity": 75,
+            "preview_url": "https://p.scdn.co/mp3-preview/00cdde437a20343ea570072532d15100066c23e7",
+            "track_id": "31wGncgYPc7WsxBwtcdGGE",
+            "track_name": "White Christmas"
+        },
+        {
+            "artist_id": "1eEfMU2AhEo7XnKgL7c304",
+            "artist_name": "Carpenters",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c30f4d2d5803be19fb4e9d101517b033e5f6138",
+            "track_id": "5ddjyJCQXl077CRXS0ieOh",
+            "track_name": "Merry Christmas Darling - Album Version/Remix"
+        },
+        {
+            "artist_id": "1XkoF8ryArs86LZvFOkbyr",
+            "artist_name": "Mary J. Blige",
+            "popularity": 70,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ae8d9d0565ddf909d5f99fbeb7b925724d0ea75",
+            "track_id": "6VVZ8viy4dMagUurmDCpQs",
+            "track_name": "Do You Hear What I Hear?"
+        },
+        {
+            "artist_id": "5ixB75BQR3ADoWQkcHQJTs",
+            "artist_name": "Gene Autry",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/fa90fe61e8cca2d51063ac4b8447b2fd32fc54e9",
+            "track_id": "0oGsbvPtD74q4k98j1RYhl",
+            "track_name": "Rudolph The Red-Nosed Reindeer - Single Version"
+        }
+    ]
+}

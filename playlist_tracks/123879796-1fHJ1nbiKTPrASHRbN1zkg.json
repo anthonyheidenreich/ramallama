@@ -1,0 +1,397 @@
+{
+    "href": "https://api.spotify.com/v1/users/123879796/playlists/1fHJ1nbiKTPrASHRbN1zkg/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 77,
+            "preview_url": "https://p.scdn.co/mp3-preview/75c300c701181cb6ea77d2da737a89571f800f53",
+            "track_id": "22Mme5vsZ688TMUieIHdx3",
+            "track_name": "Wild for the Night"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/2df1de218d20a4bf1ef74df8558141b53a2d252d",
+            "track_id": "7frWizM5FgJkaUl1rXhVtO",
+            "track_name": "Swimming Pools (Drank)"
+        },
+        {
+            "artist_id": "5me0Irg2ANcsgc93uaYrpb",
+            "artist_name": "The Notorious B.I.G.",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/8a9fafa68ef73012dbdb44fef5526109242785fb",
+            "track_id": "6KYqqgHpW0qEx54VOCncNL",
+            "track_name": "I'm With Whatever"
+        },
+        {
+            "artist_id": "6Wr3hh341P84m3EI8qdn9O",
+            "artist_name": "Rise Against",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/d00855d22df80a57b1846e6f4c3d601ad81ea7a4",
+            "track_id": "1um8pnf5rJylnjLBDn7afh",
+            "track_name": "State Of The Union"
+        },
+        {
+            "artist_id": "70eNABm9r2VXOGYW4r209H",
+            "artist_name": "Rob Bailey & The Hustle Standard",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/019f6545758c85f052f6855673a636a1b482e90c",
+            "track_id": "6fd3mZrsVbe7N6whWrlZYv",
+            "track_name": "Hungry"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Lil Wayne",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Martians Vs. Goblins ( Feat. Game  Tyler The Creator"
+        },
+        {
+            "artist_id": "70eNABm9r2VXOGYW4r209H",
+            "artist_name": "Rob Bailey & The Hustle Standard",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba2285201799872ea05c7f9d93c0fd180a99a7a4",
+            "track_id": "3SeZzF0iKVwsqfpZcQeA4r",
+            "track_name": "Hold Strong"
+        },
+        {
+            "artist_id": "6Ha4aES39QiVjR0L2lwuwq",
+            "artist_name": "Yo Gotti",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/29f8afe8061a6e2003885c215309606d37c74ae5",
+            "track_id": "0cWmYmQ7OjAKiNnH7qtLKk",
+            "track_name": "King Sh*t"
+        },
+        {
+            "artist_id": "6vXTefBL93Dj5IqAWq6OTv",
+            "artist_name": "French Montana",
+            "popularity": 66,
+            "preview_url": "https://p.scdn.co/mp3-preview/179ef76f672eeb1bf760b2ea57ce14cefc3f5760",
+            "track_id": "3Jv1XgMPVjdN5xGfnRJ20s",
+            "track_name": "Pop That"
+        },
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ca172a839fc8ac50aa3e3cf118373e5b277e88a",
+            "track_id": "0hfcZOWlxx8gRGI7eRYbb7",
+            "track_name": "I. Crawl"
+        },
+        {
+            "artist_id": "3A5tHz1SfngyOZM2gItYKu",
+            "artist_name": "Earl Sweatshirt",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/495dbe5761d525d218cfa6b2676c5b93e863edec",
+            "track_id": "1rW2nkUbmKD2MC22YrU8cX",
+            "track_name": "Whoa"
+        },
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 72,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cf4ac595c74b6d40bc9ae426f5ad5c93533b5b8",
+            "track_id": "4zGvb8hxGLB2jEPRFiRRqw",
+            "track_name": "Bonfire"
+        },
+        {
+            "artist_id": "2YZyLoL8N0Wb9xBt1NhZWg",
+            "artist_name": "Kendrick Lamar",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7f6575481d90c33846b8f2017abfb4c111f8ca9",
+            "track_id": "6fAyRZ0GHuuvSOEIOwi58N",
+            "track_name": "Backseat Freestyle"
+        },
+        {
+            "artist_id": "3hcs9uc56yIGFCSy9leWe7",
+            "artist_name": "Lil Durk",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "4ubeOrTvBo42NlWTvMw5yS",
+            "track_name": "ChiRaq (Remix) ft. Meek Mill & Shy Glizzy"
+        },
+        {
+            "artist_id": "0ONHkAv9pCAFxb0zJwDNTy",
+            "artist_name": "Pusha T",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/91fae19b152e321da99dcdb427c44ec8243c25b3",
+            "track_id": "6Cr4GuonfqCCFIqSSOGTBG",
+            "track_name": "Trouble On My Mind"
+        },
+        {
+            "artist_id": "5R2UBQDhqSCBlaKyFqj4rR",
+            "artist_name": "King Fantastic",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/2505b1d67e5bb2a6076a09f938453251d50602ef",
+            "track_id": "2nTIMfWWEh9uIzZoIYO7C7",
+            "track_name": "Why? Where? What?"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 14,
+            "preview_url": null,
+            "track_id": "6lIqLWGRpM1ExD5ADrCdBR",
+            "track_name": "Druggys Wit Hoes Again (feat. Ab Soul)"
+        },
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 62,
+            "preview_url": "https://p.scdn.co/mp3-preview/a5fe99f3dee5ebc57c5e14f054e5874852a7c4a7",
+            "track_id": "1GMDpf82TUwTVBPYiu0dmR",
+            "track_name": "Switch Lanes"
+        },
+        {
+            "artist_id": "67nwj3Y5sZQLl72VNUHEYE",
+            "artist_name": "Wale",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/1052c0caa2b8c77c2e3f3aab79d52898ce2c149a",
+            "track_id": "0xOFqoCyGiLFgGAXD73xtC",
+            "track_name": "Slight Work - feat. Big Sean"
+        },
+        {
+            "artist_id": "0NbfKEOTQCcwd6o7wSDOHI",
+            "artist_name": "The Game",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/697d6b9d11aa58baec8362bb9814c73909ea4f73",
+            "track_id": "1UIcqXAA24eg76EFWViwr5",
+            "track_name": "Martians Vs Goblins"
+        },
+        {
+            "artist_id": "5dHt1vcEm9qb8fCyLcB3HL",
+            "artist_name": "A$AP Ferg",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/5cfa9c504f24d1c6674fb9c74af3b3b5dd186e83",
+            "track_id": "4awpwf3TeFWOtLiswRbKfr",
+            "track_name": "Murda Something"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 68,
+            "preview_url": "https://p.scdn.co/mp3-preview/7f9f03ae0e80946d75b98e3b8dd61a57f0749f3a",
+            "track_id": "2kfpH2OAAdpk5J3JaraAIh",
+            "track_name": "Hands On The Wheel"
+        },
+        {
+            "artist_id": "13ubrt8QOOCPljQ2FL1Kca",
+            "artist_name": "A$AP Rocky",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3b3b18b837f95821937ef559c4b6bacf69b7f80",
+            "track_id": "2gcWBtz13XcrxtKuPSICsh",
+            "track_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c9aca92c4a8ebb0aca5b4122f5edcebaa74e4f1",
+            "track_id": "7dvd3b2oz7AFgXrPBIIYxR",
+            "track_name": "Dirt Off Your Shoulder/Lying From You"
+        },
+        {
+            "artist_id": "2d0hyoQ5ynDBnkvAbJKORj",
+            "artist_name": "Rage Against The Machine",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/9184207aebd86b5ea000c0bea4913bab08afd7a1",
+            "track_id": "0lsDJ0EkccufmSM43P28TQ",
+            "track_name": "Pistol Grip Pump"
+        },
+        {
+            "artist_id": "70eNABm9r2VXOGYW4r209H",
+            "artist_name": "Rob Bailey & The Hustle Standard",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/c56f98c7ad5825ed46ee5367c4e9c03b6da512b7",
+            "track_id": "0yZdDRjXMY8yAu8IS5sahA",
+            "track_name": "W H K R M X"
+        },
+        {
+            "artist_id": "3nFkdlSjzX9mRTtwJOzDYB",
+            "artist_name": "JAY Z",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/725eabdd1fd4f28cab0ef88b04429a8faa8060d3",
+            "track_id": "0eK5y1c7WDyWwx6k9SFjbT",
+            "track_name": "Renegade"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/6d8d1de05a7d61d2eb9929eb55390044c52bf791",
+            "track_id": "0kjX99NTf49aJtbb7EVfx4",
+            "track_name": "Miss America"
+        },
+        {
+            "artist_id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "artist_name": "Eminem",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/af83b3714f4335f5d1fcb72e04b807de89360f8c",
+            "track_id": "5CsDo9j3N4yFZNCN1h9loS",
+            "track_name": "Never Enough"
+        },
+        {
+            "artist_id": "6UBA15slIuadJ8h2lPRPos",
+            "artist_name": "Tech N9ne",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/6f27cb7fbb72adb9dcc88bfa3c98323db1f02b8d",
+            "track_id": "0kIHfcHGFGm5xb0dSlKEdp",
+            "track_name": "Hood Go Crazy"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Kendrick Lamar",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Look Out For Detox"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Kendrick Lamar | www.\u00c0udioCastle.net",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "The Jig Is Up"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "Kendrick Lamar",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "6'7' Freestyle (ft. ScHoolboy Q)"
+        },
+        {
+            "artist_id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "artist_name": "Tyler, The Creator",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/a61bb1f71c2ea0d139d2b64c412d46a80680f550",
+            "track_id": "3Z5pXxCb0O6L53vejFHhqQ",
+            "track_name": "Jamba"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/3571b7aa0f06985ff3ac7ae88c7d35d4fe2a7b90",
+            "track_id": "54PIBQT8Rrtb0nVIlsrtTk",
+            "track_name": "Ain't That Some S*** (Interlude)"
+        },
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 16,
+            "preview_url": null,
+            "track_id": "0BAtJVI4vUzyh7NlYAaP0e",
+            "track_name": "IV. sweatpants"
+        },
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/40925f0965d4530b82a37771c1bff57d7b08fa2d",
+            "track_id": "29xO6GMuPFPpEq0kfNPJY4",
+            "track_name": "Hi-Jack"
+        },
+        {
+            "artist_id": "5IcR3N7QB1j6KBL8eImZ8m",
+            "artist_name": "Schoolboy Q",
+            "popularity": 7,
+            "preview_url": null,
+            "track_id": "2sN12QvGG64VMaUaUZ6yLq",
+            "track_name": "Sexting"
+        },
+        {
+            "artist_id": "20sxb77xiYeusSH8cVdatc",
+            "artist_name": "Meek Mill",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/a3b9faf9fdbc7087f323e3a8a5fa5bbf66b2b07a",
+            "track_id": "1VGj5phZetUyshbw3jcx5K",
+            "track_name": "A1 Everything (Feat. Kendrick Lamar)"
+        },
+        {
+            "artist_id": "0YinUQ50QDB7ZxSCLyQ40k",
+            "artist_name": "DJ Mustard",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/ae07a9037267a70ed845e83bb941dbd3144f7fad",
+            "track_id": "1jG29zp5Xmo9PdDdf1b6mO",
+            "track_name": "Face Down"
+        },
+        {
+            "artist_id": "3TaUSUXn41GixL7zbvrIDt",
+            "artist_name": "A-Trak",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc7256775b45cf76cbb17bdbbd3d7fd5b1f78bc9",
+            "track_id": "1YiVaUok5NklFW7CCvA3T6",
+            "track_name": "Ray Ban Vision ft. Cyhi Da Prynce"
+        },
+        {
+            "artist_id": "5LHRHt1k9lMyONurDHEdrp",
+            "artist_name": "Tyga",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/7a9b9c97b13efb52d8d6dbcc024932e44b215ff3",
+            "track_id": "31VM9uxtem39xmT0dfDiSU",
+            "track_name": "Muthaf**ka Up"
+        },
+        {
+            "artist_id": "6l3HvQ5sa6mXTsMTB19rO5",
+            "artist_name": "J. Cole",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ee0e706e428d4acf684bd7850986d8dba94fcb1",
+            "track_id": "3wklLgZSOSi1kEFmO13zph",
+            "track_name": "Mr. Nice Watch"
+        },
+        {
+            "artist_id": "7CCjtD0hCK005Bvg2WG1a7",
+            "artist_name": "Carnage",
+            "popularity": 76,
+            "preview_url": "https://p.scdn.co/mp3-preview/900573475b42958ce5b5719834945265d37b617d",
+            "track_id": "07oiSjg6TiehyOS3pRJo0l",
+            "track_name": "I Like Tuh"
+        },
+        {
+            "artist_id": "0QiCCpzEYPFaWqkWtDQTmH",
+            "artist_name": "Yogi",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4d3ace59628a708921aa9ad21df35bf7f6623e5",
+            "track_id": "7DHX1Ng0V186U2idfFfjGi",
+            "track_name": "Burial (feat. Pusha T, Moody Good, TrollPhace)"
+        },
+        {
+            "artist_id": "5R3Hr2cnCCjt220Jmt2xLf",
+            "artist_name": "Dillon Francis",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/1d0a4e54a2d62f5a6f841c990c23c930dc2a4760",
+            "track_id": "20sN1fV0U0Fv8AkXyhaXGT",
+            "track_name": "Get Low - Remix"
+        },
+        {
+            "artist_id": "6Dy7Ex5zlTLgXbsB92rPji",
+            "artist_name": "iSHi",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/98e8fc8786e173f1e702013973d34017d2b07ca5",
+            "track_id": "2ev046WFpFivrmadX5keLz",
+            "track_name": "Push It - CAZZETTE vs. iSHi Remix"
+        },
+        {
+            "artist_id": "6oMuImdp5ZcFhWP0ESe6mG",
+            "artist_name": "Migos",
+            "popularity": 67,
+            "preview_url": "https://p.scdn.co/mp3-preview/56ff2da5d0431d73b7915448526959e5ccff8be6",
+            "track_id": "0XGLsSU6wtfnKXiMNvQr61",
+            "track_name": "Versace (Remix)"
+        },
+        {
+            "artist_id": "20sxb77xiYeusSH8cVdatc",
+            "artist_name": "Meek Mill",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2c2b85d18cd47866abe068967ff653548fd7636",
+            "track_id": "2l6im4bobvuEx2N4YMwnaq",
+            "track_name": "Ooh Kill Em"
+        }
+    ]
+}

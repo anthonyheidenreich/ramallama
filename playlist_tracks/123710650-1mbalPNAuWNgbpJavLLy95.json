@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/123710650/playlists/1mbalPNAuWNgbpJavLLy95/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "65HuWBUC1d8ty1q6J42Nfi",
+            "artist_name": "Cultura Prof\u00e9tica",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/fffbd2205bfb4dd62a6906bfe5959b14e3751fa5",
+            "track_id": "2jz6smAw1Pzy7Gs5AJACv3",
+            "track_name": "La complicidad"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "McKlopedia",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Lo Que Tu Quieres Que Sea"
+        },
+        {
+            "artist_id": "65HuWBUC1d8ty1q6J42Nfi",
+            "artist_name": "Cultura Prof\u00e9tica",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa8c2dea3bbb54f6f267349ef50734ac32d75e3c",
+            "track_id": "1rWksds0t6BM5phg9qeEKv",
+            "track_name": "Baja la tensi\u00f3n"
+        },
+        {
+            "artist_id": "1QB4oo4JbSRdxNyidIuD0W",
+            "artist_name": "Jim Morrison",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/458ec01641b882519cbbab1c481e54ed4392f29c",
+            "track_id": "5XTdMVT5i5qcfyTXWxhxVZ",
+            "track_name": "Ghost Ship"
+        },
+        {
+            "artist_id": "2Q0MyH5YMI5HPQjFjlq5g3",
+            "artist_name": "Chet Faker",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/3a0975c7683a0827f3fd27b3f62aeef4a19ee2b6",
+            "track_id": "3vYnAbDJWPzatOBtNYgoZW",
+            "track_name": "To Me"
+        }
+    ]
+}

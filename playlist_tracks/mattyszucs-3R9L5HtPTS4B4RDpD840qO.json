@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/mattyszucs/playlists/3R9L5HtPTS4B4RDpD840qO/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "4LSixDzXl43EzlPU2EydWs",
+            "artist_name": "Edan",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac8d90326276361dfce998492a7ff8e19cd79942",
+            "track_id": "1ta0eFQzKlsfDFRgzzmjpe",
+            "track_name": "Torture Chamber"
+        },
+        {
+            "artist_id": "4LSixDzXl43EzlPU2EydWs",
+            "artist_name": "Edan",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/89598c157853d278ee125304ac52603c64ff295c",
+            "track_id": "4rKxuplYEn2zA1MQhuCbYm",
+            "track_name": "Making Planets"
+        },
+        {
+            "artist_id": "27OI8CfcvjzreerpHk42FZ",
+            "artist_name": "Kidkanevil",
+            "popularity": 9,
+            "preview_url": "https://p.scdn.co/mp3-preview/6955f755bbcc77f7a7c568da90173bcdd2e4de6c",
+            "track_id": "6kh4ofdrPQa3q62DJs1ndR",
+            "track_name": "Tokyoyorkshire"
+        },
+        {
+            "artist_id": "27OI8CfcvjzreerpHk42FZ",
+            "artist_name": "Kidkanevil",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/21496663c1422de2e3c1bccd6cbb4279bd7ff0ab",
+            "track_id": "5IR4TQd3tAf6sLYRJd2RW6",
+            "track_name": "Black Bug (feat. Taprikk Sweezee)"
+        },
+        {
+            "artist_id": "27OI8CfcvjzreerpHk42FZ",
+            "artist_name": "Kidkanevil",
+            "popularity": 7,
+            "preview_url": "https://p.scdn.co/mp3-preview/d0f54441111bf298d0d0948b9f0e3a8f987d89c6",
+            "track_id": "7dwtO2TLRQmWTGNkN3BJYO",
+            "track_name": "F.i.r.e. (feat. Yarah Bravo)"
+        },
+        {
+            "artist_id": "2fNqMePnFEB3JNdKMDg5Pg",
+            "artist_name": "Sixtoo",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/9a9e0a6188ac3c42d3c7b64168080b015034346b",
+            "track_id": "7lxL3TEB4un8EkSqA2QQPQ",
+            "track_name": "Part 3"
+        },
+        {
+            "artist_id": null,
+            "artist_name": "The Cool Kids",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": null,
+            "track_name": "Pennies (the updated rosters remix)"
+        }
+    ]
+}

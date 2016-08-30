@@ -1,0 +1,21 @@
+{
+    "href": "https://api.spotify.com/v1/users/claystewart/playlists/38UQCzgdhC6UFJ2xrdcqks/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "382aq8Pij5V2nE2JMHMoxl",
+            "artist_name": "Hoodie Allen",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/404dd44f226248fe4868eceb9b45a91250e8e6d5",
+            "track_id": "5mmHTQc6A54qkrt2BvfgVA",
+            "track_name": "Long Night (feat. Chance the Rapper)"
+        },
+        {
+            "artist_id": "68DWke2VjdDmA75aJX5C57",
+            "artist_name": "Yelawolf",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/79544ccdc003150c2889327528d4a66b0aac8d11",
+            "track_id": "2g5cChGDcrjtpRVGA7q4Eh",
+            "track_name": "American You"
+        }
+    ]
+}

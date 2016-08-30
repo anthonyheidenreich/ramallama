@@ -1,0 +1,93 @@
+{
+    "href": "https://api.spotify.com/v1/users/1219825601/playlists/6JjEr3LZVianGnDlsIHHMe/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "536BYVgOnRky0xjsPT96zl",
+            "artist_name": "Two Door Cinema Club",
+            "popularity": 3,
+            "preview_url": null,
+            "track_id": "11l7yq7taO2zvNSMkhJ3SX",
+            "track_name": "Handshake"
+        },
+        {
+            "artist_id": "1xU878Z1QtBldR7ru9owdU",
+            "artist_name": "Phoenix",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/1a42fab99c251f09cc72a7c9a37f37f57383eb2a",
+            "track_id": "3AA8xNhDC0MpqwkGX3EP5V",
+            "track_name": "If I ever feel better"
+        },
+        {
+            "artist_id": "1xU878Z1QtBldR7ru9owdU",
+            "artist_name": "Phoenix",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/469e0d3aa316f9956c7d033b21813c0573ef7c26",
+            "track_id": "3pzJXZ1PW3l3B69PoTx5lC",
+            "track_name": "Everything Is Everything"
+        },
+        {
+            "artist_id": "6NvMIhJ9P3NJyWeckFacBi",
+            "artist_name": "Airship",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/a42bdd51dd3830b67829388c9ed38db0a7d86621",
+            "track_id": "45qa2mLPlhnD3Ef1kBdyUO",
+            "track_name": "Algebra"
+        },
+        {
+            "artist_id": "3XTDF3ka1IRLXu61qd36zK",
+            "artist_name": "Animal Kingdom",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "7iPYYf26MeRsyAF9NQEYWm",
+            "track_name": "Strange Attractor"
+        },
+        {
+            "artist_id": "2ApaG60P4r0yhBoDCGD8YG",
+            "artist_name": "Elliott Smith",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/813eff62ba674c2cb11784ca87090ecb7e68aa92",
+            "track_id": "4xfAVJL8R7mVYbDk8a9xOY",
+            "track_name": "Somebody That I Used To Know"
+        },
+        {
+            "artist_id": "2Jv5eshHtLycR6R8KQCdc4",
+            "artist_name": "Grizzly Bear",
+            "popularity": 56,
+            "preview_url": "https://p.scdn.co/mp3-preview/0bf13db11ec70f6520064b04027340ef5818798d",
+            "track_id": "202QyrB6Q3Kimsr7KqJut3",
+            "track_name": "Yet Again"
+        },
+        {
+            "artist_id": "2Jv5eshHtLycR6R8KQCdc4",
+            "artist_name": "Grizzly Bear",
+            "popularity": 52,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d47714464991c1d1960db14873884d9113906be",
+            "track_id": "1BH5f9RHwlcLR6h3fG9z4M",
+            "track_name": "Sleeping Ute"
+        },
+        {
+            "artist_id": "536BYVgOnRky0xjsPT96zl",
+            "artist_name": "Two Door Cinema Club",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6mUKNpEZqbxJ56IpIjt4Ke",
+            "track_name": "Settle"
+        },
+        {
+            "artist_id": "536BYVgOnRky0xjsPT96zl",
+            "artist_name": "Two Door Cinema Club",
+            "popularity": 1,
+            "preview_url": null,
+            "track_id": "6Fo3IpWLuZEMccgVNi7Cza",
+            "track_name": "Beacon"
+        },
+        {
+            "artist_id": "7ITd48RbLVpUfheE7B86o2",
+            "artist_name": "The Decemberists",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "3F099CjG5p0nUrzNjbZzFs",
+            "track_name": "Summersong"
+        }
+    ]
+}

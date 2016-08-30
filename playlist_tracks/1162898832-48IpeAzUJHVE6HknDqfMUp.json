@@ -1,0 +1,61 @@
+{
+    "href": "https://api.spotify.com/v1/users/1162898832/playlists/48IpeAzUJHVE6HknDqfMUp/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/60261db390474ec2df854bc73376e728b945f3fd",
+            "track_id": "6IRs50MZ377bPiecwsQeBU",
+            "track_name": "Snowflake"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cdb62f80687cfcf08c11a4ea44c95f01807049c",
+            "track_id": "5kzVLJJqyqmYSl8GSdgtwk",
+            "track_name": "Lake Tahoe"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/1cc3da6408e596f5e06d20c6f19b01d65a0b9691",
+            "track_id": "4i2kBJlktjl2OlU2rYNMQL",
+            "track_name": "Misty"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed6e0803f370888c76687015176c6457a03e99a3",
+            "track_id": "0Uh5k3TbgPqTBSzv0ZYB70",
+            "track_name": "Wild Man"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/9ba89abf1783f5e8d22d2504cc4e733bc78be9a1",
+            "track_id": "7zWxqvfeINCHejNbbsr6EA",
+            "track_name": "Snowed In At Wheeler Street"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/1c8eb63718f73341d7aab542026857064492e307",
+            "track_id": "6MtXVfbFWxYUWSaMwKsyZJ",
+            "track_name": "50 Words For Snow"
+        },
+        {
+            "artist_id": "1aSxMhuvixZ8h9dK9jIDwL",
+            "artist_name": "Kate Bush",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/db5e1ed5919630531f789ec4c0698aac018c26a7",
+            "track_id": "59bqfx6mVQYDk8fSWZ2cka",
+            "track_name": "Among Angels"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "href": "https://api.spotify.com/v1/users/sstamler/playlists/6W5JjEoAj7tDI2kySTH5pd/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "75U40yZLLPglFgXbDVnmVs",
+            "artist_name": "The Mars Volta",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/8be303f39ee7772fb18acea258e69a450976d05d",
+            "track_id": "28XN8ncs0OBodA23W4ysZg",
+            "track_name": "Tetragrammaton"
+        },
+        {
+            "artist_id": "75U40yZLLPglFgXbDVnmVs",
+            "artist_name": "The Mars Volta",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/211cd52ed1ec3b2436777ff1b28436ecb47713f9",
+            "track_id": "371NkVVbpRGhyhoN3a8LN6",
+            "track_name": "Day Of The Baphomets"
+        },
+        {
+            "artist_id": "75U40yZLLPglFgXbDVnmVs",
+            "artist_name": "The Mars Volta",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d515a31ffa057bcc5fd8b29d3884f3a435a084d",
+            "track_id": "07DiJLA3Qef8OT23D4qlWC",
+            "track_name": "Dyslexicon"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/6cee1d04c54ac96a0c11353cc38936fcb8658d40",
+            "track_id": "1m85PpnCEa9EaU2z6lGwmO",
+            "track_name": "A1"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/298c072c74253492b25d7f9a622db868486a9422",
+            "track_id": "3wRnIOYXNVW7CwaapsjPak",
+            "track_name": "A2"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/6a431a951170ef914facdc41eeb74b767cb580da",
+            "track_id": "2wyOHvDtdBch5TwuvyOOjL",
+            "track_name": "A3"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/3aef7a55c513b2789fc00603a0d9f0d79c2807f4",
+            "track_id": "6rqONVHOT73QecUdJ5HVHy",
+            "track_name": "Paper Trails"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 50,
+            "preview_url": "https://p.scdn.co/mp3-preview/c8bde68e1d7719f2e10b67ed33f090770d376883",
+            "track_id": "5VD6Stj5t9f185bJuOJllB",
+            "track_name": "Heart"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 47,
+            "preview_url": "https://p.scdn.co/mp3-preview/31d02186c5b762cb3a598ab461df0460716b36cf",
+            "track_id": "4R3pB7jE4mN7fDpHRbuu02",
+            "track_name": "Golden Arrow"
+        },
+        {
+            "artist_id": "2933wDUojoQmvqSdTAE5NB",
+            "artist_name": "Darkside",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/f2c77fa94d67cf4b4fa10993f2818e35c1caad86",
+            "track_id": "3OqHk2aXkEox1g11wBLKiE",
+            "track_name": "The Only Shrine I've Seen"
+        },
+        {
+            "artist_id": "5H6KAuCOwgEpQXx6WKYCcN",
+            "artist_name": "Heidi Vogel",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "473XpM78LRcKOI64xzUWQC",
+            "track_name": "Love Dance"
+        },
+        {
+            "artist_id": "5H6KAuCOwgEpQXx6WKYCcN",
+            "artist_name": "Heidi Vogel",
+            "popularity": 0,
+            "preview_url": null,
+            "track_id": "2NOP11qxFy3TyiFLHLlGSX",
+            "track_name": "Dindi"
+        }
+    ]
+}

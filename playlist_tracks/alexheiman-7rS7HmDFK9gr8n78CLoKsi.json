@@ -1,0 +1,45 @@
+{
+    "href": "https://api.spotify.com/v1/users/alexheiman/playlists/7rS7HmDFK9gr8n78CLoKsi/tracks?offset=0&limit=100",
+    "items": [
+        {
+            "artist_id": "73sIBHcqh3Z3NyqHKZ7FOL",
+            "artist_name": "Childish Gambino",
+            "popularity": 19,
+            "preview_url": null,
+            "track_id": "6rvo2EAdn5U47Nn9kWhLpz",
+            "track_name": "Heartbeat"
+        },
+        {
+            "artist_id": "40giwFcTQtv9ezxW8yqxJU",
+            "artist_name": "Chiddy Bang",
+            "popularity": 27,
+            "preview_url": "https://p.scdn.co/mp3-preview/23056f576fb8a7cfaf1b4a11546fdd8901663d11",
+            "track_id": "0vfGCVWECHpxb5aT7n7uPE",
+            "track_name": "Ray Charles"
+        },
+        {
+            "artist_id": "1xLMexpeeTKQ20SwGMaGSK",
+            "artist_name": "Wild Child",
+            "popularity": 55,
+            "preview_url": "https://p.scdn.co/mp3-preview/bf6659ca1d4b09cc6d0e7cf699a2fa835e7d7acb",
+            "track_id": "0alXWwTcr1reJRYkhjauN1",
+            "track_name": "Pillow Talk"
+        },
+        {
+            "artist_id": "43O3c6wewpzPKwVaGEEtBM",
+            "artist_name": "My Morning Jacket",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/90fc7c54c578dd278e1aae24cec5ebcb77228df2",
+            "track_id": "5ugyH3cxmjYlAMfE4I8RFk",
+            "track_name": "Our World"
+        },
+        {
+            "artist_id": "7I7ObCLzhAnOchc4fCQiRX",
+            "artist_name": "BOY",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/a4a64e3d72f7430f7bb8f44ddde4e3930a55f06f",
+            "track_id": "4i1MWIchrtBoSh6wcAdt7e",
+            "track_name": "Little Numbers"
+        }
+    ]
+}
