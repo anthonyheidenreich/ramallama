@@ -153,12 +153,12 @@ def artist_source_detail(request, primary_key):
     Retrieve, update or delete an individual artist source
     """
     try:
-        playlist = ArtistSource.objects.get(pk=primary_key)
+        artist = ArtistSource.objects.get(pk=primary_key)
     except ArtistSource.DoesNotExist:
         return HttpResponse(status=404)
 
     if request.method == 'GET':
-        serializer = ArtistSourceSerializer(playlist)
+        serializer = ArtistSourceSerializer(artist)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'PUT':
@@ -170,7 +170,7 @@ def artist_source_detail(request, primary_key):
         return JSONResponse(serializer.errors, status=400)
 
     elif request.method == 'DELETE':
-        playlist.delete()
+        artist.delete()
         # 204 no content!
         return HttpResponse(status=204)
 
@@ -180,8 +180,8 @@ def song_list(request):
     List all songs or create a new song
     """
     if request.method == 'GET':
-        playlists = Song.objects.all()
-        serializer = SongSerializer(playlists, many=True)
+        songs = Song.objects.all()
+        serializer = SongSerializer(songs, many=True)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'POST':
@@ -201,12 +201,12 @@ def song_detail(request, primary_key):
     Retrieve, update or delete an individual song
     """
     try:
-        playlist = Song.objects.get(pk=primary_key)
+        song = Song.objects.get(pk=primary_key)
     except song.DoesNotExist:
         return HttpResponse(status=404)
 
     if request.method == 'GET':
-        serializer = SongSerializer(playlist)
+        serializer = SongSerializer(song)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'PUT':
@@ -218,7 +218,7 @@ def song_detail(request, primary_key):
         return JSONResponse(serializer.errors, status=400)
 
     elif request.method == 'DELETE':
-        playlist.delete()
+        song.delete()
         # 204 no content!
         return HttpResponse(status=204)
 
@@ -228,8 +228,8 @@ def song_source_list(request):
     List all song source or create a new song source
     """
     if request.method == 'GET':
-        playlists = SongSource.objects.all()
-        serializer = SongSourceSerializer(playlists, many=True)
+        songsources = SongSource.objects.all()
+        serializer = SongSourceSerializer(songsources, many=True)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'POST':
@@ -251,12 +251,12 @@ def song_source_detail(request, primary_key):
     Retrieve, update or delete an individual song source
     """
     try:
-        playlist = SongSource.objects.get(pk=primary_key)
+        songsource = SongSource.objects.get(pk=primary_key)
     except SongSource.DoesNotExist:
         return HttpResponse(status=404)
 
     if request.method == 'GET':
-        serializer = SongSourceSerializer(playlist)
+        serializer = SongSourceSerializer(songsource)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'PUT':
@@ -268,6 +268,19 @@ def song_source_detail(request, primary_key):
         return JSONResponse(serializer.errors, status=400)
 
     elif request.method == 'DELETE':
-        playlist.delete()
+        songsource.delete()
         # 204 no content!
         return HttpResponse(status=204)
+
+def playlist_song(request, primary_key):
+    """
+    Add a song to a playlist
+    """
+    try:
+        playlist = 
+
+
+
+
+
+
