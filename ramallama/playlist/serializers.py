@@ -45,4 +45,4 @@ class ArtistSerializer(serializers.ModelSerializer):
 class ArtistSourceSerializer(serializers.ModelSerializer):
     class Meta:
         model = ArtistSource
-        fields = ('id', 'source', 'external_id', 'created_on', 'updated_on')
+        fields = ('id', 'source', 'artist', 'external_id', 'created_on', 'updated_on')

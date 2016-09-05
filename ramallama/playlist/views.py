@@ -137,6 +137,8 @@ def artist_source_list(request):
     elif request.method == 'POST':
         data = JSONParser().parse(request)
         serializer = ArtistSourceSerializer(data=data)
+        print("data: {}".format(data))
+        print("serializer: {}".format(serializer))
         if serializer.is_valid():
             serializer.save()
             # 201 created!

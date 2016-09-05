@@ -52,7 +52,8 @@ def import_artists(tracks_file_names):
             artist_source['artist'] = response.get('id')
             r = requests.post('http://127.0.0.1/v1/artist-sources', json=artist_source)
             print("STATUS: {}, {}".format(r.status_code, r.text))
-            
+
+
 
 
 def import_songs():
