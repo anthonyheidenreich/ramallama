@@ -23,26 +23,26 @@ is_valid() : returns a boolean after validating if the data is ok
 class PlaylistSerializer(serializers.ModelSerializer):
     class Meta:
         model = Playlist
-        fields = ('name', 'external_id', 'source', 'created_on', 'updated_on')
+        fields = ('id', 'name', 'external_id', 'source', 'created_on', 'updated_on')
 
 
 class SongSerializer(serializers.ModelSerializer):
     class Meta:
         model = Song
-        fields = ('title', 'artist', 'year', 'playlists', 'created_on', 'updated_on')
+        fields = ('id', 'title', 'artist', 'year', 'playlists', 'created_on', 'updated_on')
 
 
 class SongSourceSerializer(serializers.ModelSerializer):
     class Meta:
         model = SongSource
-        fields = ('source', 'external_id', 'preview_url', 'created_on', 'updated_on')
+        fields = ('id', 'source', 'external_id', 'preview_url', 'created_on', 'updated_on')
 
 class ArtistSerializer(serializers.ModelSerializer):
     class Meta:
         model = Artist
-        fields = ('name', 'songs', 'created_on', 'updated_on')
+        fields = ('id', 'name', 'songs', 'created_on', 'updated_on')
 
 class ArtistSourceSerializer(serializers.ModelSerializer):
     class Meta:
         model = ArtistSource
-        fields = ('source', 'external_id', 'created_on', 'updated_on')
+        fields = ('id', 'source', 'external_id', 'created_on', 'updated_on')

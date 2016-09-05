@@ -6,8 +6,7 @@ import requests
 def main():
     playlists_file_names = listdir('/vagrant/user_playlists')
     tracks_file_names = listdir('/vagrant/playlist_tracks')
-    # print(tracks_file_names)
-    # print(playlists_file_names)
+
     import_artists(tracks_file_names)
 
 
@@ -37,8 +36,9 @@ def import_artists(tracks_file_names):
             track_name = track['track_name']
             artist_id = track['artist_id']
 
+            # create the artist
             artist = {
-                "name": artist_name
+                "name": artist_name,
             }
             artist_source = {
                 "source": "Spotify",
@@ -47,6 +47,9 @@ def import_artists(tracks_file_names):
 
             r = requests.post('http://127.0.0.1/v1/artists', json=artist)
             print("STATUS: {}, {}".format(r.status_code, r.text))
+            response = r.json()
+            # create the artist source
+            artist_source['artist'] = response.get('id')
             r = requests.post('http://127.0.0.1/v1/artist-sources', json=artist_source)
             print("STATUS: {}, {}".format(r.status_code, r.text))
             
