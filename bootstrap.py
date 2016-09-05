@@ -58,11 +58,10 @@ def songs(fake, number=1):
     return created
 
 def create_song(fake):
-    artist_obj = create_artist(fake)
     """
     Create a single Song with Artist and Source
     """
-    artist_obj = artist(fake)
+    artist_obj = create_artist(fake)
 
     source = {
         'source': 'Spotify',

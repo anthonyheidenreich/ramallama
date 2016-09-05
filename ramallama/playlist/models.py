@@ -39,6 +39,9 @@ class Playlist(models.Model):
     class Meta:
         ordering = ('created_on',)
 
+    @property
+    def songs(self):
+        return Song.objects.filter(playlists=self.id)
 
 class Song(models.Model):
     title = models.CharField(max_length=200)
