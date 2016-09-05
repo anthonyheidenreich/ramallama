@@ -228,13 +228,13 @@ def song_source_list(request):
     List all song source or create a new song source
     """
     if request.method == 'GET':
-        playlists = songSource.objects.all()
-        serializer = songSourceSerializer(playlists, many=True)
+        playlists = SongSource.objects.all()
+        serializer = SongSourceSerializer(playlists, many=True)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'POST':
         data = JSONParser().parse(request)
-        serializer = songSourceSerializer(data=data)
+        serializer = SongSourceSerializer(data=data)
         print("data: {}".format(data))
         print("serializer: {}".format(serializer))
         if serializer.is_valid():
@@ -251,17 +251,17 @@ def song_source_detail(request, primary_key):
     Retrieve, update or delete an individual song source
     """
     try:
-        playlist = songSource.objects.get(pk=primary_key)
-    except songSource.DoesNotExist:
+        playlist = SongSource.objects.get(pk=primary_key)
+    except SongSource.DoesNotExist:
         return HttpResponse(status=404)
 
     if request.method == 'GET':
-        serializer = songSourceSerializer(playlist)
+        serializer = SongSourceSerializer(playlist)
         return JSONResponse(serializer.data, status=200)
 
     elif request.method == 'PUT':
         data = JSONParser().parse(request)
-        serializer = songSourceSerializer(data=data)
+        serializer = SongSourceSerializer(data=data)
         if serializer.is_valid():
             serializer.save()
             return JSONResponse(serializer.data, status=200)

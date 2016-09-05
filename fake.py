@@ -37,7 +37,6 @@ def playlist(fake, number=1):
 
 @command
 def song(fake, number=1):
-    songs = []
     for _ in range(0, number):
         artist_obj = artist(fake)[0]
         print('foo')
@@ -53,11 +52,9 @@ def song(fake, number=1):
         r = requests.post('http://127.0.0.1/v1/songs', json=song)
         print(r.text)
         song_response = r.json()
-        songs.append(song_response)
         source['song'] = song_response.get('id');
         r = requests.post('http://127.0.0.1/v1/song-sources', json=source)
         print(r.text)
-    return songs
 
 
 @command
