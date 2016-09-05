@@ -35,7 +35,7 @@ class SongSerializer(serializers.ModelSerializer):
 class SongSourceSerializer(serializers.ModelSerializer):
     class Meta:
         model = SongSource
-        fields = ('id', 'source', 'external_id', 'preview_url', 'created_on', 'updated_on')
+        fields = ('id', 'source', 'song', 'external_id', 'preview_url', 'created_on', 'updated_on')
 
 class ArtistSerializer(serializers.ModelSerializer):
     class Meta:

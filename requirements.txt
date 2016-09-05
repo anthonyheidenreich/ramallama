@@ -1,9 +1,15 @@
 dj-database-url==0.4.1
 Django==1.10
 djangorestframework==3.4.5
+fake-factory==0.6.0
 flake8==3.0.4
 mccabe==0.5.2
 Paver==1.2.4
 psycopg2==2.6.2
+pyaml==15.8.2
 pycodestyle==2.0.0
 pyflakes==1.2.3
+python-dateutil==2.5.3
+PyYAML==3.12
+requests==2.11.1
+six==1.10.0

@@ -2,8 +2,8 @@ from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
-from playlist.models import Playlist, Artist, ArtistSource
-from playlist.serializers import PlaylistSerializer, ArtistSerializer, ArtistSourceSerializer
+from playlist.models import Playlist, Artist, ArtistSource, Song, SongSource
+from playlist.serializers import PlaylistSerializer, ArtistSerializer, ArtistSourceSerializer, SongSerializer, SongSourceSerializer
 
 
 class JSONResponse(HttpResponse):
@@ -164,6 +164,104 @@ def artist_source_detail(request, primary_key):
     elif request.method == 'PUT':
         data = JSONParser().parse(request)
         serializer = ArtistSourceSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JSONResponse(serializer.data, status=200)
+        return JSONResponse(serializer.errors, status=400)
+
+    elif request.method == 'DELETE':
+        playlist.delete()
+        # 204 no content!
+        return HttpResponse(status=204)
+
+@csrf_exempt
+def song_list(request):
+    """
+    List all songs or create a new song
+    """
+    if request.method == 'GET':
+        playlists = Song.objects.all()
+        serializer = SongSerializer(playlists, many=True)
+        return JSONResponse(serializer.data, status=200)
+
+    elif request.method == 'POST':
+        data = JSONParser().parse(request)
+        serializer = SongSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            # 201 created!
+            return JSONResponse(serializer.data, status=201)
+        return JSONResponse(serializer.errors, status=400)
+
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
+@csrf_exempt
+def song_detail(request, primary_key):
+    """
+    Retrieve, update or delete an individual song
+    """
+    try:
+        playlist = Song.objects.get(pk=primary_key)
+    except song.DoesNotExist:
+        return HttpResponse(status=404)
+
+    if request.method == 'GET':
+        serializer = SongSerializer(playlist)
+        return JSONResponse(serializer.data, status=200)
+
+    elif request.method == 'PUT':
+        data = JSONParser().parse(request)
+        serializer = SongSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JSONResponse(serializer.data, status=200)
+        return JSONResponse(serializer.errors, status=400)
+
+    elif request.method == 'DELETE':
+        playlist.delete()
+        # 204 no content!
+        return HttpResponse(status=204)
+
+@csrf_exempt
+def song_source_list(request):
+    """
+    List all song source or create a new song source
+    """
+    if request.method == 'GET':
+        playlists = songSource.objects.all()
+        serializer = songSourceSerializer(playlists, many=True)
+        return JSONResponse(serializer.data, status=200)
+
+    elif request.method == 'POST':
+        data = JSONParser().parse(request)
+        serializer = songSourceSerializer(data=data)
+        print("data: {}".format(data))
+        print("serializer: {}".format(serializer))
+        if serializer.is_valid():
+            serializer.save()
+            # 201 created!
+            return JSONResponse(serializer.data, status=201)
+        return JSONResponse(serializer.errors, status=400)
+
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
+@csrf_exempt
+def song_source_detail(request, primary_key):
+    """
+    Retrieve, update or delete an individual song source
+    """
+    try:
+        playlist = songSource.objects.get(pk=primary_key)
+    except songSource.DoesNotExist:
+        return HttpResponse(status=404)
+
+    if request.method == 'GET':
+        serializer = songSourceSerializer(playlist)
+        return JSONResponse(serializer.data, status=200)
+
+    elif request.method == 'PUT':
+        data = JSONParser().parse(request)
+        serializer = songSourceSerializer(data=data)
         if serializer.is_valid():
             serializer.save()
             return JSONResponse(serializer.data, status=200)
