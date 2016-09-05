@@ -26,12 +26,18 @@ def command(func):
 
 @command
 def playlists(fake, number=1):
+    """
+    Create N playlists
+    """
     created = []
     for _ in range(0, number):
         created.append(create_playlist(fake))
     return created
 
 def create_playlist(fake):
+    """
+    Creates a single playlist
+    """
     pl = {
         'name': fake.sentence(nb_words=4),
         'external_id': fake.uuid4(),
@@ -43,6 +49,9 @@ def create_playlist(fake):
 
 @command
 def songs(fake, number=1):
+    """
+    Create N Songs with Sources
+    """
     created = []
     for _ in range(0, number):
         created.append(create_song(fake))
@@ -50,6 +59,11 @@ def songs(fake, number=1):
 
 def create_song(fake):
     artist_obj = create_artist(fake)
+    """
+    Create a single Song with Artist and Source
+    """
+    artist_obj = artist(fake)
+
     source = {
         'source': 'Spotify',
         'external_id': fake.uuid4(),
@@ -68,12 +82,18 @@ def create_song(fake):
 
 @command
 def artists(fake, number=1):
+    """
+    Create N Artists with Sources
+    """
     created = []
     for _ in range(0, number):
         created.append(create_artist(fake))
     return created
 
 def create_artist(fake):
+    """
+    Create a single Artist with Artist Source
+    """
     source = {
         'source': 'Spotify',
         'external_id': fake.uuid4(),
