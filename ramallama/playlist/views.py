@@ -53,7 +53,7 @@ def playlist_detail(request, primary_key):
     try:
         playlist = Playlist.objects.get(pk=primary_key)
     except Playlist.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg': 'Not Found'}, status=404)
 
     # GET /playlists/ID -> return a specific playlist
     if request.method == 'GET':
@@ -73,7 +73,7 @@ def playlist_detail(request, primary_key):
     elif request.method == 'DELETE':
         playlist.delete()
         # 204 no content!
-        return HttpResponse(status=204)
+        return JSONResponse({}, status=204)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
 
@@ -106,7 +106,7 @@ def artist_detail(request, primary_key):
     try:
         playlist = Artist.objects.get(pk=primary_key)
     except Artist.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg', 'not-found'}, status=404)
 
     if request.method == 'GET':
         serializer = ArtistSerializer(playlist)
@@ -123,7 +123,7 @@ def artist_detail(request, primary_key):
     elif request.method == 'DELETE':
         playlist.delete()
         # 204 no content!
-        return HttpResponse(status=204)
+        return JSONResponse({}, status=204)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
 
@@ -158,7 +158,7 @@ def artist_source_detail(request, primary_key):
     try:
         artist = ArtistSource.objects.get(pk=primary_key)
     except ArtistSource.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg': 'not-found'}, status=404)
 
     if request.method == 'GET':
         serializer = ArtistSourceSerializer(artist)
@@ -175,7 +175,7 @@ def artist_source_detail(request, primary_key):
     elif request.method == 'DELETE':
         artist.delete()
         # 204 no content!
-        return HttpResponse(status=204)
+        return JSONResponse({}, status=204)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
 
@@ -208,7 +208,7 @@ def song_detail(request, primary_key):
     try:
         song = Song.objects.get(pk=primary_key)
     except song.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg': 'not-found'}, status=404)
 
     if request.method == 'GET':
         serializer = SongSerializer(song)
@@ -225,7 +225,7 @@ def song_detail(request, primary_key):
     elif request.method == 'DELETE':
         song.delete()
         # 204 no content!
-        return HttpResponse(status=204)
+        return JSONResponse({}, status=204)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
 
@@ -242,8 +242,6 @@ def song_source_list(request):
     elif request.method == 'POST':
         data = JSONParser().parse(request)
         serializer = SongSourceSerializer(data=data)
-        print("data: {}".format(data))
-        print("serializer: {}".format(serializer))
         if serializer.is_valid():
             serializer.save()
             # 201 created!
@@ -261,7 +259,7 @@ def song_source_detail(request, primary_key):
     try:
         songsource = SongSource.objects.get(pk=primary_key)
     except SongSource.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg': 'not-found'}, status=404)
 
     if request.method == 'GET':
         serializer = SongSourceSerializer(songsource)
@@ -278,7 +276,7 @@ def song_source_detail(request, primary_key):
     elif request.method == 'DELETE':
         songsource.delete()
         # 204 no content!
-        return HttpResponse(status=204)
+        return JSONResponse({}, status=204)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
 
@@ -292,7 +290,7 @@ def playlist_songs(request, primary_key):
         # get the playlist
         playlist = Playlist.objects.get(pk=primary_key)
     except Playlist.DoesNotExist:
-        return HttpResponse(status=404)
+        return JSONResponse({'msg': 'not-found'}, status=404)
 
     if request.method == 'GET':
         songs = playlist.songs
@@ -307,15 +305,17 @@ def playlist_songs(request, primary_key):
         try:
             song = Song.objects.get(pk=song_id)
         except Song.DoesNotExist:
-            return HttpResponse(status=404)
+            return JSONResponse({'msg': 'not-found'}, status=404)
         # try adding the song to the playlist
         try:
             song.playlists.add(playlist)
-            return HttpResponse(status=201)
-        except Exception:
-            return HttpResponse(status=404)
+            return JSONResponse(SongSerializer(playlist.songs, many=True).data, status=201)
+        except Exception as e:
+            return JSONResponse({'msg': '{}'.format(e)}, status=500)
     return JSONResponse({"msg":"invalid request type"}, status=406)
 
+
+@csrf_exempt
 def song_playlists(request, primary_key):
     """
     Retrieve a list of playlists that a song belongs to
@@ -325,7 +325,7 @@ def song_playlists(request, primary_key):
         song = Song.objects.get(pk=primary_key)
     except Song.DoesNotExist:
         return JSONResponse({"msg": "Song with ID {} does not exist".format(primary_key)}, status=404)
-    
+
     if request.method == 'GET':
         playlists = song.playlists
         serializer = PlaylistSerializer(playlists, many=True)

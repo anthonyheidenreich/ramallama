@@ -16,6 +16,7 @@ class Bootstrap():
         self.url = url
 
     def _post(self, uri, json={}):
+        print('{}/{}'.format(self.url, uri), json)
         r = requests.post('{}/{}'.format(self.url, uri), json=json)
         return r.json()
 
@@ -51,7 +52,7 @@ class Bootstrap():
         """
         created = []
         for _ in range(0, number):
-            created.append(create_song(self))
+            created.append(self.create_song())
         return created
 
 
@@ -60,7 +61,7 @@ class Bootstrap():
         """
         Create a single Song with Artist and Source
         """
-        artist_obj = create_artist(self)
+        artist_obj = self.create_artist()
 
         source = {
             'source': 'Spotify',
@@ -84,7 +85,7 @@ class Bootstrap():
         """
         created = []
         for _ in range(0, number):
-            created.append(create_artist(self))
+            created.append(self.create_artist())
         return created
 
 
@@ -112,8 +113,8 @@ class Bootstrap():
         """
         song_count = 5
         for _ in range(0, playlist_count):
-            playlist = create_playlist(self)
-            song_list = songs(self, song_count)
+            playlist = self.create_playlist()
+            song_list = self.songs(song_count)
             for song in song_list:
                 r = self._post('playlists/{}/songs'.format(playlist.get('id')), json={'song': song.get('id')})
                 print(r)

@@ -1,6 +1,11 @@
 <ul>
     <li ng-repeat="playlist in $ctrl.playlists">
-    <span>{{playlist.name}}</span>
-    <p>{{playlist.source}}</p>
+        <a href="/v1/playlists/{{playlist.id}}">{{playlist.name}}</a>
+        <p>{{playlist.source}}</p>
+        <ol>
+            <li ng-repeat="song in playlist.songs">
+                {{song.title}}
+            </li>
+        </ol>
     </li>
 </ul>
