@@ -100,7 +100,7 @@ def artist_list(request):
 @csrf_exempt
 def artist_detail(request, primary_key):
     """
-    Retrieve, update or delete an individual playlist
+    Retrieve, update or delete an individual artist
     """
     try:
         playlist = Artist.objects.get(pk=primary_key)
@@ -127,7 +127,7 @@ def artist_detail(request, primary_key):
 @csrf_exempt
 def artist_source_list(request):
     """
-    List all artists or create a new artist
+    List all artist source or create a new artist source
     """
     if request.method == 'GET':
         playlists = ArtistSource.objects.all()
@@ -148,7 +148,7 @@ def artist_source_list(request):
 @csrf_exempt
 def artist_source_detail(request, primary_key):
     """
-    Retrieve, update or delete an individual playlist
+    Retrieve, update or delete an individual artist source
     """
     try:
         playlist = ArtistSource.objects.get(pk=primary_key)

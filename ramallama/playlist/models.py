@@ -5,7 +5,7 @@ SOURCE_CHOICES = (('Spotify', 'Spotify'), ('Amazon', 'Amazon'), ('Google', 'Goog
 
 
 class Playlist(models.Model):
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=201)
     external_id = models.CharField(max_length=100)
     source = models.CharField(choices=SOURCE_CHOICES, max_length=20)
     created_on = models.DateTimeField(auto_now_add=True)
@@ -37,6 +37,7 @@ class Song(models.Model):
 class SongSource(models.Model):
     source = models.CharField(choices=SOURCE_CHOICES, max_length=20)
     external_id = models.CharField(max_length=100, unique=True)
+    song = models.ForeignKey(Song, on_delete=models.CASCADE)
     # optional
     preview_url = models.CharField(max_length=200, blank=True)
     created_on = models.DateTimeField(auto_now_add=True)
@@ -61,6 +62,7 @@ class Artist(models.Model):
 
 class ArtistSource(models.Model):
     source = models.CharField(choices=SOURCE_CHOICES, max_length=20)
+    artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
     external_id = models.CharField(max_length=100, unique=True)
     created_on = models.DateTimeField(auto_now_add=True)
     updated_on = models.DateTimeField(auto_now=True)
