@@ -29,7 +29,7 @@ class PlaylistSerializer(serializers.ModelSerializer):
 class SongSerializer(serializers.ModelSerializer):
     class Meta:
         model = Song
-        fields = ('id', 'title', 'artist', 'year', 'playlists', 'created_on', 'updated_on')
+        fields = ('id', 'title', 'artist', 'year', 'created_on', 'updated_on')
 
 
 class SongSourceSerializer(serializers.ModelSerializer):
@@ -40,7 +40,7 @@ class SongSourceSerializer(serializers.ModelSerializer):
 class ArtistSerializer(serializers.ModelSerializer):
     class Meta:
         model = Artist
-        fields = ('id', 'name', 'songs', 'created_on', 'updated_on')
+        fields = ('id', 'name', 'created_on', 'updated_on')
 
 class ArtistSourceSerializer(serializers.ModelSerializer):
     class Meta:
