@@ -289,6 +289,7 @@ def playlist_songs(request, primary_key):
     Add a song to a playlist
     """
     try:
+        # get the playlist
         playlist = Playlist.objects.get(pk=primary_key)
     except Playlist.DoesNotExist:
         return HttpResponse(status=404)
@@ -301,15 +302,34 @@ def playlist_songs(request, primary_key):
     elif request.method == 'POST':
         data = JSONParser().parse(request)
         serializer = SongSerializer(data=data)
+        # get the song
         song_id = data.get('song')
         try:
             song = Song.objects.get(pk=song_id)
         except Song.DoesNotExist:
             return HttpResponse(status=404)
-
+        # try adding the song to the playlist
         try:
             song.playlists.add(playlist)
             return HttpResponse(status=201)
         except Exception:
             return HttpResponse(status=404)
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
+def song_playlists(request, primary_key):
+    """
+    Retrieve a list of playlists that a song belongs to
+    """
+    try:
+        # get the song
+        song = Song.objects.get(pk=primary_key)
+    except Song.DoesNotExist:
+        return JSONResponse({"msg": "Song with ID {} does not exist".format(primary_key)}, status=404)
+    
+    if request.method == 'GET':
+        playlists = song.playlists
+        serializer = PlaylistSerializer(playlists, many=True)
+        return JSONResponse(serializer.data, status=200)
+
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+

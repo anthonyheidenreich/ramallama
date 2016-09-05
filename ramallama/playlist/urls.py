@@ -13,4 +13,5 @@ urlpatterns = [
     url(r'^v1/song-sources/?$', views.song_source_list),
     url(r'^v1/song-sources/(?P<primary_key>[0-9]+)/?$', views.song_source_detail),
     url(r'^v1/playlists/(?P<primary_key>[0-9]+)/songs/?$', views.playlist_songs),
+    url(r'^v1/songs/(?P<primary_key>[0-9]+)/playlists/?$', views.song_playlists),
 ]
