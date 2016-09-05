@@ -272,13 +272,29 @@ def song_source_detail(request, primary_key):
         # 204 no content!
         return HttpResponse(status=204)
 
-def playlist_song(request, primary_key):
+@csrf_exempt
+def playlist_songs(request, primary_key):
     """
+    Retreive a list of songs from a playlist
     Add a song to a playlist
     """
     try:
-        playlist = 
+        playlist = Playlist.objects.get(pk=primary_key)
+    except Playlist.DoesNotExist:
+        return HttpResponse(status=404)
 
+    if request.method == 'GET':
+        songs = playlist.songs
+        serializer = SongSerializer(songs, many=True)
+        return JSONResponse(serializer.data, status=200)
+
+    elif request.method == 'POST':
+        data = JSONParser().parse(request)
+        serializer = SongSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JSONResponse(serializer.data, status=200)
+        return JSONResponse(serializer.errors, status=400)
 
 
 

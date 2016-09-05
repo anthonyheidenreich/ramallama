@@ -12,7 +12,7 @@ class Bootstrap():
             fake = Factory.create()
             return Bootstrap.commands[command](fake, args.number)
         except Exception as e:
-            return "error. {}".format(e)
+            raise e
 
     @staticmethod
     def available():
@@ -28,10 +28,10 @@ def command(func):
 def playlists(fake, number=1):
     created = []
     for _ in range(0, number):
-        created.append(playlist(fake))
+        created.append(create_playlist(fake))
     return created
 
-def playlist(fake):
+def create_playlist(fake):
     pl = {
         'name': fake.sentence(nb_words=4),
         'external_id': fake.uuid4(),
@@ -45,11 +45,11 @@ def playlist(fake):
 def songs(fake, number=1):
     created = []
     for _ in range(0, number):
-        created.append(song(fake))
+        created.append(create_song(fake))
     return created
 
-def song(fake):
-    artist_obj = artist(fake)
+def create_song(fake):
+    artist_obj = create_artist(fake)
     source = {
         'source': 'Spotify',
         'external_id': fake.uuid4(),
@@ -70,10 +70,10 @@ def song(fake):
 def artists(fake, number=1):
     created = []
     for _ in range(0, number):
-        created.append(artist(fake))
+        created.append(create_artist(fake))
     return created
 
-def artist(fake):
+def create_artist(fake):
     source = {
         'source': 'Spotify',
         'external_id': fake.uuid4(),
@@ -86,6 +86,19 @@ def artist(fake):
     source['artist'] = artist_response.get('id');
     r = requests.post('http://127.0.0.1/v1/artist-sources', json=source)
     return artist_response
+
+@command
+def playlist_with_songs(fake, playlist_count=1):
+    """
+    Create playlist(s) with some songs
+    """
+    song_count = 5
+    for _ in range(0, playlist_count):
+        playlist = create_playlist(fake)
+        song_list = songs(fake, song_count)
+        for song in song_list:
+            r = requests.post('http://127.0.0.1/v1/playlists/{}/songs'.format(playlist.get('id')), json={'song': song.get('id')})
+            print(r.text)
 
 
 if __name__ == "__main__":
