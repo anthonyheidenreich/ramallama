@@ -7,7 +7,6 @@ from playlist.serializers import PlaylistSerializer, ArtistSerializer, ArtistSou
 
 
 class JSONResponse(HttpResponse):
-
     """
     An HttpResponse that renders its content into JSON.
     """
@@ -43,8 +42,8 @@ def playlist_list(request):
             # 201 created!
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
-
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def playlist_detail(request, primary_key):
@@ -75,6 +74,8 @@ def playlist_detail(request, primary_key):
         playlist.delete()
         # 204 no content!
         return HttpResponse(status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def artist_list(request):
@@ -94,8 +95,8 @@ def artist_list(request):
             # 201 created!
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
-
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def artist_detail(request, primary_key):
@@ -123,6 +124,8 @@ def artist_detail(request, primary_key):
         playlist.delete()
         # 204 no content!
         return HttpResponse(status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def artist_source_list(request):
@@ -144,8 +147,8 @@ def artist_source_list(request):
             # 201 created!
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
-
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def artist_source_detail(request, primary_key):
@@ -173,6 +176,8 @@ def artist_source_detail(request, primary_key):
         artist.delete()
         # 204 no content!
         return HttpResponse(status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def song_list(request):
@@ -192,8 +197,8 @@ def song_list(request):
             # 201 created!
             return JSONResponse(serializer.data, status=201)
         return JSONResponse(serializer.errors, status=400)
-
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def song_detail(request, primary_key):
@@ -221,6 +226,8 @@ def song_detail(request, primary_key):
         song.delete()
         # 204 no content!
         return HttpResponse(status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def song_source_list(request):
@@ -244,6 +251,7 @@ def song_source_list(request):
         return JSONResponse(serializer.errors, status=400)
 
     return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def song_source_detail(request, primary_key):
@@ -271,6 +279,8 @@ def song_source_detail(request, primary_key):
         songsource.delete()
         # 204 no content!
         return HttpResponse(status=204)
+    return JSONResponse({"msg":"invalid request type"}, status=406)
+
 
 @csrf_exempt
 def playlist_songs(request, primary_key):
@@ -302,9 +312,4 @@ def playlist_songs(request, primary_key):
             return HttpResponse(status=201)
         except Exception:
             return HttpResponse(status=404)
-
-
-
-
-
-
+    return JSONResponse({"msg":"invalid request type"}, status=406)

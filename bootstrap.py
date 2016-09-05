@@ -34,6 +34,8 @@ def playlists(fake, number=1):
         created.append(create_playlist(fake))
     return created
 
+
+
 def create_playlist(fake):
     """
     Creates a single playlist
@@ -56,6 +58,8 @@ def songs(fake, number=1):
     for _ in range(0, number):
         created.append(create_song(fake))
     return created
+
+
 
 def create_song(fake):
     """
@@ -88,6 +92,7 @@ def artists(fake, number=1):
     for _ in range(0, number):
         created.append(create_artist(fake))
     return created
+
 
 def create_artist(fake):
     """
