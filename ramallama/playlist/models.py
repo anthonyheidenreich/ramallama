@@ -62,7 +62,7 @@ class Artist(models.Model):
 
 class ArtistSource(models.Model):
     source = models.CharField(choices=SOURCE_CHOICES, max_length=20)
-    artist = models.ForeignKey(Artist, on_delete=models.CASCADE)
+    artist = models.ForeignKey(Artist, on_delete=models.CASCADE, related_name='artist_id')
     external_id = models.CharField(max_length=100, unique=True)
     created_on = models.DateTimeField(auto_now_add=True)
     updated_on = models.DateTimeField(auto_now=True)
