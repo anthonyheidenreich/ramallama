@@ -291,10 +291,18 @@ def playlist_songs(request, primary_key):
     elif request.method == 'POST':
         data = JSONParser().parse(request)
         serializer = SongSerializer(data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JSONResponse(serializer.data, status=200)
-        return JSONResponse(serializer.errors, status=400)
+        song_id = data.get('song')
+        try:
+            song = Song.objects.get(pk=song_id)
+        except Song.DoesNotExist:
+            return HttpResponse(status=404)
+
+        try:
+            song.playlists.add(playlist)
+            return HttpResponse(status=201)
+        except Exception:
+            return HttpResponse(status=404)
+
 
 
 
