@@ -1,11 +1,10 @@
-<ul>
-    <li ng-repeat="playlist in $ctrl.playlists">
-        <a href="/v1/playlists/{{playlist.id}}">{{playlist.name}}</a>
-        <p>{{playlist.source}}</p>
-        <ol>
-            <li ng-repeat="song in playlist.songs">
-                {{song.title}}
-            </li>
-        </ol>
-    </li>
-</ul>
+<div class="row">
+    <div class="col-md-6" ng-repeat="playlist in $ctrl.playlists">
+        <div class="list-group">
+            <a href="/v1/playlists/{{playlist.id}}">{{playlist.name}}</a>
+            <div class="list-group-item" ng-repeat="song in playlist.songs">
+                <p class="list-group-item-text">{{song.title}}</p>
+            </div>
+        </div>
+    </div>
+</div>
