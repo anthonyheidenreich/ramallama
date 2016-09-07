@@ -1,12 +1,38 @@
-<html ng-app="ramallamaApp">
+<!DOCTYPE html>
+<html lang="en" ng-app="ramallamaApp">
     <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
         <title>Rama Llama lives</title>
+
+        <link href="/app/third-party/stylesheets/bootstrap.min.css" rel="stylesheet">
+        <link href="/app/stylesheets/style.css" rel="stylesheet">
+
+
         <script src="/app/javascript/angular.min.js"></script>
         <script src="/app/javascript/app.js"></script>
         <script src="/app/javascript/components/list-of-playlists-component.js"></script>
         <script src="/app/javascript/components/playlist-component.js"></script>
     </head>
     <body>
-        <playlist-list></playlist-list>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2">
+                </div>
+                <div class="col-md-10">
+                    <div class="page-header">
+                        <h1>
+                            RAMA Llama <small>Cause Music is Awesome!</small>
+                        </h1>
+                    </div>
+                </div>
+            </div>
+            <playlist-list></playlist-list>
+        </div>
+        <script src="/app/third-party/javascript/jquery.min.js"></script>
+        <script src="/app/third-party/javascript/bootstrap.min.js"></script>
+        <script src="/app/third-party/javascript/scripts.js"></script>
     </body>
 </html>
