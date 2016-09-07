@@ -57,7 +57,7 @@ ROOT_URLCONF = 'ramallama.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['ramallama/playlist/static/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
