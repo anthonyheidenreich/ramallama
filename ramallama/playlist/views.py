@@ -1,9 +1,12 @@
 from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
+from rest_framework.decorators import detail_route
+from rest_framework import generics
 from rest_framework.renderers import JSONRenderer
 from rest_framework.parsers import JSONParser
 from playlist.models import Playlist, Artist, ArtistSource, Song, SongSource
 from playlist.serializers import PlaylistSerializer, ArtistSerializer, ArtistSourceSerializer, SongSerializer, SongSourceSerializer
+
 
 
 class JSONResponse(HttpResponse):
@@ -21,28 +24,99 @@ class JSONResponse(HttpResponse):
         super(JSONResponse, self).__init__(json, **kwargs)
 
 
-@csrf_exempt
-def playlist_list(request):
-    """
-    List all playlists or create a new playlist
-    """
-    # GET /playlists -> return a list of all playlists
-    if request.method == 'GET':
-        # retreive all playlists from database
-        playlists = Playlist.objects.all()
-        serializer = PlaylistSerializer(playlists, many=True)
+def load(func):
+    def retrieve(cls, request, primary_key):
+        obj = cls.get_object_class()
+        try:
+            playlist = obj.objects.get(pk=primary_key)
+            return func(cls, request, playlist)
+        except cls.get_object_class().DoesNotExist:
+            return JSONResponse({'msg': 'not-found'}, status=404)
+        except Exception as e:
+            return JSONResponse({'msg': 'system-error', 'details': e}, status=500)
+    return retrieve
+
+
+class DefaultViewSet(generics.GenericAPIView):
+    object_class = None
+
+    def get_object_class(self):
+        """
+        Return the class to use for the object.
+        Defaults to using `self.object_class`.
+        You may want to override this if you need to provide different
+        objects depending on the incoming request.
+        """
+        assert self.object_class is not None, (
+            "'%s' should either include a `object_class` attribute, "
+            "or override the `get_object_class()` method."
+            % self.__class__.__name__
+        )
+
+        return self.object_class
+
+    def not_implemented(self, request):
+        """
+        Not implemented actions
+        """
+        return JSONResponse({"msg":"invalid-request-type"}, status=405)
+
+
+class PlaylistList(DefaultViewSet):
+    object_class = Playlist
+    serializer_class = PlaylistSerializer
+
+    def get(self, request):
+        """
+        List all playlists
+        """
+        playlists = self.get_object_class().objects.all()
+        serializer = self.get_serializer(playlists, many=True)
         return JSONResponse(serializer.data, status=200)
 
-    # POST /playlists -> create a playlist
-    elif request.method == 'POST':
+    def post(self, request):
+        """
+        Create a new playlist
+        """
         data = JSONParser().parse(request)
         serializer = PlaylistSerializer(data=data)
         if serializer.is_valid():
             serializer.save()
-            # 201 created!
-            return JSONResponse(serializer.data, status=201)
+            return JSONResponse(serializer.data, status=201) # 201 created!
         return JSONResponse(serializer.errors, status=400)
-    return JSONResponse({"msg":"invalid request type"}, status=406)
+
+
+class PlaylistDetails(DefaultViewSet):
+    object_class = Playlist
+    serializer_class = PlaylistSerializer
+
+    @load
+    def get(self, request, playlist):
+        """
+        Retrieve, update or delete an individual playlist
+        """
+        serializer = self.get_serializer(playlist)
+        return JSONResponse(serializer.data, status=200)
+
+    @load
+    def put(self, request, playlist):
+        """
+        Update an individual playlist
+        """
+        data = JSONParser().parse(request)
+        serializer = PlaylistSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JSONResponse(serializer.data, status=200)
+        return JSONResponse(serializer.errors, status=400)
+
+    @load
+    def delete(self, request, primary_key):
+        """
+        Delete an individual playlist
+        """
+        playlisft.delete()
+        return JSONResponse({}, status=204)  # 204 no content!
 
 
 @csrf_exempt

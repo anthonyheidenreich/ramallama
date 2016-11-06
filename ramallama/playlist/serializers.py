@@ -19,30 +19,61 @@ update(instance, validated_data) : update (in db) and return an existing playlis
 is_valid() : returns a boolean after validating if the data is ok
 """
 
+class CustomModelSerializer(serializers.ModelSerializer):
 
-class PlaylistSerializer(serializers.ModelSerializer):
+    def error_code(cls, value):
+        ERROR_CODE_LOOKUP = {
+            'This field is required': 'cannot-be-blank'
+        }
+        if value in ERROR_CODE_LOOKUP:
+            return ERROR_CODE_LOOKUP[value]
+        elif value.endswith("is not a valid choice."):
+            return 'invalid-choice'
+        return 'invalid-input'
+
+    @property
+    def errors(cls):
+        errors = []
+        for key, values in super(serializers.ModelSerializer, cls).errors.items():
+            for value in values:
+                errors.append({
+                    'code': cls.error_code(value),
+                    'description': value,
+                    'field': key
+                })
+        return errors
+
+
+class PlaylistSerializer(CustomModelSerializer):
     class Meta:
         model = Playlist
         fields = ('id', 'name', 'external_id', 'source', 'created_on', 'updated_on')
+        read_only = ('created_on', 'updated_on', 'id')
 
 
-class SongSerializer(serializers.ModelSerializer):
+class SongSerializer(CustomModelSerializer):
     class Meta:
         model = Song
         fields = ('id', 'title', 'artist', 'year', 'created_on', 'updated_on')
+        read_only = ('created_on', 'updated_on', 'id')
 
 
-class SongSourceSerializer(serializers.ModelSerializer):
+class SongSourceSerializer(CustomModelSerializer):
     class Meta:
         model = SongSource
         fields = ('id', 'source', 'song', 'external_id', 'preview_url', 'created_on', 'updated_on')
+        read_only = ('created_on', 'updated_on', 'id')
 
-class ArtistSerializer(serializers.ModelSerializer):
+
+class ArtistSerializer(CustomModelSerializer):
     class Meta:
         model = Artist
         fields = ('id', 'name', 'created_on', 'updated_on')
+        read_only = ('created_on', 'updated_on', 'id')
 
-class ArtistSourceSerializer(serializers.ModelSerializer):
+
+class ArtistSourceSerializer(CustomModelSerializer):
     class Meta:
         model = ArtistSource
         fields = ('id', 'source', 'artist', 'external_id', 'created_on', 'updated_on')
+        read_only = ('created_on', 'updated_on', 'id')

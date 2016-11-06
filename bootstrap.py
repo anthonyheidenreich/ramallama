@@ -17,7 +17,7 @@ class Bootstrap():
 
     def _post(self, uri, json={}):
         print('{}/{}'.format(self.url, uri), json)
-        r = requests.post('{}/{}'.format(self.url, uri), json=json)
+        r = requests.post('{}/{}/'.format(self.url, uri), json=json)
         return r.json()
 
 
